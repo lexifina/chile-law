@@ -1,0 +1,1 @@
+Artículo 2°.- En tanto no se constituyan el Senado y la Cámara de Diputados, las comunicaciones a sus respectivos presidentes, dispuestas en el artículo 9° de la presente ley, se remitirán al presidente de la Corte Suprema.
