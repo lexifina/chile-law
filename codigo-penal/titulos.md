@@ -76,7 +76,7 @@ TÍTULO SÉPTIMO. CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y 
 § VI. Del estupro, incesto, corrupción de menores y otros actos deshonestos.
 § VII. Disposiciones comunes a los tres párrafos anteriores.
 § VIII. De los ultrajes públicos a las buenas costumbres.
-§ IX. Del adulterio.
+§ IX. Del adulterio. Derogado.
 § X. Celebración de matrimonios ilegales.
 TÍTULO OCTAVO. CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 § I. Del homicidio.
