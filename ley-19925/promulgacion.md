@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 19 de diciembre de 2003.- Ricardo LAGOS ESCOBAR, presidente de la República.- José Miguel Insulza Salinas, Ministro del Interior.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.-Pedro García Aspillaga, Ministro de Salud.-Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Jorge Correa Sutil, Subsecretario del Interior.
