@@ -1,0 +1,1 @@
+Artículo 72 b).- Corresponderá al Consejo Regional resolver la inversión de los recursos que se asignen a la región, según lo dispuesto en los artículos 72 y 72 a) de esta ley, sobre la base de la propuesta que formule el intendente.
