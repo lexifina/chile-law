@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N°1° del Artículo 82 de la Constitución Política de la República, y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Nueva Imperial, 28 de septiembre de 1993.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Sergio Molina Silva, Ministro de Planificación y Cooperación.- Enrique Correa Ríos, Ministro Secretario General de Gobierno.- Juan Agustín Figueroa Yávar, Ministro de Agricultura.- Eduardo Jara Miranda, Ministro de Bienes Nacionales (S).- Francisco Cumplido Cereceda, Ministro de Justicia.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud.- Carlos Fuensalida Claro, Subsecretario de Planificación y Cooperación.
