@@ -1,2 +1,1 @@
-Artículo 19.- La reiniciación y actualización del programa de plantaciones del plan de manejo, no eximirán del pago de las multas señaladas en el artículo 17 por el período incumplido del plan, las que se suspenderán a contar de la fecha de la recepción del informe o declaración jurada, en su caso.
-En el caso que se produjeren nuevas interrupciones, las multas se aplicarán en la forma señalada en el artículo anterior, tomando como base para ello el porcentaje que se estaba aplicando al momento de la actualización.
+Artículo 19.- DEROGADO
