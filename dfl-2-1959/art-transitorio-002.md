@@ -1,0 +1,2 @@
+Artículo 2.o Las deudas hipotecarias provenientes de mutuos celebrados con anterioridad a este decreto con fuerza de ley con la Corporación de la Vivienda, cuyo saldo actual no sea superior a diez mil pesos y a las cuales les falte, a lo menos, un año para extinguirse, podrán ser canceladas con un 50% de rebaja, siempre que se paguen totalmente antes del 31 de Diciembre de 1959.
+Aquellas cuyo saldo actual está comprendido entre diez mil y veinte mil pesos, podrán ser canceladas con una rebaja de cinco mil pesos, siempre que su pago se haga dentro del mismo plazo.
