@@ -1,0 +1,1 @@
+Artículo 34 bis.- Se considerará como refugiado a quien se encuentre en alguna de las situaciones previstas en las Convenciones internacionales vigentes en Chile. El refugiado tendrá derecho a que se le otorgue la correspondiente visación de residencia.

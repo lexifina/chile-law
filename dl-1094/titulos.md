@@ -14,8 +14,6 @@ Párrafo 6.- De los Turistas
 Párrafo 7.- De los Tripulantes
 Párrafo 8.- De la Cédula de Identidad y del Registro
 Párrafo 9.- Del Egreso y Reingreso.
-I Del Egreso
-II Del Reingreso
 Párrafo 10.- De los Rechazos y Revocaciones
 TITULO II De las Infracciones, Sanciones y Recursos
 Párrafo 1.- De las Infracciones y Sanciones

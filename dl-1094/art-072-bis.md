@@ -1,0 +1,1 @@
+Artículo 72 bis.- Tratándose de las personas comprendidas en los artículos 70, 71 y 72 precedentes y siempre que no sean reincidentes en cualquiera de estas infracciones, el Ministerio del Interior, conociendo de ellas, podrá, de oficio o a petición de parte, aplicarles como sanción, en reemplazo de la multa, una amonestación por escrito.
