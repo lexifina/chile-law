@@ -1,0 +1,1 @@
+Artículo 5°.- Toda referencia que se haga en el decreto ley N° 1.764, de 1977, o en otras leyes a la Unidad Técnica de Semillas, deberán entenderse hechas al Departamento de Semillas del Servicio Agrícola y Ganadero.
