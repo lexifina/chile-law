@@ -1,0 +1,1 @@
+Artículo 6°.- Prohíbese la venta de animales silvestres provenientes de faenas de caza o captura, así como de sus productos, subproductos y partes, obtenidos en contravención a las normas de esta ley.
