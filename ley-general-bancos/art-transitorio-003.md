@@ -1,0 +1,1 @@
+Artículo 3º.- Las normas generales sobre consolidación de estados financieros que corresponda dictar a la Superintendencia, en virtud de lo señalado en el artículo 66 y en uso de sus facultades, deberán entrar en vigencia dentro del plazo de 180 días, contado desde la fecha de publicación de la ley Nº 19.528.
