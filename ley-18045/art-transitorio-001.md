@@ -1,0 +1,1 @@
+Artículo 1°.- A las emisiones de títulos representativos de obligaciones a largo plazo efectuadas con anterioridad a la vigencia de la presente ley, les serán aplicables las leyes y normas que a dicha vigencia regían hasta el rescate o pago total de la emisión respectiva, cualesquiera fuere la forma o instrumentos empleados en ellas.
