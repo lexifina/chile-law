@@ -1,2 +1,3 @@
-AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Fernando Léniz Cerda, Ministro de Economía, Fomento y Reconstrucción.- Gonzalo Prieto Gándara, Abogado, Ministro de Justicia.
-Lo que comunico a Ud. para su conocimiento.- Saluda atentamente a Ud.-Héctor Bórquez Rojas, subsecretario de Economía.
+Tómese razón, regístrese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- José L. Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.
+Lo que transcribo a Ud., para su conocimiento.-
+Saluda atentamente a Ud.- Hernán Büchi Buc, Subsecretario de Economía, Fomento y Reconstrucción.
