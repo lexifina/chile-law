@@ -1,6 +1,1 @@
-TITULO I Disposiciones Generales
-TITULO II DE LAS COMISIONES PREVENTIVAS REGIONALES Y CENTRAL
-TITULO III De la Comisión Resolutiva
-TITULO IV DE LA FISCALIA NACIONAL ECONOMICA
-TITULO V DEL PROCESO PENAL
-Disposiciones transitorias
+[La fuente no da el texto vigente en esta fecha.]
