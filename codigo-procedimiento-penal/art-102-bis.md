@@ -1,0 +1,1 @@
+Artículo 102 bis.- Cuando no se diere curso a una querella en que se persiga un delito de acción pública por defectos en la forma de interponerla, el juez la considerará una denuncia para los efectos de decidir la iniciación del sumario.
