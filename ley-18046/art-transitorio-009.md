@@ -1,0 +1,2 @@
+Artículo 9°- Los actuales liquidadores de sociedades anónimas desempeñarán sus cargos por el tiempo precisado en el artículo 111 y a contar desde la época de sus respectivos nombramientos.
+No obstante lo anterior, si a la fecha de publicación de esta ley, excediere, los plazos indicados en dicha disposición, permanecerán en sus cargos hasta la próxima junta general de accionistas, y en todo caso, hasta el 30 de Abril de 1982.

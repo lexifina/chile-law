@@ -1,0 +1,1 @@
+Artículo 6°- Las sociedades que a la fecha de vigencia de esta ley posean acciones de su propia emisión no sujetas a plazo de enajenación, deberán enajenarlas a más tardar dentro de un año, contado desde dicha fecha.
