@@ -1,0 +1,1 @@
+Artículo 11.- En el reglamento que se dicte para la aplicación del presente decreto ley se contemplarán a lo menos, las normas relativas a la calificación de terrenos de aptitud preferentemente forestal y planes de manejo.

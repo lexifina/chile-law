@@ -1,0 +1,1 @@
+Artículo 25.- Para todos los efectos tributarios relacionados con el presente decreto ley, y sin perjuicio de las responsabilidades y obligaciones que corresponden a los particulares, la Corporación deberá efectuar, en los casos que proceda, las comunicaciones pertinentes al Servicio de Impuestos Internos.

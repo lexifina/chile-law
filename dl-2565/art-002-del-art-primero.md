@@ -1,0 +1,6 @@
+Artículo 2°- Para los efectos de este decreto ley se entenderá por:
+TERRENOS DE APTITUD PREFERENTEMENTE FORESTAL: Todos aquellos terrenos que por las condiciones de clima y suelo no deban ararse en forma permanente, estén cubiertos o no de vegetación, excluyendo los que sin sufrir degradación puedan ser utilizados en agricultura, fruticultura o ganadería intensiva.
+FORESTACION: La acción de poblar con especies arbóreas o arbustivas terrenos que carezcan de ellas o que estando cubiertos de vegetación, ésta no sea susceptible de explotación económica, ni mejoramiento mediante manejo.
+REFORESTACION: La acción de poblar con especies arbóreas o arbustivas mediante plantación, regeneración manejada o siembra, un terreno que haya sido objeto de explotación extractiva. Para los efectos de esta ley se entenderá por reforestación las plantaciones que se hagan en terrenos explotados con posterioridad al 28 de Octubre de 1974.
+PLAN DE MANEJO: Plan que regula el uso y aprovechamiento racional de los recursos naturales renovables de un terreno determinado, con el fin de obtener el máximo beneficio de ellos, asegurando al mismo tiempo la conservación, mejoramiento y acrecentamiento de dichos recursos.
+CORPORACION: La Corporación Nacional Forestal.

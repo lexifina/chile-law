@@ -1,0 +1,2 @@
+Artículo cuarto.- Decláranse extinguidos de pleno derecho los gravámenes reales constituidos en virtud del artículo 12 del antiguo texto del decreto ley N° 701, de 1974, que pasó a ser 11 en virtud de lo dispuesto por el decreto ley N° 945, de 1975.
+Los Conservadores de Bienes Raíces procederán a cancelar las inscripciones que se hubieren efectuado en virtud de la citada disposición, de oficio o a requerimiento de los interesados.
