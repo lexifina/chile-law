@@ -1,0 +1,2 @@
+Artículo 3°.- Las solicitudes de patentes de invención y modelos industriales que se encuentren en trámite y no contravengan la presente ley, continuarán su tramitación de acuerdo a las normas del decreto ley N° 958, de 1931.
+No obstante, dentro de los 120 días siguientes a la vigencia de esta ley, los solicitantes que lo estimen conveniente podrán formular una nueva solicitud que se ajustará a las disposiciones de la presente ley, la cual mantendrá la prioridad de la solicitud original.
