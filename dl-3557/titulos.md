@@ -1,7 +1,7 @@
 TITULO I DISPOSICIONES GENERALES
 TITULO II Prevención, Control y Combate de Plagas
 Párrafo 1°.- De las plagas en general
-Párrafo 2°- De los criaderos y depósitos de plantas.
+Párrafo 2°- De los criaderos y depósitos de plantas
 Párrafo 3°-
 Párrafo 4°- De las exportaciones
 Párrafo 5°- Del tránsito por territorio nacional de mercaderías peligrosas para los vegetales
