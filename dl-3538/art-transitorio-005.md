@@ -1,0 +1,1 @@
+Artículo 5.- Los directores de las entidades fiscalizadas por la Superintendencia cuyos mandatos se encuentren en vigor a la fecha de este decreto ley, deberán actualizar la garantía a que se refiere el artículo 38, dentro del plazo de 90 días contado desde su publicación en el Diario Oficial.

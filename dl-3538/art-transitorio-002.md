@@ -1,0 +1,3 @@
+Artículo 2.- Facúltase al Superintendente para encasillar al personal en actual servicio en la Superintendencia, en la nueva planta a que se refiere el artículo 22 de este decreto ley, sin sujeción a los requisitos que para la provisión de cargos se señalen en el estatuto del personal.
+Se entenderá que tales encasillamientos han sido efectuados sin solución de continuidad respecto de los cargos anteriores y de la antigüedad laboral del personal referido.
+Para los efectos de la jubilación del personal no encasillado, se entenderá que se ha producido a su respecto una causal de expiración obligada de funciones, y si no procediere la jubilación, se aplicará lo dispuesto en el artículo 29, letra e), del decreto ley N° 2.879, de 1979.
