@@ -1,0 +1,1 @@
+Artículo 17 A.- En caso de ausencia o impedimento, el Secretario será subrogado por el Relator de mayor grado y, a falta de éste, por el Relator que tenga el cargo inmediatamente inferior a aquél. El subrogante prestará el mismo juramento que el Secretario para el desempeño de este cargo, ante el Presidente del Tribunal.
