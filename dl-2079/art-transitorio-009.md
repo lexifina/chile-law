@@ -1,0 +1,1 @@
+Artículo 9°- Los actuales trabajadores del Banco mantendrán su régimen previsional y los cambios que puedan producirse en su régimen jurídico y laboral no menoscabarán ninguno de los derechos reconocidos a su favor.
