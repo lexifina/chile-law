@@ -1,0 +1,8 @@
+ARTÍCULO 51° BIS.- Dos o más cooperativas podrán fusionarse. La fusión consiste en la reunión de dos o más cooperativas en una sola que las sucede en todos sus derechos y obligaciones, y a la cual se incorporan la totalidad del patrimonio y socios de los entes fusionados.
+Hay fusión por creación, cuando el activo y pasivo de dos o más cooperativas que se disuelven, se aportan a una nueva cooperativa que se constituye.
+Hay fusión por incorporación, cuando una o más cooperativas que se disuelven son absorbidas por una cooperativa ya existente, la que adquiere todos sus activos y pasivos.
+En estos casos, no procederá la liquidación de las cooperativas fusionadas o absorbidas.
+En las juntas generales en que se acuerde la fusión deberán aprobarse los balances auditados de las cooperativas que se fusionan.
+Ningún socio, a menos que consienta en ello, podrá perder su calidad de tal, con motivo de una fusión por creación o incorporación.
+Aprobados en junta general los balances auditados y los informes periciales que procedieren de las cooperativas objeto de la fusión y los estatutos de la que se crea o de la absorbente, en su caso, el consejo de administración de ésta deberá distribuir directamente las nuevas cuotas de participación entre los socios de aquéllas, en la proporción correspondiente.
+Los excedentes generados por cada cooperativa en el ejercicio en que se realice la fusión pertenecerán a los socios de la cooperativa en que se produjeron y se distribuirán en conformidad a los estatutos de la respectiva cooperativa.

@@ -1,0 +1,1 @@
+ARTÍCULO 133° F.- Las controversias a que se refiere el presente Título, que sean sometidas al conocimiento de los árbitros de derecho, se tramitarán conforme al procedimiento sumario establecido en los artículos 680 y siguientes del Código de Procedimiento Civil.

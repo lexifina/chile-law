@@ -1,0 +1,1 @@
+ARTÍCULO 53° BIS.- La cooperativa disuelta subsiste como persona jurídica para los efectos de su liquidación, quedando vigentes sus estatutos en lo que fuere pertinente. En este caso, deberá agregar a su razón social las palabras "en liquidación".
