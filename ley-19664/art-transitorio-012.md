@@ -1,0 +1,1 @@
+Artículo 12.- Con el objeto de asegurar el seguimiento de la aplicación de la carrera funcionaria, el Ministerio de Salud efectuará, durante el curso del tercer, quinto, séptimo y décimo año de entrada en vigencia de la ley, una evaluación del desarrollo de la Etapa de Planta Superior a fin que el flujo de la carrera de los titulares sea íntegramente cautelado.
