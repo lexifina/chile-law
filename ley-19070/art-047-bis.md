@@ -1,1 +1,0 @@
-Artículo 47 bis.- A los profesionales de la educación que hubieren jubilado y que se incorporen a una dotación docente, no les serán aplicables los artículos 43 y 44 respecto de los años servidos previos a la jubilación.
