@@ -1,0 +1,2 @@
+Art. 70-E. La responsabilidad criminal y civil del Fiscal General Militar y la de sus delegados por sus actuaciones como tales, se regirán por las reglas del párrafo 8 del Título X del Código Orgánico de Tribunales, en cuanto, atendida la naturaleza de sus funciones, dichas reglas sean aplicables a ellos.
+De las acusaciones o demandas que se entablaren contra dichos funcionarios para hacer efectiva su responsabilidad, conocerán los mismos tribunales designados por la ley para conocer de las que se entablen en contra de los Fiscales Militares.

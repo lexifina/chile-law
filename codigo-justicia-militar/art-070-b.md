@@ -1,0 +1,3 @@
+Art. 70-B. Habrá un Fiscal General Militar, cuya misión será velar por la defensa, ante los tribunales militares de tiempo de paz, del interés social comprometido en los delitos de jurisdicción de aquéllos y, en especial, del interés de las instituciones de la Defensa Nacional.
+Será designado por el Presidente de la República de entre los Oficiales de Justicia del grado de Coronel o de Capitán de Navío.
+En caso de ausencia, impedimento o inhabilidad legal, será subrogado por un Oficial de Justicia que no desempeñe funciones judiciales, de acuerdo con el orden de subrogación que fije el Presidente de la República por decreto supremo.

@@ -1,0 +1,2 @@
+Art. 14-A. En caso de prolongada ausencia del mar territorial de Chile de naves independientes, de escuadras o de otras fuerzas navales, sus comandantes correspondientes ejercerán la jurisdicción militar, con las atribuciones conferidas a las autoridades de que tratan los artículos 16 y 74, de este Código, según corresponda.
+Estos comandantes serán asesorados por sus respectivos auditores; a falta de éstos, por el juzgado de la Primera Zona Naval; y si ello no fuere posible, por el oficial de su dependencia que el mismo comandante designe como auditor ad hoc.
