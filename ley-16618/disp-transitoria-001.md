@@ -1,0 +1,1 @@
+Artículo primero. Mientras se establezcan los jueces de letras de menores a que se refiere el artículo 18, el juez letrado de mayor cuantía desempeñará las funciones de tal en cada departamento, y en donde hubiere más de uno, el del tribunal de más antigua creación.
