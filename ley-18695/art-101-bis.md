@@ -1,1 +1,0 @@
-Artículo 101 bis.- Para los efectos de lo dispuesto en los artículos precedentes, cada postulación o candidatura independiente, que no forme parte de un pacto, se considerará como si fuera una lista y tendrá el tratamiento propio de ésta.
