@@ -1,0 +1,1 @@
+Artículo 2°.- Modifícase el artículo 6° transitorio de la ley N° 19.665, en su inciso segundo, en el sentido de intercalar a continuación de la expresión "Fiscal Nacional del Ministerio Público,", la frase "por el Defensor Nacional de la Defensoría Penal Pública,".

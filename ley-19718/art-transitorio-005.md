@@ -1,0 +1,1 @@
+Artículo 5°.- El cumplimiento de los programas de mejoramiento de la gestión en los años 2001 y 2002, que condicionan el pago del incremento por desempeño institucional a que se refiere la letra b) del artículo 3° de la ley N° 19.553, no será exigible para la concesión de este beneficio en dichos años. El porcentaje de este incremento en los años indicados será del 1,5%.
