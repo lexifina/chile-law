@@ -1,0 +1,2 @@
+Artículo 23 bis B.- Los registros de marcas que distinguen productos, servicios y establecimientos industriales tendrán validez para todo el territorio de la República.
+Los registros de marcas que protejan establecimientos comerciales servirán sólo para la región en que estuviera ubicado el establecimiento. Si el interesado quisiera hacer extensiva a otras regiones la propiedad de la misma marca, lo indicará en su solicitud de registro, debiendo pagar el derecho correspondiente a una solicitud y a una inscripción por cada región.
