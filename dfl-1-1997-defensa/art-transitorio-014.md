@@ -1,0 +1,2 @@
+Artículo 14.- En el Ejército, los escalafones declarados en extinción, mediante el D.S.
+S.S.G.Depto.II/3 Nº 314, del 02.MAY.1984 que modificó el D.S. (G) Nº 204 de 28 de Mayo de 1969 denominados Administración, Vestuario y Equipo, Panaderos y Matarifes, Inventario y Conservación, Caldereros y Fogoneros, Secretarias, Auxiliar Geógrafo de Imprenta y Artes Gráficas, Auxiliar de Predios Militares, Auxiliar Servicio Sanitario, Medicina Preventiva, Dactilógrafas, continuarán en tal condición hasta que el último de sus integrantes deje de pertenecer a la Institución.
