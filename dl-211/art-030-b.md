@@ -1,1 +1,0 @@
-Artículo 30 B.- Los asesores o consultores que presten servicios sobre la base de honorarios para la Fiscalía Nacional Económica o el Tribunal de Defensa de la Libre Competencia, se considerarán comprendidos en la disposición del artículo 260 del Código Penal.
