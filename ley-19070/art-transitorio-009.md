@@ -1,0 +1,1 @@
+Artículo 9°.- La asignación de responsabilidad directiva y técnico-pedagógica establecida en el artículo 46, se cancelará a partir de 1991, calculándose sobre la remuneración básica mínima nacional, en la forma y condiciones señaladas en dicho artículo.
