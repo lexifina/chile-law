@@ -1,2 +1,0 @@
-DECIMOPRIMERA.- Tratándose de las primeras elecciones municipales que se celebren con posterioridad a la publicación de la presente ley, la afiliación de los candidatos pertenecientes a partidos políticos o la no afiliación de los candidatos independientes, a que se refiere el artículo 4° de la ley N° 18.700, deberá existir con diez días de anticipación al vencimiento del plazo para la declaración de candidaturas.
-Con el mismo plazo de anticipación deberá darse cumplimiento a lo estipulado en el artículo 9° de la ley N° 18.700.
