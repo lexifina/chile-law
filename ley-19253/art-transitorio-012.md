@@ -1,0 +1,2 @@
+Artículo 12.- Suprímese la Comisión de Radicaciones creada por el decreto ley N° 2.885, de 1979. Sus funciones y atribuciones serán ejercidas por la Comisión de Desarrollo de Isla de Pascua, de conformidad a lo dispuesto en el Párrafo 3° del Título VIII de esta ley y las referencias que a la Comisión de Radicaciones se hagan en cualquier texto legal se entenderán hechas a la Comisión de Desarrollo de Isla de Pascua.
+Un reglamento determinará la forma de realizar el traspaso de archivos y documentos de la Comisión de Radicaciones a la Comision de Desarrollo de Isla de Pascua.
