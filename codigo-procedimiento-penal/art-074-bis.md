@@ -1,0 +1,1 @@
+Artículo 74 bis.- No obstante las atribuciones que correspondan al Presidente de la República, el personal de la Policía de Investigaciones de Chile, en cuanto auxiliar de la administración de justicia, quedará sujeto a la jurisdicción correccional y económica de los tribunales de justicia respectivos, sin perjuicio de la intervención de los tribunales superiores que corresponda.
