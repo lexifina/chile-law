@@ -1,1 +1,1 @@
-ARTICULO 2º.- Las cooperativas en formación, a la fecha de entrada en vigencia de la presente ley, respecto de las cuales no se haya dictado el decreto o resolución que autorice su existencia, se ceñirán al procedimiento de constitución establecido en la presente ley.
+Artículo 2º.- Las cooperativas en formación al 4 de mayo del 2003, respecto de las cuales no se haya dictado el decreto o resolución que autorice su existencia, se ceñirán al procedimiento de constitución establecido en la presente ley.

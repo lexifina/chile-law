@@ -1,31 +1,27 @@
-CAPITULO I Disposiciones comunes a toda clase de Cooperativas
-TITULO I De la naturaleza de las Sociedades Cooperativas
-TITULO II De la Constitución
-TITULO III De los Socios
-TITULO IV Del Capital y de las Reservas
-TITULO V Del Funcionamiento y la Administración
-TITULO VI De los Remanentes y Excedentes
-TITULO VII De la Disolución
-TITULO VIII De los Privilegios y Exenciones
-TITULO IX De las Sanciones
-CAPITULO II
-Disposiciones especiales relativas a las diversas
-clases de cooperativas
-TITULO I
-De las Cooperativas de Trabajo
-TITULO II
-De las Cooperativas Agrícolas y Pesqueras
-TITULO III
-De las Cooperativas Campesinas
-TITULO IV
-De las Cooperativas de Servicio
-TITULO V
-De las Cooperativas de Consumo
-CAPITULO III
-De las Confederaciones, Uniones, Federaciones y
-Sociedades Auxiliares
-CAPITULO IV
-Del Departamento de Cooperativas
-CAPITULO V
-Disposiciones varias
-ARTICULOS TRANSITORIOS
+CAPITULO I DISPOSICIONES COMUNES A TODA CLASE DE COOPERATIVAS
+TITULO I De la naturaleza de las Cooperativas
+TITULO II De la Constitución de las Cooperativas
+TITULO III De los Socios de las Cooperativas
+TITULO IV De la Dirección, Administración y Vigilancia de las Cooperativas
+TITULO V Del capital y de los excedentes
+TITULO VI De la disolución, fusión, división, transformación y liquidación de las cooperativas
+TITULO VII De los Privilegios y Exenciones
+TITULO VIII De las Sanciones
+CAPITULO II DISPOSICIONES ESPECIALES RELATIVAS A LAS DIVERSAS CLASES DE COOPERATIVAS
+TITULO I De las Cooperativas de Trabajo
+TITULO II De las Cooperativas Agrícolas, Campesinas y Pesqueras
+TITULO III De las Cooperativas de Servicios
+1) De las Cooperativas Escolares
+2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Agua Potable
+3) De las Cooperativas de Vivienda
+a) Disposiciones Generales
+b) De las Cooperativas Cerradas de Vivienda
+c) De las Cooperativas Abiertas de Vivienda
+4) De las Cooperativas de Ahorro y Crédito
+TITULO IV De las Cooperativas de Consumo
+TITULO V De las Cooperativas Especiales Agrícolas y de abastecimiento de energía eléctrica
+CAPITULO III DE LAS CONFEDERACIONES, FEDERACIONES E INSTITUTOS AUXILIARES
+CAPITULO IV DEL DEPARTAMENTO DE COOPERATIVAS
+CAPITULO V DEL RECURSO DE LEGALIDAD Y DE LA RESOLUCIÓN DE CONFLICTOS
+CAPITULO VI DISPOSICIONES VARIAS
+DISPOSICIONES TRANSITORIAS

@@ -1,1 +1,0 @@
-ARTÍCULO 133° E.- El árbitro tendrá la facultad de exigir a las partes la provisión de fondos que estime necesaria para el pago de las costas procesales que requiriese la tramitación del juicio, aun cuando ella no fuere demandante. Lo anterior es sin perjuicio de lo que en la sentencia se determine, en conformidad a las reglas generales.
