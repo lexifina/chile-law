@@ -1,0 +1,1 @@
+Artículo 64 A.- Habrá un sistema de posicionamiento automático de naves pesqueras y de investigación pesquera en el mar que se regirá por las normas de la presente ley y sus reglamentos las complementarios.
