@@ -1,20 +1,3 @@
-ARTICULO 8º- El Fiscal Nacional podrá
-incorporar discrecionalmente todo o parte del personal que a la fecha de entrada en vigencia del decreto ley
-2.760, de 1979, prestaba servicios en
-la Fiscalía a la planta fijada por el
-artículo 23 de esta ley.
-La diferencia de remuneraciones que
-pudiere producirse por aplicación de
-este artículo, se pagará al funcionario
-por planilla suplementaria imponible en
-la misma proporción que la remuneración
-que compensa, y será absorbida por los
-ascensos o nombramientos que beneficien
-al funcionario.
-El personal que no sea encasillado
-tendrá derecho a seguir percibiendo
-durante seis meses la remuneración total
-que le haya correspondido en el mes
-precedente al del encasillamiento, a
-título de indemnización, siempre que no
-tenga derecho a jubilación.
+ARTICULO 8°- El Fiscal Nacional podrá incorporar discrecionalmente todo o parte del personal que a la fecha de entrada en vigencia del decreto ley 2.760, de 1979 prestaba servicios en la Fiscalía a la planta fijada por el artículo 23 de esta ley.
+La diferencia de remuneraciones que pudiere producirse por aplicación de este artículo, se pagará al funcionario por planilla suplementaria imponible en la misma proporción que la remuneración que compensa, y será absorbida por los ascensos o nombramientos que beneficien al funcionario.
+El personal que no sea encasillado tendrá derecho a seguir percibiendo durante seis meses la remuneración total que le haya correspondido en el mes precedente al del encasillamiento, a título de indemnización, siempre que no tenga derecho a jubilación.
