@@ -1,0 +1,1 @@
+Artículo 2º.- Concédese, durante el año 1998, a los trabajadores a que se refiere el artículo 15 de la ley Nº 19.533 a quienes no se aplique el artículo 12 de esta ley, y que tengan una remuneración bruta igual o inferior a $200.000 mensuales, una bonificación adicional de iguales monto y características de la señalada en el mencionado artículo 12.
