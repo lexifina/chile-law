@@ -1,5 +1,0 @@
-Artículo 27 A.- Los accionistas fundadores de un banco deberán cumplir los siguientes requisitos:
-a) Solvencia. Contar en conjunto con un patrimonio neto consolidado equivalente a la inversión proyectada y, cuando se reduzca a una cifra inferior, informar oportunamente de este hecho.
-b) Integridad. Que no existan conductas dolosas o culposas, graves o reiteradas, que puedan poner en riesgo la estabilidad de la entidad que se propone establecer o la seguridad de sus depositantes, para lo cual deberán proporcionar todos los antecedentes relativos a sus actividades comerciales y, en especial, a la administración bancaria o financiera en que hayan participado. Se presumirá que existen las conductas dolosas o culposas señaladas precedentemente en los casos referidos en el inciso cuarto del Nº 18 del artículo 65.
-La Superintendencia verificará el cumplimiento de estos requisitos y en el caso de rechazo deberá justificarlo por resolución fundada.
-Se considerarán accionistas fundadores de un banco aquellos que, además de firmar el prospecto, tendrán una participación significativa en su propiedad, según las normas del Nº 18 del artículo 65.

@@ -1,4 +1,4 @@
-FIJA EL TEXTO DE LA LEY GENERAL DE BANCOS
-Núm. 252.- Santiago, 30 de Marzo de 1960.- Vistas las facultades que me confieren los artículos 202 y 207, N° 6, de la ley N° 13,305, de 6 de Abril de 1959, vengo en dictar el siguiente
-Decreto con fuerza de ley:
-El texto de la Ley General de Bancos con las modificaciones que ha tenido hasta la fecha y las que se le introducen por el presente decreto con fuerza de ley, será el siguiente:
+FIJA TEXTO REFUNDIDO, SISTEMATIZADO Y CONCORDADO DE LA LEY GENERAL DE BANCOS Y DE OTROS CUERPOS LEGALES QUE SE INDICAN
+D.F.L. Núm. 3.- Santiago, 26 de noviembre de 1997.-
+Vistos: lo dispuesto en el decreto con fuerza de ley Nº 252, de 1960, Ley General de Bancos; en el decreto ley Nº 1.097, de 1975, sobre Ley Orgánica de la Superintendencia de Bancos e Instituciones Financieras, y en los demás textos legales que se refieren a bancos y sociedades financieras u otras empresas fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras; lo dispuesto en el artículo 2º transitorio de la ley Nº 19.528, de 4 de noviembre de 1997, y las facultades que me confiere el artículo 32, Nº 3, de la Constitución Política de la República de Chile, dicto el siguiente:
+D e c r e t o c o n f u e r z a d e l e y:
