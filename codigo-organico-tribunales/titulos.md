@@ -1,7 +1,10 @@
 TITULO I Del Poder Judicial y de la Administración de Justicia en general
-TITULO II De los Jueces de Distrito y de los Jueces de Subdelegación Derogado.
-§ 1. Los Jueces de Distrito. Derogado.
-§ 2. Los Jueces de Subdelegación. Derogado.
+Título II De los juzgados de garantía y de los tribunales orales en lo penal
+Párrafo 1º De los juzgados de garantía.
+Párrafo 2º De los tribunales orales en lo penal
+Párrafo 3º Del Comité de Jueces
+Párrafo 4º Del Juez Presidente del Comité de Jueces
+§ 5. De la organización administrativa de los juzgados de garantía y de los tribunales orales en lo penal.
 TITULO III De los Jueces de Letras
 TITULO IV De los Presidentes y Ministros de Corte como tribunales unipersonales
 TITULO V Las Cortes de Apelaciones
@@ -41,10 +44,11 @@ TITULO X De los Magistrados y del Nombramiento y Escalafón de los Funcionarios 
 § 8. De la responsabilidad de los jueces
 § 9. La expiración y suspensión de las funciones de los jueces. De las licencias
 TITULO XI Los Auxiliares de la Administración de Justicia
-§ 1. El Ministerio Público
+§ 1. Fiscalía judicial
 § 2. Los Defensores Públicos
 § 3. Los Relatores
 § 4. Los Secretarios
+§ 4 bis. Los administradores de tribunales con competencia en lo criminal
 § 5. Los Receptores
 § 6. De los Procuradores y especialmente de los Procuradores del Número
 § 7. Los Notarios
