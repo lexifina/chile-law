@@ -1,0 +1,2 @@
+Artículo 133º bis.- En estos sumarios, cuando se realicen en municipalidades, corresponderá al Contralor General proponer a la autoridad administrativa correspondiente que haga efectiva la responsabilidad administrativa de los funcionarios involucrados, quien aplicará directamente las sanciones que procedan.
+En el caso de que esta autoridad administrativa imponga una sanción distinta, deberá hacerlo mediante resolución fundada, sujeta al trámite de toma de razón por la Contraloría.
