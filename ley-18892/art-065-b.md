@@ -1,0 +1,1 @@
+Artículo 65 b).- El presupuesto de la Subsecretaría deberá consultar anualmente, recursos para financiar la investigación pesquera y de acuicultura que posibilite el cumplimiento de los fines previstos en la presente ley.
