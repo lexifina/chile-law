@@ -58,6 +58,7 @@ TITULO XI Los Auxiliares de la Administración de Justicia
 § 8. Los Conservadores
 § 9. Los Archiveros
 § 10. Los Asistentes Sociales Judiciales
+§ 11. Los Bibliotecarios Judiciales.
 TITULO XII Disposiciones generales aplicables a los Auxiliares de la Administración de Justicia
 § 1. Nombramiento, requisitos, inhabilidades e incompatibilidades
 § 2. Juramento e instalación
