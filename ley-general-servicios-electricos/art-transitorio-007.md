@@ -1,0 +1,1 @@
+Artículo 7°.- La primera fijación de fórmulas tarifarias, según los procedimientos establecidos en el artículo 107° y siguientes para las empresas concesionarias de servicio público de distribución del país deberá efectuarse en el mes de Octubre de 1984.
