@@ -1,0 +1,1 @@
+Artículo 13.- Increméntase la Glosa 02 del Item 22 del Capítulo 03 de la Partida 16 de los Servicios de Salud de la Ley de Presupuestos vigente para el año 2.000 en la suma de $300.000.000 para el cumplimiento de los planes de capacitación a que se refiere el artículo 46 de la presente ley.
