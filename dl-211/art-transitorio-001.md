@@ -1,0 +1,1 @@
+Artículo primero: Las causas que actualmente conozca la Comisión establecida en el artículo 175 de la ley N° 13.305, seguirán substanciándose por la Comisión Resolutiva con arreglo a las normas del presente decreto ley.
