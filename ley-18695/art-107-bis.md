@@ -1,2 +1,2 @@
-Artículo 107 bis.-. Las candidaturas a alcalde podrán ser patrocinadas por un partido político, por un pacto de partidos, por un pacto de partidos e independientes, y por independientes.
-Las candidaturas a alcalde patrocinadas sólo por independientes, se sujetarán a los porcentajes y formalidades establecidos en los artículos 111 y 112 de la presente ley.
+Artículo 107 bis.- Las candidaturas a alcalde podrán ser declaradas por un partido político, por un pacto de partidos, por un pacto entre un partido político e independientes, por un pacto de partidos e independientes, y por independientes.
+Las candidaturas a alcalde declaradas sólo por independientes, se sujetarán a los porcentajes y formalidades establecidos en los artículos 111 y 112 de la presente ley.
