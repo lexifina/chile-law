@@ -1,0 +1,1 @@
+Artículo decimoséptimo transitorio.- En tanto los cargos calificados como de alta dirección pública no se provean conforme a las normas del Sistema, los funcionarios que los sirvan continuarán percibiendo las remuneraciones propias del régimen al que se encuentren afectos.
