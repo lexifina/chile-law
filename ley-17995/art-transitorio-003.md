@@ -1,0 +1,2 @@
+Artículo 3°- La subvención que el ítem 10/01/00/25/31/001 del Presupuesto vigente otorga al Colegio de Abogados para los gastos del funcionamiento de los Servicios de Asistencia Judicial en toda la República, será distribuida por el Ministerio de Justicia y entregada por éste directamente a las corporaciones indicadas en el artículo 1°.
+El Ministerio de Justicia fijará las normas de distribución de los fondos, entrega de los mismos y control de su inversión.
