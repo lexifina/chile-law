@@ -1,0 +1,1 @@
+ARTICULO S.- El Presidente de la República podrá autorizar a la Empresa de Comercio Agrícola para que, en caso de sismo o catástrofe y en las comunas a que se refiere el artículo 1° de esta ley, pueda modificar su sistema de comercialización, forma de pago y otros.
