@@ -1,0 +1,1 @@
+Artículo 6° a).- Para cada unidad de pesquería declarada en régimen de plena explotación, de recuperación o de desarrollo incipiente, existirá un plan de manejo elaborado por la Subsecretaría, a proposición del Consejo Zonal de Pesca que corresponda.
