@@ -1,0 +1,1 @@
+Artículo 4°.- Autorízase al Director Nacional del Instituto de Desarrollo Agropecuario para condonar las deudas pendientes con más de tres años de antigüedad, y los reajustes e intereses provenientes de las mismas, que los indígenas tengan con dicho Instituto al momento de dictarse la presente ley.
