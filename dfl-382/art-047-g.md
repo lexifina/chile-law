@@ -1,0 +1,1 @@
+Artículo 47º G.- Los usuarios a que se refiere este Capítulo podrán actuar como clientes libres, esto es, podrán convenir con los prestadores, a través de contratos, tarifas y condiciones de servicio distintas de las fijadas por la autoridad. Para esto bastará una comunicación por escrito a la Superintendencia conteniendo los antecedentes que señale el reglamento.
