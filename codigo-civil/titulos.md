@@ -23,7 +23,7 @@ Título VI OBLIGACIONES Y DERECHOS ENTRE LOS CONYUGES
 § 2. De los bienes familiares
 § 3. Excepciones relativas a la profesión u oficio de la mujer
 § 4. Excepciones relativas a la separación de bienes
-§ 5. Excepciones relativas al divorcio perpetuo
+§ 5. Excepciones relativas a la separación judicial
 Título VII DE LA FILIACIÓN
 § 1. Reglas generales
 § 2. De la determinación de la maternidad
