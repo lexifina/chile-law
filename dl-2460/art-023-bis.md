@@ -1,0 +1,1 @@
+Artículo 23 bis.- Estará exento de responsabilidad criminal, el funcionario de la Policía de Investigaciones de Chile, que con el objeto de cumplir un deber que establezca este decreto ley, se viere obligado a hacer uso de armas, para rechazar alguna violencia o vencer alguna resistencia contra la autoridad.
