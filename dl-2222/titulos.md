@@ -1,7 +1,7 @@
 TITULO I Disposiciones Generales
 TITULO II Del registro y de la nacionalidad de las naves
 TITULO III De la Navegación
-Párrafo 1°.- Del Despacho y Recepción de Naves
+Párrafo 1° Del Despacho y Recepción de Naves
 Párrafo 2°.- De la Navegación propiamente tal
 Párrafo 3°.- Del Practicaje y Pilotaje
 Párrafo 4°.- Del Uso de Remolcador
@@ -14,8 +14,8 @@ Párrafo 3°.- De la Policía Marítima
 TITULO VII De la Reserva Naval
 TITULO VIII De los riesgos de la navegación
 Párrafo 1° Reglas Generales
-Párrafo 2°.- De los Servicios prestados a la Nave que está en Peligro.
-Párrafo 3°.- Accidentes marítimos.
+Párrafo 2° De los Servicios prestados a la Nave que está en Peligro
+Párrafo 3° Accidentes Marítimos
 Párrafo 4º Restos Náufragos
 TITULO IX De la Contaminación
 Párrafo 1 Del Derrame de Hidrocarburos y otras Substancias Nocivas
