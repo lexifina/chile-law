@@ -1,0 +1,2 @@
+Artículo 5°.- La operaciones de cambios internacionales que hubieren sido autorizadas con anterioridad a la vigencia del párrafo octavo del Título III de esta ley, continuarán rigiéndose por las normas que se encontraban vigentes al momento de la respectiva autorización, salvo que los interesados soliciten, a su respecto, la aplicación de las disposiciones de esta ley.
+Corresponderá al Consejo resolver los problemas que se presenten con motivo de la aplicación de lo dispuesto en el inciso precedente.
