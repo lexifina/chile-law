@@ -1,1 +1,1 @@
-ARTICULO 2°- Las Comisiones Preventivas Regionales, Preventiva Central y Resolutiva, deberán constituirse dentro del plazo máximo de quince días, a contar de la fecha de publicación del decreto ley 211, de 1973, en el Diario Oficial, a requerimiento de sus respectivos Presidentes.
+Artículo 2º.- Las Comisiones Preventivas Regionales, Preventiva Central y Resolutiva, deberán constituirse dentro del plazo máximo de quince días, a contar de la fecha de publicación del decreto ley Nº211, de 1973, en el Diario Oficial, a requerimiento de sus respectivos Presidentes.

@@ -1,2 +1,2 @@
-Tómese razón, regístrese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- José L. Federici Rojas, Ministro de Economía, Fomento y Reconstrucción.
-Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud.- Hernán Büchi Buc, Subsecretario de Economía, Fomento y Reconstrucción.
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Carlos Alvarez Voullieme, Subsecretario de Economía, Fomento y Reconstrucción.
