@@ -1,0 +1,2 @@
+Artículo 1°.- Los tenedores de animales pertenecientes a especies cuya caza o captura se encuentre prohibida, de acuerdo a lo dispuesto en el inciso primero del artículo 3°, deberán declarar su existencia al Servicio Agrícola y Ganadero dentro de un plazo de tres meses contado desde la entrada en vigencia de esta ley.
+Igual obligación tendrán los tenedores de especies incluidas en los Apéndices I y II de la Convención a que hace referencia el inciso segundo del artículo 22, o de especímenes listados en los Anexos I y II del Convenio citado en el mencionado inciso.

@@ -1,0 +1,9 @@
+Artículo 30.- Se sancionará con prisión en su grado medio a máximo, con multa de tres a cincuenta unidades tributarias mensuales y con el comiso de las armas o instrumentos de caza o captura, a quienes:
+a) Cazaren, capturaren o comerciaren especies de la fauna silvestre cuya caza o captura se encuentre prohibida;
+b) Comerciaren indebidamente con especies de las señaladas en el inciso segundo del artículo 22;
+c) Infringieren lo dispuesto en el inciso primero del artículo 25;
+d) Se valieren de métodos de atracción o captura, o de terceros, para proveerse de animales a que se refiere la letra a), provenientes del medio natural, vivos o muertos, o de partes o productos de los mismos;
+e) Se valieren de métodos de atracción o captura, o de terceros, para proveerse de animales provenientes de cotos, criaderos, centros de reproducción, de rehabilitación o de exhibición, a menos que ello constituya otro delito que tenga una pena superior;
+f) Fueren sorprendidos en actividades de caza o de captura encontrándose suspendido o cancelado el permiso correspondiente, y
+g) Fueren sorprendidos cazando fuera de coto con arma de caza mayor, sin estar en posesión de la autorización correspondiente.
+Se presumirá como autor de los delitos descritos en el inciso anterior a quien, con fines comerciales o industriales, tenga en su poder, transporte, faene o procese animales pertenecientes a las especies indicadas en las letras a) y b) del referido inciso, o partes o productos de los mismos y no pueda acreditar que su tenencia deriva de alguna de las formas que autoriza esta ley. Las pieles transformadas en prendas de vestir terminadas no se considerarán productos o partes del animal, salvo cuando tales prendas se encuentren en curtiembres, locales de transformación, confección o venta de las mismas.

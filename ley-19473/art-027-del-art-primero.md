@@ -1,0 +1,1 @@
+Artículo 27.- Para cambiar la calificación de una especie cuya caza o captura esté prohibida a un régimen de caza o captura regulado, se requerirá un estudio poblacional que acredite que tal cambio no incidirá negativamente en la conservación de la especie en su medio natural.

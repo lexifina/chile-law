@@ -1,0 +1,1 @@
+Artículo 5°.- Queda prohibido, en toda época, levantar nidos, destruir madrigueras o recolectar huevos y crías, con excepción de los pertenecientes a las especies declaradas dañinas. Sin perjuicio de lo anterior, en casos calificados, el Servicio Agrícola y Ganadero podrá autorizar la recolección de huevos y crías con fines científicos o de reproducción.

@@ -1,0 +1,2 @@
+Artículo 34.- Los plazos de suspensión e inhabilitación del permiso de caza y de retención del arma de fuego se contarán desde la fecha de la resolución definitiva que condene al infractor.
+Las armas de fuego de caza se retendrán, además, durante todo el tiempo que dure la substanciación de los procesos. Si se constatare una infracción a la ley N° 17.798, sobre Control de Armas, el Servicio Agrícola y Ganadero deberá denunciar este hecho ante los tribunales o autoridades competentes.

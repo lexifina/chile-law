@@ -1,0 +1,1 @@
+Artículo 38.- No se adquirirá el dominio por ocupación de los especímenes de la fauna silvestre ni de sus productos, subproductos y partes hecha con infracción a las normas de esta ley o de su reglamento.

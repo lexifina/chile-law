@@ -1,0 +1,1 @@
+Artículo 4°.- Los procesos por infracciones a esta ley y a su reglamento en actual tramitación en los juzgados de policía local, continuarán sustanciándose en dichos tribunales hasta su total terminación.
