@@ -1,0 +1,4 @@
+Artículo 81 quater.- para los efectos de lo dispuesto en los dos artículos precedentes, se entenderá que es información sobre la gestión de derechos:
+a) La información que identifica a la obra, a la interpretación o ejecución o al fonograma; al autor de la obra, al artista intérprete o ejecutante, o al productor del fonograma; o al titular de cualquier derecho sobre la obra, interpretación o ejecución o fonograma;
+b) La información sobre los términos y condiciones de utilización de las obras, interpretación o ejecución o fonograma, y
+c) Todo número o código que represente tal información, cuando cualquiera de estos elementos estén adjuntos a un ejemplar de una obra, interpretación o ejecución o fonograma o figuren en relación con la comunicación o puesta a disposición del público de una obra, interpretación o ejecución o fonograma.
