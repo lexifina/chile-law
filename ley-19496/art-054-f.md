@@ -1,0 +1,5 @@
+Artículo 54 F.- El demandado deberá efectuar las reparaciones o consignar íntegramente en la cuenta corriente del tribunal el monto de las indemnizaciones, dentro de un plazo de treinta días corridos, contado desde aquel en que se haya fallado el incidente promovido conforme al artículo 54 E.
+Cuando el monto global de la indemnización pueda producir, a juicio del tribunal, un detrimento patrimonial significativo en el demandado, de manera tal que pudiera estimarse próximo a la insolvencia, el juez podrá establecer un programa mensual de pago de indemnizaciones completas para cada demandante, reajustadas, con interés corriente, según su fecha de pago.
+No obstante, en el caso del inciso anterior, el juez podrá determinar una forma de cumplimiento alternativo del pago.
+Para autorizar el pago de la indemnización en alguna de las formas señaladas en los incisos precedentes, el juez podrá, dependiendo de la situación económica del demandado, exigir una fianza u otra forma de caución.
+Las resoluciones que dicte el juez en conformidad a este artículo no serán susceptibles de recurso alguno.
