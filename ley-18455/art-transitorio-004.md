@@ -1,0 +1,1 @@
+Artículo 4°.- El plazo establecido en el inciso segundo del artículo 19 se contará a partir de la publicación de la presente ley para aquellos establecimientos que a esa fecha estén elaborando productos de vides híbridas.
