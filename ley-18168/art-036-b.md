@@ -1,0 +1,5 @@
+Artículo 36 B.- Comete delito de acción pública:
+a) El que opere o explote servicios o instalaciones de telecomunicaciones de libre recepción o de radiodifusión sin autorización de la autoridad correspondiente, y el que permita que en su domicilio, residencia, morada o medio de transporte, operen tales servicios o instalaciones. La pena será la de presidio meno en sus grados mínimo a medio, multa de cinco a trescientas unidades tributarias mensuales y comiso de los equipos e instalaciones, y
+b) El que maliciosamente interfiera, intercepte o interrumpa un servicio de telecomunicaciones, sufrirá la pena de presidio menor en cualquiera de sus grados y el comiso de los equipos e instalaciones.
+c) El que intercepte o capte maliciosamente o grabe sin la debida autorización, cualquier tipo de señal que se emita a través de un servicio público de telecomunicaciones, será sancionado con la pena de presidio menor en su grado medio y multa de 50 a 5.000 UTM.
+d) La difusión pública o privada de cualquier comunicación obtenida con infracción a lo establecido en la letra precedente, será sancionada con la pena de presidio menor en su grado máximo y multa de 100 a 5.000 UTM.
