@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1 del Artículo 82 de la Constitución Política de la República, y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 1° de marzo de 1994.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Solari Saavedra, Ministro Secretario General de la Presidencia de la República Subrogante.- Luis Alvarado Constenla, Ministro de Bienes Nacionales.
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Ricardo Solari Saavedra, Subsecretario Ministerio Secretaría General de la Presidencia.

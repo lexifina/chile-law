@@ -1,0 +1,1 @@
+Artículo 5°.- Durante el año 1994, no regirá para la Comisión Nacional del Medio Ambiente la limitación contemplada en el inciso segundo del artículo 9° de la Ley N° 18.834, y su dotación máxima se fija en 90 cargos.-
