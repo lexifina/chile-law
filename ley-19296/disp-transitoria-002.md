@@ -1,0 +1,1 @@
+Artículo segundo.- Las federaciones o confederaciones que se constituyan dentro de los dos primeros años de vigencia de la presente ley, podrán elegir como directores, en su primer directorio, a personas que a la fecha de dicha constitución estuvieren jubilados o pensionados de la Administración del Estado, los cuales podrán ser reelegidos indefinidamente.

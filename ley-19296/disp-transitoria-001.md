@@ -1,0 +1,2 @@
+Artículo primero.- Para acogerse al régimen jurídico que establece esta ley, las asociaciones, federaciones y confederaciones o agrupaciones cuyos estatutos se encontraren vigentes a su fecha de entrada en vigencia, deberán adecuarlos en el plazo de dos años, contado desde la misma fecha. Durante dicho lapso, gozarán de los derechos que ella concede.
+La asociación, federación o confederación que empezare a regirse por esta ley será la sucesora legal de la anterior entidad gremial para todos los efectos legales.
