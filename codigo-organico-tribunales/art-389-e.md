@@ -1,0 +1,1 @@
+Art. 389 E. Las disposiciones contenidas en el Título XII de este Código serán aplicables a los administradores de los tribunales con competencia en lo criminal en cuanto no se opongan a la naturaleza de sus funciones.
