@@ -1,0 +1,1 @@
+Artículo 14.- Si a la fecha en que comience el período de propaganda electoral no estuviere en funciones el Consejo Nacional de Radio y Televisión a que se refiere el artículo 19, N° 12, de la Constitución Política, las referencias que se hacen a dicho organismo se entenderán efectuadas al Consejo Nacional de Televisión creado por la ley N° 17.377.
