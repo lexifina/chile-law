@@ -1,0 +1,1 @@
+Artículo 6°.- Declárase que el hecho de haber obtenido préstamos de auxilio o de emergencia en un instituto previsional no implica una declaración del imponente afecto a esta ley, en el sentido de continuar acogido a ese régimen previsional, pudiendo optar, en consecuencia, al que dicha ley establece.
