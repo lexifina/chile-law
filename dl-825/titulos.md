@@ -9,7 +9,12 @@ Párrafo 2° Del momento en que se devenga el impuesto.
 Párrafo 3° Del sujeto del impuesto.
 Párrafo 5° Tasa, base imponible y débito fiscal.
 Párrafo 6° Del crédito fiscal.
+PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
+TITULO III Impuestos especiales a las ventas y servicios
+PARRAFO 3° Del impuesto adicional a las bebidas alcohólicas, analcohólicas y productos similares.
+PARRAFO 4 Otros impuestos específicos
+PARRAFO 6° Disposiciones varias
 TITULO IV Impuestos a los servicios
 Párrafo 1° Del hecho gravado y de las tasas del impuesto.
 TITULO IV De la administración del impuesto
