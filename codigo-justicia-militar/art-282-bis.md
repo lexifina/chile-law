@@ -1,0 +1,1 @@
+Art. 282 Bis. El que atentare en contra de un miembro de las Fuerzas Armadas, en su calidad de tal, y no le causare lesiones o éstas fueren de las contempladas en los artículos 397 N° 2°, 399 ó 494 N° 5 del Código Penal, será castigado con presidio menor en su grado mínimo a medio.
