@@ -1,0 +1,11 @@
+Artículo 16 bis.- Para todos los efectos de esta ley:
+a) Los plazos son fatales y de días hábiles. Tratándose de plazos que deba cumplir la autoridad administrativa, los plazos no serán fatales, pero su incumplimiento dará lugar a la responsabilidad administrativa consiguiente.
+Sin embargo, los plazos que se establecen en el Título V de esta ley son de días corridos.
+b) Las notificaciones que dispone la presente ley se harán personalmente o por carta certificada enviada al domicilio que el interesado haya señalado en su respectiva presentación. Se entenderá perfeccionada la notificación transcurrido que sean 5 días desde la fecha de entrega de la carta a la oficina de Correos.
+No obstante, el Ministro podrá disponer que determinadas resoluciones se notifiquen por cédula hecha por notario público o receptor judicial. La notificación de cargos, y la notificación de las resoluciones que reciban la causa a prueba, acojan oposiciones, rechacen solicitudes o impongan sanciones, deberán notificarse personalmente o por cédula.
+Las disposiciones contenidas en esta letra no se aplicarán a la notificación de las resoluciones dictadas por los Tribunales Superiores de Justicia.
+c) La prueba se regirá por las normas del artículo 90 del Código de Procedimiento Civil, con la salvedad que el término probatorio, en ningún caso, podrá exceder de 15 días.
+d) En todos los procedimientos contemplados en la presente ley, servirá de ministro de fe el abogado jefe del departamento jurídico de la Subsecretaría o quien lo subrogue o desempeñe sus funciones. La prueba testimonial, de ser procedente, se rendirá ante él.
+e) En caso de oposición, el procedimiento se entenderá abandonado cuando todas las partes que figuran en éste, han cesado en su prosecución durante 3 meses, contados desde la fecha de la última gestión útil para darle curso progresivo.
+Transcurrido dicho plazo, se tendrá por desistida la petición de concesión o permiso, según el caso.
+f) Todos los trámites procesales que se realicen ante los Tribunales de Justicia se regirán por las normas del Código de Procedimiento Civil, del Código Orgánico de Tribunales y los Autos Acordados respectivos.
