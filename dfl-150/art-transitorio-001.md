@@ -1,0 +1,1 @@
+Artículo 1°.- Las asignaciones familiares autorizadas o impetradas con anterioridad al 1° de Enero de 1974, se mantendrán conforme a los requisitos y demás condiciones de su otorgamiento, pero continuarán pagándose con cargo al Fondo.
