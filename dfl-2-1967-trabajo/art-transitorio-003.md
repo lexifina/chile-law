@@ -1,0 +1,1 @@
+Artículo 3°.- Los funcionarios en actual servicio podrán ser designados en los cargos consultados este decreto con fuerza de ley, no obstante que no cumplan las condiciones o requisitos exigidos por él o por cualquiera otra disposición legal o reglamentaria en vigor.
