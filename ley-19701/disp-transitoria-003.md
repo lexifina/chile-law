@@ -1,0 +1,1 @@
+Artículo tercero.- La presente ley entrará en vigencia 30 días después de su publicación en el Diario Oficial, sin perjuicio de que puedan dictarse a contar de la fecha de su publicación los decretos exentos a que se refiere el artículo 11 de la ley Nº 18.196.''.
