@@ -1,0 +1,3 @@
+Artículo 6º bis.- A partir del año 2003, la Resolución de información establecida en el inciso primero del artículo anterior, corresponderá a las Resoluciones dictadas y aplicadas para la determinación de los límites máximos de captura en el año 2002.
+No obstante lo anterior, con el objeto de determinar los titulares de autorizaciones de pesca vigentes, la Subsecretaría deberá dictar una Resolución, un mes antes del listado de los titulares de autorizaciones de pesca con sus respectivas naves.
+Los armadores podrán reclamar de la Resolución referida en el inciso anterior, conforme el procedimiento señalado en el artículo 6º, en el plazo de cinco días, debiendo el Ministro resolverlas en el plazo de diez días.
