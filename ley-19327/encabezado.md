@@ -1,0 +1,3 @@
+FIJA NORMAS PARA PREVENCION Y SANCION DE HECHOS DE VIOLENCIA EN RECINTOS DEPORTIVOS CON OCASION DE ESPECTACULOS DE FUTBOL PROFESIONAL
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de Ley:
