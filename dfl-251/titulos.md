@@ -13,5 +13,5 @@ TITULO IV De la regularización de compañías de seguros
 3.- Por déficit de patrimonio y de inversiones o sobreendeudamiento conjuntamente.
 4.- De la liquidación.
 5.- De los convenios y la quiebra.
-TITULO V De la organización y financiamiento de la Superintendencia
+TITULO V De los Agentes Administradores de Mutuos Hipotecarios Endosables
 Artículos transitorios
