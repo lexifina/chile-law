@@ -1,0 +1,1 @@
+Artículo final. Esta Ley comenzará a regir desde la fecha de su publicación en el Diario Oficial.

@@ -1,0 +1,1 @@
+Artículo 139 a.- La infracción por parte de los notarios a lo dispuesto en el artículo 86 de la presente ley será sancionada con multa a beneficio fiscal de hasta un sueldo vital anual fijado para los empleados particulares del departamento de Santiago.
