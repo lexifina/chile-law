@@ -1,0 +1,1 @@
+Artículo 4.- Lo dispuesto en el artículo 58 de este Código, no afectará a las deducciones que actualmente se practiquen por obligaciones contraídas con anterioridad a su vigencia, las que continuarán efectuándose en conformidad a las normas legales por las que se regían.

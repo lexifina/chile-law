@@ -1,0 +1,1 @@
+Artículo 15.- La derogación del artículo 15 del Código del Trabajo aprobado por el artículo primero de la ley 18.620, dispuesta por el artículo 1°, N° 5, de la ley N° 19.250, en cuanto se refiere al trabajo minero subterráneo relativo a las mujeres, entrará en vigencia el 17 de marzo de 1996.
