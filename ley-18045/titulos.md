@@ -24,4 +24,5 @@ TITULO XXIII Disposiciones varias
 TITULO XXIV De la oferta pública de valores extranjeros en el país
 TITULO XXV De la Oferta Pública de Adquisición de Acciones
 TITULO XXVI De la oferta pública de acciones o valores convertibles en el extranjero
+TÍTULO XXVII DE LAS ADMINISTRADORAS GENERALES DE FONDOS
 DISPOSICIONES TRANSITORIAS
