@@ -1,0 +1,1 @@
+Artículo 1°.- El Ministerio de Transportes y Telecomunicaciones podrá, antes del 1° de enero de 1985, otorgar las autorizaciones que señala el artículo 9° para que las Municipalidades otorguen licencias de conductor a partir de la vigencia de esta ley.
