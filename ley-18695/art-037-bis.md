@@ -1,2 +1,0 @@
-Artículo 37 bis.- Dos o más municipalidades podrán convenir que un mismo funcionario ejerza, simultáneamente, labores análogas en todas ellas. El referido convenio requerirá el acuerdo de los respectivos concejos y la conformidad del funcionario.
-El estatuto administrativo de los funcionarios municipales regulará la situación prevista en el inciso anterior.
