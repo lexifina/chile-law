@@ -1,1 +1,1 @@
-Artículo 319° e El que a sabiendas proporcionare un local, a cualquier título, para que terceros concurran a él con el objeto de consumir sustancias estupefacientes, será penado con presidio menor en su grado medio y multa de tres a diez sueldos vitales.
+ART. 319 e). Derogado.
