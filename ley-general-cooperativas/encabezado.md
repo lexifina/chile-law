@@ -1,5 +1,5 @@
-FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY GENERAL DE COOPERATIVAS
-Santiago, 1° de Septiembre de 1978.- Hoy se decretó lo que sigue:
-Núm. 502.- En uso de las facultades que me confiere el D.L. 1.675, de 1977, y teniendo presente lo dispuesto en el DFL. N° RRA. 20, de 1963; el DFL. N° 13, de 1968, del Ministerio de Agricultura; el artículo 2°, de la ley N° 15.762; el artículo 17° de la ley N° 16.392; el artículo 12° de la ley N° 16.623; el artículo 19° de la ley N° 16.742; el artículo 24° de la ley N° 17.318; el D.L. N° 408; el D.L. N° 445; los artículos N°s 31, N° 10° y 41° del D.L. 619; el artículo 17° del D.L. N° 824; el artículo 86° del D.L. N° 825, todos de 1974; el artículo 3° del D.L. N° 831, de 1975; los artículos 18°, N° 1 y 61 del D.L. N° 1.078, del mismo año; el D.L. 1.305, el artículo 7° del D.L. N° 1.638, ambos de 1976; el D.L. 1.681, de 1977; el D.L. 1.327, de 1976, renovado por el D.L. 1.675, de 1977, y el D.L. 2.042, de 1977,
-Decreto:
-El texto refundido, coordinado y sistematizado de la Ley General de Cooperativas será el siguiente:
+FIJA TEXTO REFUNDIDO, CONCORDADO Y SISTEMATIZADO DE LA LEY GENERAL DE COOPERATIVAS
+D.F.L. Núm. 5 .- Santiago, 25 de Septiembre de 2003.
+Teniendo presente: Que el artículo 2º de la ley Nº 19.832, facultó al Presidente de la República para que, dentro del plazo de un año, contado desde la fecha de publicación de la misma, proceda a fijar el texto refundido, concordado y sistematizado de la Ley General de Cooperativas, con el contenido del Reglamento de Reforma Agraria N° 20, de 1963, el de la misma ley y el de los demás textos legales que se refieran a cooperativas.
+Visto: Lo dispuesto en el artículo 61 de la Constitución Política de la República, y las facultades que me confiere el artículo 2° de la Ley 19.832, dicto el siguiente:
+Decreto con Fuerza de Ley:
