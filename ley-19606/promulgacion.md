@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1º del artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 30 de marzo de 1999.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Raúl Troncoso Castillo, Ministro del Interior.- Jorge Leiva Lavalle, Ministro de Economía, Fomento y Reconstrucción.- Eduardo Aninat Ureta, Ministro de Hacienda.- Adriana Delpiano Puelma, Ministra de Bienes Nacionales.
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Guillermo Pickering de la Fuente, Subsecretario del Interior.
