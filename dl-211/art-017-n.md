@@ -1,1 +1,0 @@
-Artículo 17 N.- Las normas contenidas en los Libros I y II del Código de Procedimiento Civil se aplicarán supletoriamente al procedimiento mencionado en los artículos precedentes, en todo aquello que no sean incompatibles con él.
