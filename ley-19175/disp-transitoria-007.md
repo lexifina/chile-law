@@ -1,0 +1,1 @@
+SEPTIMA.- Para los efectos de la primera elección de los consejeros regionales, el patrocinio ciudadano a que se refiere el inciso tercero del artículo 76 bis sólo requerirá la firma, otorgada ante notario público, de a lo menos treinta ciudadanos inscritos en los registros electorales de la provincia respectiva.".
