@@ -1,0 +1,1 @@
+Artículo 6°.- En la primera designación que efectúe el Ministro de Agricultura de los integrantes del Comité Calificador a que se refiere el artículo 15, fijará para tres de ellos un plazo de tres años de permanencia en sus cargos, con el objeto de establecer una renovación parcial periódica de los miembros de ese Comité.".
