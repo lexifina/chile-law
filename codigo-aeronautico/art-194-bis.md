@@ -1,0 +1,1 @@
+Artículo 194 bis.- Los que sin emplear violencia, amenaza de violencia ni intimidación atentaren en contra de una aeronave en vuelo o en servicio o realizaren actos que pongan o puedan poner en peligro la vida, la integridad personal o la salud de sus pasajeros o tripulantes, serán sancionados con presidio menor en su grado medio a máximo.
