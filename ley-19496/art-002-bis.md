@@ -1,0 +1,4 @@
+Artículo 2º bis.- No obstante lo prescrito en el artículo anterior, las normas de esta ley no serán aplicables a las actividades de producción, fabricación, importación, construcción, distribución y comercialización de bienes o de prestación de servicios reguladas por leyes especiales, salvo:
+a) En las materias que estas últimas no prevean;
+b) En lo relativo al procedimiento en las causas en que esté comprometido el interés colectivo o difuso de los consumidores o usuarios, y el derecho a solicitar indemnización mediante dicho procedimiento, y
+c) En lo relativo al derecho del consumidor o usuario para recurrir en forma individual, conforme al procedimiento que esta ley establece, ante el tribunal correspondiente, a fin de ser indemnizado de todo perjuicio originado en el incumplimiento de una obligación contraída por los proveedores, siempre que no existan procedimientos indemnizatorios en dichas leyes especiales.

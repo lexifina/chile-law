@@ -1,0 +1,1 @@
+Artículo 50 B.- Los procedimientos previstos en esta ley podrán iniciarse por demanda, denuncia o querella, según corresponda. En lo no previsto en el presente Párrafo, se estará a lo dispuesto en la ley Nº 18.287 y, en subsidio, a las normas del Código de Procedimiento Civil.

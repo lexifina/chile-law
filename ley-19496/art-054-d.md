@@ -1,0 +1,1 @@
+Artículo 54 D.- La presentación que efectúe el interesado en el juicio, ejerciendo sus derechos conforme al inciso primero del artículo anterior, se limitará únicamente a hacer presente y acreditar su condición de miembro del grupo.
