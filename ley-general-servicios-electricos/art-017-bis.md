@@ -1,0 +1,2 @@
+Artículo 17° bis.- Las cooperativas de abastecimento de energía eléctrica que operen como concesionarias de servicio público de distribución, podrán distribuir sin limitaciones de volumen electricidad a quienes no tengan la calidad de socios, en su zona de concesión.
+En la explotación de tales concesiones, las cooperativas de que trata este artículo no gozarán de franquicias tributarias o de otras de cualquier índole, que tuvieren por su condición de cooperativas.
