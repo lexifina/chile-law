@@ -1,0 +1,1 @@
+Artículo 31.- Se sancionará con presidio menor en sus grados mínimo a medio, con multa de cinco a cien unidades tributarias mensuales y con el comiso de las armas o instrumentos de caza o de captura, a quienes cazaren, capturaren o comerciaren habitualmente especies de la fauna silvestre cuya caza o captura esté prohibida o de las señaladas en el artículo 22.
