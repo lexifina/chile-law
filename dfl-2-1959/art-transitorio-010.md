@@ -1,0 +1,1 @@
+Artículo 10.o Facúltase al Consejo de la Sección Tripulantes de la Caja de Previsión de la Marina Mercante Nacional para destinar hasta la totalidad de los excedentes anuales de la Sección, a fin de dar término a las poblaciones en actual construcción.
