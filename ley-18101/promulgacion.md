@@ -4,4 +4,3 @@ Llévese a efecto como ley de la República.
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.
 Santiago, siete de Enero de mil novecientos ochenta y dos.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Jaime Estrada Leigh, Brigadier General, Ministro de la Vivienda y Urbanismo.-
 Mónica Madariaga Gutiérrez, Ministro de Justicia.
-Lo que transcribo a US., para su conocimiento.- Dios guarde a US.- Enrique Labarca Ricci, Subsecretario de Vivienda y Urbanismo subrogante.
