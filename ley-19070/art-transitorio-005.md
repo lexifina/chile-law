@@ -1,5 +1,5 @@
-Artículo 5°.- El valor mínimo de la hora cronológica para los profesionales de la educación prebásica, básica y especial, será de $ 1.900 mensuales.
-El valor mínimo de la hora cronológica para los profesionales de la educación media científico-humanista y técnico-profesional, será de $ 2.000 mensuales.
+Artículo 5°.- El valor mínimo de la hora cronológica para los profesionales de la educación prebásica, básica y especial, será de $ 2.242 mensuales.
+El valor mínimo de la hora cronológica para los profesionales de la educación media científico-humanista y técnico-profesional, será de $ 2.360 mensuales.
 El valor mínimo de la hora cronológica para los profesionales de la educación de adultos se determinará de acuerdo al nivel en que desempeñen sus labores docentes.
 Los valores mínimos de las horas cronológicas establecidos en los incisos primero y segundo de este artículo se reajustarán cada vez en el mismo procentaje en que se reajuste el valor de la USE conforme al artículo 9° del decreto con fuerza de ley N° 2, del Ministerio de Educación, de 1989.
 Los valores anteriores tendrán vigencia inmediata.
