@@ -1,0 +1,4 @@
+Artículo 1°.- La primera designación de los miembros de los Tribunales Electorales Regionales se hará dentro de los 90 días siguientes a la fecha de publicación de la presente ley, del modo que se indica en el artículo 2°. En este caso el juramento a que se refiere el artículo 3°, se prestará ante el Secretario de la Corte de Apelaciones respectiva.
+Mientras no proceda constituir el Tribunal Calificador de Elecciones, la designación de los miembros de los Tribunales Electorales Regionales, cuyo nombramiento le corresponde, será hecha por la Corte de Apelaciones respectiva, de acuerdo a lo establecido en la presente ley.
+Los Tribunales Electorales Regionales deberán instalarse el quincuagésimo día siguiente al vencimiento del plazo a que se refiere el inciso primero de este artículo, o al día siguiente hábil si aquél fuere festivo.
+Los plazos de días a que se refiere este artículo son de días corridos.
