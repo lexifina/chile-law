@@ -1,1 +1,0 @@
-DECIMOCUARTA.- Lo dispuesto en el artículo 134, respecto de las corporaciones y fundaciones municipales existentes al 31 de diciembre de 1991, entrará en vigencia ciento ochenta días después de la publicación de la presente ley.
