@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- La bonificación, se disminuirá en un mes por cada semestre en que el funcionario, habiendo cumplido el requisito de edad para tal efecto, no se haya acogido al procedimiento establecido en el artículo anterior.
