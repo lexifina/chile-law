@@ -1,0 +1,1 @@
+Artículo 29.- La separación podrá solicitarse también en el procedimiento a que dé lugar alguna de las acciones a que se refiere el artículo 23, o una denuncia por violencia intrafamiliar producida entre los cónyuges o entre alguno de éstos y los hijos.

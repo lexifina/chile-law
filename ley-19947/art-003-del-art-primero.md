@@ -1,0 +1,3 @@
+Artículo 3º.- Las materias de familia reguladas por esta ley deberán ser resueltas cuidando proteger siempre el interés superior de los hijos y del cónyuge más débil.
+Conociendo de estas materias, el juez procurará preservar y recomponer la vida en común en la unión matrimonial válidamente contraída, cuando ésta se vea amenazada, dificultada o quebrantada.
+Asimismo, el juez resolverá las cuestiones atinentes a la nulidad, la separación o el divorcio, conciliándolas con los derechos y deberes provenientes de las relaciones de filiación y con la subsistencia de una vida familiar compatible con la ruptura o la vida separada de los cónyuges.
