@@ -1,0 +1,1 @@
+Artículo 3º.- El financiamiento del mayor gasto que irrogue esta ley durante el año 2003, se hará con cargo al presupuesto de las reparticiones correspondientes, de la Ley de Presupuestos para dicha anualidad.
