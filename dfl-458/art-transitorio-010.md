@@ -1,0 +1,1 @@
+Artículo 10°.- La arborización de las áreas verdes, calles y obras de ornato, que debieron ejecutarse en los loteos y urbanizaciones iniciados con anterioridad a la publicación de la presente ley, se regirán por las disposiciones vigentes en la fecha del respectivo permiso de urbanización.
