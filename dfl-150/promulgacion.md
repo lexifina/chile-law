@@ -1,0 +1,2 @@
+Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Miguel Kast Rist, Ministro del Trabajo y Previsión Social.- Sergio de Castro Spikula, Ministro de Hacienda.
+Lo que transcribo a U. para su conocimiento.- Saluda a U.- Luis Larraín Arroyo, Subsecretario de Previsión Social subrogante.
