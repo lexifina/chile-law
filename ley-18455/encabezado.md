@@ -1,0 +1,3 @@
+FIJA NORMAS SOBRE PRODUCCION, ELABORACION Y COMERCIALIZACION DE ALCOHOLES ETILICOS, BEBIDAS ALCOHOLICAS Y VINAGRES, Y DEROGA LIBRO I DE LA LEY N° 17.105
+La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente
+Proyecto de ley:

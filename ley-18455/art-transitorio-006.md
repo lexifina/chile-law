@@ -1,0 +1,1 @@
+Artículo 6°.- No obstante lo establecido en el inciso segundo del artículo 16, los productos de la fermentación alcohólica de mostos de cepas híbridas o su mezcla con productos de la especie Vitis vinífera, podrán expenderse, hasta el 31 de diciembre de 1986, bajo la denominación de vino híbrido, la que deberá indicarse en forma destacada en la etiqueta o en el envase respectivo.

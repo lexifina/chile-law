@@ -1,0 +1,1 @@
+Artículo 2°.- Las causas y los procesos administrativos incoados por infracciones a las disposiciones del Libro I de la ley N° 17.105, que se encontraren pendientes a la fecha de vigencia de la presente ley, continuarán sustanciándose conforme a las normas indicadas en el cuerpo legal que se deroga, hasta su total tramitación.

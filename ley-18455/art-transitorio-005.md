@@ -1,0 +1,1 @@
+Artículo 5°.- Los productos a que se refiere el artículo 36 que, a la fecha de entrada en vigencia de esta ley, se encontraren envasados y etiquetados y no cumplan con la graduación alcohólica mínima o con el máximo de acidez volátil que se establece en tal disposición, sólo podrán expenderse hasta el 30 de junio de 1986.
