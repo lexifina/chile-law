@@ -1,0 +1,1 @@
+Artículo 5°.- Lo dispuesto en el inciso final del artículo 17, es aplicable a aquellos funcionarios regidos por esta ley, que hayan asumido como Alcaldes para el período comprendido entre los años 1994 y 1996.
