@@ -1,0 +1,2 @@
+SEGUNDA.- Dentro de los treinta días siguientes a la publicación de esta ley, los secretarios municipales procederán a abrir los registros para la inscripción de las organizaciones que participarán en las elecciones de los miembros de los consejos económicos y sociales respectivos, los que permanecerán abiertos por el término de sesenta días.
+En la primera constitución de los consejos económicos y sociales comunales, se exigirá a las organizaciones el requisito de antigüedad de un año, contado hacia atrás desde la fecha de publicación de esta ley.
