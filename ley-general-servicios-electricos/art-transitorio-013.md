@@ -1,0 +1,1 @@
+Artículo 13°.- Para los efectos señalados en la letra o) del artículo 150°, y mientras la Superintendencia no emita una nueva norma al respecto, se entenderá como voltaje de alta tensión de distribución a cualquiera que sea superior a 400 volts e inferior o igual a 23.000 volts.
