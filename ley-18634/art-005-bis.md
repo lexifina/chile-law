@@ -1,0 +1,4 @@
+Artículo 5º bis.- Serán consideradas como exportación las prestaciones de servicios efectuadas en el extranjero con bienes de capital, acogidos a la ley Nº 18.634, que hubiesen salido del país amparados por un título de salida temporal, siempre que el correspondiente contrato se encontrare registrado en el Servicio Nacional de Aduanas y sólo respecto de los retornos efectuados.
+Asimismo, serán considerados exportación, por parte del prestador de servicios:
+1.- Los servicios prestados directamente al extranjero, respecto del soporte y del aporte intelectual incorporado, siempre que se dé cumplimiento a las exigencias y formalidades establecidas para las exportaciones, según calificación del Servicio Nacional de Aduanas.
+2.- Los servicios prestados a turistas extranjeros por las empresas hoteleras, respecto de la compra de monedas extranjeras que efectúen a dichos turistas, debidamente acreditados, para el pago de los servicios efectivamente prestados por el hotel.
