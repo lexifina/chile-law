@@ -1,2 +1,1 @@
-Artículo 2°- Las sociedades anónimas existentes a la fecha de vigencia de esta ley se regirán por las normas aplicables a las sociedades abiertas o cerradas conforme a los conceptos y clasificación precisados en el artículo segundo de este texto legal.
-No obstante lo dispuesto en el inciso anterior, mientras la Superintendencia no deje constancia, de oficio o a petición de interesado, de la condición de sociedad cerrada de una determinada empresa, ésta se regirá por las normas aplicables a las sociedades abiertas.
+[La fuente no da el texto vigente en esta fecha.]

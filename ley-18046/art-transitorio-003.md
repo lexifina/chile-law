@@ -1,1 +1,1 @@
-Artículo 3°- Mientras no se dicte el reglamento a que se refiere la presente ley, regirá en lo que fuere compatible con las disposiciones de ésta y respecto de las materias que hacen remisión a reglamento, las normas que hasta la vigencia de la presente ley eran aplicables.
+Art. 3° Mientras no se dicte el reglamento a que se refiere la presente ley, regirá en lo que fuere compatible con las disposiciones de ésta y respecto de las materias que hacen remisión a reglamento, las normas que hasta la vigencia de la presente ley eran aplicables.
