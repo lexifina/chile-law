@@ -1,3 +1,3 @@
-I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto promúlguese i llévese a efecto en todas sus partes como lei de la República.
+Y por cuanto, oído el Consejo de Estado, he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto en todas sus partes como ley de la República.
 FEDERICO ERRÁZURIZ.
 JOSÉ MARÍA BARCELÓ.
