@@ -1,2 +1,1 @@
-Artículo quinto transitorio.- El aporte del 1,4% establecido en el artículo undécimo de la presente ley, comenzará a hacerse efectivo a partir del 1 de enero de 2004.
-Mientras no se haya concluido el proceso de licitación de administración del Fondo, los aportes se integrarán a la partida presupuestaria Tesoro Público, según lo determine la dirección de presupuestos.
+Artículo quinto transitorio.- El aporte del 1,4% establecido en el artículo undécimo de la presente ley, comenzará a hacerse efectivo a partir del 1 de enero de 2004. Mientras no se haya concluido el proceso de licitación de administración del Fondo, los aportes se integrarán a la partida presupuestaria Tesoro Público, según lo determine la Dirección de Presupuestos.
