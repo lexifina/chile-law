@@ -1,0 +1,2 @@
+Anótese, tómese razón, regístrese, comuníquese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio de Castro Spikula, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.

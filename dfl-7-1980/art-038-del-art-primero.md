@@ -1,0 +1,1 @@
+Artículo 38°- El derecho que concede el inciso primero del artículo 132° del DFL. N° 338, de 1960, corresponderá a los siguientes funcionarios del Servicio, siempre que cumplan con los requisitos establecidos en dicho inciso: Directivo Superior, Directivos y empleados que hubieren llegado al grado máximo de sus respectivos escalafones de acuerdo con la Planta.

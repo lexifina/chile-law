@@ -1,0 +1,1 @@
+Artículo 51°- Los funcionarios pertenecientes al escalafón Fiscalizador, tendrán de pleno derecho el carácter de ministro de fe, para todos los efectos que señala el artículo 86° del Código Tributario.

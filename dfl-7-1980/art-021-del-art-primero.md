@@ -1,0 +1,1 @@
+Artículo 21°- Las relaciones jurídicas que vinculan al Estado con los funcionarios del Servicio se regularán por las normas contenidas en esta Ley Orgánica y supletoriamente por el D.F.L. N° 338, de 1960, o por la legislación que lo reemplace.
