@@ -16,8 +16,6 @@ PARRAFO 3° Del impuesto adicional a las bebidas alcohólicas, analcohólicas y 
 PARRAFO 4 Otros impuestos específicos
 PARRAFO 5° Del impuesto a las compras de monedas extranjeras
 PARRAFO 6° Disposiciones varias
-TITULO IV Impuestos a los servicios
-Párrafo 1° Del hecho gravado y de las tasas del impuesto.
 TITULO IV De la administración del impuesto
 PARRAFO 1° Del Registro de los contribuyentes
 PARRAFO 2° De las facturas y otros comprobantes de ventas y servicios
