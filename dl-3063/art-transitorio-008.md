@@ -1,1 +1,0 @@
-Artículo 8°- El mayor gasto que importe durante el año 1980, la aplicación de lo dispuesto por el artículo 2° transitorio del decreto ley N° 2.868, de 1979, se financiará con un tres por ciento de los recursos que conforman el Fondo Común creado por el inciso primero del artículo 38 de la presente ley.
