@@ -1,0 +1,9 @@
+FIJA NORMAS SOBRE COLEGIOS PROFESIONALES Santiago, 3 de Febrero de 1981.- Hoy se decretó lo que sigue:
+Núm. 3.621.- Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y
+Considerando:
+1.- Que la libertad de trabajo conlleva necesariamente la libertad de afiliación o desafiliación a cualquier clase de asociaciones, de modo que ellas no puedan establecerse como requisito para ejercer una actividad laboral;
+2.- Que los Colegios Profesionales, cuya inscripción se impone con carácter de obligatoria para el ejercicio de la profesión respectiva, constituyen la única excepción a la norma anteriormente citada, lo que ha significado favorecer condiciones proclives a la mantención de sistemas monópolicos en amplios e importantes sectores laborales del país;
+3.- Que los Colegios son asociaciones gremiales de profesionales y deben, por lo tanto, someterse, en su organización y funcionamiento, a las normas especialmente dictadas para ellas en el decreto ley número 2.757, de 1979, sobre la base de la completa libertad de afiliación y desafiliación que las caracteriza, y
+4.- Que, por otra parte, las facultades jurisdiccionales tanto para dirimir conflictos entre los profesionales o entre éstos y sus clientes como para velar por el cumplimiento de la ética profesional, otorgadas a los Colegios, pueden ser idóneamente ejercidas por los Tribunales de Justicia, estableciendo con este fin procedimientos adecuados, lo que evitará el contrasentido que la misma entidad encargada de la defensa y desarrollo de los intereses profesionales de sus miembros, conozca y resuelva sobre las faltas a la ética profesional cometidas por éstos en el ejercicio de su profesión,
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+Decreto ley:
