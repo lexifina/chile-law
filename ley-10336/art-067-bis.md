@@ -1,0 +1,1 @@
+Artículo 67º bis.- Las obligaciones pecuniarias derivadas de la responsabilidad civil de que trata este Título, se reajustarán conforme a la variación que experimente la unidad tributaria mensual, pudiendo el Contralor General, por razones de equidad, en casos calificados, disminuir el monto que así resultare.
