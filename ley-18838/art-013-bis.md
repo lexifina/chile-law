@@ -1,0 +1,3 @@
+Artículo 13° bis.- El Consejo podrá recibir aportes especiales del Estado para financiar o subsidiar la producción, transmisión y difusión de programas televisivos en aquellas zonas fronterizas, extremas o apartadas del territorio nacional en que, por su lejanía o escasa población, no exista interés comercial que incentive a concesionarias de servicio de radiodifusión televisiva de libre recepción a prestar estos servicios.
+Todo subsidio o financiamiento deberá siempre licitarse públicamente, estableciéndose en las bases los requerimientos técnicos que deberán cumplir para garantizar un buen servicio.
+Para los efectos de este artículo, la Ley de Presupuestos del sector público considerará estas circunstancias al fijar el presupuesto anual del citado Consejo.

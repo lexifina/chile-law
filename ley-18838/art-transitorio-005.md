@@ -1,1 +1,1 @@
-Artículo 5°.- Lo dispuesto en el artículo anterior se aplicará a la Universidad del Norte respecto de la instalación y explotación de sus estaciones de radiodifusión televisiva que estén operando a la fecha de publicación de esta ley.
+Artículo 5°.- DEROGADO.-
