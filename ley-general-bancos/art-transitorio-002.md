@@ -1,0 +1,1 @@
+Artículo 2º.- Los bancos y sociedades financieras en funcionamiento a la fecha de publicación de la Ley Nº 19.528 deberán completar el capital mínimo que les corresponda de acuerdo con los artículos 50 y 114, en el plazo de tres años contado desde la misma fecha.
