@@ -1,0 +1,3 @@
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación de dicha Contraloría.-
+AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General de Carabineros, General Director de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda.
+Lo que transcribo a U. para su conocimiento.- Saluda atentamente a U.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
