@@ -1,0 +1,1 @@
+Artículo Quinto.- La sustitución de las plantas y los encasillamientos o nombramientos, que establece la presente ley, no serán considerados, en caso alguno, como causales de término de los servicios ni supresión o fusión de cargos ni, en general, cese de funciones o de término de la relación laboral para ningún efecto legal.

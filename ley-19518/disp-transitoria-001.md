@@ -1,0 +1,2 @@
+Artículo Primero.- Las acciones de capacitación iniciadas antes de la vigencia de la presente ley, continuarán rigiéndose por el decreto ley Nº 1.446, de 1976, hasta su extinción.
+Los organismos capacitadores y organismos intermedios para capacitación, que hubieren sido autorizados o reconocidos con anterioridad a la vigencia de esta ley, mantendrán dichas calidades, pero deberán ajustarse a las disposiciones de ésta en el plazo de un año, contado desde la fecha de su entrada en vigor.
