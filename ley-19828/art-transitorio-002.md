@@ -1,0 +1,2 @@
+Artículo 2º transitorio.- El Presidente de la República nombrará al Director Nacional del Servicio Nacional del Adulto Mayor dentro de los treinta días hábiles siguientes al de publicación de esta ley, quien asumirá de inmediato sus funciones.
+El Director Nacional, dentro del plazo de sesenta días contado desde su nombramiento, llamará a concurso público para proveer los cargos de carrera de la planta del Servicio.
