@@ -1,0 +1,1 @@
+Artículo 4º.- Las normas establecidas en el artículo 17 de la presente ley, entrarán en vigencia después de un año, contado desde su publicación en el Diario Oficial, y las de las letras b), c) y e) del artículo 37, noventa días después de la misma fecha.
