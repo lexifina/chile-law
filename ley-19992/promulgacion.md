@@ -1,0 +1,3 @@
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 17 de diciembre de 2004.- JOSE MIGUEL INSULZA SALINAS, Vicepresidente de la República.- Jorge Correa Sutil, Ministro del Interior (S).- María Eugenia Wagner Brizzi, Ministro de Hacienda (S).- Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.- Sergio Bitar Chacra, Ministro de Educación.- Antonio Infante Barros, Ministro de Salud (S).
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Jorge Claissac Schnake, Subsecretario del Interior Subrogante.
