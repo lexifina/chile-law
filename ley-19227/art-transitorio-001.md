@@ -1,0 +1,1 @@
+Artículo 1°.- El Fondo que se crea en el artículo 3° permanente de esta ley, regirá a contar del año 1993. En la Ley de Presupuestos del Sector Público deberán consultarse los recursos necesarios para afrontar el gasto que represente su aplicación.
