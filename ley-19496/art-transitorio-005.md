@@ -1,0 +1,1 @@
+Artículo 5º.- Facúltase al Presidente de la República, para que dentro del plazo de 180 días contados desde la publicación de la presente ley, mediante un decreto con fuerza de ley, fije el texto refundido, coordinado y sistematizado de la ley Nº 19.496, que establece normas sobre protección de los derechos de los consumidores.
