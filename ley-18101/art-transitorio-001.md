@@ -1,0 +1,2 @@
+Artículo 1°.- Los contratos de arrendamiento de bienes raíces urbanos celebrados con anterioridad a la vigencia de esta ley continuarán regidos por las disposiciones del decreto ley N° 964, de 1975, el que se entenderá subsistente a todas sus partes para tal fin.
+Los juicios actualmente pendientes y los que se promuevan en el futuro, relativos a los contratos celebrados con anterioridad a la vigencia de esta ley, se sustanciarán y fallarán con arreglo a las disposiciones del decreto ley N° 964, de 1975.
