@@ -1,0 +1,1 @@
+Art. 53 bis.- Cuando el Juez de la causa estime necesario agregar al proceso documentos que tengan el carácter de secretos de acuerdo a las disposiciones del Código de Justicia Militar, procederá en conformidad a lo preceptuado en los artículos 144 y 144 bis de dicho Código.

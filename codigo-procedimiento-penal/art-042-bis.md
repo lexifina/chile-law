@@ -1,0 +1,1 @@
+Artículo 42 bis.- No se podrá citar, arrestar, detener, someter a prisión preventiva, separar de su domicilio o arraigar a ningún habitante de la República, sino en los casos y en la forma señalados por la Constitución y las leyes y sólo en estas mismas condiciones se podrá allanar edificios o lugares cerrados, interceptar, abrir o registrar comunicaciones y documentos privados.
