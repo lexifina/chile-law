@@ -1,0 +1,2 @@
+Artículo 55 bis.- No podrá desempeñar las funciones de Subsecretario, jefe superior de servicio ni directivo superior de un órgano u organismo de la Administración del Estado, hasta el grado de jefe de división o su equivalente, el que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico.
+Para asumir alguno de esos cargos, el interesado deberá prestar una declaración jurada que acredite que no se encuentra afecto a esta causal de inhabilidad.
