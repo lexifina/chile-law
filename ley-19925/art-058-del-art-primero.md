@@ -1,0 +1,1 @@
+Artículo 58.- Derógase el Libro II de la ley Nº 17.105, de Alcoholes, Bebidas Alcohólicas y Vinagres. Las disposiciones legales que hagan referencia al Libro II de la ley Nº 17.105 se entenderán hechas a esta ley, en las materias a que dichas disposiciones se refieren.
