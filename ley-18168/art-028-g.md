@@ -1,0 +1,2 @@
+Artículo 28 G.- Asignado un proyecto, el Consejo remitirá los antecedentes respectivos a la Subsecretaría de Telecomunicaciones, la que deberá tramitar la concesión de servicio público telefónico correspondiente dentro del plazo de sesenta días, de acuerdo con un procedimiento expedito que contemplará el reglamento.
+En los casos previstos en la letra a) del artículo 28 D, la concesión de servicio público telefónico se restringirá a la instalación, la operación y la explotación de teléfonos públicos y de centros de llamadas.
