@@ -1,0 +1,2 @@
+Artículo 9°- El valor del Bono de Reconocimiento se reajustará en la variación que experimente el Indice de Precios al Consumidor del Instituto Nacional de Estadísticas entre el último día del mes anterior a la fecha de incorporación del afiliado al régimen que establece esta ley y el último día del mes anterior a la fecha de su pago efectivo.
+El capital así reajustado, devengará un interés del cuatro por ciento anual, por el lapso entre las fechas indicadas en el inciso anterior.
