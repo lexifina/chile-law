@@ -1,0 +1,1 @@
+Artículo 2°.- Sin perjuicio de lo dispuesto en el artículo 26, las normas y sanciones establecidas en esta ley sólo serán aplicables a las ejecuciones judiciales que se inicien con posterioridad a la fecha en que comiencen a regir los artículos 1° a 29 inclusive.
