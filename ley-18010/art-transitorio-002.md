@@ -1,0 +1,1 @@
+Artículo 2°.- Lo dispuesto en el artículo 41 bis de la ley sobre Impuesto a la Renta, agregado por el artículo 29 de la presente ley, regirá desde la publicación de ésta, afectando también a todas las obligaciones de dinero a que se refiere esta ley efectuadas con anterioridad a dicha publicación.
