@@ -1,2 +1,1 @@
-Artículo 36°- Los trabajos que deban realizarse fuera de la jornada ordinaria, se regirán de acuerdo a las normas vigentes.
-Las horas de clases dictadas por funcionarios en Programas de Capacitación del Servicio, serán remuneradas adicionalmente como horas extraordinarias.
+Artículo 36°.- Los trabajos que deban realizarse fuera de la jornada ordinaria, se regirán de acuerdo a las normas vigentes. Las horas de clases dictadas en los programas de capacitación del Servicio, serán remuneradas sobre la base de honorarios. Sus valores serán determinados mediante resolución del Jefe de Servicio, visado por la Dirección de Presupuestos.
