@@ -14,4 +14,4 @@ Párrafo II.- De la persona responsable
 Párrafo III.- De las exenciones de la responsabilidad
 Párrafo IV.- Del límite de la responsabilidad
 Párrafo V.- Del seguro o garantía financiera
-TITULO VI.- DE LAS INSTALACIONES RADIACTIVAS
+TITULO VI De las Instalaciones Radiactivas
