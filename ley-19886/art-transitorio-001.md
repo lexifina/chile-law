@@ -1,0 +1,2 @@
+Artículo 1º.- El Presidente de la República, dentro del plazo de un año contado desde la fecha de publicación de esta ley, mediante uno o más decretos expedidos a través del Ministerio de Hacienda, dictará la reglamentación que sea necesaria para la aplicación de la misma.
+Las municipalidades que tuvieren vigentes reglamentaciones sobre sus procesos de contratación de bienes y servicios, deberán ajustarlos a la normativa señalada anteriormente a más tardar al día 1 de enero de 2004.
