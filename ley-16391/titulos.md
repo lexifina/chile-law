@@ -1,7 +1,7 @@
 TITULO I
 Párrafo 1° Del Ministerio de la Vivienda y Urbanismo
 Párrafo 2° De la Subsecretaría.
-Párrafo 3° De la Secretaría Técnica y de Coordinación
+Párrafo 3° De la Secretaría Técnica y de Coordinación.
 Párrafo 4° De la Dirección General de Planificación y Presupuesto.
 Párrafo 5° De la Dirección General de Obras Urbanas.
 Párrafo 6° De las atribuciones del Secretario General Técnico y de los Directores Generales.
