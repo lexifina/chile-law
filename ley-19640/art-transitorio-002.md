@@ -1,0 +1,4 @@
+Artículo 2º.- Dentro de los cinco días siguientes a aquel en que se publique en el Diario Oficial el decreto de nombramiento de la persona designada por el Presidente de la República como Fiscal Nacional, los Presidentes de las Cortes de Apelaciones de La Serena y de Temuco deberán llamar a concurso público de antecedentes para conformar las ternas de los postulantes a los cargos de Fiscales Regionales de la Cuarta Región de Coquimbo y de la Novena Región de La Araucanía, respectivamente, las que serán remitidas dentro de los treinta días siguientes al Fiscal Nacional para su designación.
+Dentro de los diez días siguientes a la recepción de las ternas, el Fiscal Nacional procederá al nombramiento de los Fiscales Regionales.
+En lo no previsto en este artículo, se aplicará lo establecido en el artículo 29.
+El Fiscal Nacional dispondrá las oportunidades y formas en que se procederá a contratar los funcionarios que se desempeñarán en esas Fiscalías Regionales.
