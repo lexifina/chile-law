@@ -1,0 +1,1 @@
+VIGESIMAQUINTA.- Durante el período a que se refiere la disposición decimotercera, el Consejo de Seguridad Nacional estará presidido por el Presidente de la República e integrado por los miembros de la Junta de Gobierno, por el Presidente de la Corte Suprema y por el Presidente del Consejo de Estado.
