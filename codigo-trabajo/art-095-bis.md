@@ -1,0 +1,1 @@
+Artículo 95 bis.- Para dar cumplimiento a la obligación contenida en el artículo 203, los empleadores cuyos predios o recintos de empaque se encuentren dentro de una misma comuna, podrán habilitar y mantener durante la respectiva temporada, uno o más servicios comunes de sala cuna.
