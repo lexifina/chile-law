@@ -21,4 +21,5 @@ TITULO XX De la responsabilidad de las sociedades administradoras de fondos fisc
 TITULO XXI De la información privilegiada
 TITULO XXII De las Garantías
 TITULO XXIII Disposiciones varias
+TITULO XXIV De la oferta pública de valores extranjeros en el país
 DISPOSICIONES TRANSITORIAS
