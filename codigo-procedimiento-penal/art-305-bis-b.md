@@ -1,0 +1,1 @@
+Art. 305 bis B. El arraigo podrá decretarse de oficio, a petición del Ministerio Público o del querellante particular y producirá efecto por el solo hecho de decretarse; no obstante, deberá ser comunicado personalmente al afectado por el organismo policial que el tribunal determine, sin perjuicio de su notificación judicial una vez que preste declaración indagatoria.

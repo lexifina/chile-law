@@ -1,0 +1,2 @@
+Artículo 221 bis.- En los casos de autopsia o examen médico, el juez deberá designar al legista correspondiente, a menos que existan razones que aconsejen el nombramiento de un perito diverso en determinado caso, las que se expondrán en auto motivado.
+En los lugares en que los médicos legistas no tuvieren la especialidad precisa que requiera el informe, se designará otro u otros peritos, según las reglas establecidas en el artículo 221.
