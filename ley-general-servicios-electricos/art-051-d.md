@@ -1,3 +1,1 @@
-Artículo 51° D.- El pago de las anualidades del peaje básico dará derecho al propietario de la central generadora a retirar electricidad, sin pagos adicionales, en todos los nudos del sistema ubicados dentro de su área de influencia.
-Asimismo, le dará derecho a retirar electricidad, sin pagos adicionales, en todos los nudos desde los cuales, en condiciones típicas de operación del sistema, se produzcan transmisiones físicas netas hacia el área de influencia.
-Las transmisiones netas, para estos efectos, se definen como la transmisión media de energía a lo largo de un año calendario. Este derecho subsistirá en tanto se mantenga la transmisión neta hacia el área de influencia.
+Artículo 51° D.- DEROGADO
