@@ -1,0 +1,1 @@
+Artículo 3°- Mientras se procede a la organización del Ministerio de la Vivienda y Urbanismo y de sus servicios e instituciones relacionados con el Gobierno a través de él, podrán ser aplicables las disposiciones de los artículos 50°, 51° y 52° a la Corporación de la Vivienda y a la Fundación de Viviendas y Asistencia Social.

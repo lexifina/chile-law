@@ -1,0 +1,1 @@
+Artículo 9°- Mientras no entren en vigencia y en aplicación los reglamentos sobre reajustabilidad y bonificaciones de las deudas y sus dividendos a que se refiere la presente ley, no se aplicará ningún reajuste para el período anual 1965-1966.
