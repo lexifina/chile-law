@@ -1,0 +1,9 @@
+APRUEBA LEY ORGANICA DE PROCEDIMIENTO DE EXPROPIACIONES
+Núm. 2.186.- Santiago, 12 de Abril de 1978.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; 991, de 1976; en los artículos 1°, N° 16, y 3° transitorio del Acta Constitucional N° 3, de 1976, modificado por el decreto ley N° 1.689, de 1977, y Considerando:
+1.- Que el precepto del artículo 1°, N° 16, del Acta Constitucional N° 3, asegura a todas las personas el derecho de propiedad en sus diversas especies sobre toda clase de bienes, corporales o incorporales, prescribiendo en su inciso tercero que "nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que recae, o de algunos de los atributos o facultades esenciales del dominio, sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o de interés social o nacional, calificada por el legislador".
+2.- Que, con relación a lo anterior, la Comisión de Estudio de la Nueva Constitución Política de la República ha propuesto un anteproyecto de ley orgánica de procedimiento de expropiaciones, conforme a los preceptos contenidos en la referida Acta Constitucional N° 3, luego de oir a diversos Organismos Estatales.
+3.- Que, además, oído el Consejo de Estado, se pronunció favorablemente sobre esta iniciativa.
+4.- Que reviste especial trascendencia la dictación de un estatuto legal que aborde en un texto único y orgánico el procedimiento llamado a regular las expropiaciones, y
+5.- Que es preocupación fundamental del Gobierno armonizar los intereses del Estado, que requiere de un procedimiento expropiatorio ágil y expedito para poder desarrollar las obras que el progreso del país exige, y, por otra parte, resguardar en forma justa el derecho del propietario y los distintos derechos de terceros que, de un modo u otro, se ven alcanzados o afectados con la expropiación.
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+Decreto ley:
