@@ -1,0 +1,4 @@
+Artículo 74 bis B.- Se prohibe a todo funcionario de las instituciones indicadas en el artículo 74 dar informaciones sobre los resultados de las pesquisas que practiquen y de las órdenes que deban cumplir.
+El juez podrá dar conocimiento a los funcionarios investigadores de los datos del proceso que estime conducentes al éxito de las indagaciones que se les encarguen. Asimismo, podrá proporcionarles copia de los informes, autopsias y demás pericias, cuando sean solicitadas por los jefes de las unidades que tengan a su cargo la investigación del caso.
+Los funcionarios que hayan tomado conocimiento de datos del proceso o recibido copias de los informes indicados en el inciso precedente, quedan obligados a no revelarlos.
+La infracción de las disposiciones de los incisos primero y tercero de este artículo será sancionada con reclusión o presidio menor en su grado mínimo a medio, a menos que los hechos constituyan otro delito sancionado con igual o mayor pena.

@@ -1,0 +1,3 @@
+Artículo 26 bis.- Los fiscales de las Cortes de Apelaciones podrán intervenir en la primera instancia en todos los juicios criminales de acción pública, cuando juzguen conveniente su actuación.
+El Fiscal de la Corte Suprema podrá ordenar a los Fiscales de las Cortes de Apelaciones que actúen en la primera instancia para efectos determinados o durante toda la tramitación de uno o más juicios, y en este último caso tendrán las mismas facultades y obligaciones que este Código señala al Ministerio Público en dicha instancia.
+Siempre que un Ministro, en carácter de juez de primera instancia, deba conocer de uno o más delitos, se entenderá designado para actuar en todas las instancias del proceso el Fiscal de la Corte correspondiente.

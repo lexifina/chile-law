@@ -1,0 +1,2 @@
+Artículo 62 bis.- El querellante y las partes civiles no podrán suspender el conocimiento de las apelaciones o las consultas relativas a la libertad provisional de los inculpados o procesados, y sólo por razones que calificará el tribunal podrán suspender la vista en asuntos incidentales cuando hay algún detenido o procesado preso en la causa.
+Si en juicio criminal se recusa a un abogado integrante, el Presidente de la Corte deberá proveer a su inmediato reemplazo, para la misma audiencia, por un ministro u otro integrante.

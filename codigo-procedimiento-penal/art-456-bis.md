@@ -1,0 +1,1 @@
+Art. 456. bis (484) Nadie puede ser condenado por delito sino cuando el tribunal que lo juzgue haya adquirido, por los medios de prueba legal, la convicción de que realmente se ha cometido un hecho punible y que en él ha correspondido al procesado una participación culpable y penada por la ley.
