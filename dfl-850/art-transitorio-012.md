@@ -1,0 +1,1 @@
+Artículo 12° Transitorio.- El nombramiento como titular de un Secretario Regional Ministerial en los cargos a que se refiere el artículo 55° de la presente ley, implicará la supresión de un cargo de Delegado Zonal de la Planta pertinente de la Dirección General de Obras Públicas. El Decreto de nombramiento correspondiente determinará el cargo suprimido.

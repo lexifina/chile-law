@@ -1,0 +1,3 @@
+Artículo 7° Transitorio.- Las tasaciones periciales servirán al Juez como dato ilustrativo para fijar el monto de la indemnización.
+El Tribunal deberá, además, considerar la prueba que rindan las partes sobre los perjuicios que deban indemnizarse, así como los demás factores que tengan relación con la regularización de la indemnización, siempre que tales pruebas se presenten dentro de los 90 días siguientes a la fecha de notificación de la resolución que cite a comparendo para designar peritos.
+La sentencia que fije el monto de la indemnización deberá dictarse dentro de los 15 días siguientes a la fecha en que expire el plazo para presentar los informes periciales o para allegar probanzas, según corresponda.

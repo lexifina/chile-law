@@ -1,0 +1,1 @@
+Artículo 3° Transitorio.- El reclamo judicial dará origen a un juicio de que conocerá el Juez de Letras de Mayor Cuantía de asiento de Corte que corresponde según la ubicación del inmueble. El procedimiento será breve y sumario. El Juez citará a las partes a comparendo con el objeto de designar peritos que tasen la indemnización que deba pagarse al expropiado.
