@@ -1,1 +1,1 @@
-ARTICULO 1°- Las causas que a la fecha de entrada en vigencia del decreto ley 211, de 1973, conocía la Comisión establecida en el artículo 175 de la ley 13.305, seguirán sustanciándose por la Comisión Resolutiva con arreglo a las normas de dicho decreto ley.
+Artículo 1º.- Las causas que a la fecha de entrada en vigencia del decreto ley Nº211, de 1973, conocía la Comisión establecida en el artículo 175 de la ley Nº13.305, seguirán sustanciándose por la Comisión Resolutiva con arreglo a las normas de dicho decreto ley.
