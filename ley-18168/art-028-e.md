@@ -1,0 +1,3 @@
+Artículo 28° E. En cada zona urbana el monto del aporte no podrá exceder al costo promedio de la inversión necesaria para satisfacer el servicio.
+A aquellos interesados que costeen las extensiones o refuerzos necesarios para llegar hasta la zona urbana, no se les podrá cobrar un aporte distinto al que efectúen los usuarios de la zona urbana.
+En aquellos sectores que, encontrándose dentro de la zona urbana de la respectiva localidad, carezcan de las características de hecho para ser calificados como urbanos, lo que será determinado por la Subsecretaría de Telecomunicaciones, será aplicable lo dispuesto en el inciso anterior.
