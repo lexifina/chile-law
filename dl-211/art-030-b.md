@@ -1,0 +1,1 @@
+ARTICULO 30 B.- Los integrantes de las Comisiones Preventivas y de la Comisión Resolutiva, cualquiera sea la calidad en que actúen, así como los asesores o consultores que presten servicios sobre la base de honorarios para la Fiscalía Nacional Económica, se considerarán comprendidos en la disposición del artículo 260 del Código Penal.
