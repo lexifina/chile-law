@@ -1,0 +1,2 @@
+Artículo 1°.- Los actuales tenedores de armas y elementos de la naturaleza de los señalados en el artículo 3° de la presente ley tendrán el plazo de 30 días, a contar de la fecha de vigencia de la presente ley, para hacer entrega de ellos a las Comandancias de Guarnición o a las Comisarías, Tenencias o Retenes de Carabineros.
+Transcurrido dicho plazo su tenencia, aun cuando estuviese amparada por la respectiva inscripción, será sancionada de acuerdo con la ley.
