@@ -1,0 +1,1 @@
+Artículo 3°.- En tanto se dictan los nuevos reglamentos de la presente ley, se continuarán aplicando las disposiciones reglamentarias del decreto con fuerza de ley a que se refiere el artículo 72, en todo lo que fueren compatibles con esta ley.
