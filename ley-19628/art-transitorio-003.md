@@ -1,0 +1,1 @@
+Artículo 3°.- Las normas que regulan el Boletín de Informaciones Comerciales creado por el decreto supremo de Hacienda N° 950, de 1928, seguirán aplicándose en todo lo que no sean contrarias a las disposiciones de esta ley.''.
