@@ -19,7 +19,7 @@ II Del Reingreso
 Párrafo 10.- De los Rechazos y Revocaciones
 TITULO II De las Infracciones, Sanciones y Recursos
 Párrafo 1.- De las Infracciones y Sanciones
-Párrafo 2.- De la aplicación de las Sanciones y de los Recursos
+Párrafo 2.- De la aplicación de las Sanciones y de los Recursos.
 Párrafo 3.- De las Medidas de Control, Traslado y Expulsión
 TITULO III Organización, funciones y atribuciones del Ministerio del Interior y del Departamento de Extranjería y Migración.
 TITULO IV Disposiciones varias
