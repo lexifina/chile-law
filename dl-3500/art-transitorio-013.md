@@ -1,0 +1,1 @@
+Artículo 13.- Para los efectos de lo dispuesto en el artículo 14, no se considerará remuneración los beneficios que perciben los trabajadores a que se refiere el decreto ley N° 249, de 1974, y demás de la Administración civil del Estado, del Congreso Nacional, del Poder Judicial y de las Universidades y que en virtud de disposiciones legales hayan sido declaradas no imponibles.

@@ -1,0 +1,7 @@
+Artículo 14.- No obstante lo dispuesto en el artículo 45 y sin perjuicio de la aplicación de lo dispuesto en el artículo 47, durante dos años y seis meses contados desde la publicación de la presente ley, los recursos de los Fondos podrán ser objeto de las siguientes inversiones y con los límites sobre el valor total de la cartera que se indican:
+1.- Títulos emitidos por el Banco Central de Chile o por la Tesorería General de la República; sin límite sobre el valor total de la cartera.
+2.- Depósitos a plazo y otros títulos representativos de captaciones de instituciones financieras o garantizadas por éstas, con plazo de vencimiento no superior a un año; no podrán representar más del treinta por ciento del valor de la cartera del Fondo.
+3.- Letras de créditos, depósitos a plazo y otros títulos representativos de captación de instituciones financieras o garantizadas por éstas con plazo de vencimiento superior a un año; no podrán representar más del cuarenta por ciento del valor total de la cartera del Fondo.
+4.- Debentures de empresas públicas o privadas; no podrán superar el sesenta por ciento del valor total de la cartera del Fondo.
+5.- Cuotas de otros Fondos de Capitalización: no podrán superar el veinte por ciento del valor total de la cartera del Fondo.
+Asimismo durante el período indicado en el inciso primero, el plazo promedio ponderado de todas las inversiones de un Fondo, no podrá ser superior a cuatro años.
