@@ -1,0 +1,4 @@
+Artículo 5º A.- La gestión municipal contará, a lo menos, con los siguientes instrumentos:
+a) El plan de desarrollo comunal y sus programas;
+b) El plan regulador comunal, y
+c) El presupuesto municipal anual.
