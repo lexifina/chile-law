@@ -1,0 +1,5 @@
+Artículo 5°- Las patentes que gravan las actividades a que se refiere el artículo 23, se determinarán, para el primer semestre de 1980, en la siguiente forma:
+a) Las personas que tienen la calidad de contribuyentes con anterioridad a la publicación de esta ley, pagarán de acuerdo a las normas de la ley N° 11.704.
+b) Las personas que en virtud de la presente ley pasan a ser contribuyentes, deberán presentar la declaración del artículo 24 y la del artículo 25, esta última en su caso, dentro del plazo de treinta días, contados desde la fecha de publicación de esta ley. La primera de dichas declaraciones se referirá al capital propio que aparece del balance al 31 de Diciembre de 1978, con relación al cual se calculará el cincuenta por ciento del cinco por mil que corresponda pagar.
+c) Las personas que inicien actividades después de la publicación de la presente ley, quedarán sujetas a las normas de los artículos 24 y 29.
+La tasa de la patente a que se refiere el artículo 24 será de un cinco por mil durante 1980, y hasta tanto las respectivas Municipalidades no hagan uso de la facultad que les concede el último inciso de dicho artículo.
