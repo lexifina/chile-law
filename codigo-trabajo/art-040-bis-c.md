@@ -1,1 +1,1 @@
-Artículo 40 bis C.- Las partes podrán pactar alternativas de distribución de jornada. En este caso, el empleador, con una antelación mínima de una semana, estará facultado para determinar entre una de las alternativas pactadas, la que regirá en la semana o período superior siguiente.
+Art. 40 bis C. Las partes podrán pactar alternativas de distribución de jornada. En este caso, el empleador, con una antelación mínima de una semana, estará facultado para determinar entre una de las alternativas pactadas, la que regirá en la semana o período superior siguiente.
