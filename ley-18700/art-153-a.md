@@ -1,0 +1,1 @@
+Art. 153 A. El plazo de prescripción para las faltas, infracciones o delitos establecidos en esta ley, incluidos los delitos conexos a ellos, será de un año contado desde la fecha de la elección correspondiente.
