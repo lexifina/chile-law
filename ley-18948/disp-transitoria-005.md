@@ -1,0 +1,1 @@
+Artículo Quinto.- El personal que se encuentre en servicio a la fecha de vigencia de esta ley y que haya ejercido la opción que le otorga el artículo 6° de la ley N° 18.747, tendrá derecho a que el saldo de su desahucio le sea liquidado de acuerdo con el número de años efectivos de servicios al momento de producirse el retiro y en relación con su última remuneración imponible.
