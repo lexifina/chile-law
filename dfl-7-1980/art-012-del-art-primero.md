@@ -1,6 +1,4 @@
-Artículo 12°- Le corresponde al Sub-Director de Administración, por intermedio de los Departamentos respectivos, las siguientes atribuciones, responsabilidades y obligaciones:
-a) Desarrollar, coordinar, evaluar y aplicar programas y políticas sobre Personal;
-b) Administrar la aplicación de los reglamentos, normas e instrucciones que afecten al personal y su bienestar;
-c) Programar y supervigilar la ejecución del Presupuesto del Servicio y el cumplimiento de las normas legales y reglamentarias que lo rijan;
-d) Velar por la buena marcha del Servicio en todo lo concerniente a personal, edificios, bienes muebles y todo otro aspecto relacionado con los recursos y la infraestructura; y
-e) Administrar los bienes del Servicio y los recursos asignados a éste, y proponer las normas que permitan su correcta custodia, uso y conservación.
+Artículo 12°.- Le corresponde al Subdirector Contralor Interno, las siguientes atribuciones, responsabilidades y obligaciones:
+a) Supervigilar el cumplimiento de las instrucciones que impartan el Director y los Subdirectores para la ejecución de las funciones que competen al Servicio;
+b) Supervigilar el cumplimiento por parte de los funcionarios de las normas relativas a las obligaciones administrativas y a las disposiciones sobre régimen interno que fije el Director, y
+c) Actuar como interventor en la entrega de las jefaturas de las unidades de la Dirección Nacional y de la jefatura superior de las Direcciones Regionales, directamente o a través de los auditores de su dependencia.
