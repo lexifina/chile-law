@@ -35,4 +35,5 @@ TITULO IX De los Efectos Electorales y de las Publicaciones y Exenciones de Dere
 Párrafo 1° De los Efectos Electorales
 Párrafo 2° De las Publicaciones y de las Exenciones de Derechos e Impuestos
 TITULO X Disposiciones Generales
+TITULO FINAL DE LOS DISTRITOS ELECTORALES Y CIRCUNSCRIPCIONES SENATORIALES PARA LAS ELECCIONES DE DIPUTADOS Y SENADORES
 DISPOSICIONES TRANSITORIAS
