@@ -1,0 +1,1 @@
+Artículo 51.- De las sanciones que se apliquen por infracción a las disposiciones de esta ley, serán solidariamente responsables los dueños, empresarios o regentes de los establecimientos de expendio de bebidas alcohólicas.

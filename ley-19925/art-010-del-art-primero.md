@@ -1,0 +1,1 @@
+Artículo 10.- Las Municipalidades podrán otorgar a un mismo establecimiento dos o más de las diversas patentes para el expendio de bebidas alcohólicas. El concesionario sólo quedará autorizado para hacer funcionar durante los días y horas de clausura el negocio o los negocios no afectos a esta medida.

@@ -1,0 +1,3 @@
+Artículo 50.- Sin perjuicio de las clausuras impuestas por la autoridad judicial, los Intendentes y Gobernadores podrán clausurar los establecimientos de expendio de bebidas alcohólicas, donde se hubieren cometido hechos delictuosos graves, o que constituyan un peligro, para la tranquilidad o moral públicas.
+El afectado podrá, dentro de diez días, reclamar de la clausura ante el juez de policía local correspondiente, quien citará a comparendo de contestación y prueba para dentro de quinto día.
+El juez deberá resolver en única instancia, manteniendo la clausura u ordenando alzarla, en fallo que deberá ser fundado.

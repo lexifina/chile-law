@@ -1,0 +1,2 @@
+Artículo 30.- El marido, mujer, padre, hijo, guardador o empleador de una persona habituada a beber con exceso bebidas alcohólicas, podrá hacer notificar judicialmente a los expendedores de estas bebidas para que no las suministre a dicho individuo por un término que no podrá exceder de tres meses para cada notificación.
+La persona que da el aviso tendrá derecho a cobrar al notificado, en caso de infracción, los daños y perjuicios que haya sufrido en su persona, propiedad o medios de subsistencia, por causa de la embriaguez.

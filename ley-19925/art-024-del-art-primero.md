@@ -1,0 +1,1 @@
+Artículo 24.- Las bodegas clasificadas en la letra J) del artículo 3º no podrán repartir bebidas embriagantes en los días y horas en que se prohíbe su expendio, salvo que se trate de movilizar dichos productos para embarques o desembarques.

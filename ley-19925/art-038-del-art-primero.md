@@ -1,0 +1,1 @@
+Artículo 38.- A petición de cualquiera de los miembros de la familia del paciente, podrá nombrársele un curador por el tiempo que dure la hospitalización. Los demás tendrán por curador al director del hospital.

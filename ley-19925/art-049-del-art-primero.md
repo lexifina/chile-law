@@ -1,0 +1,2 @@
+Artículo 49.- No obstante lo dispuesto en los artículos anteriores, el juez, en cualquier caso conociendo de un proceso, a petición escrita y fundada del alcalde o del concejo municipal, podrá clausurar definitivamente un negocio cuando éste constituya un peligro para la tranquilidad o moral públicas, sin que sea menester que se cumpla con el número de transgresiones necesarias para producir la clausura.
+La solicitud se tramitará en cuaderno separado. La resolución del juez será fundada y apelable en el solo efecto devolutivo.

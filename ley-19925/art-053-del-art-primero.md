@@ -1,0 +1,1 @@
+Artículo 53.- Con excepción de las conductas delictivas descritas y sancionadas en los artículos 42 y 46, las infracciones a la presente ley se reputan contravenciones para todos los efectos legales y, en ese carácter, quedan sujetas a la competencia y al procedimiento aplicables a los juzgados de policía local.

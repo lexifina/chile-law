@@ -1,0 +1,2 @@
+Artículo séptimo.- Agrégase, en la letra ñ) del artículo 65 de la ley Nº 18.695, Orgánica Constitucional de Municipalidades, el siguiente texto, cambiando el punto final (.) por una coma (,):
+"dentro de los márgenes establecidos en el artículo 21 de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas. En la ordenanza respectiva se podrán fijar horarios diferenciados de acuerdo a las características y necesidades de las distintas zonas de la correspondiente comuna o agrupación de comunas. Estos acuerdos del concejo deberán ser fundados.".

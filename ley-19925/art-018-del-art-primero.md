@@ -1,0 +1,1 @@
+Artículo 18.- Las bebidas alcohólicas expendidas por los depósitos de bebidas no podrán ser consumidas en lugares anexos a ellos o ubicados a una distancia menor de cien metros y de los cuales sea propietario, arrendatario o administrador quien tenga alguna de esas calidades respecto del establecimiento de expendio.

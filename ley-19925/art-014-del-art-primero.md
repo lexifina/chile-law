@@ -1,0 +1,1 @@
+Artículo 14.- Todos los establecimientos de expendio de bebidas alcohólicas, a excepción de hoteles y casas de pensión, deben estar absolutamente independientes de la casa habitación del comerciante o de cualquiera otra persona.

@@ -1,0 +1,3 @@
+Artículo 41.- Quienes, en la atención de los establecimientos que expendan bebidas alcohólicas para ser consumidas en el interior del local, las vendan, obsequien o suministren a funcionarios fiscalizadores, a sabiendas de que están en servicio, serán sancionados con una multa de tres a diez unidades tributarias mensuales.
+Dicha cantidad podrá imponerse doblada a los administradores o dueños de los establecimientos referidos, en caso de que el suministro, en las condiciones mencionadas en el inciso precedente, hayan sido inducidos por éstos.
+En las mismas sanciones incurrirá el que suministre bebidas alcohólicas, o induzca a suministrarlas, a personas en manifiesto estado de embriaguez.
