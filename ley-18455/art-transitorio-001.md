@@ -1,0 +1,1 @@
+Artículo 1°.- Los decretos reglamentarios del cuerpo legal que se deroga mantendrán su vigencia en lo que no sean contrarios a la presente ley y en tanto el Presidente de la República no dicte nuevas normas sobre la materia.
