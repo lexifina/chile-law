@@ -1,5 +1,5 @@
 TITULO I De la reestructuración
-TITULO II Del Ministerio de Vivienda y Urbanismo
+T I T U L O II. Del Ministerio de Vivienda y Urbanismo
 Párrafo 1° Del Ministro y su Gabinete
 Párrafo 2° De la Subsecretaría
 De la División de Desarrollo Urbano
