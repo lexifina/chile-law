@@ -1,0 +1,1 @@
+Artículo 10°.- Los armadores pesqueros artesanales tendrán un plazo de 90 días, a contar de la fecha de vigencia de la ley, para proceder a inscribirse en el registro artesanal que establece el artículo 32 permanente de la ley.
