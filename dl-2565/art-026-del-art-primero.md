@@ -1,0 +1,1 @@
+Artículo 26.- Para los efectos de lo dispuesto en el artículo 8° del decreto ley N° 280, de 1974, los créditos de origen estatal que se otorguen para ejecutar planes de manejo, serán considerados créditos de fomento.

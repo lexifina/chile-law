@@ -1,0 +1,1 @@
+Artículo 3°- A los terrenos de aptitud preferentemente forestal, bosques naturales y artificiales, sea que pertenezcan a personas naturales o jurídicas y que se acojan a las disposiciones del presente decreto ley, no les serán aplicables las normas de la ley N° 16.640, sobre reforma agraria.

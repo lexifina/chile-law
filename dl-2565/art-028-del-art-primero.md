@@ -1,0 +1,1 @@
+Artículo 28.- Las sociedades anónimas, con exclusión de los bancos y sociedades financieras, podrán adquirir acciones o derechos en sociedades de cualquier tipo cuyo objeto social principal sea la plantación o explotación de bosques, sin que rijan a este respecto limitaciones legales o reglamentarias.
