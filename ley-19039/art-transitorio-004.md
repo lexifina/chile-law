@@ -1,0 +1,1 @@
+Artículo 4°.- Esta ley empezará a regir el día en que se publique en el Diario Oficial el reglamento que de ella debe dictar el Presidente de la República, lo que hará dentro del plazo de 1 año, contado desde la publicación de esta ley.
