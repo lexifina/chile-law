@@ -1,10 +1,10 @@
 TITULO I Del Poder Judicial y de la Administración de Justicia en general
-Título II De los juzgados de garantía y de los tribunales orales en lo penal
+Título II De los juzgados de garantía y de los tribunales de juicio oral en lo penal
 Párrafo 1º De los juzgados de garantía.
-Párrafo 2º De los tribunales orales en lo penal
+Párrafo 2º De los tribunales de juicio oral en lo penal
 Párrafo 3º Del Comité de Jueces
 Párrafo 4º Del Juez Presidente del Comité de Jueces
-§ 5. De la organización administrativa de los juzgados de garantía y de los tribunales orales en lo penal.
+§ 5. De la organización administrativa de los juzgados de garantía y de los tribunales de juicio oral en lo penal.
 TITULO III De los Jueces de Letras
 TITULO IV De los Presidentes y Ministros de Corte como tribunales unipersonales
 TITULO V Las Cortes de Apelaciones
