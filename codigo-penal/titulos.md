@@ -37,7 +37,7 @@ TÍTULO CUARTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS
 § VII. Del falso testimonio y del perjurio.
 § VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
 TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
-§ I. Anticipación y prolongación indebida de funciones públicas.
+§ I. Anticipación y prolongación indebida de funciones públicas. Derogado.
 § II. Nombramientos ilegales.
 § III. Usurpación de atribuciones.
 § IV. Prevaricación.
