@@ -1,0 +1,1 @@
+Artículo 5º.- El Presidente de la República, mediante decreto supremo expedido por intermedio del Ministerio de Hacienda, creará el capítulo respectivo de ingresos y gastos del presupuesto de la Unidad de Análisis Financiero.
