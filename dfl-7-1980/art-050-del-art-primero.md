@@ -1,0 +1,2 @@
+Artículo 50°- La impresión, distribución y venta de las publicaciones del Servicio, se hará sin sujeción a las disposiciones legales y reglamentarias que existen sobre la materia, y su producto ingresará al presupuesto del Servicio.
+La propiedad intelectual de todos los documentos y publicaciones del Servicio pertenecerán al Estado, sin necesidad de cumplir con los requisitos que exige la ley N° 17.336.

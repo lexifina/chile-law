@@ -1,0 +1,1 @@
+Artículo 1°.- Corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
