@@ -1,0 +1,1 @@
+Regístrese en la Contraloría General de la República, publíquese e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- José T. Merino Castro.- Gustavo Leigh Guzmán.- César Mendoza Durán.- Carlos Granifo.- Jorge Cauas.
