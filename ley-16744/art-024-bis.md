@@ -1,0 +1,1 @@
+Artículo 24° bis.- Las Mutualidades de Empleadores estarán exentas de la obligación de efectuar aportes para el financiamiento del seguro de las personas a que se refieren el inciso final del artículo 2° y el artículo 3° de esta ley.
