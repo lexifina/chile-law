@@ -1,0 +1,2 @@
+Artículo 22: Facúltase al Ministerio de Educación para que modifique los convenios suscritos con las Corporaciones y Fundaciones, en virtud del decreto ley Nº 3.166, de 1980, para administrar establecimientos de educación técnico- profesional, con el fin de entregar los recursos que permitan dar cumplimiento a la presente ley.
+El Ministerio de Educación fijará internamente los procedimientos de entrega de estos recursos a las Corporaciones o Fundaciones respectivas.

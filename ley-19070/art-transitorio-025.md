@@ -1,0 +1,1 @@
+Artículo 25: La causal de término de la relación laboral establecida en la letra i) del artículo 72 de esta ley, regirá a contar desde el 1 de marzo de 1997, como consecuencia de la vigencia de la nueva dotación que se haya fijado o adecuado en noviembre de 1996.

@@ -1,2 +1,2 @@
-Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
-Santiago, 27 de junio de 1991.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Educación.- Pablo Piñera Echenique, Ministro de Hacienda Subrogante.- Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Raúl Allard Neumann, Subsecretario de Educación.
+Anótese, tómese razón, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Sergio Molina Silva, Ministro de Educación.- Eduardo Aninat Ureta, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Saluda a usted, Jaime Pérez de Arce Araya, Subsecretario de Educación.

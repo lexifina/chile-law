@@ -1,4 +1,1 @@
-Artículo 13.- Créase un Fondo de Recursos Complementarios con la finalidad de financiar el mayor gasto fiscal que represente la aplicación de la remuneración Básica Mínima Nacional y de las cuatro asignaciones establecidas en el párrafo IV del Título III del presente Estatuto. Este Fondo tendrá las siguientes características:
-a) Una duración transitoria de cinco años contados desde el 1° de enero de 1991;
-b) Será administrado por el Ministerio de Educación, y
-c) Su monto se determinará anualmente en la Ley de Presupuestos del Sector Público.
+Artículo 13: Con cargo al Fondo del artículo precedente y para la finalidad que en el mismo se señala, se pagará una subvención complementaria transitoria a todos los establecimientos educacionales subvencionados por el decreto con fuerza de ley Nº 5, del Ministerio de Educación, de 1992. El valor unitario mensual por alumno de esta subvención se fijará el 1º de marzo de cada año, en Unidades de Subvención Educacional, por medio de un decreto conjunto de los Ministerios de Educación y de Hacienda.

@@ -1,0 +1,5 @@
+Artículo 35: Dentro de los ciento ochenta días siguientes a la publicación de la ley Nº 19.410 los Alcaldes y gerentes de las corporaciones, según corresponda, deberán adecuar las designaciones o contratos de trabajo con cada uno de los profesionales de la educación del sector municipal de su dependencia, en conformidad al artículo 29 de esta ley.
+Posteriormente, los Alcaldes o gerentes de las Corporaciones deberán enviar copia de los decretos alcaldicios o de los contratos, según corresponda, a cada profesional de la educación mediante carta certificada dentro de los cinco días siguientes a su dictación o suscripción.
+Los profesionales de la educación dispondrán de 15 días, desde la fecha de despacho de la carta certificada, para apelar de sus alcances ante el Alcalde o gerente de la Corporación respectivo.
+Los decretos alcaldicios o los contratos, según el caso, sólo regirán si no se presentaren apelaciones o cuando éstas sean resueltas.
+Las apelaciones que se presentaren deberán ser resueltas en un plazo máximo de 20 días hábiles.
