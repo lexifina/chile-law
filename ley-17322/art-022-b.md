@@ -1,0 +1,2 @@
+Artículo 22° b) El pago de las imposiciones y aportes se hará en moneda nacional.
+El pago que se haga por un medio distinto del dinero efectivo o del vale vista no producirá novación. En caso de que la institución acreedora reciba en pago un cheque u otro documento que sea protestado por cualquier causa, podrán proceder a su cobro, imputando las sumas que obtengan, con deducción de las costas y demás gastos de la cobranza, a los créditos que, por imposiciones y aportes, tenga respecto del empleador obligado.
