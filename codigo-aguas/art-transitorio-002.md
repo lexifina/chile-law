@@ -1,0 +1,6 @@
+ARTICULO 2°- Los derechos de aprovechamiento inscritos que estén siendo utilizados por personas distintas de sus titulares a la fecha de entrar en vigencia este código, podrán regularizarse cuando dichos usuarios hayan cumplido cinco años de uso ininterrumpido, contados desde la fecha en que hubieren comenzado a hacerlo, en conformidad con las reglas siguientes:
+a) La utilización deberá haberse efectuado libre de clandestinidad o violencia, y sin reconocer dominio ajeno;
+b) La solicitud se elevará a la Dirección General de Aguas ajustándose en la forma, plazos y trámites a lo prescrito en el párrafo 1° del Título I del Libro II de este código;
+c) Los terceros afectados podrán deducir oposición mediante presentación que se sujetará a las reglas señaladas en la letra anterior, y
+d) Vencidos los plazos legales, la Dirección General de Aguas remitirá la solicitud y todos los antecedentes más la oposición, si la hubiere, al Juez de Letras en lo Civil competente, quien conocerá y fallará de acuerdo al procedimiento establecido en el artículo 177 y siguientes de este código.
+El mismo procedimiento se aplicará en los casos de las personas que, cumpliendo todos los requisitos indicados en el inciso anterior, solicitaren inscribir derechos de aprovechamiento no inscritos, y aquellos que se extraen en forma individual de una fuente natural.
