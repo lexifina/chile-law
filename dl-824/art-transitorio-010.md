@@ -1,0 +1,1 @@
+ARTICULO 10° TRANSITORIO.- Para los fines de la aplicación de la ley sobre Impuesto a la Renta, según nuevo texto, se fija el monto de la unidad tributaria mensual a regir en el mes de Enero de 1975 en la cantidad de E° 37.000.
