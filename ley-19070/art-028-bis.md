@@ -1,0 +1,14 @@
+Artículo 28 bis.- Los profesionales de la educación serán designados o contratados para el desempeño de sus funciones mediante la dictación de un decreto alcaldicio o un contrato de trabajo, según corresponda, documentos que contendrán, a lo menos, las siguientes especificaciones:
+- Nombre del empleador: Municipalidad o Corporación;
+- Nombre y R.U.T. del profesional de la educación;
+- Fecha de ingreso del profesional de la educación a
+la Municipalidad o Corporación;
+- Tipo de funciones, de acuerdo al Título II de esta
+ley;
+- Número de horas cronológicas semanales a
+desempeñar;
+- Jornada de trabajo;
+- Nivel o modalidad de enseñanza, cuando
+corresponda, y
+- Calidad de la designación y período de vigencia,
+si se tratare de contratos.
