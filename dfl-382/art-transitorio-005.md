@@ -1,0 +1,2 @@
+Artículo 5°
+Las concesionarias y los prestadores de servicios sanitarios que a la fecha de publicación del presente decreto con fuerza de ley, se encontraban prestando dichos servicios, tendrán plazo hasta el 31 de enero de 1991 para entregar los antecedentes necesarios que exija la entidad normativa para formalizar su concesión, plazo que para la entrega del programa de desarrollo se extiende hasta el 30 de junio de 1991.
