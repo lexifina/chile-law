@@ -1,1 +1,1 @@
-Artículo 14°.- Las facultades que esta Ley confiere al Ministerio del Interior y a la Superintendencia, serán transferidas al Ministerio de Economía, Fomento y Reconstrucción una vez transcurridos ciento ochenta días desde la publicación en el Diario Oficial de la presente Ley.
+ARTICULO 14° DEROGADO.
