@@ -1,0 +1,1 @@
+Artículo 211-E.- En conformidad al mérito del informe, el empleador deberá, dentro de los siguientes quince días, contados desde la recepción del mismo, disponer y aplicar las medidas o sanciones que correspondan.
