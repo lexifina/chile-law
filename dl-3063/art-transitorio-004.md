@@ -1,0 +1,2 @@
+Artículo 4°- El derecho de aseo correspondiente al primer semestre del año 1980, se determinará según el monto vigente en el segundo semestre de 1979, aplicándole el reajuste contemplado en la letra s) del artículo 87 de la ley N° 15.575.
+El monto del derecho de aseo correspondiente al segundo semestre de 1980, se determinará de acuerdo a las normas del Título III. Para estos efectos las Municipalidades deberán informar dicho monto al Intendente Regional respectivo a más tardar el 31 de Marzo de 1980, y al Servicio de Impuestos Internos, a más tardar el 15 de Abril de 1980.
