@@ -1,0 +1,1 @@
+Artículo 1°.- Las normas contenidas en el inciso 2° del artículo 24 y en el artículo 54 no se aplicarán respecto de las liquidaciones notificadas con anterioridad a la fecha de vigencia de este Código.
