@@ -1,0 +1,1 @@
+Artículo 4°.- El personal en actual servicio de la Superintendencia de Servicios Eléctricos y de Gas, pasará a desempeñarse en los mismos cargos y con las mismas rentas, sin solución de continuidad y sin que requiera nuevo nombramiento, en la Superintendencia de Electricidad y Combustibles.
