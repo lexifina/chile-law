@@ -10,16 +10,22 @@ TITULO VIII De los Privilegios y Exenciones
 TITULO IX De las Sanciones
 CAPITULO II
 Disposiciones especiales relativas a las diversas
-clases de cooperativas.
+clases de cooperativas
 TITULO I
-De las cooperativas de Trabajo.
-CAPITULO II Disposiciones especiales relativas a las diversas clases de cooperativas.
-@
-TITULO II De las Cooperativas Agrícolas y Pesqueras
-TITULO III De las Cooperativas Campesinas
-TITULO IV De las Cooperativas de Servicio
-TITULO V De las Cooperativas de Consumo
-CAPITULO III De las Confederaciones, Uniones, Federaciones y Sociedades Auxiliares
-CAPITULO IV Del Departamento de Cooperativas
-CAPITULO V Disposiciones varias
+De las Cooperativas de Trabajo
+TITULO II
+De las Cooperativas Agrícolas y Pesqueras
+TITULO III
+De las Cooperativas Campesinas
+TITULO IV
+De las Cooperativas de Servicio
+TITULO V
+De las Cooperativas de Consumo
+CAPITULO III
+De las Confederaciones, Uniones, Federaciones y
+Sociedades Auxiliares
+CAPITULO IV
+Del Departamento de Cooperativas
+CAPITULO V
+Disposiciones varias
 ARTICULOS TRANSITORIOS
