@@ -1,0 +1,3 @@
+Artículo 2º.- Los registros centrales a que se refiere esta ley deberán encontrarse consolidados el 1 de julio de 2004.
+Los órganos y servicios públicos, cualquiera sea su naturaleza, que cuenten con la información respectiva, y las entidades particulares a que afecta esta ley, serán responsables de remitir a la Subsecretaría de Hacienda dicha información dentro del primer trimestre del año 2004.
+La misma obligación tendrán las municipalidades y entidades particulares, en su caso, de enviar a la Subsecretaría de Desarrollo Regional y Administrativo la información correspondiente, en el plazo señalado en el inciso precedente.
