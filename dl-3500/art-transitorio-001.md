@@ -1,3 +1,3 @@
-Artículo 1°- Los trabajadores que sean o hayan sido imponentes de alguna institución de previsión, tendrán derecho a optar entre el Sistema que establece esta ley y el régimen vigente a la fecha de su publicación que les corresponda, de acuerdo a la naturaleza de sus servicios.
-El mismo derecho a opción tendrán los trabajadores que se afilien por primera vez antes del 31 de Diciembre de 1982. Aquellos que lo hagan con posterioridad a esa fecha, deberán incorporarse al Sistema que establece esta ley.
-El derecho a opción se llevará a efecto mediante la incorporación a una Administradora de Fondos de Pensiones y podrá ejercerse dentro del plazo de cinco años contados desde el 1° de Mayo de 1981.
+Artículo 1°.- Los trabajadores que sean o hayan sido imponentes de alguna institución de previsión, tendrán derecho a optar entre el Sistema que establece esta ley y el régimen vigente a la fecha de su publicación que les corresponda, de acuerdo a la naturaleza de sus servicios.
+El mismo derecho a opción tendrán los trabajadores que se afilien por primera vez antes del 31 de diciembre de 1982. Aquellos que lo hagan con posterioridad a esa fecha, deberán incorporarse al Sistema que establece esta ley.
+El derecho a opción se llevará a efecto mediante la incorporación a una Administradora de Fondos de Pensiones.
