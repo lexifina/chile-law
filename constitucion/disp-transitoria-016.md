@@ -1,0 +1,1 @@
+DECIMOSEXTA.- En caso de que por impedimento temporal, ya sea por enfermedad, ausencia del territorio nacional u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará con el título de Vicepresidente de la República, el miembro titular de la Junta de Gobierno según el orden de precedencia que corresponda.
