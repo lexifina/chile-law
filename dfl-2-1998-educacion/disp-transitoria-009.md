@@ -1,0 +1,1 @@
+Artículo noveno transitorio: El requisito establecido en la letra a) bis del artículo 6º se exigirá a los establecimientos educacionales a partir del año 2004 respecto de los alumnos que ingresen a los primeros años que ofrezcan dichos establecimientos.
