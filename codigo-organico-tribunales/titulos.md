@@ -3,8 +3,6 @@ TITULO II De los Jueces de Distrito y de los Jueces de Subdelegación
 § 1. Los Jueces de Distrito.
 § 2. Los Jueces de Subdelegación
 TITULO III De los Jueces de Letras
-§ 1. Los Jueces de Letras de Menor Cuantía
-§ 2. Los Jueces de Letras de Mayor Cuantía
 TITULO IV De los Presidentes y Ministros de Corte como tribunales unipersonales
 TITULO V Las Cortes de Apelaciones
 § 1. Su organización y atribuciones
