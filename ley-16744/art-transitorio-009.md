@@ -1,0 +1,1 @@
+Artículo 9°.- El personal de la Caja de Accidentes del Trabajo que a la fecha de vigencia de la presente ley desempeñe de hecho las funciones de auxiliar de enfermería, podrá obtener dicho título, previo examen de competencia rendido ante una comisión designada por el Director del Servicio Nacional de Salud, sin que para ello se necesiten otros requisitos."
