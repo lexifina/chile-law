@@ -1,0 +1,1 @@
+Artículo 20°- Los Directores Regionales podrán, de acuerdo a las normas impartidas por el Director, autorizar a funcionarios de su dependencia, para resolver determinadas materias o para hacer uso de alguna de sus atribuciones, actuando "por orden del Director Regional".

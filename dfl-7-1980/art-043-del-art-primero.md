@@ -1,0 +1,1 @@
+Artículo 43°- Si en el ejercicio de las facultades exclusivas de interpretación y aplicación de las leyes tributarias se originaren contiendas de competencia con otras autoridades, ellas serán resueltas por la Corte Suprema. Igual norma se aplicará respecto de las facultades que deben o pueden ser ejercidas por los Directores Regionales.

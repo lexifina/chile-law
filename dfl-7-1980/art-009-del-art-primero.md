@@ -1,0 +1,2 @@
+Artículo 9°- Los Sub-Directores son asesores del Director en las materias de su especialidad, para lo cual deben recomendarle las normas y someter a su aprobación las instrucciones que estimen convenientes impartir al Servicio. Deben programar, dirigir, coordinar y supervigilar el funcionamiento de los Departamentos a su cargo.
+Actúan también como delegados del Director en la evaluación de los programas de trabajo y de su desarrollo, dentro de las respectivas áreas de su especialidad.

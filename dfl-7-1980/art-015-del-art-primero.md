@@ -1,0 +1,9 @@
+Artículo 15°- Le corresponde al Sub-Director Jurídico, por intermedio de los Departamentos respectivos, las siguientes atribuciones, responsabilidades y obligaciones:
+a) Asesorar al Director en las materias legales relacionadas con el Servicio;
+b) Informar, a requerimiento del Director, todas las materias que sean de competencia del Servicio;
+c) Coordinar, orientar y uniformar los criterios jurídicos en base a los cuales deben desarrollar su labor los abogados del Servicio;
+d) Analizar la jurisprudencia de los Tribunales de Justicia en materias tributarias;
+e) Examinar los proyectos de ley, decretos supremos u otras disposiciones legales que el Director someta a su estudio;
+f) Asumir la defensa del Fisco ante los Tribunales de Justicia en los juicios sobre aplicación e interpretación de las leyes tributarias, en los casos en que el Director así lo ordene, sin perjuicio de las facultades que le corresponden al Consejo de Defensa del Estado en conformidad a su Ley Orgánica;
+g) Defender al Servicio en todos los asuntos judiciales en que la ley le asigne la calidad de parte, en los recursos extraordinarios que se interpongan en contra del mismo Servicio con motivo de actuaciones administrativas o jurisdiccionales, y en todo otro asunto judicial en que así lo disponga el Director, y asumir la defensa judicial de los funcionarios del Servicio cuando se accione o recurra en contra de éstos por hechos relacionados con el ejercicio de sus funciones y siempre que el Director así lo disponga, a su juicio exclusivo, y
+h) Sostener ante los Tribunales de Justicia la acción penal en los procesos a que dé lugar la persecución de los delitos tributarios, cuando el proceso criminal se haya iniciado por querella o denuncia del Director, o coadyuvar en la defensa y en la presentación de las pruebas correspondientes si en la causa estuviere interviniendo el Consejo de Defensa del Estado por requerimiento del Director.

@@ -1,0 +1,1 @@
+Artículo 44°- Será de responsabilidad exclusiva del Jefe del Departamento de Finanzas y de los Directores Regionales, la custodia y correcta utilización de los recursos que se pongan a su disposición. Esta responsabilidad cesará cuando actúen por orden escrita del Director o del Sub-Director de Administración.

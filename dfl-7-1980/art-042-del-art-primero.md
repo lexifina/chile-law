@@ -1,0 +1,2 @@
+Artículo 42°- Cada vez que las leyes se refieren al cargo de "Director" o a la "Dirección Nacional" del Servicio de Impuestos Internos, o les otorguen facultades o atribuciones, se entenderá que tales referencias o facultades se hacen o se encuentran conferidas al Director.
+Cuando las leyes se refieran al "Servicio de Impuestos Internos" o le otorguen facultades o atribuciones, se entenderá que dichas referencias o facultades se hacen o se encuentran conferidas al Director y a los Directores Regionales, indistintamente.

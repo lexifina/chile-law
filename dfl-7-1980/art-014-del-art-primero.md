@@ -1,0 +1,6 @@
+Artículo 14°- Le corresponde al Sub-Director de Fiscalización, por intermedio de los Departamentos respectivos, las siguientes atribuciones, responsabilidades y obligaciones:
+a) Estudiar y proponer normas e instrucciones para la fiscalización de los impuestos controlados por el Servicio, y procurar que estas funciones, las jurisdiccionales y las de investigaciones de los delitos tributarios alcancen el máximo de eficiencia;
+b) Evaluar el rendimiento de las Direcciones Regionales en las materias inherentes a la Sub-Dirección;
+c) Proponer al Director sistemas y técnicas de fiscalización y resolución, fijando metas y pautas de acción a las Direcciones Regionales;
+d) Asumir la fiscalización directa de contribuyentes, notificar denuncios por infracciones a las leyes tributarias, proceder a citar a contribuyentes y otras personas en cuanto diga relación con la fiscalización del cumplimiento de las obligaciones tributarias, y liquidar y girar impuestos, reajustes, intereses y multas, todo ello sin perjuicio de las atribuciones que el Código Tributario y otras disposiciones legales confieren a los Directores Regionales, y
+e) Investigar administrativamente las infracciones tributarias sancionadas por la ley con pena corporal.

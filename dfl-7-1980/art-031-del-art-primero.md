@@ -1,0 +1,1 @@
+Artículo 31°- Los cargos que queden vacantes después de que se dé cumplimiento a lo dispuesto en el artículo 2° del decreto ley N° 3.409, de 1980, se proveerán por el Director en conformidad a las normas de esta Ley Orgánica.

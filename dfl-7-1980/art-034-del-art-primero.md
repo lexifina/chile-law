@@ -1,0 +1,1 @@
+Artículo 34°- El derecho a viático de los funcionarios del Servicio se regirá por las normas legales vigentes, sin las limitaciones establecidas en el artículo 8° del decreto de Hacienda N° 262, de 4 de Abril de 1977, y sus modificaciones, fijándose su monto diario en una suma equivalente al 3% de la remuneración mensual del respectivo funcionario.

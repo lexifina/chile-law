@@ -1,0 +1,1 @@
+Artículo 3°- Los funcionarios que con motivo del reencasillamiento en las nuevas plantas, experimenten disminución en sus remuneraciones, tendrán derecho a percibir la diferencia por planillas suplementarias, las que no serán reajustables y se absorberán por los nombramientos que beneficien al funcionario.

@@ -1,0 +1,2 @@
+Artículo 45°- Los informes que importen un cambio de doctrina o que se refieran a materias sobre las cuales no haya precedentes, deberán ser sometidos a la aprobación del Director.
+El Director estará obligado a dar respuesta sólo a las consultas que sobre interpretación y aplicación de las leyes tributarias, formulen los Jefes de Servicios y otras autoridades públicas, sin perjuicio del derecho de petición.

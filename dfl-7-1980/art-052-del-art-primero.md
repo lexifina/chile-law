@@ -1,0 +1,2 @@
+Artículo 52°- La presente Ley Orgánica, con excepción de lo que se establece en el inciso siguiente, regirá 30 días después de su publicación en el Diario Oficial. A contar de esa misma fecha, derógase el DFL N° 2, de Hacienda, de 16 de Mayo de 1963, sobre Estatuto Orgánico del Servicio de Impuestos Internos.
+El artículo 7° y los artículos transitorios de esta Ley Orgánica regirán desde su publicación en el Diario Oficial.
