@@ -1,0 +1,2 @@
+ART. 142 bis.
+Si los partícipes en los delitos de secuestro de una persona o de sustracción de un menor, antes de cumplir cualquiera de las condiciones exigidas por los secuestradores para devolver a la victima, la devolvieren libre de todo daño, la pena asignada al delito se rebajará en dos grados. Si la devolución se realiza después de cumplida alguna de las condiciones, el juez podrá rebajar la pena en un grado a la señalada en los dos artículos anteriores.
