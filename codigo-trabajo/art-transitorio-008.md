@@ -1,0 +1,3 @@
+Artículo 8.- Los trabajadores con contrato de trabajo vigente al 1° de diciembre de 1990 y que hubieren sido contratados a contar del 14 de agosto de 1981, recibirán el exceso sobre ciento cincuenta días de remuneración, que por concepto de indemnización por años de servicio pudiere corresponderles al 14 de agosto de 1990, en mensualidades sucesivas, equivalentes a treinta días de indemnización cada una, debidamente reajustadas en conformidad al artículo 173.
+Para tales efectos, en el respectivo finiquito se dejará constancia del monto total que deberá pagarse con tal modalidad y el no pago de cualquiera de las mensualidades hará exigible en forma anticipada la totalidad de las restantes.
+Dicho pago podrá realizarse en la Inspección del Trabajo correspondiente.
