@@ -1,0 +1,5 @@
+Artículo 7°.- Créase un fondo de recursos complementarios, en adelante "el fondo", con la finalidad de financiar el mayor gasto que para las municipalidades del país represente la aplicación de las normas de este Estatuto, conforme lo establece el artículo 8° transitorio de esta ley.
+El fondo será administrado por el Ministerio de Salud y su monto se determinará anualmente en la Ley de Presupuestos del Sector Público.
+El fondo tendrá una duración de dos años, contados desde la fecha de publicación de esta ley.
+Posteriormente, los recursos del fondo quedarán incorporados al régimen general de financiamiento de los establecimientos municipales de atención primaria de salud, establecido en el Título III de esta ley.
+Los aportes que corresponda efectuar a las municipalidades con cargo al fondo se transferirán mensualmente por los Servicios de Salud respectivos, conjuntamente con los aportes regulares para el financiamiento de los establecimientos municipales de atención primaria de salud, y se reajustarán en la misma oportunidad y porcentaje que éstos.
