@@ -1,0 +1,2 @@
+Artículo 17 bis E.- La remuneración mensual de los integrantes del Tribunal será la suma de cincuenta unidades tributarias mensuales, para los miembros titulares, y de veinte unidades tributarias mensuales, para los suplentes.
+Cada miembro del Tribunal percibirá, además, la suma de 0.4 unidades tributarias mensuales por cada causa sometida a su conocimiento resuelta. En todo caso, la suma total que cada miembro puede percibir mensualmente por este concepto no podrá exceder de cincuenta unidades tributarias mensuales.

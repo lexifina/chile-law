@@ -1,0 +1,4 @@
+Artículo 51 bis B.- La solicitud para el otorgamiento de una licencia no voluntaria constituirá una demanda y deberá contener todos los requisitos del artículo 254 del Código de Procedimiento Civil. Conocerán de ella:
+1) En el caso del artículo 51, Nº1), el Tribunal de Defensa de la Libre Competencia, conforme al procedimiento previsto en la ley Nº19.911.
+2) En el caso del artículo 51, Nº2), el Jefe del Departamento de Propiedad Industrial, conforme al procedimiento para nulidad de patentes establecido en esta ley. Además, por resolución fundada, resolviendo un incidente especial, podrá acceder provisoriamente a la demanda. Esta resolución se mantendrá en vigor mientras duren los hechos que fundadamente la motivaron o hasta la sentencia de término.
+3) En el caso del artículo 51, Nº3), el juez de letras en lo civil, según las normas de competencia del Código de Procedimiento Civil y de acuerdo al procedimiento sumario.
