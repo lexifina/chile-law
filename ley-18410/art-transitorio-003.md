@@ -1,0 +1,1 @@
+Artículo 3°.- En tanto no se dicte el Reglamento Orgánico de la Superintendencia de Electricidad y Combustibles, serán aplicables las disposiciones del decreto supremo N° 1.013, de 1973, del Ministerio del Interior, en lo que fuere compatible con esta ley.

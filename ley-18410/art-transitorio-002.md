@@ -1,0 +1,1 @@
+Artículo 2°.- Los pasivos fiscales correspondientes a la Superintendencia de Servicios Eléctricos y de Gas serán de cargo, por el solo ministerio de la ley, de la Superintendencia de Electricidad y Combustibles.
