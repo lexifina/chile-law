@@ -1,0 +1,2 @@
+Artículo 4º.- El personal que se encontraba en servicio a la fecha de entrada en vigencia del D.F.L.
+(G) Nº 1, de 1968, mantendrá el derecho a gozar de los beneficios establecidos en los incisos 4º y 5º del artículo 19 del decreto con fuerza de ley Nº 209, de 1953. De este mismo derecho gozarán los que siendo alumnos a dicha fecha de las Escuelas Militar, Naval o de Aviación hayan continuado posteriormente la carrera militar.

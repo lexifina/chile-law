@@ -1,0 +1,5 @@
+Artículo 15.- Los escalafones del cuadro permanente del Ejército que establece el presente estatuto, y la agrupación que contempla el D.S. S.S.G.Depto.II/3 Nº 314, del 02.MAY.1984, se denominarán y fusionarán, respectivamente, en la forma siguiente:
+Los escalafones de Infantería, Artillería, Caballería Blindada, Ingenieros, y Telecomunicaciones se fusionarán en un solo escalafón denominado Armas.
+Los escalafones de Abastecimiento y Mantenimiento de Material de Guerra, Técnico Especialista en Material de Guerra y Auxiliares de Mantenimiento de Material de Guerra, se fusionarán en un solo escalafón denominado Material de Guerra.
+Los escalafones de Finanzas, Ecónomos, Mayordomos y Subsistencias, se fusionarán en un solo escalafón denominado Intendencia.
+Los siguientes escalafones cambiarán la denominación como se indica: Auxiliar de Inteligencia por Inteligencia, Mantenimiento de Aeronaves y Servicio de Aeropuertos por Material de Aviación, Abastecimiento y Mantenimiento de Material y Equipo de Ingenieros por Material de Ingenieros y Abastecimiento, y Mantenimiento de Material y Equipo de Telecomunicaciones por Material de Telecomunicaciones.

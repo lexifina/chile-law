@@ -1,0 +1,3 @@
+Artículo 6º.- El personal del cuadro permanente de la Fuerza Aérea que perteneció a los escalafones de Maestranza y del Aire continuará gozando de los sobresueldos establecidos en las letras a) y f) del artículo 186 del presente estatuto, mientras subsistan estos beneficios.
+De igual derecho gozarán los oficiales del escalafón Base Aérea provenientes del personal del cuadro permanente, quienes conservarán el derecho a gozar del sobresueldo de que se hallaban en posesión antes de ingresar a dicho escalafón.
+En ambos casos, regirán las limitaciones establecidas en el artículo 187 del presente estatuto.

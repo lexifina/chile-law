@@ -1,0 +1,1 @@
+Artículo 11.- El tiempo servido en la Marina Mercante Nacional será válido para los efectos del cálculo de los trienios de los oficiales del escalafón de Inspectores de los Servicios Marítimos, en extinción, y para el personal de la reserva llamado al servicio activo proveniente de dicho escalafón.
