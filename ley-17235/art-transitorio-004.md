@@ -1,0 +1,1 @@
+Artículo 4º.- Las modificaciones introducidas por el Nº 3 del artículo 3º de la ley Nº 19.388 al artículo 3º de la ley Nº 17.235, regirán a contar de la entrada en vigencia de la primera tasación de los bienes raíces, agrícolas y no agrícolas, que se efectúe con posterioridad a la promulgación de la referida ley Nº 19.388.
