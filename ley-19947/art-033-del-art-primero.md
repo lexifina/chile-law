@@ -1,0 +1,1 @@
+Artículo 33.- La separación judicial deja subsistentes todos los derechos y obligaciones personales que existen entre los cónyuges, con excepción de aquellos cuyo ejercicio sea incompatible con la vida separada de ambos, tales como los deberes de cohabitación y de fidelidad, que se suspenden.
