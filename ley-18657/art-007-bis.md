@@ -1,0 +1,1 @@
+Artículo 7° bis.- Las diversificaciones y limitaciones de las inversiones en Chile del Fondo de Inversión de Capital Extranjero de Riesgo se regirán por las normas que regulan a los fondos de inversión de desarrollo de mepresas estaqblecidas en los artículos 6°, 7°, inciso primero, 8°, 9°, 10 y 11 de la Ley N° 18.815.
