@@ -1,0 +1,1 @@
+Artículo 92 bis.- Las personas que se desempeñen como intermediarias de trabajadores agrícolas y de aquéllos que presten servicios en empresas comerciales o agroindustriales derivadas de la agricultura, de la explotación de madera u otras afines, deberán inscribirse en un Registro especial que para esos efectos llevará la Inspección del Trabajo respectiva.
