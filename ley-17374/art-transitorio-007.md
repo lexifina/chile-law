@@ -1,0 +1,2 @@
+Artículo 7°.- Por el año presupuestario que reste desde la publicación de la presente ley en el Diario Oficial, el Presupuesto del Instituto Nacional de Estadística será aquél aprobado para la Dirección de Estadística y Censos en la Ley de Presupuestos de Entradas y Gastos de la Nación.
+El Presupuesto del Instituto Nacional de Estadísticas se regirá por las disposiciones del Título III, del DFL. N° 47, de 1959.
