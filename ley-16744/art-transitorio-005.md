@@ -1,0 +1,2 @@
+Artículo 5°.- Las compañías que contraten seguros de accidentes del trabajo deberán atender, hata su término, los contratos vigentes y continuar sirviendo las pensiones, pero no podrán celebrar contratos nuevos que cubran estas contingencias, ni renovar los vigentes.
+Las Compañías de Seguros garantizarán con hipoteca o cualquiera otra caución suficiente, a favor del Servicio de Seguro Social, calificada por este Servicio, el pago de las pensiones, hasta su extinción.

@@ -1,0 +1,1 @@
+Artículo 8°.- El personal que actualmente se desempeña a contrata en la Caja de Accidentes del Trabajo, deberá ser encasillado en la Planta en las mismas condiciones establecidas en el inciso primero del artículo 82° de la presente ley.
