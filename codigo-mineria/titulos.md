@@ -11,7 +11,7 @@ Párrafo 3° De los trámites posteriores a la manifestación
 Sección 1a De las oposiciones a la solicitud de mensura
 Sección 2a De la mensura
 Sección 3a Del acta de mensura
-Párrafo 4a De la sentencia constitutiva de la concesión
+Párrafo 4° De la sentencia constitutiva de la concesión
 TITULO VI DE LOS EFECTOS DE LA SENTENCIA CONSTITUTIVA DE LA CONCESIÓN
 TITULO VII DEL CONSERVADOR DE MINAS
 TITULO VIII DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS MINEROS
