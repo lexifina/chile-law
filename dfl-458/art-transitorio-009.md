@@ -1,0 +1,1 @@
+Artículo 9°.- Las tasas y porcentajes establecidos en los artículos 130° y 131°, respectivamente, de esta ley, se mantendrán mientras no fueren modificados por el nuevo texto que se fijare a la Ley de Rentas Municipales.
