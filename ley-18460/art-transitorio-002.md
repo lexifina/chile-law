@@ -1,1 +1,1 @@
-[La fuente no da el texto vigente en esta fecha.]
+ARTICULO 2° En tanto no se constituyan el Senado y la Cámara de Diputados, la proclamación del Presidente de la República y de los senadores electos se comunicará al Secretario del Senado, y la de los diputados electos al Secretario de la Cámara de Diputados.
