@@ -1,0 +1,1 @@
+Artículo 39-C.- No obstante lo señalado en el epígrafe del presente párrafo 3º, se aplicará lo dispuesto en el inciso quinto del artículo 37 a todas las operaciones de consumo regidas por esta ley, aun cuando no involucren el otorgamiento de un crédito al consumidor.
