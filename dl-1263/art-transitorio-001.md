@@ -1,2 +1,13 @@
-Artículo 1.o- Los siguientes organismos y empresas públicas deberán ajustarse a las disposiciones del presente decreto ley, en tanto no se determinen normas especiales de administración financiera que los regulen:
-Universidad de Chile Universidad Técnica del Estado Universidad Técnica Federico Santa María Universidad de Concepción Universidad Católica de Chile Universidad Católica de Valparaíso Universidad del Norte Universidad Austral de Chile Empresa Nacional del Petróleo Empresa de Ferrocarriles del Estado Empresa Portuaria de Chile Empresa Marítima del Estado Empresa de Transportes Colectivos del Estado Línea Aérea Nacional Ferrocarril Militar de Puente Alto a El Volcán Empresa de Agua Potable de Santiago Empresa Municipal de Desagües de Valparaíso y Viña del Mar Empresa de Comercio Agrícola Empresa Nacional de Minería Instituto de Seguros del Estado Televisión Nacional de Chile Corporación de Televisión Universidad de Chile Canal 9 Corporación de Televisión Universidad Católica de Valparaíso Canal 4 Corporación de Televisión Universidad Católica de Chile Canal 13.
+Artículo 1°- Los siguientes organismos y empresas públicas deberán ajustarse a las disposiciones del presente decreto ley, en tanto no se determinen normas especiales de administración financiera que los regulen:
+Empresa Nacional del Petróleo
+Empresa de Ferrocarriles del Estado
+Empresa Portuaria de Chile
+Empresa Marítima del Estado
+Empresa de Transportes Colectivos del Estado
+Línea Aérea Nacional
+Empresa de Agua Potable de Santiago
+Empresa Municipal de desagües de Valparaíso y Viña del Mar
+Empresa de Comercio Agrícola
+Empresa Nacional de Minería
+Instituto de Seguros del Estado
+Televisión Nacional de Chile
