@@ -1,0 +1,5 @@
+Artículo 5º C. Los diputados y senadores deberán efectuar, dentro del plazo de treinta días desde que hubieren asumido el cargo, una declaración jurada de intereses ante un notario de su domicilio o de la ciudad donde celebre sus sesiones el Congreso Nacional.
+Se entiende por intereses los que sean exigibles para la declaración a que se refiere el artículo 60 de la ley Nº 18.575.
+El original de la declaración será protocolizado en la misma notaría donde fue prestada y, en su caso, en otra correspondiente al domicilio del declarante. Además, dentro de quinto día, se remitirá copia de la protocolización a la secretaría de la respectiva Cámara, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado, a su costa.
+Los senadores deberán actualizar la declaración dentro de los treinta días siguientes al inicio de un período legislativo.
+Cumplidos los plazos a que se refiere este artículo, el secretario de cada Cámara dará a la publicidad la individualización de los parlamentarios que no hubieren efectuado su declaración.
