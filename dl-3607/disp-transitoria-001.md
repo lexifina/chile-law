@@ -1,0 +1,1 @@
+Artículo único.- Mientras no se dicte el reglamento indicado en el artículo 8°, continuarán en vigencia las normas del decreto supremo N° 401, de 1974, de Interior, y sus modificaciones, reglamentario del DL. N° 194, de 1973, en todo aquello que no sea contrario a las disposiciones del presente decreto ley.
