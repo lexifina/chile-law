@@ -1,0 +1,1 @@
+Artículo 76°- Las herencias deferidas durante la vigencia del decreto-ley N° 364, que aún no hayan pagado el impuesto, o que hayan verificado abonos parciales, o que lo hayan pagado provisoriamente, lo harán con arreglo a las tasas, trámites y plazos que establece esta ley.
