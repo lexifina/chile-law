@@ -1,0 +1,1 @@
+Artículo 527 bis.- En el cumplimiento de la decisión civil de la sentencia, regirán las disposiciones sobre ejecución de las resoluciones judiciales que establece el Código de Procedimiento Civil. Cuando el cumplimiento corresponda al tribunal que dictó el fallo de primera instancia, se llevará a efecto en cuaderno separado del juicio penal.

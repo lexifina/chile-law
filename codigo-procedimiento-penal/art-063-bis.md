@@ -1,0 +1,7 @@
+Artículo 63 bis.- En las apelaciones incidentales, sólo se admitirá nueva prueba documental, siempre que sea agregada antes de la vista de la causa.
+Los autos originales sólo se pedirán para resolver el recurso y, en tal caso, no se retendrán por más de dos días hábiles y uno más por cada cien fojas.
+Para decidir las apelaciones en estos asuntos, la Corte o Sala podrá solicitar de otros tribunales, aun telefónicamente, por sí o por medio del secretario o del relator, el envío de expedientes o documentos, o pedir informes escritos o verbales a los jueces o a los funcionarios auxiliares de la jurisdicción sobre datos de interés para la decisión.
+Podrá también llamar al procesado para interrogarlo, a cualquier empleado judicial que sirva dentro del territorio jurisdiccional para que dé las explicaciones o informaciones que se le soliciten, y a los policías y peritos que hayan actuado, con el mismo objeto.
+Estará asimismo facultada para trasladarse a cualquier tribunal u oficina del orden judicial o a establecimientos carcelarios o policiales con el objeto de hacer indagaciones, revisar libros, documentos, especies o locales, cuando ello fuere necesario o útil para la decisión del asunto o para establecer la corrección o incorrección de los procedimientos.
+Se podrá comisionar a uno de los miembros de la Corte o Sala para los efectos señalados en los dos incisos precedentes.
+Si se descubriere alguna infracción a la ley penal o falta a la disciplina, se dará cuenta inmediata al Presidente de la Corte.
