@@ -1,0 +1,1 @@
+Artículo 4°.-El Servicio Nacional de Salud podrá transformar, cuando sus disponibilidades se lo permitan, los actuales cargos que aún figuran en la planta con 3 y 5 horas diarias en cargos de 4 y 6 horas diarias, respectivamente, conservando sus titulares la propiedad del cargo.
