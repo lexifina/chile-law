@@ -1,0 +1,1 @@
+Artículo 145-J.- No se podrá, de manera arbitraria, excluir al trabajador de artes y espectáculos de los correspondientes ensayos ni de las demás actividades preparatorias para el ejercicio de su actividad artística.
