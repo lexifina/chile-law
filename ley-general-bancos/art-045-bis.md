@@ -1,0 +1,1 @@
+Art. 45 bis. El que obtuviere créditos de instituciones de crédito, públicas o privadas, suministrando o proporcionando datos falsos o maliciosamente incompletos acerca de su identidad, actividades o estados de situación o patrimonio, ocasionando perjuicios a la institución, sufrirá la pena de presidio menor en sus grados medio a máximo.
