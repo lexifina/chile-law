@@ -1,0 +1,8 @@
+Artículo 27 A.- Las sociedades anónimas cuyas acciones tengan transacción bursátil podrán adquirir y poseer acciones de su propia emisión, bajo las siguientes condiciones copulativas:
+a) Que sea acordado por junta extraordinaria de accionistas por las dos terceras partes de las acciones emitidas con derecho a voto;
+b) La adquisición sólo podrá hacerse hasta por el monto de las utilidades retenidas, y
+c) Si la sociedad tuviere series de acciones, la oferta de adquisición deberá hacerse en proporción al número de acciones de cada serie, que tenga transacción bursátil.
+Las juntas de accionistas citadas para considerar la adquisición de acciones de su propia emisión, deberán pronunciarse sobre el monto o porcentaje máximo a adquirir, el objetivo y la duración del programa, el que no podrá ser superior a tres años, así como del precio mínimo y máximo a pagar por las acciones respectivas, materias sobre las cuales el directorio de la sociedad deberá dar información amplia y detallada. En todo caso, la junta podrá delegar en el directorio la fijación del precio de adquisición.
+Aprobado el programa para adquirir y poseer acciones de su propia emisión en junta de accionistas, ninguna sociedad anónima podrá mantener en cartera acciones de su propia emisión representativas de un monto superior al 5% de sus acciones suscritas y pagadas.
+Los excesos producidos deberán ser enajenados en el término de 90 días, contado a partir de la fecha de la adquisición que hubiere dado origen al exceso, sin perjuicio de la responsabilidad que le cupiera a los directores y al gerente de la sociedad.
+Sólo podrán ser adquiridas por este procedimiento acciones de la sociedad que estén totalmente pagadas y libres de todo gravamen o prohibición.
