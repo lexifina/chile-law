@@ -1,0 +1,1 @@
+Artículo tercero: Para todos los efectos legales se entiende que el cargo de Fiscal es el sucesor del empleo a que alude el Art. 175 bis de la ley N° 13.305 y continuará servido por su actual titular.
