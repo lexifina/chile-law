@@ -1,0 +1,1 @@
+ARTÍCULO CUADRAGÉSIMO PRIMERO.- Establécese en la estructura de la Dirección Nacional del Servicio Civil un Consejo de Alta Dirección Pública, en adelante el Consejo con las funciones que se señalan en el artículo siguiente.
