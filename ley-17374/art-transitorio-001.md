@@ -1,0 +1,4 @@
+Artículo 1°.- El Presidente de la República deberá encasillar al actual personal de la Dirección de Estadísticas y Censos, en las plantas del Instituto Nacional de Estadísticas, sin sujeción a las normas sobre provisión de cargos ni requisitos de ingreso establecidos en el DFL. N° 338, de 1960.
+Lo dispuesto en el inciso precedente no podrá sin embargo significar despido o disminución de renta de los funcionarios, ni afectará a los derechos contenidos en los artículos 59 a 63, y 132, del DFL N° 338, de 1960.
+Los cargos que queden vacantes con posterioridad al primer encasillamiento y aquellos que se creen en modificaciones posteriores, podrán proveerse sin sujeción a las normas sobre ascensos ni a lo dispuesto en el artículo 16°, del DFL. N° 338, de 1960.
+El encasillamiento que se efectúe en virtud de la presente ley empezará a regir desde el 1° de Septiembre de 1970.
