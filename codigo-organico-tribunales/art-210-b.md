@@ -1,0 +1,1 @@
+Art. 210 B. Si con ocasión de la aplicación de las reglas previstas en los artículos anteriores hubiere más de un juez que debiere subrogar al juez del juzgado de garantía o al juez del tribunal oral en lo penal, la subrogación se hará por orden de antigüedad, comenzando por el menos antigüo.
