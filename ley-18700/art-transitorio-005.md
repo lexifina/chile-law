@@ -1,0 +1,2 @@
+Artículo 5°.- En el plebiscito a que se refiere el artículo anterior, la persona propuesta tendrá los mismos derechos que a los partidos políticos y a los candidatos independientes otorgan los artículos 33, 157, 158 y 159.
+Para los efectos de lo establecido en el artículo 7°, la persona propuesta deberá efectuar ante el Servicio Electoral la designación a que se refiere dicho artículo, dentro de quinto día de la convocatoria al plebiscito.
