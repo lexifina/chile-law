@@ -1,2 +1,2 @@
-Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, Capitán General, Presidente de la República.- Bruno Siebert Held, Mayor General, Ministro de Obras Públicas.- Manuel Concha Martínez, Brigadier General, Ministromía, Fomento y Reconstrucción.- Hernán Büchi Buc, Ministro de Hacienda.
+Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, Capitán General, Presidente de la República.- Bruno Siebert Held, Mayor General, Ministro de Obras Públicas.- Manuel Concha Martínez, Brigadier General, Ministro de Economía, Fomento y Reconstrucción.- Hernán Büchi Buc, Ministro de Hacienda.
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Germán García Arriagada, Teniente Coronel, Subsecretario de Obras Públicas.
