@@ -1,1 +1,0 @@
-Artículo 17 H.- Vencido el término probatorio, el Tribunal así lo declarará y ordenará traer los autos en relación, fijando día y hora para la vista. El Tribunal deberá oír alegatos de los abogados de las partes cuando alguna de éstas lo solicite.
