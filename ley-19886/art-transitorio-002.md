@@ -1,0 +1,1 @@
+Artículo 2º.- Los derechos y obligaciones establecidos en el decreto supremo Nº 1.312, de 1999, del Ministerio de Hacienda, para el operador de los procedimientos de apoyo computacional del sistema de información de compras y contrataciones de la Administración, subsistirán de acuerdo a los términos del respectivo contrato.
