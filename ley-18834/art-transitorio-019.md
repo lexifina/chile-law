@@ -1,1 +1,1 @@
-Artículo 19.- No obstante lo dispuesto en el artículo 70, estarán exceptuados del límite del inciso primero de dicho artículo, los funcionarios que estaban en comisión de servicios, para realizar estudios, al 23 de septiembre de 1989.
+Artículo 19.- El tope máximo a que se refiere el inciso cuarto del artículo 10 permanente será el de sus respectivos escalafones en los órganos o servicios que no hayan efectuado la adecuación dispuesta en el artículo 1º transitorio.
