@@ -11,6 +11,7 @@ PARRAFO 4° De las ventas y servicios exentos del impuesto
 PARRAFO 5° Tasa, base imponible y débito fiscal
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
+PARRAFO 8° De los exportadores
 TITULO III Impuestos especiales a las ventas y servicios
 PARRAFO 1° Del impuesto adicional a ciertos productos
 PARRAFO 2° Del impuesto a la venta de automóviles y otros vehículos
