@@ -1,0 +1,1 @@
+Artículo transitorio.- El mayor gasto que irrogue a la Subsecretaría de Economía, Fomento y Reconstrucción las funciones que le asigna esta ley, durante el año 2002, se financiará con los recursos consultados en su presupuesto.".
