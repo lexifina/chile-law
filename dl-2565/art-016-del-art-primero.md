@@ -1,0 +1,1 @@
+Artículo 16.- Las bonificaciones señaladas en el artículo 12 se pagarán cada vez que los beneficiarios acrediten la nueva superficie forestada o las intervenciones de manejo indicada en el plan de manejo, mediante certificado expedido por un ingeniero forestal o ingeniero agrónomo especializado, previa aprobación de la Corporación.
