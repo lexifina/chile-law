@@ -1,0 +1,1 @@
+Artículo 24: La causal de término de la relación laboral establecida en la letra g) del artículo 72 de esta ley regirá a contar desde el 1 de marzo de 1997, o desde la fecha en que entre en vigencia una ley que haga compatible y aplicable a los profesionales de la educación la actual legislación sobre enfermedades profesionales.
