@@ -1,2 +1,1 @@
-Artículo 8.°- La primera calificación que deba hacerse conforme a las normas de este Estatuto, tendrá lugar a contar del 1.° de septiembre de 1990, y comprenderá el desempeño funcionario entre la fecha de vigencia de este Estatuto y el 1.° de septiembre de 1990.
-El escalafón contemplado en el artículo 49 de este Estatuto, comenzará a regir el 1.° de enero de 1991. Hasta que no entre en vigencia el referido escalafón, deberá constituirse un escalafón de antigüedad por cada una de las plantas establecidas en el artículo 7.° permanente.
+Artículo 8.°- DEROGADO.-
