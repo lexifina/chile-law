@@ -51,10 +51,10 @@ TITULO XI Los Auxiliares de la Administración de Justicia
 1). Su Organización
 2). De las escrituras públicas
 3). De las protocolizaciones
-4). De las copias de escrituras públicas y documentos
+4). De las copias de escrituras públicas y documentos protocolizados y de los documentos privados.
 5). De la falta de fuerza legal de las escrituras, copias y testimonios notariales
 6). De los libros que deben llevar los notarios
-7). De la penas
+7). De las infracciones y sanciones
 § 8. Los Conservadores
 § 9. Los Archiveros
 § 10. Los Asistentes Sociales Judiciales
