@@ -1,0 +1,1 @@
+Artículo primero.- Las disposiciones de la presente ley no serán consideradas en caso alguno, como causales de término de servicio, ni supresión o fusión de cargos ni, en general, cese de funciones o término de la relación laboral, para ningún efecto legal.
