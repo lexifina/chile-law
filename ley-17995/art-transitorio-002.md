@@ -1,0 +1,2 @@
+Artículo 2°- En tanto no se dicte la ley a que se refiere el N° 5 del artículo 523 del Código Orgánico de Tribunales, los requisitos, forma y aprobación de la práctica para obtener el título de Abogado, se sujetarán a las normas establecidas en el decreto supremo del Ministerio de Justicia N° 1.450, de 15 de Abril de 1935. Las referencias que en él se hagan al Colegio de Abogados se entenderán hechas a las corporaciones que esta ley contempla.
+La práctica será aprobada por el director de la corporación respectiva.
