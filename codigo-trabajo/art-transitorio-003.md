@@ -1,0 +1,1 @@
+Artículo 3.- Las disposiciones reglamentarias vigentes a la fecha de entrada en vigor del presente Código, que hubieren sido dictadas en virtud de los cuerpos legales derogados por el artículo segundo de la ley N° 18.620 mantendrán su vigencia, en todo lo que fueren compatibles con aquél hasta el momento en que comiencen a regir los nuevos reglamentos.
