@@ -1,0 +1,1 @@
+Artículo 4º.- La celebración del matrimonio exige que ambos contrayentes sean legalmente capaces, que hayan consentido libre y espontáneamente en contraerlo y que se hayan cumplido las formalidades que establece la ley.

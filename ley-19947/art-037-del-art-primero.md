@@ -1,0 +1,1 @@
+Artículo 37.- El hijo concebido una vez declarada la separación judicial de los cónyuges no goza de la presunción de paternidad establecida en el artículo 184 del Código Civil. Con todo, el nacido podrá ser inscrito como hijo de los cónyuges, si concurre el consentimiento de ambos.
