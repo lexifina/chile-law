@@ -1,0 +1,2 @@
+Artículo 7°.- El sistema único de acreditación socioeconómica de los alumnos establecido en el artículo 2°, inciso primero, de esta ley, entrará en vigencia a contar del año 1995.
+Durante el año 1994, las instituciones a que se refiere el artículo 70 de la ley N. 18.591, otorgarán créditos universitarios a sus estudiantes, de conformidad con las restantes normas de la presente ley y con sus respectivos reglamentos.

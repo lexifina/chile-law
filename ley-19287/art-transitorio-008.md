@@ -1,0 +1,1 @@
+Artículo 8°.- En 1994, los deudores de créditos universitarios presentarán la información a que se refiere el artículo 9°, a más tardar el último día hábil del mes de julio. El pago anual que corresponda podrá se efectuado en cuotas iguales, dentro de un máximo de 10 meses contados desde la fecha en que se acreditaron los ingresos del deudor.".
