@@ -1,0 +1,2 @@
+Artículo 3º.- El Fiscal Nacional solicitará a las Cortes de Apelaciones con asiento en comunas ubicadas en las restantes regiones del país la elaboración de las ternas para la designación de los Fiscales Regionales con doce meses de anticipación respecto de los plazos que se establecen en el artículo siguiente.
+Regirá, al efecto, el procedimiento previsto en el artículo 29, y tendrá aplicación lo dispuesto en el inciso final del artículo precedente.
