@@ -1,0 +1,1 @@
+Artículo 1°.- El sistema de evaluación de impacto ambiental que regula el Párrafo 2° del Título II de esta ley, entrará en vigencia una vez publicado en el Diario Oficial el reglamento a que se refiere el artículo 13.
