@@ -1,0 +1,1 @@
+Artículo 2°.- En la primera constitución de los consejos de desarrollo comunal, los requisitos de antigüedad exigidos en las letras c) y d) del artículo 63, se entenderán cumplidos si a la fecha de vigencia de esta ley las organizaciones comunitarias y las personas que desempeñen actividades relevantes reúnen los demás requisitos exigidos en dicho artículo.
