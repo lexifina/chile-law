@@ -1,2 +1,1 @@
-Artículo 319° c El que, estando autorizado para el expendio de sustancias estupefacientes, las suministrare en contravención a las disposiciones legales o reglamentarias restrictivas de su uso, será penado con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
-En las mismas penas incurrirá el médico que, con abuso de su profesión, recetare sustancias estupefacientes sin una necesidad médica o terapéutica que lo justifique o en dosis apreciablemente mayores que las necesarios.
+ART. 319 c). Derogado.

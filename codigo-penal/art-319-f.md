@@ -1,1 +1,1 @@
-Artículo 319° f Las normas señaladas en los cincos artículos precedentes, se aplicarán, igualmente, cuando se trate de drogas que produzcan efectos de dependencia y que estén incluidas en el reglamento a que se refiere el inciso 2° del artículo 319° a. En estos casos, el Tribunal podrá rebajar hasta en tres grados las penas que en los referidos artículos se establecen.
+ART. 319 f). Derogado.

@@ -1,1 +1,1 @@
-Artículo 319° g Por los delitos previstos en los seis artículos anteriores se impondrá, además, la pena accesoria de sujeción a la vigilancia de la autoridad por el máximo del tiempo que señala la ley.
+ART. 319 g). Derogado.

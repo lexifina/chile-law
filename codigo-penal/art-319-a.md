@@ -1,2 +1,1 @@
-Artículo 319° a El que elaborare, fabricare, extrajere o prepare sustancias estupefacientes contraviniendo las prohibiciones y restricciones legales o reglamentarias, será penado con presidio mayor en su grado medio y multa de diez a cien sueldos vitales.
-Para todos los efectos legales, se considerarán sustancias estupefacientes las que sean calificadas como tales en el reglamento que dictará el Presidente de la República, el que podrá ser adicionado o modificado por esta misma autoridad.
+ART. 319 a). Derogado.
