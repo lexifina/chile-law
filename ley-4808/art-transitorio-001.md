@@ -1,0 +1,2 @@
+Artículo 1.o Autorízase al Presidente de la República para que, dentro del plazo de seis meses, organice la oficina del Conservador del Registro Civil y demás servicios, a que se refiere esta ley, sin que para este efecto se excedan las sumas consultadas en el Presupuesto vigente.
+Autorízase, asimismo, al Presidente de la República, para que en el primer nombramiento que haga de acuerdo con el inciso anterior, proceda sin sujertarse a lo dispuesto en el inciso del artículo 71.
