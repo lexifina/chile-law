@@ -1,0 +1,2 @@
+Artículo 10.- Son cotos de caza los predios especialmente destinados a practicar la caza mayor y menor de animales.
+Para establecer un coto de caza se requerirá la previa realización de una declaración o estudio de impacto ambiental, en conformidad al procedimiento previsto en la ley N° 19.300, de cuyas conclusiones se desprenda que las actividades de caza en el coto no traerán consecuencias adversas al equilibrio de los ecosistemas existentes en el área geográfica donde se pretenda instalarlo.
