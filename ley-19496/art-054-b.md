@@ -1,0 +1,2 @@
+Artículo 54 B.- Los interesados podrán comparecer al juicio ejerciendo sus derechos, con el patrocinio de abogado o personalmente.
+Sin perjuicio de lo dispuesto en el inciso anterior, habiéndose designado procurador común, los interesados actuarán a través de él, de acuerdo a las reglas generales. En caso contrario, se procederá a designarlo para que represente a aquellos interesados que hubieran comparecido personalmente, una vez vencido el plazo de noventa días establecido en el artículo 54 C.
