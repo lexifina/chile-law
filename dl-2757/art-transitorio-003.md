@@ -1,0 +1,1 @@
+Artículo 3°.- Facúltase al Presidente de la República para que dentro del plazo de 180 días, por decreto del Ministerio de Economía, Fomento y Reconstrucción, dicte las normas por las que deberán regirse las federaciones y confederaciones a que se refiere el artículo 25 de esta ley.
