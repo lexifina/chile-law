@@ -1,1 +1,0 @@
-Artículo 24 bis.- A iniciativa y previo informe técnico de la Subsecretaría, durante el primer semestre de cada año, mediante decreto supremo, podrán modificarse las áreas de las unidades de pesquería declaradas en régimen de plena explotación, con la aprobación por mayoría absoluta de los miembros en ejercicio del Consejo Nacional y Zonal de Pesca que corresponda.
