@@ -1,0 +1,1 @@
+Artículo 2°- El Banco deberá enajenar las acciones que actualmente posea, dentro de los 3 años siguientes a la fecha de publicación del presente decreto ley. El Superintendente de Bancos e Instituciones Financieras podrá ampliar este plazo en casos justificados, hasta por dos años y por una sola vez.
