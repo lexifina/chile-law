@@ -1,0 +1,1 @@
+Artículo 34.- Los pequeños propietarios forestales podrán organizarse para acogerse a los beneficios que ofrece esta ley mediante postulaciones colectivas efectuadas directamente o por sus organizaciones.
