@@ -1,1 +1,1 @@
-Artículo 10.- Los anticipos sobre la indemnización por años de servicio convenidos o pagados con anterioridad al 1° de diciembre de 1990 se regirán por las normas bajo cuyo imperio se convinieron o pagaron.
+Art. 10. Los anticipos sobre la indemnización por años de servicio convenidos o pagados con anterioridad al 1.° de diciembre de 1990 se regirán por las normas bajo cuyo imperio se convinieron o pagaron.

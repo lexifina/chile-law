@@ -1,2 +1,2 @@
-Anótese, tómese razón, regístrese, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- René Cortázar Sanz, Ministro del Trabajo y Previsión Social.- Francisco Cumplido Cereceda, Ministro de Justicia.
-Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Eduardo Loyola Osorio, Subsecretario del Trabajo.
+Anótese, tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.
+Lo que transcribo a usted para su conocimiento.- Saluda a usted, Yerko Ljubetic Godoy, Subsecretario del Trabajo.
