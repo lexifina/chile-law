@@ -1,0 +1,1 @@
+Artículo 3º.- El mayor gasto que irrogue esta ley durante el primer año de su aplicación, se financiará con cargo a los recursos asignados al Servicio de Registro Civil e Identificación y al Servicio Médico Legal en sus respectivos presupuestos, en lo que correspondiere a cada una de estas instituciones.".
