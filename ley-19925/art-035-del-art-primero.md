@@ -1,0 +1,2 @@
+Artículo 35.- En las mismas condiciones, el juez de policía local también podrá ordenar la asistencia a esos programas de tratamiento y rehabilitación del cónyuge o del padre o la madre de familia que habitualmente se encontrare bajo la influencia del alcohol, de modo que no le sea posible administrar correctamente sus negocios o sustentar a su cónyuge e hijos.
+Esta medida se dispondrá a petición de cualquiera de los miembros mayores de su familia, oyendo personalmente al interesado y a sus parientes.
