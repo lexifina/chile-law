@@ -1,0 +1,2 @@
+TRIBUNAL CONTITUCIONAL PROYECTO DE LEY QUE ESTABLECE SUBSIDIO AL PAGO DE CONSUMO DE AGUA POTABLE Y SERVICIO DE ALCANTARILLADO DE AGUAS SERVIDAS
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que la H. Junta de Gobierno envió el proyecto de ley enunciado en el rubro a fin de que el Tribunal ejerciera el control de su constitucionalidad respecto de su artículo 9°, y que por sentencia de 9 de enero de 1989, declaró que el inciso final de este artículo es constitucional.- Rafael Larraín Cruz, Secretario.

@@ -1,0 +1,3 @@
+Artículo 1°.- El Servicio Nacional de Obras Sanitarias, la Empresa Metropolitana de Obras Sanitarias, la Empresa de Obras Sanitarias de la V Región y el Servicio Municipal de Agua Potable de Maipú podrán renegociar, caso a caso, dentro del plazo de 270 días contado desde la fecha de publicación de esta ley, el pago de las deudas acumuladas, hasta el 31 de octubre, incluidos sus reajustes, intereses y multas, pudiendo condonarlas parcialmente.
+Asimismo, los prestadores podrán castigar contablemente las diferencias que resulten de aplicar el inciso anterior.
+Respecto de las personas que renegocien sus deudas de acuerdo a lo establecido en este artículo, se les entenderá al día en sus pagos de los servicios, para los efectos que contempla la letra b) del artículo 3°.
