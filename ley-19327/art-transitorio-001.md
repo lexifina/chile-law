@@ -1,0 +1,2 @@
+Artículo transitorio.- Los clubes de fútbol profesional deberán dar cumplimiento a las obligaciones que les impone el artículo 4° dentro del plazo de sesenta días, contados desde la publicación de esta ley.
+Establécese, asimismo, un plazo de ciento veinte días, contado desde la misma fecha, para que se solicite la autorización mencionada en el artículo 1° respecto de los actuales centros o recintos deportivos destinados a la realización de espectáculos de fútbol profesional.".
