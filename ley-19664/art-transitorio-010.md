@@ -1,0 +1,1 @@
+Artículo 10.- Mientras se dicten los instrumentos necesarios para la aplicación de esta ley, los personales sometidos a sus disposiciones mantendrán, transitoriamente, el sistema de remuneraciones de la ley N° 15.076, sin perjuicio de efectuarse las reliquidaciones correspondientes una vez que ello ocurra.
