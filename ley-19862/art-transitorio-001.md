@@ -1,0 +1,2 @@
+Artículo 1º.- Las instituciones a que se refiere esta ley deberán establecer los registros correspondientes en el curso del año 2003, en base a las transferencias que se efectúen en dicho año. La información de dichos registros deberá estar disponible a través de medios electrónicos.
+Sin embargo, el requisito establecido en el artículo 6º para entregar recursos públicos o conceder franquicias tributarias regirá sólo a contar del 1 de enero de 2004.
