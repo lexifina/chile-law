@@ -1,0 +1,1 @@
+Artículo 58 bis.- Cada municipalidad deberá disponer de un reglamento de contrataciones y adquisiciones, aprobado por el concejo a propuesta del alcalde, en el cual se establezcan los procedimientos de resguardo necesarios para la debida objetividad, transparencia y oportunidad en las contrataciones y adquisiciones que se efectúen.
