@@ -1,0 +1,3 @@
+ARTÍCULO SEXAGÉSIMO SEXTO.- Los cargos de altos directivos públicos deberán desempeñarse con dedicación exclusiva y estarán sujetos a las prohibiciones e incompatibilidades establecidas en el artículo 1° de la ley N°19.863, y les será aplicable el artículo 8° de dicha ley.
+Las funciones de los altos directivos son incompatibles con el ejercicio de cargos o funciones unipersonales en los órganos de dirección en partidos políticos.
+Sin perjuicio de lo dispuesto en los incisos anteriores y de las incompatibilidades y prohibiciones especiales que les puedan afectar, los altos directivos públicos estarán sometidos a las normas legales generales que regulan la probidad administrativa.
