@@ -1,0 +1,2 @@
+Artículo 32.- En caso de reincidencia, se podrá elevar al duplo las multas establecidas en los artículos 29, 30 y 31, y ordenar la clausura de los establecimientos cuando tal reincidencia se refiera a normas relativas a criaderos, centros de reproducción, de rehabilitación y de exhibición.
+En caso de no pago de una multa impuesta en conformidad a lo previsto en los artículos 30 y 31, el juez podrá, por vía de sustitución y apremio, aplicar un día de prisión por cada tres unidades tributarias mensuales que se hayan aplicado de multa, con un máximo de treinta días.

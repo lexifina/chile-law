@@ -1,0 +1,3 @@
+Artículo 18.- Los cotos de caza, criaderos, y los centros de reproducción, de rehabilitación y de exhibición deberán cumplir con requisitos mínimos de superficie, seguridad, equipamiento y operación, destinados a proteger las personas, el ecosistema y el normal desenvolvimiento de las distintas actividades económicas, y a brindar a cada especie animal un hábitat acorde con sus necesidades fisiológicas, en resguardo de su salud y bienestar.
+Los cotos de caza, además, deberán acreditar la existencia de una población mínima.
+El reglamento señalará los requisitos específicos que deberán cumplir los diferentes tipos de establecimientos a que se refiere el inciso anterior.
