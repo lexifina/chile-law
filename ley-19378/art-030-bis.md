@@ -1,0 +1,9 @@
+Artículo 30 bis.- Los funcionarios cuyo desempeño sea evaluado como positivo para mejorar la calidad de los servicios de los establecimientos en que laboran obtendrán una asignación anual de mérito. Para estos efectos, se entenderá como funcionarios con evaluación positiva a aquellos cuyo puntaje de calificación se encuentre dentro del 35% mejor evaluado en cada categoría de la dotación del respectivo establecimiento, y siempre que estén ubicados en lista 1, de Distinción, o lista 2, Buena.
+La asignación anual de mérito se sujetará a las siguientes reglas:
+a) Se otorgará por tramos y su monto mensual corresponderá en cada uno de ellos a los siguientes porcentajes del sueldo base mínimo nacional de la categoría a que pertenezca el funcionario:
+- El tramo superior, conformado por el 11% mejor calificado, obtendrá como bonificación hasta el 35% de dicho sueldo base mínimo.
+- El tramo intermedio, correspondiente al 11% ubicado a continuación del tramo anterior, obtendrá hasta el 20% de dicho sueldo base mínimo.
+- El tramo inferior, conformado por el 13% restante, obtendrá hasta el 10% de dicho sueldo base mínimo.
+b) Las fracciones iguales o superiores a 0,5 que resulten del cálculo, tanto del 35% beneficiado como de cada uno de los tramos, se elevarán al entero superior y las fracciones inferiores a 0,5 no serán consideradas.
+c) El beneficio se pagará por parcialidades en los meses de marzo, junio, septiembre y diciembre, incluyéndose en cada uno de estos pagos las sumas correspondientes a todo el trimestre respectivo, y
+d) El reglamento establecerá las normas de desempate para situaciones de igual evaluación; los casos en que el cálculo del personal beneficiario deba hacerse sobre el total de la dotación o sobre dos o más categorías de ésta, cuando por haber poco personal en ellas no sea posible aplicar las reglas anteriores, y las demás disposiciones necesarias para la aplicación de este artículo.
