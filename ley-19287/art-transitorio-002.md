@@ -1,0 +1,1 @@
+Artículo 2°.- Asimismo, podrán repactar su deuda en las condiciones y plazo señalados en el artículo anterior, quienes hubieren sido beneficiarios sólo del crédito universitario, sea que su obligación haya adquirido o no el carácter de exigible a la fecha de publicación de esta ley.
