@@ -1,0 +1,1 @@
+Artículo 4°.- Las promociones en los cargos de las Plantas de Directivos de Carrera, Profesionales y de Técnicos, a que se refiere el artículo 30 de la presente ley, comenzarán a operar una vez que se hayan provisto todos los cargos en conformidad con lo dispuesto en el artículo anterior.
