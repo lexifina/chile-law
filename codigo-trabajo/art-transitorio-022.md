@@ -1,0 +1,1 @@
+Art. 22 No obstante lo dispuesto en el artículo 266 del Código del Trabajo, en la forma modificada por la Ley Nº 19.759, los sindicatos afiliados a confederaciones sindicales a la fecha de publicación de la referida ley, podrán mantener su afiliación a ellas.
