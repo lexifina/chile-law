@@ -1,0 +1,1 @@
+Artículo 1°.- Las obligaciones a que se refiere esta ley, anteriores a la fecha de su vigencia, se regirán por la ley aplicable a la época en que fueron contraídas. Para este efecto, el Banco Central de Chile continuará fijando el Indice Diario de Precios al Consumidor y la tasa de interés para operaciones a treinta días.
