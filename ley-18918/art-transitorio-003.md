@@ -1,0 +1,1 @@
+Artículo 3°.- De acuerdo con lo previsto en el artículo 19, N° 3°, inciso cuarto y en la disposición Vigésima primera transitoria, letra b), de la Constitución Política, las acusaciones a que se refiere el artículo 48, N° 2), de la Constitución, sólo podrán formularse con motivo de actos realizados a contar del 11 de marzo de 1990.
