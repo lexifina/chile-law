@@ -1,1 +1,1 @@
-Artículo 21.- El Presidente de la República dictará el Reglamento de la presente ley, dentro del plazo de 150 días siguientes a la fecha de su publicación en el Diario Oficial.".
+Artículo 21: Declárase, interpretando lo dispuesto en el artículo 85 de esta ley, que en dicha disposición no están ni han estado comprendidos los profesionales de la educación que se desempeñan en establecimientos particulares pagados.
