@@ -1,0 +1,3 @@
+ESTABLECE NORMAS RELATIVAS AL VIRUS DE INMUNO DEFICIENCIA HUMANA Y CREA BONIFICACION FISCAL PARA ENFERMEDADES CATASTROFICAS
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
