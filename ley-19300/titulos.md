@@ -1,6 +1,7 @@
 "TITULO I Disposiciones Generales
 TITULO II De los Instrumentos de Gestión Ambiental
 Párrafo 1° De la Educación y la Investigación
+Párrafo 2° Del Sistema de Evaluación de Impacto Ambiental
 Párrafo 3° De la Participación de la Comunidad en el Procedimiento de Evaluación de Impacto Ambiental
 Párrafo 4° De las Normas de Calidad Ambiental y de la Preservación de la Naturaleza y Conservación del Patrimonio Ambiental
 Párrafo 5° De las Normas de Emisión
