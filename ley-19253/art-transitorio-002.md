@@ -1,0 +1,1 @@
+Artículo 2°.- En todos aquellos casos en que se encontrare vencido el plazo señalado en el artículo 29 de la ley N° 17.729, los interesados gozarán de un nuevo plazo de un año, contado desde la fecha de publicación de esta ley, para hacer valer sus derechos en la forma dispuesta en ese texto, para cuyo efecto seguirán vigentes las normas pertinentes de la citada ley.
