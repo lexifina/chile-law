@@ -68,7 +68,7 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 § XIV. Crímenes y Simples Delitos contra la Salud Pública.
 § XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 § XVI. Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia.
-TÍTULO SÉPTIMO. CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y CONTRA LA MORALIDAD PÚBLICA.
+TÍTULO SÉPTIMO CRÍMENES Y DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, CONTRA LA MORALIDAD PÚBLICA Y CONTRA LA INTEGRIDAD SEXUAL.
 § I. Aborto.
 § II. Abandono de niños y personas desvalidas.
 § III. Crímenes y simples delitos contra el estado civil de las personas.
