@@ -14,6 +14,7 @@ PARRAFO 4º De la Subvención de Refuerzo Educativo
 PARRAFO 5º De la Subvención por Desempeño de Excelencia
 PARRAFO 6º De la Subvención Adicional Especial
 PARRAFO 7º Subvención para establecimientos administrados conforme al D.L. 3.166, de 1980
+Párrafo 8º Subvención Educacional Pro- Retención de Alumnos en los Establecimientos Educacionales.
 TITULO IV Normas Generales
 PARRAFO 1º De las Infracciones y Sanciones
 PARRAFO 2º De la Fiscalización
