@@ -4,14 +4,16 @@ PARRAFO 2° Definiciones
 Párrafo 3° De los contribuyentes.
 PARRAFO 4° Otras disposiciones
 TITULO II IMPUESTO AL VALOR AGREGADO
-Párrafo 1° Del hecho gravado.
+PARRAFO 1° Del hecho gravado
 Párrafo 2° Del momento en que se devenga el impuesto.
 Párrafo 3° Del sujeto del impuesto.
+PARRAFO 4° De las ventas y servicios exentos del impuesto
 PARRAFO 5° Tasa, base imponible y débito fiscal
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 TITULO III Impuestos especiales a las ventas y servicios
 PARRAFO 1° Del impuesto adicional a ciertos productos
+PARRAFO 2° Del impuesto a la venta de automóviles y otros vehículos
 PARRAFO 3° Del impuesto adicional a las bebidas alcohólicas, analcohólicas y productos similares.
 PARRAFO 4 Otros impuestos específicos
 PARRAFO 5° Del impuesto a las compras de monedas extranjeras
