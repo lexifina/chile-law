@@ -1,0 +1,1 @@
+Artículo primero.- A contar de la publicación de la presente ley, las películas que durante la vigencia del decreto ley Nº 679, de 1974, hayan sido calificadas para "mayores de 21 años" se entenderán calificadas para "mayores de 18 años" y las que hayan sido "rechazadas" dejarán de estarlo y para su exhibición o comercialización deberán someterse a la calificación del Consejo.
