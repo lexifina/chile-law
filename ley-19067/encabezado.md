@@ -1,0 +1,3 @@
+ESTABLECE NORMAS PERMANENTES SOBRE ENTRADA DE TROPAS EXTRANJERAS EN EL TERRITORIO DE LA REPUBLICA Y SALIDA DE TROPAS NACIONALES DEL MISMO
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de Ley:
