@@ -1,0 +1,3 @@
+Artículo 12.- El Bono de Reconocimiento y los intereses correspondientes sólo serán exigibles y se abonarán a la cuenta del afiliado en la fecha en que éste entere la edad para pensionarse por vejez. Se hará exigible antes de cumplir la edad para pensionarse, si el afiliado fallece o se produce invalidez en los términos establecidos en el artículo 4°.
+La Administradora de Fondos de Pensiones asumirá la representación judicial y extrajudicial del afiliado o la de sus beneficiarios, para el cobro del Bono.
+Para los efectos de lo previsto en el artículo 18 de esta ley, en la determinación del saldo de la cuenta individual del afiliado, se considerará el valor del Bono en conformidad a las normas que establezca el reglamento.
