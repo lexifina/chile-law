@@ -21,6 +21,7 @@ TITULO IV De la administración del impuesto
 PARRAFO 1° Del Registro de los contribuyentes
 PARRAFO 2° De las facturas y otros comprobantes de ventas y servicios
 PARRAFO 3° De los libros y registros.
+PARRAFO 4° De la declaración y pago del impuesto
 Párrafo 5° Otras disposiciones
 Titulo VI Normas derogatorias
 ARTICULOS TRANSITORIOS
