@@ -1,0 +1,1 @@
+Artículo 1° transitorio.- La exención contemplada en el N° 1 de la letra A del artículo 13°, regirá por un plazo de 5 años, contados desde la vigencia de la Ley sobre Impuesto a las Ventas y Servicios.
