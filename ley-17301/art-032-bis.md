@@ -1,0 +1,1 @@
+ARTICULO 32° BIS. La Junta podrá encomendar la ejecución de acciones y entregar la administración de sus Jardines o bienes de su propiedad a las Municipalidades o a entidades de derecho privado, mediante la celebración de contratos, en los cuales deberá asegurarse el cumplimiento de los objetivos del Servicio y el debido resguardo del patrimonio del Estado.
