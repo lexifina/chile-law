@@ -1,0 +1,1 @@
+Artículo 7°.- Para cumplir lo dispuesto por las disposiciones vigésimaoctava o vigésimanovena transitorias de la Constitución Política, las declaraciones de candidaturas sólo podrán efectuarse hasta el 11 de julio de 1989.

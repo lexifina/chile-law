@@ -1,0 +1,1 @@
+Artículo 2°.- Esta ley regirá en todo lo que fuere aplicable a los procesos eleccionarios y plebiscitarios previstos en las disposiciones transitorias de la Constitución Política, los que se regirán también por lo dispuesto en los siguientes artículos.

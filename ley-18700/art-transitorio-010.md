@@ -1,0 +1,1 @@
+Artículo 10.- En el caso de la primera elección que deba realizarse en conformidad a las disposiciones vigésimaoctava o vigésimanovena transitorias de la Constitución Política, se suspenderá la inscripción en los Registros Electorales a partir del 11 de julio de 1989.
