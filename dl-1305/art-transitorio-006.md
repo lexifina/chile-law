@@ -1,0 +1,2 @@
+ARTICULO 6° Decláranse bien pagadas las rentas percibidas por los funcionarios que asumieron cargos en virtud de disposiciones de autoridades del Ministerio o de sus Corporaciones a consecuencia y con posterioridad al 11 de septiembre de 1973, y cuyos nombramientos no se regularizaron oportunamente.
+Decláranse igualmente válidos los actos ejecutados u ordenados por dichos funcionarios en el ejercicio de las facultades inherentes a los cargos desempeñados.
