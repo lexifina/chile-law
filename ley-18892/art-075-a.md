@@ -1,1 +1,0 @@
-Artículo 75 a).- Con el fin de orientar los campeonatos de pesca y caza submarina hacia un mayor respecto a la naturaleza e incentivar nuevas formas de competencia, las federaciones y organismos correspondientes deberán someter las bases de dichos campeonatos a la aprobación previa del Servicio.
