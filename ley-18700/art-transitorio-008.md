@@ -1,0 +1,1 @@
+Artículo 8°.- A partir de la vigencia de esta ley las Juntas Electorales respectivas procederán a efectuar la selección a que se refiere el artículo 41, formando las nóminas de nombres propuestos que correspondan a Registros cerrados definitivamente.
