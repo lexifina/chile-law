@@ -1,0 +1,1 @@
+SEXTA.- No obstante lo dispuesto en el número 8º. del artículo 32, mantendrán su vigencia los preceptos legales que a la fecha de promulgación de esta Constitución hubieren reglado materias no comprendidas en el artículo 60, mientras ellas no sean expresamente derogadas por ley.
