@@ -1,0 +1,1 @@
+Artículo 28 I.- Las disposiciones de este Título serán reglamentadas mediante decreto supremo, que deberá llevar la firma de los Ministros de Transportes y Telecomunicaciones, de Economía, Fomento y Reconstrucción y de Hacienda.
