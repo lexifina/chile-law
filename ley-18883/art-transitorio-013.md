@@ -1,0 +1,1 @@
+Artículo 13.°- Las normas legales y reglamentarias que regían los derechos de desahucio, de jubilación y otros beneficios de similar naturaleza, seguirán vigentes respecto del personal de las municipalidades al cual se aplicaban dichas disposiciones al 1.° de septiembre de 1989.
