@@ -1,0 +1,1 @@
+Artículo 26 bis.- Los trabajos que se ejecuten por las microempresas familiares, por encargo de terceros, se entenderán, para todos los efectos legales, que se realizan por cuenta de quien los encarga.
