@@ -1,19 +1,19 @@
-"TITULO I Disposiciones generales
-TITULO II Constitución y funcionamiento de las juntas de vecinos y de las demás organizaciones comunitarias
-Párrafo 1° De la constitución
-Párrafo 2° De los estatutos
-Párrafo 3° De los derechos y obligaciones
-Párrafo 4° De las asambleas
-Párrafo 5° Del Directorio
-TITULO III Del patrimonio
+TITULO I Disposiciones Generales
+TITULO II Constitución y Funcionamiento de las Juntas de Vecinos y de las demás Organizaciones Comunitarias.
+Párrafo 1º De la Constitución
+Párrafo 2º De los Estatutos
+Párrafo 3º De los Derechos y Obligaciones
+Párrafo 4º De las Asambleas
+Párrafo 5º Del Directorio
+TITULO III Del Patrimonio
 TITULO IV Disolución
-TITULO V Normas especiales sobre las juntas de vecinos
-Párrafo 1° De la organización y funcionamiento
-Párrafo 2° De las funciones y atribuciones
-Párrafo 3° Del Fondo de Desarrollo Vecinal
-TITULO VI Normas especiales sobre organizaciones comunitarias funcionales
-TITULO VII Organizaciones comunales
-Párrafo 1° La unión comunal de juntas de vecinos
-Párrafo 2° Las uniones comunales de organizaciones comunitarias funcionales
-Párrafo 3° Normas Comunes a las Uniones Comunales
-Disposición final
+TITULO V Normas Especiales Sobre las Juntas de Vecinos
+Párrafo 1º De la Organización y Funcionamiento
+Párrafo 2º De las Funciones y Atribuciones
+Párrafo 3º Del Fondo de Desarrollo Vecinal
+TITULO VI Normas Especiales sobre Organizaciones Comunitarias Funcionales
+TITULO VII Organizaciones Comunales
+Párrafo 1º La Unión Comunal de Juntas de Vecinos
+Párrafo 2º Las Uniones Comunales de Organizaciones Comunitarias Funcionales
+Párrafo 3º Normas Comunes a las Uniones Comunales
+Disposiciones Finales
