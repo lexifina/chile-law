@@ -1,0 +1,1 @@
+Artículo 5°.- El Directorio, al establecer la planta, deberá encasillar al personal en los cargos que ésta contemple. Este encasillamiento en caso alguno podrá significar rebaja de remuneraciones y beneficios en dinero o en especies que cada trabajador tenga derecho a percibir, según su respectivo contrato de trabajo vigente a la fecha de publicación de esta ley.
