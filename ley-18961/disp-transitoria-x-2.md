@@ -1,0 +1,1 @@
+Artículo 2°.- Las disposiciones de la ley N° 18.458 mantendrán su vigencia en cuanto no sean contrarias a a esta ley y, en consecuencia, continuarán aplicándose mientras no sean expresamente derogadas.
