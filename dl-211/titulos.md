@@ -1,7 +1,6 @@
-TITULO I Disposiciones Generales
-TITULO II DEL TRIBUNAL DE DEFENSA DE LA LIBRE COMPETENCIA
-1. DE SU ORGANIZACION Y FUNCIONAMIENTO
-1. DE SU ORGANIZACION Y FUNCIONAMIENTO.
+TITULO I Disposiciones generales
+TITULO II Del Tribunal de Defensa de la Libre Competencia
+1. De su organización y funcionamiento
 2. De las atribuciones y procedimientos
 TITULO III De la Fiscalía Nacional Económica
 Disposiciones transitorias
