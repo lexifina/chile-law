@@ -1,0 +1,1 @@
+Artículo 1º. Los Agentes Generales y los Agentes Especiales designados al 11 de noviembre de 1974, continuarán en el desempeño de sus funciones sin necesidad de nuevo nombramiento con la denominación de Agentes de Aduana, los primeros, y de Apoderados Especiales, los segundos.

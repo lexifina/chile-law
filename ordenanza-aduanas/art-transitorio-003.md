@@ -1,0 +1,1 @@
+Artículo 3º. Mientras no se dé cumplimiento a lo dispuesto en el artículo 234 continuarán aplicándose las normas vigentes al 11 de noviembre de 1974 sobre esas materias en todo lo que no se opongan a las disposiciones del decreto ley 743 de 1974.
