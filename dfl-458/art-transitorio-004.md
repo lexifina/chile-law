@@ -1,0 +1,1 @@
+Artículo 4°.- Las disposiciones técnicas contenidas en la Ley General de Construcciones y Urbanización, cuyo texto se reemplaza por la presente ley, y que esta última remite a la nueva Ordenanza General, seguirán vigentes hasta la aprobación de esta Ordenanza.
