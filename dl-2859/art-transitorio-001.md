@@ -1,0 +1,2 @@
+Artículo 1°- Facúltase al Presidente de la República para que dentro del término de ciento ochenta días, contados desde la vigencia del presente decreto ley, dicte el estatuto del personal a que se hace referencia en los artículos 2° y 17 y reglamento de disciplina señalado en el inciso segundo del artículo 2° de este decreto ley.
+Mientras no se dicten los reglamentos necesarios para la aplicación de la presente ley orgánica, los actuales mantendrán su vigencia en cuanto le sean compatibles.
