@@ -1,0 +1,1 @@
+Artículo 484 bis.- Si alguna de las partes lo pidiere, el acusado deberá concurrir a una o más audiencias determinadas, para ser interrogado sobre lo que haya manifestado en el sumario o sobre las declaraciones que hayan formulado los comparecientes en las audiencias del plenario. Esta diligencia podrá pedirse hasta dentro del plazo indicado en el artículo 499.

@@ -1,0 +1,1 @@
+Art. 463 bis. Tratándose de los delitos contemplados en los artículos 361 a 367 bis y 375 del Código Penal, no regirán las normas sobre inhabilidad de los testigos, contempladas en el artículo 460, que se funden en razones de edad, parentesco, convivencia o dependencia.

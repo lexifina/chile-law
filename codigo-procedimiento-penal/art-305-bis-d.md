@@ -1,0 +1,4 @@
+Art. 305 bis D. Las personas afectadas por el arraigo, sea judicial o de pleno derecho, sólo podrán ausentarse del territorio nacional con autorización del juez que conozca o haya conocido de la causa, por el tiempo que en la misma resolución se fije, y sin que se paralice, en su caso, la marcha regular del proceso.
+El solicitante deberá rendir caución cuya naturaleza y monto fijará el juez en la misma resolución que autoriza la ausencia.
+Si el arraigado no regresa dentro del plazo señalado por el juez, se hará efectiva la caución sin más trámite, a beneficio de la Junta de Servicios Judiciales.
+El quebrantamiento del arraigo será sancionado con prisión en su grado máximo o presidio menor en su grado mínimo. Se entiende que este delito se comete en Chile, sea que se haya burlado el arraigo judicial o de pleno derecho ausentándose del territorio nacional, sea que el arraigado no haya retornado al país en el plazo debido.

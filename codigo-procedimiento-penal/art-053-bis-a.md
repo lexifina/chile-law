@@ -1,0 +1,1 @@
+Artículo 53 bis A.- En todo proceso penal en que se exija juramento a los testigos, peritos u otras personas, se permitirá que formulen una promesa con las mismas solemnidades exigidas a aquél. La violación de esta promesa producirá los efectos que las leyes señalan a la violación del juramento.
