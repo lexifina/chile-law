@@ -1,0 +1,1 @@
+Artículo 3°.- Sin perjuicio de lo dispuesto en el artículo 1° transitorio, los particulares indicados en los incisos primero y segundo de dicho artículo que no ejerzan la opción a que allí se alude, podrán optar por que les sea aplicable lo dispuesto en el inciso segundo del artículo 41.
