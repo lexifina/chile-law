@@ -1,8 +1,7 @@
-TITULO PRELIMINAR
-TITULO I Del Consejo Nacional de Menores
-TITULO II De la Policía de Menores y sus funciones
-TITULO III De la Judicatura de Menores su Organización y Atribuciones.
-TITULO IV De las Casas de Menores e Instituciones Asistenciales.
-TITULO V Disposiciones penales.
-TITULO VI Disposiciones Generales
-Artículos transitorios.
+Título Preliminar
+Título II DE LA POLICIA DE MENORES Y SUS FUNCIONES
+Título III DE LA JUDICATURA DE MENORES, SU ORGANIZACION Y ATRIBUCIONES
+Título IV DE LAS CASAS DE MENORES E INSTITUCIONES ASISTENCIALES
+Título V DISPOSICIONES PENALES
+Título VI DISPOSICIONES GENERALES
+ARTICULOS TRANSITORIOS
