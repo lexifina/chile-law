@@ -1,0 +1,1 @@
+Artículo 2º.- Sin perjuicio de lo dispuesto en el artículo 18 del Código Penal, los delitos contemplados en los artículos 12 y 22 de la ley Nº 19.366 que se hubieren cometido con anterioridad a la fecha de vigencia de la presente ley, se investigarán y juzgarán por las normas vigentes en la época de su comisión.
