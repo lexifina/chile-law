@@ -1,0 +1,1 @@
+Artículo 103 bis.- Al tercer día de expirado el plazo para declarar candidaturas, el Director del Servicio Electoral procederá a efectuar el sorteo contemplado en el inciso segundo del artículo 23 de la ley N° 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
