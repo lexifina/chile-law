@@ -1,0 +1,1 @@
+Artículo segundo: Las Comisiones Preventivas Provinciales, Preventiva Central y Resolutiva, deberán constituirse dentro del plazo máximo de quince días, a contar de la fecha de publicación del presente decreto ley en el Diario Oficial, a requerimiento de sus respectivos Presidentes.
