@@ -1,0 +1,1 @@
+Artículo 13. No obstante lo dispuesto en el artículo 76, las instituciones de previsión mencionadas en el artículo 48 podrán, por el presente año, modificar los respectivos presupuestos, en conformidad a las normas legales vigentes al 30 de Julio de 1959.

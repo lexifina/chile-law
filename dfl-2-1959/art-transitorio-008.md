@@ -1,0 +1,1 @@
+Artículo 8.o Los actuales consejeros representantes del Instituto de Ingenieros y de los Colegios Profesionales a que se refiere la letra d) del artículo 27.o del decreto con fuerza de ley N.o 285, de 1953, continuarán en funciones hasta el término de su mandato.
