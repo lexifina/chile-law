@@ -1,0 +1,1 @@
+Artículo 1.o Las poblaciones, viviendas o urbanizaciones construídas con anterioridad al presente decreto con fuerza de ley tendrán para los efectos de su recepción municipal el mismo tratamiento del artículo 7.o de este decreto con fuerza de ley, considerándose para estos fines como fecha de la solicitud respectiva la de vigencia de este decreto con fuerza de ley.
