@@ -14,6 +14,7 @@ TITULO III Impuestos especiales a las ventas y servicios
 PARRAFO 1° Del impuesto adicional a ciertos productos
 PARRAFO 3° Del impuesto adicional a las bebidas alcohólicas, analcohólicas y productos similares.
 PARRAFO 4 Otros impuestos específicos
+PARRAFO 5° Del impuesto a las compras de monedas extranjeras
 PARRAFO 6° Disposiciones varias
 TITULO IV Impuestos a los servicios
 Párrafo 1° Del hecho gravado y de las tasas del impuesto.
