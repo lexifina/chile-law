@@ -1,0 +1,9 @@
+Artículo 71 bis.- El personal que fallezca en accidente en acto del servicio, causará una indemnización a los asignatarios de montepío señalados en el artículo 70 bis o a sus herederos intestados, equivalente a dos años de su sueldo imponible, la que será de cargo fiscal y se pagará por una sola vez, independiente de la pensión y del desahucio.
+La indemnización establecida en este artículo se regulará conforme a las siguientes normas:
+1) Tendrán derecho a ella, los asignatarios de montepío, en el orden excluyente que se dispone para ellos;
+2) Si no existieren asignatarios de montepío, tendrán derecho a ella sus herederos "ab intestato", en el orden y proporciones que establece la ley. Los asignatarios de primer grado, en tal caso, son forzosos, a menos de haberse declarado por sentencia judicial ejecutoriada, que son indignos de sucederlos;
+3) Para los efectos del presente artículo la indemnización causada por las personas mencionadas en el artículo 60, se calcularán sobre los sueldos asignados a los empleos que en dicho precepto se indican;
+4) Concurriendo varios asignatarios, en el caso previsto en el artículo 70 bis, inciso sexto, esta indemnización se distribuirá en la misma proporción que la pensión de montepío, y
+5) Su monto se calculará sobre la base de los valores de la escala de sueldos vigentes a la fecha en que se dicte la correspondiente resolución de montepío.
+El Presidente de la República podrá declarar, por decreto fundado, que procede otorgar el derecho a montepío en favor de los deudos del personal de Carabineros que desapareciere a consecuencia de un accidente o catástrofe ocurrido en acto determinado del servicio.
+Esta declaración sólo podrá hacerse después de quince días de ocurrido el accidente o catástrofe, y desde el momento en que se haga, procederá la dictación de los decretos de montepío y desahucio y demás trámites pertinentes.
