@@ -1,4 +1,0 @@
-Artículo transitorio.- Las juntas de vecinos y demás organizaciones comunitarias, así como las uniones comunales que tengan existencia legal a la fecha de publicación de esta ley, deberán adecuar sus estatutos a lo dispuesto en ella en la primera reforma que introduzcan a los mismos o, a más tardar, dentro de los doce meses siguientes a la entrada en vigor de este cuerpo legal.
-En idéntico plazo, las uniones comunales de organizaciones comunitarias funcionales deberán acreditar el requisito de representatividad establecido en el artículo 50.
-Dentro del mismo plazo, las juntas de vecinos y las demás organizaciones comunitarias legalmente existentes a esa fecha procederán a renovar sus directorios en la forma y por el término previstos en las disposiciones permanentes.
-La inobservancia de las obligaciones establecidas en este artículo determinará la suspensión de los derechos y franquicias que a estas organizaciones concede el artículo 28.".

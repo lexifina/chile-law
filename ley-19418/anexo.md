@@ -1,3 +1,0 @@
-Tribunal Constitucional Proyecto de ley sobre juntas de vecinos y demás organizaciones comunitarias
-El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de la constitucionalidad de los artículos 25, 35 y 37, y que por sentencia de 12 de septiembre de 1995 declaró que las disposiciones contempladas en los artículos 25 -en el entendido del considerando 7°-, 35 -en el entendido del considerando 8°-, y 37 del proyecto sometido a control, son constitucionales.
-Santiago, septiembre 13 de 1995.- Rafael Larraín Cruz, Secretario.
