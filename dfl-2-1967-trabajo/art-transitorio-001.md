@@ -1,1 +1,1 @@
-Artículo 1°.- Mientras se dicta el Reglamento Orgánico General del Servicio el ingreso de los funcionarios se regirá por el decreto N° 69, de 24 de Febrero de 1964, en lo que no esté contemplado en el presente decreto con fuerza de ley.
+Artículo 1° Mientras se dicta el Reglamento Orgánico General del Servicio el ingreso de los funcionarios se regirá por el decreto 69, de 24 de febrero de 1964, en lo que no esté contemplado en el presente decreto con fuerza de ley.

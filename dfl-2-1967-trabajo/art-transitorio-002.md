@@ -1,1 +1,1 @@
-Artículo 2°.- El personal que actualmente se desempeña en calidad de interino o a contrata, que determine el Director del Trabajo, pasará a formar parte de la planta de funcionarios de la Dirección del Ramo sin concurso previo.
+Artículo 2° El personal que actualmente se desempeña en calidad de interino o a contrata, que determine el Director del Trabajo, pasará a formar parte de la planta de funcionarios de la Dirección del Ramo sin concurso previo.
