@@ -1,0 +1,1 @@
+Artículo 34.- Por la separación judicial termina la sociedad conyugal o el régimen de participación en los gananciales que hubiere existido entre los cónyuges, sin perjuicio de lo dispuesto en el artículo 147 del Código Civil.

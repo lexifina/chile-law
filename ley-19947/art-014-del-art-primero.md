@@ -1,0 +1,1 @@
+Artículo 14.- En el momento de presentarse o hacerse la manifestación, los interesados rendirán información de dos testigos por lo menos, sobre el hecho de no tener impedimentos ni prohibiciones para contraer matrimonio.
