@@ -1,0 +1,2 @@
+Artículo 13.- Lo dispuesto en la letra a) del artículo 7° de este Estatuto, referente a los Ministerios, sólo se aplicará a contar de la fecha en que se produzca la adecuación de plantas, en conformidad con el artículo 1° transitorio.
+Mientras no se produzca dicha adecuación, serán de exclusiva confianza los funcionarios de los escalafones de Directivos Superiores, Directivos, o similares en las actuales plantas, que a la fecha de entrada en vigencia del presente estatuto ocupen los dos grados siguientes al del Subsecretario.
