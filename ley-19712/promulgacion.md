@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto el H. Congreso Nacional ha aprobado las observaciones formuladas por el Ejecutivo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 22 de enero de 2001.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Burgos Varela, Ministro del Interior (S).- Mario Fernández Baeza, Ministro de Defensa Nacional.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Claudio Huepe García, Ministro Secretario General de Gobierno.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Carlos Mackenney Urzúa, Subsecretario del Interior Subrogante.
