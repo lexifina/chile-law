@@ -1,0 +1,1 @@
+Artículo 17 bis K.- Antes de asumir sus funciones, los integrantes del Tribunal, Secretario y Relatores prestarán juramento o promesa de guardar la Constitución y las leyes de la República, ante el Presidente del Tribunal, actuando como ministro de fe el Secretario del mismo. A su vez, el Presidente lo hará ante el Ministro más antiguo.
