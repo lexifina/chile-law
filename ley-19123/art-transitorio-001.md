@@ -1,0 +1,3 @@
+Artículo transitorio.- Pendientes los plazos que se establecen en los incisos cuarto y quinto del artículo 22 y sin esperar su expiración, se pagará provisionalmente a los beneficiarios que acrediten derecho a la pensión que les corresponda de acuerdo a los porcentajes que se establecen en las letras a), b) c) y d) del inciso quinto del artículo 20.
+En la misma situación y forma se pagará provisoriamente, la bonificación compensatoria establecida en el artículo 23, por un monto equivalente a doce meses de la pensión provisoriamente determinada de acuerdo al inciso anterior.
+Expirado el plazo, esas pensiones y bonificaciones provisoriamente determinadas se reliquidarán retroactivamente.".
