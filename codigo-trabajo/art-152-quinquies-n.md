@@ -1,0 +1,1 @@
+Artículo 152 quinquies N.- Feriado anual. El trabajador adulto mayor podrá hacer uso anticipado de su feriado anual y de forma proporcional a los días devengados, a partir del séptimo mes contado desde el inicio de la prestación de servicios. En estos casos, no se aplicará la regla del fraccionamiento establecida en el inciso primero del artículo 70 de este Código.

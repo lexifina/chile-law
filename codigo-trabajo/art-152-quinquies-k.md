@@ -1,0 +1,1 @@
+Artículo 152 quinquies K.- Compatibilidad de las funciones con la salud del trabajador adulto mayor. Las funciones del trabajador adulto mayor pactadas en el contrato de trabajo deberán ser compatibles con su condición física y sus capacidades, considerando los requerimientos de dichas funciones, de conformidad a lo dispuesto en el artículo 184.

@@ -1,0 +1,7 @@
+Artículo 102 T.- Sentencia definitiva. La sentencia definitiva se pronunciará sobre las medidas de protección a favor de la persona mayor, y podrá ordenar:
+a) La restitución material de bienes muebles o inmuebles a la persona mayor, en aquellos casos en que ésta pueda acreditar la plena propiedad o el usufructo sobre dichos bienes, y los requeridos no tengan la tenencia o posesión legítima sobre ellos.
+b) El ingreso de la persona mayor en establecimientos que desarrollen programas especializados para personas mayores.
+c) La derivación a programas públicos dirigidos a personas mayores.
+d) Otras medidas que cautelen la vida y la integridad física y psíquica de la persona mayor.
+Las medidas de protección contenidas en el presente artículo serán dictadas por el tribunal con resguardo siempre de los derechos de las personas mayores establecidos en la ley integral de las personas mayores y de promoción del envejecimiento digno, activo y saludable, especialmente del derecho a la independencia y autonomía consagrado en el artículo 8 de la referida ley, así como los demás derechos establecidos en los tratados internacionales ratificados por Chile, en la Constitución Política de la República y en las demás leyes.
+Para dictar sentencia, el tribunal podrá ordenar la realización de evaluaciones médicas, psicológicas, sociales o las demás que considere necesarias, de acuerdo con lo establecido en el inciso tercero del artículo 102 Q.

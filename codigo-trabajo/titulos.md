@@ -39,6 +39,7 @@ Párrafo I Definiciones
 Párrafo II Del Contrato de Trabajo de los trabajadores de plataformas digitales dependientes
 Párrafo III Del Contrato de los trabajadores de plataformas digitales independientes
 Párrafo IV De las normas comunes aplicables a los trabajadores de plataformas digitales dependientes e independientes
+Capítulo XI Del contrato del trabajador adulto mayor
 Título III Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
 Capítulo I Del Reglamento Interno
 Capítulo II De la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
