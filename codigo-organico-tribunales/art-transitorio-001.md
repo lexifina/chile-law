@@ -1,1 +1,1 @@
-Artículo 1° La prohibición de ejercer la profesión de abogado a que se refiere el artículo 316 no se aplica a los actuales jueces de letras de menor cuantía que estaban desempeñando esos cargos el 1° de Marzo de 1929 en que entró en vigencia la ley 4565 de 31 de Enero de 1929.
+Art. 1° Derogado.
