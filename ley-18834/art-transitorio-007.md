@@ -1,2 +1,2 @@
 Artículo 7°.- El requisito de haber aprobado la educación básica o de poseer el nivel educacional o título profesional o técnico, establecido en el artículo 11 permanente, letra d), no será exigible al personal en actual servicio.
-En tanto no se adecúen las plantas de personal a lo dispuesto en el artículo 5° permanente, la validación de cursos se ceñirá a las disposiciones de los artículos 3° y 4° del decreto con fuerza de ley N° 90, de 1977, del Ministerio de Hacienda.
+En tanto no se adecúen las plantas de personal a lo dispuesto en el artículo 5.° permanente, la validación de cursos se ceñirá a las disposiciones de los artículos 3.° i 4.° del decreto con fuerza de ley N.° 90, de 1977, del Ministerio de Hacienda.
