@@ -1,0 +1,1 @@
+Artículo 19 bis E.- El derecho que confiere el registro de la marca no faculta a su titular para prohibir a terceros el uso de la misma respecto de los productos legítimamente comercializados en cualquier país con esa marca por dicho titular o con su consentimiento expreso.
