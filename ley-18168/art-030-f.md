@@ -1,0 +1,2 @@
+Artículo 30° F. Las tarifas definitivas se determinarán a partir de las tarifas eficientes ajustando estas últimas de forma tal que, aplicadas a la demanda prevista, generen una recaudación equivalente a los costos totales de largo plazo, asegurando así el autofinanciamiento.
+El proceso de ajuste mencionado en el párrafo anterior, deberá minimizar las distorsiones que ello introduce, y en ningún caso la tarifa definitiva fijada para cada servicio podrá ser inferior a la tarifa eficiente.

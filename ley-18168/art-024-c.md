@@ -1,0 +1,1 @@
+Artículo 24° C. El servicio deberá otorgarse tratándose de concesionario de servicio público telefónico, en el plazo de 2 años, a contar desde la fecha de la solicitud que el interesado presente a la empresa, salvo que se produjere un caso fortuito o de fuerza mayor que impida al concesionario atender la petición que se le formula.
