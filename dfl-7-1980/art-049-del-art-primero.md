@@ -1,0 +1,1 @@
+Artículo 49°- Para los efectos señalados en las letras d) y e) del artículo 14° de esta Ley Orgánica, se entienden conferidas al Sub-Director de Fiscalización todas las facultades que el Código Tributario y otras disposiciones legales otorgan o les confieren en el futuro a los Directores Regionales.
