@@ -1,0 +1,1 @@
+Artículo 211-D.- Las conclusiones de la investigación realizada por la Inspección del Trabajo o las observaciones de ésta a aquélla practicada en forma interna, serán puestas en conocimiento del empleador, el denunciante y el denunciado.
