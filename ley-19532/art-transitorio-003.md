@@ -1,0 +1,3 @@
+Artículo 3º.- Los proyectos deberán presentarse ante el respectivo Departamento Provincial de Educación, donde se certificará la fecha de recepción.
+Si dicha presentación no se resolviera dentro de los noventa días posteriores a su entrega, el proyecto se tendrá por aprobado, y, si hubiere sido rechazada, el sostenedor podrá apelar en los 5 días hábiles siguientes a la notificación del rechazo, ante el Secretario Regional Ministerial de Educación que corresponda, quien resolverá en última instancia, en un plazo máximo de 10 días hábiles, desde la interposición del recurso.
+Si el rechazo a que se refiere el inciso precedente, se hubiere basado en el incumplimiento de alguna de las exigencias comprendidas en el número 1 del artículo anterior, deberá ser fundado.
