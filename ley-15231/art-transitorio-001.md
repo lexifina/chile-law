@@ -1,0 +1,3 @@
+Artículo transitorio.- Las modificaciones introducidas al inciso primero del artículo 5° de la ley N° 6.827 por la ley N° 15.123, no serán aplicables a los Jueces de Policía Local que se encontraban en funciones al 17 de Enero de 1963.
+Las normas de la ley N° 15.123 no podrán significar tampoco disminución de remuneraciones para los demás funcionarios que prestaban servicios en los Juzgados de Policía Local a la fecha indicada en el inciso anterior.
+No afectarán a los Jueces de Policía Local que se desempeñaban como tales a esa fecha las incompatibilidades e inhabilidades establecidas por la ley N° 15.123.
