@@ -1,3 +1,0 @@
-Artículo 65 c).- Créase el Fondo de Investigación Pesquera, dependiente del Ministerio, destinado a financiar los proyectos de investigación pesquera y de acuicultura, necesarios para la adopción de las medidas de administración de las pesquerías y de las actividades de acuicultura, que tienen como objetivo la conservación de los recursos hidrobiológicos, considerando tanto aspectos biológicos como los pesqueros, económicos y sociales.
-Se entenderá la investigación señalada en el inciso anterior en un sentido integral, incluyendo investigación aplicada a los recursos y su ecosistema.
-Este fondo estará constituido por los aportes que se consulten anualmente en la Ley de Presupuestos de la Nación, y otros aportes.

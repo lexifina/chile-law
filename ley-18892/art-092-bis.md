@@ -1,1 +1,0 @@
-Artículo 92 bis.- En el ejercicio de su función fiscalizadora, el Servicio tendrá la facultad de hacerse parte en los procesos que se originen por contravención a las normas que regulan las actividades pesqueras, sin perjuicio de las facultades que corresponden al Consejo de Defensa del Estado.
