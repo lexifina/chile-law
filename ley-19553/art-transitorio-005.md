@@ -1,0 +1,1 @@
+Artículo 5º.- El cumplimiento de metas de desempeño institucional para el año 1997, que condicionen el pago de asignaciones al personal de la Superintendencia de Servicios Sanitarios durante el año 1998, no serán exigibles para la concesión de dichos beneficios en el año 1998.
