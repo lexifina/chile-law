@@ -1,0 +1,5 @@
+Artículo 16.- Durante el plazo de dos años contados de la publicación de esta ley, las Administradoras podrán eximirse de la obligación de contratar el seguro a que se refiere el Título V.
+En tal caso, la cotización establecida en el artículo 20, será de tres por ciento y la Administradora deberá integrarla en la Institución de previsión a que debería encontrarse afecto el afiliado, según la naturaleza de sus servicios, o en el Servicio de Seguro Social si fuere trabajador independiente, las que otorgarán las prestaciones de invalidez y sobrevivencia propias de su régimen.
+Para este último efecto, declarada la invalidez o producida la muerte del afiliado, la Administradora transferirá a la institución de previsión el saldo de su cuenta individual.
+Los recursos provenientes de dichas cotizaciones serán administrados por las instituciones a que se refiere este artículo, en cuentas separadas, con cargo a las cuales se pagarán los beneficios señalados en el inciso tercero.
+Vencido el plazo contemplado en el inciso primero, las Administradoras deberán dar pleno cumplimiento a las disposiciones del Título V.

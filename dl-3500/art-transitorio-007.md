@@ -1,0 +1,2 @@
+Artículo 7°- Las imposiciones giradas, retiradas o devueltas y no reintegradas que hayan sido consideradas para determinar el Bono de Reconocimiento, se deducirán de su monto actualizadas de acuerdo a las normas que el respectivo régimen fijaba para su reintegro a la fecha en que se opte por el régimen de pensiones previsto en esta ley.
+Lo dispuesto en el inciso anterior no se aplicará en caso de retiros cuyo reintegro no constituyere un requisito para el otorgamiento de la pensión o no modificare el monto de ésta.
