@@ -1,2 +1,2 @@
-Artículo 3°.- La Dirección Nacional está constituida por los siguientes Departamentos Subdirecciones: de Administración, de Avaluaciones, de Contraloría Interna, de Estudios, de Fiscalización, de Informática, Jurídica, Normativa y de Recursos Humanos, y por el Departamento de Secretaría General.
+Artículo 3°.- La Dirección Nacional está constituida por los siguientes Departamentos Subdirecciones: de Administración, de Avaluaciones, de Contraloría Interna, de Estudios, de Fiscalización, de Informática, Jurídica, Normativa y de Recursos Humanos.
 En los Departamentos Subdirecciones existirán los Departamentos que establezca el Director, con sujeción a la planta de Servicio.
