@@ -1,14 +1,4 @@
-ESTATUTO DE LA INVERSION EXTRANJERA
-Núm. 600.- Santiago, 11 de Julio de 1974.- Visto: lo dispuesto en los decretos leyes Nºs. 1 y 128, de 1973, y Nº 527, de 1974; el decreto supremo Nº 1.272, del Ministerio de Economía, Fomento y Reconstrucción, de 7 de Septiembre de 1961, y sus modificaciones; la ley Nº 16.624, de 15 de Mayo de 1967; los compromisos internacionales de cumplimiento válidamente obligatorio en Chile, y
-Considerando:
-1º- Que la H. Junta de Gobierno estima necesario fijar su posición frente a la inversión extranjera; definir el papel que a ésta le asigne dentro de la economía nacional; ofrecer al inversionista extranjero las seguridades correspondientes del Estado de Chile;
-2º- Que para lograr un acelerado desarrollo de la actividad económica del país resulta indispensable el concurso de la inversión extranjera como un complemento de la inversión nacional;
-3º- Que la política económica del Gobierno de la República de Chile tiende a implantar un régimen económico que impone la obligación de una real, efectiva y sana competencia entre las distintas actividades productivas, la cual implica un tratamiento no discriminatorio entre la inversión nacional y extranjera, garantizando a los titulares de esta última el derecho a transferir al exterior el capital invertido y las utilidades o beneficios generados y otorgándoles el oportuno acceso al mercado de divisas;
-4º- Que conforme a dicha política económica ha parecido fundamental la dictación de un cuerpo orgánico de normas que signifique una real promoción a la inversión extranjera y que estimule su desarrollo y permanencia en el país;
-5º- Que características complementarias a la inversión extranjera tales como los aportes de tecnología, asistencia técnica y mercados externos son elementos indispensables para lograr el desarrollo económico de Chile y otros países similares, debiendo, en consecuencia, legislar, contemplando el beneficio de dichos aportes;
-6º- Que se debe contar con recursos jurisdiccionales y con mecanismos de indemnización, a objeto de resolver, en justicia, los casos en que lo estipulado en los contratos ha sido afectado o vulnerado;
-7º- Que en lo referente a inversión extranjera existen variadas normas, contenidas en diversos textos legales, que dificultan la aplicación de una política económica coherente, como también el conocimiento de éstas de parte del inversionista extranjero;
-8º- Que toda inversión extranjera debe ser solicitada, aprobada y tramitada por un organismo único de nivel ministerial con el propósito de racionalizar, agilizar e implementar una política uniforme en materia de inversiones extranjeras, y
-9º- Que a objeto de regularizar la situación de inversiones extranjeras efectuadas con anterioridad a la dictación de este decreto ley, se debe contemplar una fórmula flexible que permita a los titulares de dichas inversiones acogerse al presente Estatuto;
-La Junta de Gobierno ha acordado dictar el presente
-Decreto ley:
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO LEY N° 600, DE 1974, ESTATUTO DE LA INVERSION EXTRANJERA
+Núm. 523.- Santiago, 3 de Septiembre de 1993.- Visto: Las facultades que me confiere el artículo 3° de la ley N° 19.207,
+Decreto con Fuerza de Ley
+El texto refundido, coordinado y sistematizado del decreto ley N° 600, de 1974, Estatuto de la Inversión Extranjera, será el siguiente:
