@@ -1,0 +1,1 @@
+Artículo segundo.- Agrégase, al final del inciso primero del artículo 34, de la ley Nº 18.455, la siguiente oración: "En ningún caso los productos podrán ser envasados para su comercialización en sobres o bolsas susceptibles de ser ocultados con facilidad por el portador.".
