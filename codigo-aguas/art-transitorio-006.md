@@ -1,0 +1,1 @@
+ARTICULO 6°- Los derechos de aprovechamiento otorgados provisionalmente de acuerdo a las normas del código que se deroga, continuarán tramitándose hasta obtener la concesión definitiva conforme a dichas normas.

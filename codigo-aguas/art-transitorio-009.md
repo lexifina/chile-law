@@ -1,0 +1,1 @@
+ARTICULO 9°- Hasta que no se dicten las disposiciones legales referentes a la conservación y protección de las aguas, corresponderá a la Dirección General de Aguas aplicar la política sobre la materia y coordinar las funciones que, de acuerdo a la legislación vigente, correspondan a los distintos organismos y servicios públicos.
