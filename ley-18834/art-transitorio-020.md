@@ -1,1 +1,0 @@
-Artículo 20.- DEROGADO
