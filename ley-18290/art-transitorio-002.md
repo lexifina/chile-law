@@ -1,0 +1,3 @@
+Artículo 2°.- Las Municipalidades que a la fecha de publicación de la presente ley estén facultadas para otorgar licencias de conductor, podrán continuar otorgándolas durante 1985, a las personas que soliciten por primera vez una determinada clase de licencia.
+Estas licencias tandrán una duración limitada de dos años, plazo dentro del cual su titular podrá obtener licencia definitiva de acuerdo con las normas permanentes de la presente ley.
+El Departamento de Tránsito y Transporte Público Municipal deberá efectuar la comunicación al Registro Nacional de Conductores de Vehículos Motorizados que establece el artículo 214.
