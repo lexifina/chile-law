@@ -2,5 +2,5 @@ JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la
 Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en señal de promulgación.
 Llévese a efecto como Ley de la República.
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.
-Santiago, veintitrés de Junio de mil novecientos ochenta y uno.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio de Castro Spikula, Ministro de Hacienda.
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
+Santiago, veintitrés de junio de mil novecientos ochenta y uno.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio de Castro Spikula, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento. Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
