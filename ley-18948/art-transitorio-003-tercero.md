@@ -1,0 +1,1 @@
+Artículo Tercero.- Las disposiciones de las leyes N° 18.423 y 18.458 mantendrán su vigencia en cuanto no sean contrarias a esta ley y, en consecuencia, continuarán aplicándose mientras no sean expresamente derogadas.
