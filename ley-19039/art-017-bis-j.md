@@ -1,0 +1,1 @@
+Artículo 17 bis J.- El Secretario Abogado será la autoridad directa del personal destinado al Tribunal para efectos administrativos, sin perjuicio de otras funciones y atribuciones específicas que le asigne o delegue el Tribunal.
