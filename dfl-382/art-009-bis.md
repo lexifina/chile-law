@@ -1,20 +1,4 @@
-N1 Artículo 9° bis.- Las concesiones para establecer, LEY 18902
-N1 construir y explotar servicios públicos destinados a ART. 26
-N1 producir agua potable, distribuir agua potable, D.O. 27.01.1990
-L recolectar aguas servidas, y disponer aguas servidas,
-L otorgan derecho a usar, a título gratuito, bienes
-L nacionales de uso público para instalar infraestructura
-L sanitaria, en las condiciones dispuestas por las
-L respectivas municipalidades cuando estas instalaciones
-L pudieran afectar el normal uso del bien nacional de uso
-L# público.
-L En caso que la conexión de una instalación
-L domiciliaria de alcantarillado a una red de recolección
-L para permitir el desague gravitacional, obligue a
-L atravesar el predio de otro propietario, se constituirá
-L# una servidumbre legal de alcantarillado domiciliario.
-L El largo y ancho de la faja de terreno sujeta a
-L servidumbre, corresponderá a la factibilidad técnica
-L del proyecto de conexión otorgada por el prestador,
-L# obligándose el interesado a indemnizar los perjuicios.
-L#
+Artículo 9° bis.- Las concesiones para establecer, construir y explotar servicios públicos destinados a producir agua potable, distribuir agua potable, recolectar aguas servidas, y disponer aguas servidas, otorgan derecho a usar, a título gratuito, bienes nacionales de uso público para instalar infraestructura sanitaria, en las condiciones dispuestas por las respectivas municipalidades cuando estas instalaciones pudieran afectar el normal uso del bien nacional de uso público.
+Lo dispuesto en el inciso anterior será aplicable a los trabajos de exploración que requieran autorización y que sean autorizados por la Dirección General de Aguas para la captación de aguas subterráneas y se considerarán también obras de infraestructura sanitaria, cuando ellos sean claramente identificables con una obra de aprovechamiento para el servicio público sanitario.
+En caso que la conexión de una instalación domiciliaria de alcantarillado a una red de recolección para permitir el desague gravitacional, obligue a atravesar el predio de otro propietario, se constituirá una servidumbre legal de alcantarillado domiciliario.
+El largo y ancho de la faja de terreno sujeta a servidumbre, corresponderá a la factibilidad técnica del proyecto de conexión otorgada por el prestador, obligándose el interesado a indemnizar los perjuicios.

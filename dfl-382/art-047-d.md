@@ -1,0 +1,1 @@
+Artículo 47º D.- La prestación del servicio entre el concesionario de producción de agua potable o de disposición de aguas servidas y el usuario final, utilizando redes propias o de otros concesionarios, en los términos dispuestos en los artículos anteriores, se formalizará mediante contratos que deberán ser informados a la Superintendencia.

@@ -1,0 +1,1 @@
+Artículo 32º bis B.- Todo conflicto que pudiere suscitarse entre el síndico y el administrador provisional, será resuelto por el juez de la quiebra, oyendo previamente al Fiscal Nacional de Quiebras y al Superintendente de Servicios Sanitarios.

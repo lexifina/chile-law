@@ -1,0 +1,1 @@
+Artículo 52º bis.- Los prestadores podrán establecer, construir, mantener y explotar sistemas de agua potable, alcantarillado y tratamiento de aguas servidas en el ámbito rural, bajo la condición de no afectar o comprometer la calidad y continuidad del servicio público sanitario.

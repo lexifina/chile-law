@@ -1,0 +1,4 @@
+Artículo 32º bis A.- La entidad normativa dispondrá la licitación de la concesión y los bienes afectos a ella, dentro del plazo de un año contado desde que quede a firme la sentencia que declare la quiebra. Dicha licitación se llevará a efecto de acuerdo a lo dispuesto en el artículo 28º y en el inciso primero del artículo 29º de la presente ley.
+Asimismo, el llamado a licitación de la concesión se realizará de acuerdo a lo dispuesto en el inciso primero del artículo 29º.
+La adjudicación de la concesión recaerá, cumpliendo las condiciones técnicas y la tarifa vigente, en el interesado que ofrezca el mayor valor por la concesión y por los bienes afectos a ella, y que cumpla con los requisitos señalados en el artículo 8º de esta ley.
+En el caso de no haber interesados, será aplicable lo dispuesto en el inciso final del artículo 29º de esta ley.

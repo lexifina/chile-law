@@ -1,0 +1,6 @@
+Artículo 33º A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública.
+En caso de no existir proponentes para la referida licitación, o no haber sido adjudicada ésta por no cumplir los proponentes con los requisitos exigidos por la ley, la Superintendencia podrá exigir al prestador que opere el servicio sanitario del área geográfica más cercana a la zona aludida en el inciso precedente, la ampliación de su concesión a esta última zona.
+Para ejercer la facultad referida en el inciso precedente la Superintendencia requerirá el cumplimiento de los siguientes requisitos:
+a) La incorporación de las nuevas áreas deberá ser, en opinión fundada de la Superintendencia, factible técnicamente.
+b) El aumento del territorio operacional derivado de la incorporación de las nuevas áreas deberá ser razonablemente factible de enfrentar administrativa y financieramente por el prestador.
+La expansión de la concesión, de la forma indicada en los incisos segundo y tercero de este artículo, se formalizará de acuerdo a lo señalado en los artículos 17º y siguientes.
