@@ -1,1 +1,2 @@
-Artículo 313° b El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
+Artículo 313° b. El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo
+a medio y multa de seis a veinte sueldos vitales.
