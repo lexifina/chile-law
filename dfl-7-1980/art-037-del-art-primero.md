@@ -1,0 +1,4 @@
+Artículo 37°- El feriado de los funcionarios del Servicio, se regulará por las disposiciones establecidas en el artículo 88° del DFL. N° 338, de 1960.
+Será obligatorio hacer uso de a lo menos 10 días de feriado dentro del año calendario, ininterrumpidamente. La diferencia de días podrá ser utilizada cuando el funcionario lo requiera, con acuerdo de su jefe directo, quien podrá denegar la solicitud. Los días de feriados no utilizados en un año calendario, podrán usarse dentro de un plazo máximo de dos años.
+El feriado de los funcionarios ubicados en las antiguas provincias de Tarapacá, Antofagasta, Chiloé, Aysen y Magallanes se regirá sólo por las normas aplicables al resto de los funcionarios del Servicio. Asimismo dichos funcionarios podrán ser trasladados en cualquier época del año.
+El derecho a permisos y licencias de los funcionarios del Servicio, se regirá por las normas del DFL. N° 338, de 1960.
