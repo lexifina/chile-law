@@ -1,0 +1,1 @@
+Artículo transitorio.- Las letras de cambio giradas y los pagarés suscritos con anterioridad a la vigencia de la presente ley, se regirán por las disposiciones aplicables en el momento de su emisión. Sin embargo, se aplicarán las normas de la presente ley en cuanto a la forma de realizar los protestos si vencieren con posterioridad a la vigencia de esta ley.
