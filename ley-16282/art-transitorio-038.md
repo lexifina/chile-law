@@ -1,1 +1,0 @@
-Artículo 38°- El límite establecido en el artículo 49° de la ley N° 16.068 será de E° 2.000,00 por sala de clase en las reparaciones, adaptaciones o ampliaciones de los edificios arrendados o cedidos al Fisco para el funcionamiento de locales escolares en la zona a que se refieren los artículos 1° y 2° transitorios.

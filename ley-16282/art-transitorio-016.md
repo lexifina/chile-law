@@ -1,1 +1,0 @@
-Artículo 16°- El Presidente de la República determinará por decreto del Ministerio del Interior el destino que en definitiva se dé a los bienes no perecibles que se hayan adquirido para atender las necesidades derivadas del sismo del 28 de Marzo de 1965.

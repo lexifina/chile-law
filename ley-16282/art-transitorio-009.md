@@ -1,1 +1,0 @@
-Artículo 9°- Los bienes corporales que el Ministerio del Interior, en conformidad a lo dispuesto en el artículo 5° de esta ley, haya puesto o ponga a disposición de la Empresa de Comercio Agrícola, podrán ser distribuídos por ésta en especies, o sustituyéndolos por otros bienes corporales de valor equivalente.

@@ -1,1 +1,0 @@
-Artículo 82°- Prorrógase por el plazo de dos años, a contar desde el 28 de Marzo del presente año, sin recargo de intereses, el pago de las deudas que se encontraban pendientes a esa fecha, a favor de la Dirección de Pavimentación Urbana, correspondientes a propiedades ubicadas en la zona a que se refiere el artículo 1° transitorio de esta ley.

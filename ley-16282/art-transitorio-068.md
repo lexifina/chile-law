@@ -1,1 +1,0 @@
-Artículo 68°- Agrégase a la glosa del ítem 12/02/101 del Presupuesto de Capital en Moneda Extranjera de la Dirección General de Obras Públicas, lo siguiente: "Este ítem será excedible hasta el monto del saldo de los mencionados Convenios".

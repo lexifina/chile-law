@@ -1,1 +1,0 @@
-Artículo 1°- Declárase que la zona afectada por el sismo de 28 de Marzo de 1965, comprende las provincias de Aconcagua, Valparaíso, Santiago, en sus comunas de Lampa, Tiltil y Colina, y Coquimbo, en sus departamentos de Combarbalá e Illapel.
