@@ -1,0 +1,4 @@
+Tribunal Constitucional Proyecto de ley sobre fomento del libro y la lectura El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de la constitucionalidad de los artículos 5° y 13, inciso primero, y que por sentencia de 15 de Junio de 1993, declaró:
+1. Que las disposiciones contenidas en el artículo 5° del proyecto remitido, son constitucionales.
+2. Que el inciso primero del artículo 13 del proyecto remitido, es inconstitucional por no haber sido aprobado por la mayoría que el artículo 63 de la Constitución Política de la República exige para las leyes orgánicas constitucionales.
+Santiago, Junio 15 de 1993.- Rafael Larraín Cruz, Secretario.
