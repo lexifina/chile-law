@@ -1,0 +1,2 @@
+ART. 161-B.
+Se castigará con la pena de reclusión menor en su grado máximo y multa de 100 a 500 Unidades Tributarias Mensuales, al que pretenda obtener la entrega de dinero o bienes o la realización de cualquier conducta que no sea jurídicamente obligatoria, mediante cualquiera de los actos señalados en el artículo precedente. En el evento que se exija la ejecución de un acto o hecho que sea constitutivo de delito, la pena de reclusión se aplicará aumentada en un grado.
