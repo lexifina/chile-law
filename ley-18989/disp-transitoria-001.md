@@ -1,0 +1,3 @@
+Primera.- Los funcionarios de planta en actual servicio en la Oficina de Planificación Nacional, pasarán a desempeñarse en el Ministerio de Planificación y Cooperación.
+El encasillamiento a que dé lugar lo dispuesto en el inciso anterior, no podrá representar disminución de remuneraciones. Toda diferencia será cancelada por planilla suplementaria, la que será imponible y reajustable en la misma forma y montos en que lo sean las remuneraciones de los trabajadores del sector público.
+El personal de planta que como consecuencia del encasillamiento no tuviere ubicación en la nueva planta por falta de requisitos y no pudiere impetrar el beneficio de la jubilación, tendrá derecho a la indemnización a que se refiere el artículo 2° transitorio de la ley N° 18.972.
