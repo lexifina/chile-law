@@ -1,1 +1,1 @@
-Artículo 4°.- Mientras no se dicten los nuevos estatutos especiales a que se refiere el artículo 156, continuarán rigiendo los actualmente en vigencia, aplicándose supletoriamente las normas del presente Estatuto.
+Artículo 4º.- Mientras no se dicten los nuevos estatutos especiales a que se refiere el artículo 162 continuarán rigiendo los actualmente en vigencia, aplicándose supletoriamente las normas del presente Estatuto.

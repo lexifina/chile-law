@@ -1,1 +1,1 @@
-Artículo 11.- Los concursos pendientes a la fecha de vigencia de este Estatuto, se regirán por las normas legales aplicables a la fecha de publicación del respectivo llamado.
+Artículo 11.- No obstante lo dispuesto en el artículo 86 los funcionarios que actualmente desempeñan empleos compatibles que no se encuentren considerados en el artículo 87, mantendrán el derecho de continuar ejerciéndolos en las mismas condiciones.
