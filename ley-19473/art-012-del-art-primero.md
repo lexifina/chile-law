@@ -1,0 +1,1 @@
+Artículo 12.- Los cotos de caza podrán vender las piezas, productos, subproductos y partes de los animales provenientes de la caza practicada en ellos durante la temporada de caza o, en caso de hacerse fuera de ella, previa declaración de las existencias antes de iniciarse el período de veda.
