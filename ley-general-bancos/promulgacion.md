@@ -1,1 +1,1 @@
-Tómese razón, comuníquese y publíquese.- J. ALESSANDRI R.- Roberto Vergara H.
+Tómese razón, comuníquese y publíquese.- JORGE ALESSANDRI RODRIGUEZ.- Roberto Vergara.
