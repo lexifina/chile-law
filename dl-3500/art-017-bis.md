@@ -1,0 +1,10 @@
+Artículo 17 bis.- Sin perjuicio de lo dispuesto en el artículo anterior, los afiliados que desempeñen trabajos pesados deberán, además, efectuar en su cuenta de capitalización individual, una cotización cuyo monto se determinará conforme se dispone en los incisos siguientes.
+A su vez, los empleadores que contraten trabajadores para desempeñar trabajos pesados deberán enterar en las respectivas cuentas de capitalización individual un aporte cuyo monto será igual al de la cotización a que se refiere el inciso anterior.
+Para los efectos de lo dispuesto en este artículo se entenderá que constituyen trabajos pesados aquellos cuya realización acelera el desgaste físico, intelectual o síquico en la mayoría de quienes los realizan provocando un envejecimiento precoz, aún cuando ellos no generen una enfermedad laboral.
+La Comisión Ergonómica Nacional determinará las labores que, por su naturaleza y condiciones en que se desarrollan, revisten el carácter de trabajos pesados.
+La citada Comisión se relacionará con el Ejecutivo a través de la Subsecretaría de Previsión Social.
+La cotización a que se refiere el inciso primero precedente, será equivalente a un 2% de la remuneración imponible, según los términos que, para este concepto, establecen los artículos 14 y 16 de este decreto ley.
+Sin embargo, la Comisión Ergonómica Nacional, al calificar una faena como trabajo pesado, podrá reducir la cotización y el aporte que se establecen en este artículo, fijándolos en un 1%, respectivamente.
+En su determinación, la Comisión Ergonómica Nacional considerará el menor desgaste relativo producido por el trabajo pesado.
+Las cotizaciones y aportes a que se refiere este artículo deberán efectuarse en relación a las remuneraciones imponibles devengadas a partir del primer día del mes siguiente a aquel en que quede ejecutoriada la respectiva resolución de la Comisión Ergonómica Nacional.
+No procederá efectuar las cotizaciones y aportes a que se refiere este artículo, durante los períodos en que el trabajador se encuentre en goce de licencia médica.
