@@ -1,1 +1,4 @@
-MONUMENTOS NACIONALES Por cuanto el Congreso Nacional ha tenido a bien prestar su aprobación al siguiente Proyecto de ley:
+LEY N° 17.288
+LEGISLA SOBRE MONUMENTOS NACIONALES; MODIFICA LAS LEYES 16.617 Y 16.719; DEROGA EL DECRETO LEY 651, DE 17 DE OCTUBRE DE 1925
+Por cuanto el Congreso Nacional ha tenido a bien prestar su aprobación al siguiente
+PROYECTO DE LEY:
