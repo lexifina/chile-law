@@ -1,0 +1,3 @@
+Art. 138 bis. Si el marido se negare injustificadamente a ejecutar un acto o celebrar un contrato respecto de un bien propio de la mujer, el juez, previa citación del marido, podrá autorizarla para actuar por sí misma.
+En tal caso, la mujer sólo obligará sus bienes propios y los activos de sus patrimonios reservados o especiales de los artículos 150, 166 y 167, mas no obligará al haber social ni a los bienes propios del marido, sino hasta la concurrencia del beneficio que la sociedad o el marido hubieren reportado del acto.
+Lo mismo se aplicará para nombrar partidor, provocar la partición y para concurrir en ella en los casos en que la mujer tenga parte en la herencia.
