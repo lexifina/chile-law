@@ -1,1 +1,0 @@
-Artículo 17 D.- El conocimiento y fallo de las causas a que se refiere el número 1) del artículo anterior, se someterá al procedimiento regulado en los artículos siguientes.
