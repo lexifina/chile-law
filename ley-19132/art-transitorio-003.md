@@ -1,0 +1,2 @@
+Artículo 3°.- El actual Director General y demás ejecutivos de la empresa continuarán desempeñando sus funciones en calidad de interinos hasta tanto no se proceda, por el Directorio, a su confirmación o se designe a sus respectivos reemplazantes.
+Los ejecutivos que no sean confirmados en sus cargos por el Directorio y que tengan la calidad de trabajadores de la empresa, tendrán derecho al desahucio y a las indemnizaciones que establece el Código del Trabajo.
