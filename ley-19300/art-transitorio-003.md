@@ -1,0 +1,1 @@
+Artículo 3°.- Para los efectos previstos en el artículo 48, la Comisión Nacional del Medio Ambiente, dentro del plazo de un año contado desde la promulgación de la presente ley, presentará al Presidente de la República el estudio técnico para la formulación del proyecto de ley que regule los permisos de emisión transables.
