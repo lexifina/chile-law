@@ -1,0 +1,1 @@
+Artículo 9º bis.- Asimismo, el Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos, antes de asumir sus cargos, deberán efectuar una declaración jurada en la cual acrediten que no tienen dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales o, si la tuvieren, que su consumo está justificado por un tratamiento médico.
