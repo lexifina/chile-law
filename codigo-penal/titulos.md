@@ -74,10 +74,10 @@ TÍTULO SÉPTIMO. CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y 
 § III. Crímenes y simples delitos contra el estado civil de las personas.
 § IV. Del rapto. Derogado.
 § V. De la violación.
-§ VI. Del estupro, incesto, corrupción de menores y otros actos deshonestos.
-§ VII. Disposiciones comunes a los tres párrafos anteriores.
+§ VI. Del estupro y otros delitos sexuales.
+§ VII. Disposiciones comunes a los dos párrafos anteriores.
 § VIII. De los ultrajes públicos a las buenas costumbres.
-§ IX. Del adulterio. Derogado.
+§ IX. Del incesto.
 § X. Celebración de matrimonios ilegales.
 TÍTULO OCTAVO. CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 § I. Del homicidio.
