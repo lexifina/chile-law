@@ -6,6 +6,6 @@ TITULO V De las pensiones de invalidez y de las pensiones de sobrevivencia causa
 TITULO VI De las pensiones de vejez y de las pensiones de sobrevivencia causadas durante la afiliación pasiva
 TITULO VII Del Sistema de Beneficios Garantizados por el Estado
 TITULO VIII De las disposiciones especiales relacionadas con otros beneficios previsionales
-TITULO IX De los afiliados independientes
+TITULO IX De los afiliados independientes y voluntarios
 TITULO X Del control
 TITULO XI Disposiciones Transitorias
