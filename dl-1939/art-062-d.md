@@ -1,0 +1,2 @@
+Artículo 62 D.- El Fisco no responderá de los daños, de cualquier naturaleza, que con motivo de la ejecución de la obra o de la explotación de la misma, se ocasionaren a terceros después de haber sido celebrado el contrato de concesión, los que serán de cargo del concesionario.
+Todos los gastos que provengan de reparaciones, conservación, ejecución de obras y pagos de servicios, tales como agua potable, alcantarillado, electricidad, teléfono, gas y otros a que estén afectos los bienes entregados en concesión, serán de cargo exclusivo del concesionario.
