@@ -1,0 +1,2 @@
+Artículo 66 bis.- No obstante lo establecido en el artículo precedente, el juez podrá disponer, por resolución fundada y de manera excepcional, que la notificación de aquellas resoluciones que deban comunicarse personalmente al privado de libertad sea practicada por el secretario en el recinto del tribunal.
+En todo caso, si el detenido o preso se encontraré en el recinto del tribunal al momento de dictarse la resolución, ésta deberá serle notificada de inmediato por el secretario, aplicándose en lo demás lo dispuesto en el artículo anterior.
