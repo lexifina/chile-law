@@ -1,0 +1,2 @@
+Artículo 199 bis. Exámenes y pruebas de ADN. Los exámenes y pruebas biológicas destinados a la determinación de huellas genéticas sólo podrán ser efectuados por profesionales y técnicos que se desempeñen en el Servicio Médico Legal, o en aquellas instituciones públicas o privadas que se encontraren acreditadas para tal efecto ante dicho Servicio.
+Las instituciones acreditadas constarán en una nómina que, en conformidad a lo dispuesto en el Reglamento, publicará el Servicio Médico Legal en el Diario Oficial.
