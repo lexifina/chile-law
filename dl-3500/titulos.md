@@ -1,15 +1,1 @@
-TITULO I Normas Generales
-TITULO II De los Beneficiarios y Causantes
-TITULO III Del Financiamiento y de las Cotizaciones
-TITULO IV De las Administradoras de Fondos de Pensiones
-TITULO V De las pensiones de invalidez y de las pensiones de sobrevivencia causadas durante el período de afiliación activa
-TITULO VI De las pensiones de vejez y de las pensiones de sobrevivencia causadas durante la afiliación pasiva
-TITULO VI De las pensiones de vejez, invalidez y sobrevivencia.
-Párrafo 2º De la Renta Temporal con Renta Vitalicia Diferida.
-Párrafo 3º Del Retiro Programado
-Párrafo 7º Disposiciones Generales
-TITULO VII De los beneficios garantizados por el Estado
-TITULO VIII De las disposiciones especiales relacionadas con otros beneficios previsionales
-TITULO IX De los afiliados independientes y voluntarios
-TITULO X Del control
-TITULO XI Disposiciones Transitorias
+[La fuente no da el texto vigente en esta fecha.]
