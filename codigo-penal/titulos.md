@@ -34,7 +34,7 @@ TÍTULO CUARTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS
 § V. De la falsificación de instrumentos privados.
 § VI. De la falsificación de pasaportes, portes de armas y certificados.
 § VII. Del falso testimonio y del perjurio.
-§ VIII. De la usurpación de funciones o nombres.
+§ VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
 TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
 § I. Anticipación y prolongación indebida de funciones públicas.
 § II. Nombramientos ilegales.
@@ -58,12 +58,12 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 § VI. De las infracciones de las leyes y reglamentos referentes a loterías, casas de juego y de préstamo sobre prendas.
 § VII. Crímenes y simples delitos relativos a la industria, al comercio y a las subastas públicas.
 § VIII. De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
-§ IX. Simples delitos relativos a las epizootias.
+§ IX. Delitos relativos a la salud animal y vegetal.
 § X. De las asociaciones ilícitas.
 § XI. De las amenazas de atentado contra las personas y propiedades.
 § XII. De la evasión de los detenidos.
 § XIII. De la vagancia y mendicidad.
-§ XIV. Crímenes y simples delitos contra la salud pública.
+§ XIV. Crímenes y Simples Delitos contra la Salud Pública.
 § XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 § XVI. Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia.
 TÍTULO SÉPTIMO. CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y CONTRA LA MORALIDAD PÚBLICA.
