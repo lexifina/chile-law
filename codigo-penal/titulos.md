@@ -93,6 +93,7 @@ TÍTULO NOVENO. CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD.
 § III. Del robo con fuerza en las cosas.
 § IV. Del hurto.
 § V. Disposiciones comunes a los tres párrafos anteriores.
+§ 5 bis. De la receptación
 § VI. De la usurpación.
 § VII. De las defraudaciones.
 § VIII. Estafas y otros engaños.
