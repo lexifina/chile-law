@@ -1,7 +1,7 @@
-Artículo 27°- El personal del Servicio deberá clasificarse en alguno de los siguientes escalafones:
-a) Directivo Superior;
-b) Directivo;
-c) Profesional y Técnico;
-d) Fiscalizador;
-e) Administrativo, y
-f) Auxiliar.
+Artículo 27°.- Los funcionarios del Servicio deberán clasificarse en alguna de las siguientes plantas de personal:
+a) de Directivos;
+b) de Profesionales;
+c) de Fiscalizadores;
+d) de Técnicos;
+e) de Administrativos, y
+f) de Auxiliares.
