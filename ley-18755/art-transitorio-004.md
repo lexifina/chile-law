@@ -1,0 +1,3 @@
+Artículo 4°.- No obstante lo dispuesto en el artículo 40, letra a) de esta ley, el Servicio de Tesorerías continuará emitiendo los Bonos de la Reforma Agraria que sean necesarios para pagar las indemnizaciones que se encontraren pendientes por las expropiaciones efectuadas en virtud de las leyes N°s 15.020 y 16.640, conforme a las normas contenidas en este último texto legal, las que mantendrán su vigencia para este solo efecto.
+Facúltase al Presidente de la República para autorizar la emisión de los Bonos de la Reforma Agraria que sean necesarios para dar cumplimiento a lo establecido en el inciso anterior.
+Asimismo, la derogación de la Ley N° 16.640 no afectará la vigencia, características y aplicación de los Bonos de la Reforma Agraria emitidos.
