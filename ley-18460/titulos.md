@@ -1,3 +1,3 @@
 TITULO I De la Organización
-TITULO II Del Funcionamiento
+TITULO II Del Funcionamiemto
 ARTICULOS TRANSITORIOS
