@@ -11,7 +11,7 @@ Párrafo 2° Prestaciones médicas
 Párrafo 3° Prestaciones por incapacidad temporal
 Párrafo 4° Prestaciones por invalidez
 Párrafo 5° Prestaciones por supervivencia.
-Párrafo 6° Cuota mortuoria
+6. Cuota mortuoria
 Párrafo 7° Normas Generales
 TITULO VI Evaluación, reevaluación y revisión de incapacidades
 TITULO VII Prevención de riesgos profesionales
