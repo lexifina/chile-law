@@ -1,0 +1,1 @@
+Artículo Transitorio. Las personas que a la vigencia del presente Código Sanitario se encontraban autorizadas para dirigir sus propias farmacias en su calidad de prácticos en farmacia, podrán continuar haciéndolo.
