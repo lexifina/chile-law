@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1º del artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 18 de agosto de 1999.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- José Miguel Insulza Salinas, Ministro Secretario General de la Presidencia.- María Soledad Alvear Valenzuela, Ministra de Justicia.- Germán Quintana Peña, Ministro de Planificación y Cooperación.
+Lo que transcribo a Ud., para su conocimiento.- Saluda Atte. a Ud., Carlos Carmona Santander, Subsecretario General de la Presidencia de la República.
