@@ -1,0 +1,1 @@
+Artículo 3º.- Los contratos administrativos que se regulan en esta ley, cuyas bases hayan sido aprobadas antes de su entrada en vigencia, se regularán por la normativa legal vigente a la fecha de aprobación de dichas bases de licitación.
