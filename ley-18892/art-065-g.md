@@ -1,0 +1,1 @@
+Artículo 65 g).- Por intermedio de la Subsecretaría, el Consejo Nacional de Pesca y los Consejos Zonales de Pesca tomarán conocimiento de los resultados de las investigaciones y realizarán las observaciones que estimen pertinentes. Estos resultados serán públicos y estarán disponibles para los usuarios a través del Consejo Nacional de Pesca y de los Consejos Zonales de Pesca.

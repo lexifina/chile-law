@@ -1,0 +1,1 @@
+Artículo 16.- La limitación a que se refiere el artículo 63 no afectará los derechos de titulares de concesiones o autorizaciones vigente, salvo que éstas se modifiquen producto de ampliaciones de áreas o especies.

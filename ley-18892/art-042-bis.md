@@ -1,0 +1,1 @@
+Artículo 42 bis.- Los registros de que trata esta ley serán públicos, en lo referente a la individualización de los agentes que participen en las actividades de pesca y acuicultura, y de las embarcaciones autorizadas.

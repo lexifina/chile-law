@@ -1,0 +1,1 @@
+Artículo 13.- Los titulares de concesiones marítimas de hasta 0,5 hectáreas de extensión, que cuenten con una autorización vigente de la Subsecretaría para desarrollar actividades de cultivo de algas, podrán acogerse por un período de 3 años, a contar de la fecha de puesta en vigencia de esta ley, a lo dispuesto en el inciso final del artículo 59 de la presente ley.

@@ -1,0 +1,1 @@
+Artículo 38 bis b).- El Fondo de Fomento para la Pesca Artesanal estará constituido principalmente por los aportes que se consulten en el presupuesto de la Subsecretaría de Pesca, por otros aportes y por la recaudación del 50% de las multas provenientes de la contravención a la presente ley.

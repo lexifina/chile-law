@@ -1,0 +1,1 @@
+Artículo 11°.- La exigencia de nacionalidad chilena, establecida en el artículo 11 del decreto ley N° 2.222, de 1978, Ley de Navegación, no será aplicable a los propietarios de naves pesqueras inscritas antes del 30 de junio de 1991, en conformidad al inciso final del mismo artículo, según su texto vigente a esa fecha.
