@@ -1,0 +1,1 @@
+Artículo 41.- Facúltase al Director Nacional del Servicio Agrícola y Ganadero para nombrar y remover inspectores ad honorem, que colaborarán con el Servicio en el cumplimiento de las disposiciones legales y reglamentarias que rigen la actividad de caza y captura.
