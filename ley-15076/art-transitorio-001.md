@@ -1,0 +1,1 @@
+Artículo 1°.-Los actuales titulares de los cargos respecto de los cuales se modifiquen jornadas o supriman o modifiquen asignaciones con motivo de la aplicación del artículo 41° de la ley N° 17.654, conservarán la propiedad de ellos, sin necesidad de nuevo concurso.

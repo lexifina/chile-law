@@ -1,0 +1,1 @@
+Artículo 13°.-Con cargo a sus respectivos presupuestos, y cuando sus disponibilidades se lo permitan, las instituciones empleadoras podrán transformar los cargos de tres y cinco horas que existan en sus plantas de profesionales funcionarios, en cargos de 4 y 6 horas diarias, respectivamente, conservando sus titulares la propiedad de sus cargos.

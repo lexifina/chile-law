@@ -1,0 +1,1 @@
+Artículo 2°.-Los médicos becados que se hubieren desempeñado como tales desde la vigencia del reglamento que consultó la creación de las becas en el Servicio Nacional de Salud y en la Universidad de Chile, podrán impetrar para los beneficios legales y previsionales el reconocimiento de estos períodos, desde la fecha de sus respectivas designaciones y nombramientos.
