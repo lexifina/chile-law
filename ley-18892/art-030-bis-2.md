@@ -1,0 +1,1 @@
+Artículo 30 bis.- Prohíbese el apozamiento de recursos hidrobiológicos bentónicos en todo el litoral del país, en períodos que correspondan a su veda.

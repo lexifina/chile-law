@@ -1,0 +1,4 @@
+Artículo 3° a).- En toda área de pesca, independientemente del régimen de acceso a que se encuentre sometida, la Subsecretaría, mediante resolución fundada, previo informe técnico del Consejo Zonal de Pesca que corresponda, podrá establecer una o más de las siguientes prohibiciones o medidas de administración de los recursos hidrobiológicos:
+a) Fijación de tamaños mínimos de extracción por especie en un área determinada y sus márgenes de tolerancia. En ningún caso el tamaño mínimo será inferior al de la talla crítica.
+b) Fijación de las dimensiones y características de las artes y los aparejos de pesca.
+Prohíbese realizar actividades pesqueras extractivas en contravención a lo dispuesto en este artículo.
