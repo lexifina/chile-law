@@ -1,0 +1,2 @@
+Artículo transitorio.- La presente ley será íntegramente aplicable a las personas que se encontraren cumpliendo condena por sentencia ejecutoriada al momento de su publicación. Con todo, no regirá para dichas personas la limitación establecida en la letra g) del artículo 17.
+Asimismo, esta ley no se aplicará respecto del comportamiento anterior de dichos condenados, el cual no podrá ser considerado por la Comisión para los fines del beneficio de reducción de condena.
