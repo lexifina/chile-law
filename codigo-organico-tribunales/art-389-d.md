@@ -1,0 +1,1 @@
+Art. 389 D. Los administradores de tribunales con competencia en lo criminal serán designados de una terna que elabore el juez presidente, a través de concurso público de oposición y antecedentes, que será resuelto por el comité de jueces del respectivo tribunal.
