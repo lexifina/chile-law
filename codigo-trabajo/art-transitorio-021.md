@@ -1,0 +1,1 @@
+Art. 21 La modalidad de fomento a la capacitación de jóvenes consagrada en el artículo 183 bis del Código del Trabajo, sólo podrá llevarse a cabo respecto de aquellos contratos de trabajo que se pacten a partir de la entrada en vigencia de la Ley Nº 19.759.
