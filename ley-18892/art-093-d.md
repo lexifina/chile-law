@@ -1,1 +1,0 @@
-Artículo 93 d).- Recibida que sea una denuncia o querella, presentada por personas que no sean funcionarios del Servicio, los tribunales de justicia deberán informar a la respectiva Dirección Regional del Servicio el hecho de haberse incoado un proceso por infracción de la normativa pesquera.

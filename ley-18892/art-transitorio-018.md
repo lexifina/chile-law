@@ -1,0 +1,1 @@
+Artículo 18.- Facúltase a la Subsecretaría para que, por resolución fundada, suspenda el otorgamiento de nuevas autorizaciones de pesca, durante el año 1992, para aquellas unidades de pesquería en régimen de plena explotación señaladas en los artículos 4° y 7° transitorios de esta ley.

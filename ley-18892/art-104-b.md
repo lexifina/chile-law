@@ -1,1 +1,0 @@
-Artículo 104 b).- En el caso de reincidencia en las infracciones a que se refiere el artículo 89 de la presente ley, las personas que resulten responsables serán sancionadas con la pena de presidio menor en su grado mínimo y las sanciones pecuniarias se duplicarán.
