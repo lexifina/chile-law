@@ -1,1 +1,1 @@
-Artículo 12.- No obstante lo dispuesto en el artículo 80, los funcionarios que actualmente desempeñan empleos compatibles que no se encuentren considerados en el artículo 81, mantendrán el derecho de continuar ejerciéndolos en las mismas condiciones.
+Artículo 12.- Lo dispuesto en la letra a) del artículo 7º de este Estatuto, referente a los Ministerios, sólo se aplicará a contar de la fecha en que se produzca la adecuación de plantas, en conformidad con el artículo 1º transitorio.
