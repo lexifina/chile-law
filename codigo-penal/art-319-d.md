@@ -1,0 +1,1 @@
+Artículo 319° d Para los efectos de los dos artículos precedentes, las normas señaladas en los cinco artículos se considerará circunstancia agravante el hecho de suministrar sustancias estupefacientes a menores de 18 años de edad, o promover o facilitar el enviciamiento de dichos menores con tales sustancias.

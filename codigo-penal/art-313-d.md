@@ -1,0 +1,2 @@
+Artículo 313° d El que fabricare o a sabiendas expendiere a cualquier título sustancias medicinales deterioradas o adulteradas en su especie, cantidad, calidad o proporciones, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo de sus propiedades curativas, será penado con presidio menor en sus grados medio a máximo y multa de cinco a cincuenta sueldos vitales.
+Si la fabricación o expendio fueren clandestinos, ello se considerará como circunstancia de agravante.
