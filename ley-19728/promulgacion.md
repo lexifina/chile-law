@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlgese y llévese a efecto como Ley de la República.
+Santiago, 30 de abril de 2001.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Alvaro García Hurtado, Ministro Secretario General de la Presidencia.
+Lo que transcribo a usted para su conocimiento.- Saluda a usted, Yerko Ljubetic Godoy, Subsecretario del Trabajo.
