@@ -1,0 +1,2 @@
+Artículo 18 bis E.- Los derechos establecidos en los artículos anteriores, serán a beneficio fiscal, debiendo acreditarse su pago dentro de los 60 días contados desde la fecha en que quede ejecutoriada la resolución que autoriza la inscripción en el registro respectivo, sin lo cual se tendrá por abandonada la solicitud, procediéndose a su archivo.
+Dicha resolución deberá notificarse por carta certificada en la forma y condiciones que establezca el reglamento.
