@@ -1,0 +1,3 @@
+ESTABLECE INCENTIVOS PARA EL DESARROLLO ECONOMICO DE LAS PROVINCIAS DE ARICA Y PARINACOTA Y MODIFICA CUERPOS LEGALES QUE INDICA
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
