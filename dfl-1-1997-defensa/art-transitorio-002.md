@@ -1,0 +1,1 @@
+Artículo 2º.- El personal regido por este Estatuto, no podrá ser afectado, por aplicación de las normas contenidas en él, con la pérdida o disminución de sus remuneraciones y demás beneficios económicos de los que actualmente disfrute.
