@@ -1,1 +1,1 @@
-Artículo 15.- Para el efecto de lo dispuesto en el artículo 47, durante dos años y seis meses contados desde la publicación de la presente ley, el múltiplo a que se refiere el inciso primero de dicho artículo, será dos y el referido en el inciso tercero, será tres.
+Artículo 15.- Para el efecto de lo dispuesto en el artículo 47, durante dos años y seis meses contados desde la publicación de la presente ley, el múltiplo a que se refiere el inciso primero de dicho artículo, será dos.
