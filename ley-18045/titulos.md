@@ -22,4 +22,6 @@ TITULO XXI De la información privilegiada
 TITULO XXII De las Garantías
 TITULO XXIII Disposiciones varias
 TITULO XXIV De la oferta pública de valores extranjeros en el país
+TITULO XXV De la Oferta Pública de Adquisición de Acciones
+TITULO XXVI De la oferta pública de acciones o valores convertibles en el extranjero
 DISPOSICIONES TRANSITORIAS
