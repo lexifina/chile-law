@@ -1,0 +1,2 @@
+Artículo 73°.- Las hipotecas a que se refiere el artículo anterior, prohibiciones y demás garantías que se constituyeren subsistirán no obstante cualquier vicio que afecte al título del deudor, y su validez no será afectada por embargo, prohibiciones o gravámenes sobre la propiedad, ni por acciones resolutorias, rescisorias o de nulidad que puedan acogerse en contra de los sucesivos dueños del inmueble.
+Para constituir las hipotecas, prohibiciones y garantías mencionadas en el inciso anterior no será necesaria la autorización judicial en los casos en que las leyes la exijan.

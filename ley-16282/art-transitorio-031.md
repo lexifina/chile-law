@@ -1,0 +1,1 @@
+Artículo 31°- Autorízase a la Corporación de la Vivienda y a la Fundación de Viviendas y Asistencia Social para pagar horas extraordinarias al personal que se destine a la zona señalada en los artículos 1° y 2° transitorios de esta ley. Esta autorización sólo regirá hasta el 31 de Diciembre de 1965.

@@ -1,0 +1,2 @@
+Artículo 49°- El servicio de las obligaciones establecidas en el artículo 47° transitorio será hecho por la Caja Autónoma de Amortización de la Deuda Pública. Si ellas se pactaren en moneda extranjera se hará mediante giros al exterior en la moneda correspondiente o su equivalente en moneda corriente, a opción del acreedor.
+La Ley de Presupuestos de cada año consultará los fondos necesarios para el servicio de estas obligaciones.

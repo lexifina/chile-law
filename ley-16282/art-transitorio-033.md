@@ -1,0 +1,1 @@
+Artículo 33°- Prorrógase en 90 días, contados desde el 1° de Julio de 1965, el plazo dentro del cual la Corporación de la Vivienda deberá fijar y publicar en el Diario Oficial el valor oficial de la "unidad reajustable" que regirá para el período comprendido entre el 1° del mes siguiente a su publicación y el 30 de Junio de 1966.

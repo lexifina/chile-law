@@ -1,0 +1,2 @@
+Artículo 20°- Facúltase al Presidente de la República para refundir en un solo texto legal y dar número de ley a las disposiciones sobre renta presunta patrimonial contenidas en la ley N° 16.250 y modificada por la presente ley.
+Autorízasele, asimismo, para refundir en un solo texto legal, y dar número de ley a las disposiciones de la ley N° 4.174 y modificaciones posteriores, incluso las de la presente ley.

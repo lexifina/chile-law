@@ -1,0 +1,6 @@
+Artículo 50°- Los tenedores de obligaciones contraídas en virtud del artículo 47° transitorio gozarán de las siguientes franquicias bajo la garantía del Estado:
+a) Los intereses que devenguen o los beneficios etc. que con motivo de la tenencia, transferencia o por cualquiera otra causa correspondan al tomador o adquirente, estarán exentos de cualquier gravamen fiscal, a excepción del impuesto Global Complementario, y
+b) La transferencia de los títulos quedará exenta de todo impuesto o gravamen.
+Los títulos de las obligaciones que se contraten en virtud de la letra b) del artículo 47° transitorio de esta ley, deberán ser recibidos a la par por la Tesorería General de la República en pago de cualquier impuesto o tributo fiscal o derecho, gravamen y servicios que se perciben por las Aduanas, sean en moneda corriente o extranjera.
+De estas mismas franquicias gozarán los títulos que emita el Banco Central de Chile, de acuerdo con lo dispuesto en el artículo 39°, letra h) del D.F.L. N° 247, de 1960, y del artículo 26.o de esta ley.
+En ningún caso las obligaciones o bonos a que se refiere el presente artículo podrán servir para constituir garantía o depósito de importaciones o ninguna operación relativa a importaciones.

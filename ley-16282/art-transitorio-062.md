@@ -1,0 +1,2 @@
+Artículo 62°- Las cantidades que los contribuyentes del impuesto territorial hayan pagado o debido pagar en la oportunidad señalada en el decreto de Hacienda N° 1.084, publicado en el Diario Oficial de 14 de Mayo de 1965, se considerarán, para todos los efectos legales, como la contribución correspondiente al primer semestre de 1965.
+Por el segundo semestre de 1965, la contribución territorial será igual a un 55% de la contribución anual que corresponda de acuerdo con los nuevos avalúos fijados por la retasación general.

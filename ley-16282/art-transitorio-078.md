@@ -1,0 +1,1 @@
+Artículo 78°- El Ministro de Obras Públicas ordenará una investigación sumaria para establecer responsabilidades acerca de los daños ocurridos en las diversas obras públicas y poblaciones de las zonas señaladas en los artículos 1° y 2° transitorios de esta ley.
