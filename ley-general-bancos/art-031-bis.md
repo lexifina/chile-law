@@ -1,0 +1,5 @@
+Art. 31 bis. Las sucursales que las empresas bancarias constituidas en Chile abran fuera del país serán fiscalizadas por la Superintendencia y se regirán por las siguientes disposiciones:
+1) Para los efectos de los márgenes de la ley chilena que le sean aplicables, deberá asignarse a cada sucursal un capital que será deducido para los mismos efectos del capital pagado y reservas de la empresa matriz en Chile. Esta asignación y sus modificaciones requerirán de la aprobación de la Superintendencia.
+2) Les serán aplicables las disposiciones contenidas en los artículos 19, 81, 83, N° 8, y 84, N°s. 5 y 6. En caso alguno, podrán realizar operaciones de arbitrajes de monedas extranjeras.
+3) Podrán otorgar créditos a personas con domicilio o residencia en Chile, siempre que se sujeten a los límites contemplados en el artículo 84, N°s. 1, 2 y 4 y a las normas del artículo 85. Sin embargo, tales disposiciones no regirán para los créditos a su casa matriz.
+4) Para los efectos de las operaciones entre una sucursal en el exterior y su casa matriz, ambas serán consideradas como entidades independientes.
