@@ -1,1 +1,1 @@
-Artículo 2°- Mientras no se dicten los reglamentos de los artículos 11 y 12 del decreto ley N° 701, sustituido por el artículo 1° del presente decreto ley, regirán en todo lo que no sea contrario a él, los decretos N° 346, de 1974, de Agricultura y N° 958, de 1975, de Hacienda.
+Artículo 2°.- Mientras no se dicten los reglamentos de los artículos 11 y 12 del decreto ley N° 701, sustituido por el artículo 1° del presente decreto ley, regirán en todo lo que no sea contrario a él, los decretos N° 346, de 1974, de Agricultura y N° 958, de 1975, de Hacienda.
