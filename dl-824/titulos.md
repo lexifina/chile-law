@@ -1,6 +1,6 @@
 TITULO I Normas Generales
 Párrafo 1° De la materia y destino del impuesto
-Párrafo 2° Definiciones
+PARRAFO 2 Definiciones
 Párrafo 3° De los contribuyentes
 Párrafo 4° Disposiciones varias
 TITULO II Del impuesto cedular por categorías
