@@ -72,7 +72,7 @@ TÍTULO SÉPTIMO. CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y 
 § I. Aborto.
 § II. Abandono de niños y personas desvalidas.
 § III. Crímenes y simples delitos contra el estado civil de las personas.
-§ IV. Del rapto.
+§ IV. Del rapto. Derogado.
 § V. De la violación.
 § VI. Del estupro, incesto, corrupción de menores y otros actos deshonestos.
 § VII. Disposiciones comunes a los tres párrafos anteriores.
