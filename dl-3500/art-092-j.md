@@ -3,5 +3,5 @@ La cotización adicional que se cobre por la administración de los recursos de 
 La afiliación al Sistema deberá efectuarse por los interesados mediante la suscripción de la correspondiente solicitud. Respecto a quienes ya se encuentren afiliados por haber sido trabajadores dependientes o independientes, la primera cotización como afiliados voluntarios determina la apertura y mantención por la Administradora de las cuentas de capitalización individual voluntarias.
 Las cuentas de capitalización individual obligatorias y las cuentas de capitalización individual voluntarias deberán mantenerse en una misma Administradora.
 Las cotizaciones que se enteren en la cuenta de un afiliado voluntario podrán ser efectuadas por éste o por otro en su nombre y no tendrán el carácter de cotizaciones previsionales para los efectos de la Ley sobre Impuesto a la Renta.
-El afiliado voluntario podrá elegir o ser asignado a los tipos de Fondos de acuerdo a lo establecido en el artículo 23, según corresponda.
+El afiliado voluntario será asignado al Fondo Generacional que le corresponda según su edad.
 Asimismo, los afiliados a que se refiere este párrafo tendrán la opción de efectuar ahorro voluntario de aquel establecido en el artículo 21 de esta ley.
