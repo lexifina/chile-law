@@ -1,1 +1,1 @@
-Artículo 5°- El Presidente de la República determinará la distribución del personal de la Corporación de la Vivienda, Fundación de Viviendas y Asistencia Social que pase al Ministerio de la Vivienda y Urbanismo, Corporación de Servicios Habitacionales y Corporación de Mejoramiento Urbano.
+Artículo 5° El Presidente de la República determinará la distribución del Personal de la Corporación de la Vivienda, Fundación de Viviendas y Asistencia Social que pase al Ministerio de la Vivienda y Urbanismo, Corporación de Servicios Habitacionales y Corporación de Mejoramiento Urbano.
