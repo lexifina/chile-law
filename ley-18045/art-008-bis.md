@@ -1,0 +1,1 @@
+Artículo 8° bis.- La inscripción de los valores a que se refieren las letras b) y c) del artículo 5° de esta ley requiere que conjuntamente con la solicitud de inscripción, el emisor presente dos clasificaciones de riesgo de los títulos a inscribir, realizadas de conformidad a las disposiciones del Título XIV.
