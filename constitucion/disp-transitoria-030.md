@@ -1,0 +1,1 @@
+Trigésima.- En tanto no entre en vigencia la ley orgánica constitucional que determine las seis regiones en cada una de las cuales habrá dos circunscripciones senatoriales, se dividirán, en esta forma, las regiones de Valparaíso, Metropolitana de Santiago, del Maule, del Bío-Bío, de la Araucanía y de Los Lagos.
