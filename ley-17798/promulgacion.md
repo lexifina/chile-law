@@ -1,3 +1,2 @@
-Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
-Santiago, veinte de Octubre de mil novecientos setenta y dos.- SALVADOR ALLENDE GOSSENS.- José Tohá González, Ministro de Defensa Nacional.- Jaime Suárez Bastidas, Ministro del Interior.
-Lo que se transcribe para su conocimiento.- Rafael Valenzuela Verdugo, Subsecretario de Guerra.
+Anótese, tómese razón, publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Herman Brady Roche, General de División, Ministro de Defensa Nacional.- Raúl Benavides Escobar, General de División, Ministro del Interior.
+Lo que se transcribe para su conocimiento.- Roberto Guillard Marinot, Coronel, Subsecretario de Guerra.
