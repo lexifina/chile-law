@@ -1,1 +1,0 @@
-Artículo 38 bis a).- La Subsecretaría deberá consultar anualmente en su presupuesto, recursos para financiar el fomento de la pesca artesanal que posibilite el cumplimiento de los fines previstos en la presente ley.
