@@ -1,0 +1,9 @@
+Artículo 6°.- La asignación de experiencia establecida en el artículo 43 de esta ley para los profesionales de la educación del sector municipal, se aplicará y pagará con base en los bienios de servicio docente que se acrediten conforme al inciso final de este artículo y de acuerdo a la siguiente escala gradual:
+1.- Durante 1991: 50% del monto que correspondería por cada bienio debidamente acreditado.
+2.- Durante 1992: 80% del monto que correspondería por cada bienio debidamente acreditado.
+3.- Durante 1993: 90% del monto que correspondería por cada bienio debidamente acreditado.
+4.- A partir de 1994: se aplicará íntegramente lo dispuesto en el artículo 42 de esta ley.
+Dentro de los 9 meses siguientes a la dictación de esta ley, los profesionales de la educación de una dotación acreditarán ante el Departamento de Administración de la Educación o la Corporación Educacional correspondiente, por medio de certificados fidedignos emanados de las Municipalidades respectivas o del Ministerio de Educación, los años de servicios docentes servidos en la educación municipalizada o en la educación fiscal en el período anterior al traspaso de los establecimientos. Para el caso del reconocimiento de los años de servicios docentes desempeñados en la educación particular, se exigirán los siguientes requisitos.
+a) Que el establecimiento educacional donde el interesado prestó servicios docentes tenga el reconocimiento oficial del Estado, o lo haya tenido al momento en que se prestaron los servicios.
+b) Que el interesado presente el contrato celebrado con el respectivo establecimiento, y acredite el pago de las cotizaciones previsionales por el tiempo que solicita que se le reconozca como servido, mediante certificado otorgado por la institución previsional que corresponda.
+El reconocimiento de bienes se realizará por resolución municipal fundada la que será remitida al Ministerio de Educación.
