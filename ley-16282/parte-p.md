@@ -1,0 +1,3 @@
+ARTICULO P.- La Dirección General de Crédito Prendario y de Martillo, por intermedio de sus sucursales ubicadas en la zona en que se aplique el artículo 1° de esta ley, podrá devolver a las personas domiciliadas en dicha zona, las herramientas, ropas de cama y prendas de vestir pignoradas antes del sismo o catástrofe que dé lugar a la aplicación de dicho artículo, en el monto y condiciones que fije el reglamento.
+El Presidente de la República pondrá, con cargo a los fondos que se destinen a paliar los efectos del sismo o catástrofe, a disposición de la institución mencionada, las sumas necesarias para tal fin.
+En caso de que las prendas pignoradas se hubieren destruido o no se encontraren, se devolverá por dicha institución el doble de la tasación respectiva.
