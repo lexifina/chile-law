@@ -1,0 +1,1 @@
+Artículo 9.°- Las viviendas ocupadas actualmente por funcionarios que, de acuerdo a este Estatuto, no tengan derecho a utilizarlas, deberán ser restituidas en el plazo de un año a contar de la fecha de vigencia de esta ley. Durante dicho período, el funcionario deberá cumplir las obligaciones que le imponía la legislación bajo cuyo amparo sustenta la tenencia de la vivienda.
