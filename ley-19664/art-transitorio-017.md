@@ -1,0 +1,1 @@
+Artículo 17.- El gasto que involucre esta ley será financiado con el presupuesto de los Servicios de Salud y, en la parte no cubierta, con cargo al ítem 50-01-03-25-33.104, de la partida Tesoro Público de la ley de Presupuestos vigente.''.
