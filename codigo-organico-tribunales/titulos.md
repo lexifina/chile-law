@@ -19,7 +19,7 @@ TITULO VII La Competencia
 § 5. Reglas que determinan la competencia en materias criminales entre tribunales de igual jerarquía
 § 6. Reglas sobre competencia civil de los tribunales en lo criminal
 § 7. Reglas que determinan la distribución de causas en aquellas comunas o agrupación de comunas en cuyo territorio existan dos o más jueces con igual competencia
-§ 8. De la prórroga de jurisdicción
+§ 8. De la prórroga de la competencia
 § 9. De la competencia para fallar en única o en primera instancia
 § 10. De los tribunales que deben conocer en las contiendas y cuestiones de competencia.
 § 11. De la implicancia y recusación de los jueces y de los abogados integrantes
@@ -66,7 +66,7 @@ TITULO XII Disposiciones generales aplicables a los Auxiliares de la Administrac
 § 5. De su remuneración y de su previsión
 § 6. Suspensión y expiración de funciones. De las licencias
 TITULO XIII De los empleados u oficiales de secretaría
-TITULO XIV La Junta de Servicios Judiciales
+TITULO XIV La Corporación Administrativa del Poder Judicial
 TITULO XV Los Abogados
 TITULO XVI De la jurisdicción disciplinaria y de la inspección y vigilancia de los servicios judiciales
 § 1. Las facultades disciplinarias
