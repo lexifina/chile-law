@@ -1,13 +1,1 @@
-Artículo 16°.- Le corresponde al Subdirector Normativo, por intermedio de los Departamentos respectivos, las siguientes atribuciones, responsabilidades y obligaciones:
-a) Estudiar y proponer normas e instrucciones para la correcta y eficiente aplicación de los impuestos controlados por el Servicio;
-b) Recomendar al Director la interpretación administrativa de las leyes y disposiciones tributarias que son de competencia de la Subdirección;
-c) Desarrollar estudios relativos a la gestación y modificación de las leyes tributarias y reglamentos;
-d) Asesorar al Director en materia de doble tributación internacional; Art. 4° N° 4
-e) Proponer respuestas a las consultas tributarias formuladas por las unidades del Servicio, autoridades Art. 4° N° 4 públicas y organismos del Estado;
-f) Asesorar al Director y Autoridades superiores en materia de Convenios Internacionales sobre exención Art. 4° N° 4 de impuestos, o eliminación de la doble tributación internacional, o sobre intercambio de información y de asistencia en materia de impuestos;
-g) Estudiar y recomendar al Director las respuestas administrativas a consultas formuladas por las unidades del Servicio relacionadas con la aplicación de las disposiciones de convenios para evitar la doble tributación internacional, celebrados por Chile con gobiernos extranjeros;
-h) Elaborar las instrucciones que sobre esta materia deba impartir el Servicio, realizar estudios y análisis referentes a la conveniencia o factibilidad administrativa y operacional de dichos convenios y de las instrucciones relativas a ellos;
-i) Asesorar al Director y otras autoridades en el cumplimiento de la función de "Autoridad Competente" conforme a los Tratados Tributarios, especialmente en lo relativo al intercambio de información y en la consideración y solución de los casos de contribuyentes que se estimen afectados por casos de doble tributación internacional;
-j) Recopilar y analizar información relativa a la legislación tributaria extranjera, tratados tributarios celebrados por Chile o por otros países, y cambios en la legislación tributaria y reglamentos de otros países que puedan tener incidencia o interés para la administración tributaria chilena;
-k) Elaborar estudios analíticos sobre problemas técnicos de casos de elusión de impuestos en el área internacional, con el objeto de detectar normas defectuosas, inefectivas o inconsistentes que lo permiten, y proponer las soluciones legales o administrativas que procedan, y
-l) Formular recomendaciones en el ámbito legislativo y reglamentario al Director y autoridades superiores, y coordinar la presentación de aspectos técnicos relativos a las propuestas de legislación en materia de aspectos internacionales de la tributación, en coordinación con otras oficinas gubernamentales.
+Artículo 16°.- DEROGADO
