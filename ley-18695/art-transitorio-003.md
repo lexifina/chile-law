@@ -1,2 +1,1 @@
-Artículo 3°.- El personal que preste servicios en las municipalidades continuará afecto a las normas estatutarias actualmente en vigor hasta la dictación de los preceptos a que se refiere el artículo 34 de esta ley.
-Asimismo, seguirán siendo aplicables a dicho personal las normas previsionales que lo rigen en la actualidad.
+Artículo 3º.- Para los efectos de lo dispuesto en el artículo 19 de esta ley, en tanto no se apruebe un nuevo censo de habitantes, se aplicará el censo efectuado en 1982, y en el caso de creación de comunas nuevas o traspaso de territorios efectuados con posterioridad a dicho censo, se considerará la población que señale el informe oficial que emita el Instituto Nacional de Estadísticas.
