@@ -1,2 +1,2 @@
-Art. 170 bis. El juez que conozca de un proceso por delitos cometidos en diversos departamentos o delitos cuyos actos de ejecución se realizaron también en varios departamentos, podrá practicar directamente actuaciones judiciales en cualquiera de ellos. En este caso deberá designar un secretario ad-hoc que autorice sus diligencias.
+Art. 170 bis. El juez que conozca de un proceso por delitos cometidos en diversas comunas o de delitos cuyos actos de ejecución se realizaron en varias comunas, podrá practicar directamente actuaciones judiciales en cualquiera de ellas. En este caso deberá designar un secretario ad-hoc que autorice sus diligencias.
 El funcionario que subrogue al juez podrá actuar, en casos urgentes, aun en la misma causa que motiva la ausencia del titular.
