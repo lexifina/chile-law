@@ -20,6 +20,6 @@ CAPITULO I Registro
 CAPITULO II Contravenciones y sanciones
 CAPITULO III Disposiciones Generales
 Título IV DEPARTAMENTO DE DERECHOS INTELECTUALES
-TITULO V Del pequeño derecho de autor
+Título V DE LA GESTION COLECTIVA DE LOS DERECHOS DE AUTOR Y CONEXOS
 TITULO VI De la Corporación Cultural Chilena
 TITULO VII Disposiciones finales y artículos transitorios
