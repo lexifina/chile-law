@@ -1,0 +1,2 @@
+Artículo 9.o La Dirección General de Impuestos Internos deberá, a requerimiento expreso de la Corporación de la Vivienda, dividir los roles de avalúos de bienes raíces que corresponden a mejoreros o compradores de sitio acogidos a los beneficios de las leyes 5,579, 6,754 y 8,422.
+La transferencia de estas propiedades estará exenta del impuesto contemplado en el número 37.o del artículo 7.o del decreto con fuerza de ley N.o 371, de 1953.
