@@ -16,6 +16,7 @@ Normas comunes para los diputados y senadores
 Materias de Ley
 Formación de la ley
 CAPITULO VI Poder Judicial
+Capítulo VI-A MINISTERIO PUBLICO
 CAPITULO VII Tribunal Constitucional
 CAPITULO VIII Justicia Electoral
 CAPITULO IX Contraloría General de la República
