@@ -1,0 +1,1 @@
+Artículo 7°.- Declárase que el desempeño de profesionales funcionarios del Servicio Nacional de Salud en el Hospital Sala Cuna de Viña del Mar, debe entenderse como efectuado en el establecimiento para el cual se decretó su designación.
