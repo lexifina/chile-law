@@ -1,8 +1,0 @@
-Tribunal Constitucional
-EXTRACTO DE LA PARTE RESOLUTIVA DE LA SENTENCIA DICTADA RESPECTO DEL PROYECTO DE LEY ORGANICA CONSTITUCIONAL DE BASES GENERALES DE LA ADMINISTRACION DEL ESTADO
-El Tribunal Constitucional ha ordenado publicar en extracto la parte resolutiva de su sentencia de dos de octubre de mil novecientos ochenta y seis, mediante la cual declaró constitucionales las disposiciones de ese proyecto, con excepción de una oración del inciso primero de su artículo 39 que fue eliminada por inconstitucional.
-Asimismo, el Tribunal declaró que no le correspondía pronunciarse sobre los artículos 36, 42, inciso 3°, y transitorio del proyecto, por versar sobre materias que no son propias de ley orgánica constitucional, sino de ley ordinaria o común.- Rafael Larraín Cruz, Secretario.
-ALCANCE DEL TRIBUNAL CONSTITUCIONAL A LA LEY N° 18.670, publicado en el "Diario Oficial" de 28 de noviembre de 1987.
-Tribunal Constitucional
-PROYECTO DE LEY QUE MODIFICA EL ARTICULO FINAL DE LA LEY N° 18.575, ORGANICA CONSTITUCIONAL DE BASES GENERALES DE LA ADMINISTRACION DEL ESTADO
-El Secretario del Tribunal Constitucional, quien suscribe, certifica que la H. Junta de Gobierno envió el proyecto de ley enunciado en el rubro a fin de que el Tribunal ejerciera el control de su constitucionalidad, y que por sentencia de 24 de noviembre de 1987, declaró que el artículo único del proyecto es constitucional y que no correspondía al Tribunal pronunciarse sobre el artículo transitorio del proyecto, por versar sobre materias que no son propias de ley orgánica constitucional, sino de ley ordinaria o común.- Rafael Larraín Cruz, Secretario.
