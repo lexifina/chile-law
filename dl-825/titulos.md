@@ -7,7 +7,7 @@ TITULO II IMPUESTO AL VALOR AGREGADO
 Párrafo 1° Del hecho gravado.
 Párrafo 2° Del momento en que se devenga el impuesto.
 Párrafo 3° Del sujeto del impuesto.
-Párrafo 5° Tasa, base imponible y débito fiscal.
+PARRAFO 5° Tasa, base imponible y débito fiscal
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 TITULO III Impuestos especiales a las ventas y servicios
