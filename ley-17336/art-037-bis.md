@@ -1,0 +1,1 @@
+Artículo 37 bis.- Respecto de los programas computacionales sus autores tendrán el derecho de autorizar o prohibir el arrendamiento comercial al público de dichas obras amparadas por el derecho de autor.
