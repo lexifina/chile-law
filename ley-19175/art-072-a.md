@@ -1,0 +1,4 @@
+Artículo 72 a).- La Ley de Presupuestos incluirá el 10% restante del Fondo Nacional de Desarrollo Regional, el que se distribuirá entre las regiones en conformidad a los siguientes criterios:
+a) Un 5% como estímulo a la eficiencia, considerando, al menos, el porcentaje de desembolsos efectivos en relación con el marco presupuestario del año anterior y con el monto de la cartera de proyectos de inversión elegibles para ser financiados mediante el fondo Nacional de Desarrollo Regional.
+b) Un 5% para gastos de emergencia. La parte no utilizada de este último porcentaje, se distribuirá de acuerdo con la modalidad señalada en el artículo 72, en el ejercicio presupuestario siguiente.
+El reglamento señalado en el artículo precedente, regulará, asimismo, los procedimientos de operación de esta parte del Fondo Nacional de Desarrrollo Regional.
