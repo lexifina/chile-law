@@ -1,0 +1,1 @@
+Artículos Transitorios {ARTS. 1TRANS-6TRANS} Artículo 1°.- Las inscripciones en el Registro de Propiedad de Variedades o Cultivares creado por el decreto ley N° 1.764, de 1977, se entenderán incorporadas de pleno derecho al Registro de Variedades Protegidas que establece la presente ley y mantendrán su vigencia por los períodos y bajo las condiciones que la misma señala.
