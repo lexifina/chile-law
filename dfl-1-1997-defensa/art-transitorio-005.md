@@ -1,0 +1,2 @@
+Artículo 5º.- No obstante lo dispuesto en el artículo 67, el requisito mínimo de tiempo de permanencia en el grado para el ascenso de los empleados civiles que conforman escalafones declarados en extinción, será de cuatro años.
+Lo dispuesto en el inciso anterior, no será aplicable a los empleados civiles de la Armada pertenecientes a escalafones declarados en extinción a quienes le serán aplicables los tiempos mínimos para el ascenso al grado superior establecidos en este Estatuto.
