@@ -1,0 +1,1 @@
+ARTÍCULO 67° BIS.- Las resoluciones del Departamento de Cooperativas que apliquen multas tendrán mérito ejecutivo una vez vencido el plazo para impugnarlas o desde que quede a firme la sentencia que rechace el recurso de reclamación. El cobro de las multas corresponderá a la Tesorería General de la República.
