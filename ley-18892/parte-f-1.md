@@ -1,0 +1,1 @@
+Artículo F. 1.- Corresponderá a la Armada Nacional y a la Subsecretaría llevar una relación de las actividades pesqueras que se realicen en el área definida como Mar Presencial, en virtud de los tratados y acuerdos básicos internacionales que se realicen o se hayan realizado al respecto.
