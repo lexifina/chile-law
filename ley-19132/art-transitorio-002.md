@@ -1,0 +1,1 @@
+Artículo 2°.- El Directorio se constituirá dentro de los 15 días siguientes a la fecha en que la proposición formulada por el Presidente de la República sea aprobada por el Senado y asumirá de inmediato la dirección de la empresa.
