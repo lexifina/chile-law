@@ -1,1 +1,0 @@
-Artículo 51 bis.- El alcalde o concejal cuyo derecho a sufragio se suspenda por alguna de las causales previstas en el artículo 16 de la Constitución Política de la República, se entenderá temporalmente incapacitado para el desempeño de su cargo, debiendo ser reemplazado, mientras dure su incapacidad, de conformidad a lo establecido en los artículos 52 y 65.
