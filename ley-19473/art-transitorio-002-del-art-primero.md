@@ -1,0 +1,1 @@
+Artículo 2°.- Los centros de reproducción y de rehabilitación, criaderos y cotos de caza autorizados por el Servicio Agrícola y Ganadero tendrán un plazo de seis meses, contado desde la entrada en vigencia de esta ley, para inscribirse en el registro a que se refiere el artículo 19.

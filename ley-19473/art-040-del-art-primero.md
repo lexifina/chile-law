@@ -1,0 +1,1 @@
+Artículo 40.- Los miembros de las asociaciones de criadores de especies de fauna silvestre, de los clubes de pesca y caza, de las sociedades protectoras de animales y de instituciones medioambientales podrán preferentemente ser nombrados inspectores de caza ad honorem por el Servicio Agrícola y Ganadero.

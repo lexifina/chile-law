@@ -1,0 +1,1 @@
+Artículo 19.- Los centros de reproducción, de exhibición y de rehabilitación, los criaderos y los cotos de caza de especies de la fauna silvestre deberán inscribirse en un registro que llevará el Servicio Agrícola y Ganadero con fines de control. Asimismo, deberán comunicar a dicho Servicio los cambios de ubicación que experimenten.
