@@ -1,0 +1,1 @@
+Artículo 23 bis.- Para los efectos del artículo 1.942 del Código Civil, a los contratos de arrendamiento regidos por esta ley les será aplicable lo dispuesto en el artículo 598 del Código de Procedimiento Civil.
