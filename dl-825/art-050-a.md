@@ -1,0 +1,1 @@
+ARTICULO 50° A.- Estarán exentas del impuesto establecido en el artículo 42, las bebidas alcohólicas que se internen al país por pasajeros para su consumo, en una cantidad que no exceda de 2.500 centímetros cúbicos por persona adulta.
