@@ -1,1 +1,3 @@
-Tómese razón, comuníquese y publíquese.- JORGE ALESSANDRI RODRIGUEZ.- Roberto Vergara.
+Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Eduardo Aninat Ureta, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.-
+Saluda a Ud., Manuel Marfán Lewis, Subsecretario de Hacienda.
