@@ -1,0 +1,1 @@
+Artículo 49.- Cuando, deducida la acción de nulidad fundada en la existencia de un matrimonio anterior, se adujere también la nulidad de este matrimonio, se resolverá en primer lugar la validez o nulidad del matrimonio precedente.

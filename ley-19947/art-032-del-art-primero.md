@@ -1,0 +1,2 @@
+Artículo 32.- La separación judicial produce sus efectos desde la fecha en que queda ejecutoriada la sentencia que la decreta.
+Sin perjuicio de ello, la sentencia ejecutoriada en que se declare la separación judicial deberá subinscribirse al margen de la respectiva inscripción matrimonial. Efectuada la subinscripción, la sentencia será oponible a terceros y los cónyuges adquirirán la calidad de separados, que no los habilita para volver a contraer matrimonio.
