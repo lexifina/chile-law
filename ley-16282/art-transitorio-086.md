@@ -1,3 +1,0 @@
-Artículo 86°- El juez de la causa, apreciando en conciencia la prueba producida o que se rinda con este fin, podrá suspender los lanzamientos decretados o que debiera decretar en virtud de fallos con fuerza ejecutoria, avenimiento o transacción que afecten a personas que ejerzan actividades en predios ubicados en la provincia de Coquimbo, en calidad de inquilinos, medieros, arrendatarios y "pisantes".
-La resolución que suspende el lanzamiento contendrá la determinación del plazo de su vigencia, el que no podrá vencer antes del 1° de Abril de 1967.
-El juez podrá ejercitar las facultades que le concede este artículo en la sentencia definitiva o durante la ejecución del fallo, a petición de parte o de oficio."

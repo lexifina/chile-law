@@ -1,1 +1,0 @@
-Artículo 77°- Facúltase a la Municipalidad de La Ligua para que, con el voto conforme de la mayoría de sus regidores en ejercicio, destine provisionalmente el terreno que le fue donado en virtud de lo dispuesto en el inciso tercero del artículo 3° de la ley N° 10.357, al funcionamiento del cine de la comuna, mientras se construye una Sala definitiva.

@@ -1,1 +1,0 @@
-Artículo 26°- El Consejo de la Corporación de la Vivienda podrá otorgar facilidades de pago, prórrogas de plazo, condonar intereses y, en general, conceder todos los beneficios que estime convenientes, a los deudores de la institución que tengan el carácter de damnificados por el sismo del 28 de Marzo de 1965.

@@ -1,2 +1,0 @@
-Artículo 27°- Se declaran legalmente otorgados los préstamos en dinero o en especies concedidos por la Corporación de la Vivienda a los damnificados por el sismo del 28 de Marzo de 1965, entre esa fecha y la de la publicación de la presente ley, los que podrán cargarse a los fondos provenientes de la misma.
-Facúltase a la Corporación de la Vivienda para que, mediante resolución fundada, condone los préstamos referidos en el inciso anterior, debiendo proceder de acuerdo a normas generales que dictará con anterioridad.
