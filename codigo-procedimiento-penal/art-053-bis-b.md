@@ -1,0 +1,1 @@
+Artículo 53 bis B.- No se requerirá la intervención de los representantes legales para que los incapaces presten declaración como inculpados o testigos, ni para que sean procesados o participen en los demás actos del procedimiento criminal, sin perjuicio de las normas relativas a su responsabilidad civil.

@@ -1,0 +1,1 @@
+Artículo 278 bis.- El auto de procesamiento puede ser dejado sin efecto o modificado durante todo el sumario, de oficio o a petición de parte; pero el juez no podrá hacerlo desde que se ha concedido apelación en contra de él, ni sin nuevos antecedentes probatorios cuando haya sido revisado por la vía de ese recurso.

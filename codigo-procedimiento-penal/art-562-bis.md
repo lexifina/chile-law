@@ -1,0 +1,3 @@
+Artículo 562 bis.- Las resoluciones se notificarán por carta certificada que deberá contener copia íntegra de ellas, salvo la que ordene prisión, que será notificada en persona al condenado.
+Se notificarán también por carta certificada las sentencias dictadas en rebeldía del denunciado a quien no se haya entregado personalmente la citación, en el caso previsto en el artículo 553.
+Se entenderá practicada la notificación por carta certificada al tercer día contado desde la fecha de su recepción por la oficina de Correos respectiva, lo que deberá constar en un libro que, para tal efecto, deberá llevar el secretario. Lo anterior es sin perjuicio de lo dispuesto en el párrafo cuarto del Título III del Libro Primero.

@@ -1,0 +1,1 @@
+Artículo 71 bis.- Las nulidades quedan subsanadas si las partes no las oponen en las oportunidades establecidas en el artículo anterior; cuando las partes que tengan derecho a oponerlas hayan aceptado expresa o tácitamente los efectos del acto; y cuando, no obstante el vicio de que adolezca el acto, éste haya conseguido su fin respecto de todos los interesados.
