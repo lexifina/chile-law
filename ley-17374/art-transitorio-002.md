@@ -1,0 +1,1 @@
+Artículo 2°.- Aquellos funcionarios que presenten su renuncia voluntaria antes del encasillamiento que se haga en conformidad con las disposiciones de la presente ley, gozarán del desahucio legal aumentado en un 50%, el cual será de cargo fiscal.

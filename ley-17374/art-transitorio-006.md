@@ -1,0 +1,1 @@
+Artículo 6°.- Mientras se fija la primera planta por el Presidente de la República, permanecerán en sus cargos los actuales funcionarios de la Dirección de Estadística y Censos y se considerarán durante ese tiempo como funcionarios del Instituto Nacional de Estadísticas.
