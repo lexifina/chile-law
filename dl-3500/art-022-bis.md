@@ -1,0 +1,4 @@
+Artículo 22 bis.- La Administradora tendrá derecho a una retribución establecida sobre la base de comisiones de cargo de los afiliados titulares de cuentas de ahorro voluntario, destinada a financiar la administración de ellas.
+Estas comisiones serán establecidas libremente por cada Administradora, con carácter uniforme para todos los afiliados titulares de dichas cuentas.
+Sólo podrán estar sujetos a cobro de comisiones los retiros que se efectúen de acuerdo a lo dispuesto en los incisos cuarto y quinto del artículo 21. La transferencia del saldo de la cuenta a otra Administradora se considerará retiro para estos efectos.
+Las comisiones por los retiros sólo podrán establecerse sobre la base de una suma fija por operación. Ellas deberán ser informadas al público y a la Superintendencia de Administradoras de Fondos de Pensiones, en la forma que señale el reglamento, y regirán noventa días después de su comunicación.
