@@ -1,0 +1,3 @@
+ARTÍCULO QUINCUAGÉSIMO CUARTO.- El consejo y el comité de selección sólo podrán incluir en la propuesta de nombramiento que formulen a la autoridad competente, a aquellos candidatos que hayan acreditado los requisitos exigidos para el desempeño del cargo y que respondan al perfil profesional definido. Ambos organismos podrán entrevistar a los candidatos que así determinen, según el ámbito que les corresponda.
+En el caso de no haber a lo menos tres candidatos, el proceso deberá repetirse. Del mismo modo, tanto el consejo como el comité, podrán fundadamente declarar desierto un proceso de selección.
+Deberá estar disponible para los postulantes información relevante sobre la gestión del servicio respectivo, durante el proceso de selección.
