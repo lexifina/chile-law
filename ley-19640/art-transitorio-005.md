@@ -1,0 +1,1 @@
+Artículo 5º.- En tanto no se hubieren designado todos los fiscales regionales, el Consejo General del Ministerio Público funcionará con el Fiscal Nacional, que lo presidirá, y los fiscales regionales que se hubieren nombrado.
