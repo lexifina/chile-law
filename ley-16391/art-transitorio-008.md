@@ -1,1 +1,1 @@
-Artículo 8°- Los Consejos Directivos de la Corporación de la Vivienda y la Fundación de Viviendas y Asistencia Social subsistirán en sus funciones hasta la designación de las Juntas Directivas de la Corporación de la Vivienda y de la Corporación de Servicios Habitacionales.
+Artículo 8° Los Consejos Directivos de la Corporación de la Vivienda y la Fundación de Viviendas y Asistencia Social subsistirán en sus funciones hasta la designación de las Juntas Directivas de la Corporación de la Vivienda y de la Corporación de Servicios Habitacionales.
