@@ -1,5 +1,5 @@
-FIJA EL TEXTO REFUNDIDO DE LA LEY DE ORGANIZACION Y ATRIBUCIONES DE LA CONTRALORIA GENERAL DE LA REPUBLICA
-Santiago, 12 de Mayo de 1952.- En uso de la facultad que me confiere el artículo 6° transitorio de la ley número 9,687, de 21 de Septiembre de 1950, para refundir por decreto supremo en un solo texto con número de ley las disposiciones del decreto ley N° 258, de 22 de Julio de 1932, Orgánico de la Contraloría General de la República, y las de todas las leyes que le hayan introducido modificaciones o ampliaciones,
-Decreto:
-El siguiente es el texto refundido de la Ley de Organización y Atribuciones de la Contraloría General de la República:
-LEY N° 10,336
+FIJA EL TEXTO REFUNDIDO DE LA LEY DE ORGANIZACIÓN Y ATRIBUCIONES DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
+Núm. 2.421.- Santiago, 7 de julio de 1964.- En uso de la facultad que me confiere el artículo 3° de la ley 14.832, de 24 de enero de 1962, para fijar el texto refundido de la ley 10.336 y sus modificaciones posteriores, que contenga las que dicha ley 14.832 le introduce y las que se deriven de la facultad a que se refiere el artículo 2° de la misma, y de acuerdo con la proposición del Contralor General de la República formulada por oficio 43.490, de 30 de junio de 1964,
+DECRETO:
+El siguiente es el texto coordinado, sistematizado y refundido de la Ley de Organización y Atribuciones de la Contraloría General de la República:
+LEY N° 10.336
