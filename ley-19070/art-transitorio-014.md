@@ -1,0 +1,2 @@
+Artículo 14.- Con cargo al Fondo del artículo precedente, y para la finalidad que en el mismo se señala, se pagará una subvención complementaria transitoria a todos los establecimientos educacionales subvencionados por el decreto con fuerza de ley N° 2, del Ministerio de Educación, de 1989.
+El valor unitario mensual por alumno de esta subvención se fijará el 1° de marzo de cada año, en Unidades de Subvención Educacional, por medio de un decreto conjunto de los Ministerios de Educación y de Hacienda.

@@ -1,0 +1,1 @@
+Artículo 4°.- Las remuneraciones y beneficios establecidos por esta ley para los profesionales de la educación, deberán alcanzar el total de sus valores correspondientes dentro de los cinco años siguientes a la entrada en vigencia de esta ley, y de acuerdo a las normas de gradualidad establecidas en los artículos siguientes.
