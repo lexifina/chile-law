@@ -1,0 +1,2 @@
+Art. 305 bis F.- El querellante que a sabiendas solicite y obtenga una medida de arraigo infundada, será responsable de todos los perjuicios que con ella se causaren, con independencia de la responsabilidad criminal que pueda corresponderle con arreglo a la ley.
+La acción civil para reclamar la indemnización de dichos perjuicios, deberá interponerse ante el tribunal que conoció del arraigo y se tramitará y resolverá como incidente conforme lo disponen los artículos 89 y siguientes del Código de Procedimiento Civil.

@@ -1,0 +1,1 @@
+Artículo 75 bis.- Ejecutoriada una sentencia que imponga la pena de sujeción a la vigilancia de la autoridad, el juez determinará los lugares prohibidos al al penado, mientras quede sujeto a esa vigilancia, y también las obligaciones que le imponga conforme al artículo 45 del Código Penal.

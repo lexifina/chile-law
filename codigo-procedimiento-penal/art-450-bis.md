@@ -1,0 +1,2 @@
+Artículo 450 bis.- Los demandados civiles deberán oponer todas sus excepciones en el escrito de contestación y el juez las fallará en la sentencia definitiva.
+Si se rechaza la demanda por vicios formales, sin resolver el fondo de la acción deducida, podrá renovarse ante el juez de letras en lo civil, entendiéndose suspendida la prescripción en favor del demandante civil, desde que interpuso la demanda o, en su caso, desde que se constituyó en parte civil.
