@@ -1,0 +1,1 @@
+Artículo duodécimo transitorio.- El mayor gasto fiscal que represente la aplicación de esta ley, se financiará con los recursos que se contemplen en los presupuestos de las diversas entidades a que ella se refiere, y en lo que no alcanzare, con cargo a aquellos que se consulten en la partida presupuestaria Tesoro Público del año correspondiente.

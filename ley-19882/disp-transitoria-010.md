@@ -1,0 +1,1 @@
+Artículo décimo transitorio.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la publicación de la presente ley, mediante un decreto con fuerza de ley expedido por intermedio del Ministerio de Hacienda, fije el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo.
