@@ -1,0 +1,1 @@
+ARTICULO R.- El Presidente de la República podrá autorizar a los Servicios de la Administración Pública para entregar los bienes muebles dados de baja de sus inventarios, a la Dirección de Asistencia Social dependiente del Ministerio del Interior, a fin de destinarlos al uso o atención de los damnificados por el sismo o catástrofe a que se refiere el artículo 1° de esta ley.

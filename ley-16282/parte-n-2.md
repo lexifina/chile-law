@@ -1,0 +1,2 @@
+ARTICULO Ñ.- El subsidio de cesantía establecido en los artículos 36° y 37° de la ley 7.295, de 1942, se podrá prorrogar hasta por seis meses más en favor de los imponentes cesantes que vivan en las zonas en que se aplique lo dispuesto en el artículo 1° de esta ley.
+El mayor gasto que demande el cumplimiento de este artículo se financiará con cargo a los excedentes de la Caja de Previsión de Empleados Particulares.
