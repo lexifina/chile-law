@@ -1,0 +1,1 @@
+Artículo 12°.- Las solicitudes de concesión que se encuentren actualmente pendientes a la fecha de vigencia de la presente Ley, continuarán rigiéndose hasta su otorgamiento por las disposiciones de DFL N° 4 del 24 de Julio de 1959, pero los derechos y obligaciones que ella origine se regirán por la presente Ley.
