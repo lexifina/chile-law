@@ -1,0 +1,1 @@
+Artículo 145-K.- Los derechos de propiedad intelectual de los autores y compositores, artistas, intérpretes y ejecutantes, en ningún caso se verán afectados por las disposiciones contenidas en el presente Capítulo IV.
