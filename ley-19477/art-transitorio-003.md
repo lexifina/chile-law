@@ -1,0 +1,1 @@
+Artículo 3°.- Dentro de los 30 días siguientes a la publicación de esta ley, los Oficiales Civiles que desempeñan funciones notariales deberán cerrar y entregar al Archivero Judicial respectivo, los registros públicos a que se refiere el artículo 86 de la ley N° 4.808.

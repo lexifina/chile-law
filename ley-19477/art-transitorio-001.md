@@ -1,0 +1,1 @@
+Artículo 1°.- Facúltase al Presidente de la República para que, en el plazo de un año mediante un decreto con fuerza de ley, fije los contenidos, procedimientos y mecanismos de inscripción y los registros y archivos que el Servicio de Registro Civil e Identificación debe practicar y mantener.
