@@ -1,1 +1,1 @@
-Artículo 2º.- Todas las organizaciones deportivas legalmente constituidas a la fecha de entrada en vigencia de la presente ley, deberán adecuar sus estatutos a lo dispuesto en los artículos 39 y 40, dentro del plazo de 360 días contado desde la dictación del decreto supremo a que se refiere el artículo 39.
+Artículo 2º.- DEROGADO.
