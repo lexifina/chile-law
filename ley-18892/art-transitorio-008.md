@@ -1,0 +1,1 @@
+Artículo 8°.- Lo dispuesto en el artículo 120 no será aplicable a las naves ingresadas al país en virtud de contratos de inversión extranjera en conformidad con el decreto ley N° 600, de 1974, vigentes a la fecha de publicación de esta ley.
