@@ -1,0 +1,2 @@
+Artículo 2°.- El crédito tributario establecido en el Párrafo I de esta ley será aplicable a las inversiones en bienes adquiridos nuevos o comenzados a construir a partir del l° de enero de 1995, siempre que el proyecto de inversión al que dichos bienes sean incorporados sea aprobado según lo dispuesto en el referido Párrafo.".
+Habiéndose cumplido con lo establecido en el N° 1° del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
