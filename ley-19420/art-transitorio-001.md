@@ -1,0 +1,1 @@
+Artículo 1°.- Facúltase al Presidente de la República para que, dentro del plazo de noventa días a contar de la fecha de publicación de esta ley, mediante decretos supremos expedidos a través del Ministerio de Hacienda, establezca las modalidades y forma de aplicación de la recuperación del impuesto a que se refiere el artículo 24 de esta ley.
