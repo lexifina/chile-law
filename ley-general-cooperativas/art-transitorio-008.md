@@ -1,0 +1,1 @@
+Artículo 8°- Las cooperativas existentes a la fecha de vigencia del decreto ley 445, de 1974, deberán modificar sus estatutos para incorporar los sistemas señalados en el artículo 18° con anterioridad a la primera Junta General Ordinaria que les corresponda realizar en el año 1975.
