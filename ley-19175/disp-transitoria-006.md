@@ -1,1 +1,14 @@
-artículo 29 será hecha por el respectivo director regional del Servicio Electoral dentro de los veinte días siguientes a la fecha de publicación de esta ley.
+SEXTA.- Para la primera elección de consejeros regionales, establécese que el número de consejeros de las respectivas regiones, en conformidad a lo dispuesto en el artículo 29, será:
+I. Región de Tarapacá: total 16 consejeros regionales, correspondiéndoles 7 a la Provincia de Arica; 2 a la Provincia de Parinacota, y 7 a la provincia de Iquique.
+II. Región de Antofagasta: total 16 consejeros regionales, correspondiéndoles 3 a la Provincia de Tocopilla; 5 a la Provincia de El Loa, y 8 a la Provincia de Antofagasta.
+III. Región de Atacama: total 16 consejeros regionales, correspondiéndoles 4 a la Provincia de Chañaral; 7 a la Provincia de Copiapó, y 5 a la Provincia de Huasco.
+IV. Región de Coquimbo: total 16 consejeros regionales, correspondiéndoles 8 a la Provincia de Elqui; 5 a la Provincia de Limarí, y 3 a la Provincia de Choapa.
+V. Región de Valparaíso: total 28 consejeros regionales, correspondiéndoles 2 a la Provincia de Petorca; 2 a la Provincia de Los Andes; 3 a la Provincia de San Felipe; 4 a la Provincia de Quillota; 12 a la Provincia de Valparaíso; 3 a la Provincia de San Antonio, y 2 a la Provincia de Isla de Pascua.
+VI. Región del Libertador Bernardo O'Higgins: total 16 consejeros regionales, correspondiéndoles 9 a la Provincia de Cachapoal; 5 a la Provincia de Colchagua, y 2 a la Provincia de Cardenal Caro.
+VII. Región del Maule: total 18 consejeros regionales, correspondiéndoles 5 a la Provincia de Curicó; 6 a la Provincia de Talca; 5 a la Provincia de Linares, y 2 a la Provincia de Cauquenes.
+VIII. Región del Bío-Bío: total 22 consejeros regionales, correspondiéndoles 5 a la Provincia de Ñuble; 9 a la Provincia de Concepción; 5 a la Provincia de Bío-Bío, y 3 a la Provincia de Arauco.
+IX. Región de la Araucanía: total 14 consejeros regionales, correspondiéndoles 4 a la Provincia de Malleco, y 10 a la Provincia de Cautín.
+X. Región de Los Lagos: total 20 consejeros regionales, correspondiéndoles 6 a la Provincia de Valdivia; 4 a la Provincia de Osorno; 5 a la Provincia de Llanquihue; 3 a la Provincia de Chiloé, y 2 a la Provincia de Palena.
+XI. Región de Aysén del General Carlos Ibáñez del Campo: total 18 consejeros regionales, correspondiéndoles 8 a la Provincia de Coyhaique; 6 a la Provincia de Aysén; 2 a la Provincia General Carrera, y 2 a la Provincia Capitán Prat.
+XII. Región de Magallanes y de la Antártica Chilena: total 18 consejeros regionales, correspondiéndoles 3 a la Provincia de Ultima Esperanza; 11 a la Provincia de Magallanes; 2 a la Provincia de Tierra del Fuego, y 2 a la Provincia de la Antártica Chilena.
+XIII. Región Metropolitana de Santiago: total 26 consejeros regionales, correspondiéndoles 2 a la Provincia de Chacabuco; 16 a la Provincia de Santiago; 2 a la Provincia de Cordillera; 2 a la Provincia de Maipo; 2 a la Provincia de Melipilla, y 2 a la Provincia de Talagante.
