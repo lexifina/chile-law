@@ -4,7 +4,8 @@ Título II DE LA ACCION PENAL Y DE LA ACCION CIVIL EN EL PROCESO PENAL.
 Título III REGLAS APLICABLES A TODO JUICIO CRIMINAL
 1. Aplicación de la ley.
 2. Reglas generales sobre el proceso.
-3. Derechos del inculpado.
+3. Del funcionamiento extraordinario de los tribunales que ejercen competencia en materia penal
+4. Derechos del inculpado.
 4. Nulidades Procesales
 Título IV DE LA POLICIA
 Libro Segundo DEL JUICIO ORDINARIO SOBRE CRIMEN O SIMPLE DELITO
