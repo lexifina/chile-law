@@ -1,0 +1,4 @@
+Artículo 40.- Todo establecimiento en que se expendan bebidas alcohólicas deberá exhibir, en lugar destacado y claramente visible al público, un cartel en el cual se indiquen de manera didáctica las prohibiciones a que se refieren los artículos 2º, 25, 26, 29, 41 y 42 de esta ley y el artículo 115 A de la Ley de Tránsito, en ambos casos junto con las medidas y sanciones que les son aplicables.
+La infracción a lo dispuesto en el inciso precedente se sancionará con multa de una a tres unidades tributarias mensuales.
+En igual sanción incurrirá toda persona que deliberadamente arranque o destruya dichos ejemplares.
+El texto y formato del cartel serán determinados por el Ministerio de Justicia. Los carteles serán vendidos por las respectivas Municipalidades al precio que se señale en el reglamento y las sumas que por este concepto se recauden, constituirán rentas municipales.
