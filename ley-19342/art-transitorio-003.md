@@ -1,0 +1,1 @@
+Artículo 3°.- Mientras no se dicte el reglamento de la presente ley, continuarán rigiendo los decretos supremos reglamentarios respecto de las materias reguladas en éste, en lo que no sean contrarios a sus disposiciones.
