@@ -11,7 +11,7 @@ TITULO II De la declaración y plazos de pago
 Título III GIROS, PAGOS, REAJUSTES E INTERESES
 Párrafo 1° De los giros y pagos
 Párrafo 2° Reajustes e Intereses moratorios
-Párrafo 3° Intereses en caso de devolución
+Párrafo 3° Reajustes e intereses en caso de devolución o imputación
 TITULO IV Medios especiales de fiscalización
 Párrafo 1°. Del examen y secreto de las declaraciones y de la facultad de tasar.
 Párrafo 2°. Del Rol Unico Tributario y de los avisos inicial y de término
