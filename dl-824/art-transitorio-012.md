@@ -1,1 +1,1 @@
-Artículo 12° transitorio.- Por los años tributarios 1976 y 1977, la tasa del impuesto a la renta de Primera Categoría será del 20% y 18%, respectivamente. Tratándose de balances correspondientes a fechas distintas del 31 de Diciembre, dichas tasas regirán respecto de aquéllos que se practiquen en el curso de los años calendarios 1975 y 1976, respectivamente. Respecto del impuesto sujeto a retención dichas tasas regirán en los años calendarios 1975 y 1976, respectivamente.
+[La fuente no da el texto vigente en esta fecha.]
