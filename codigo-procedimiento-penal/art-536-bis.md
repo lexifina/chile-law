@@ -1,0 +1,2 @@
+Artículo 536 bis.- El recurso de casación en la forma contra la sentencia de primera instancia debe ser interpuesto dentro del plazo concedido para apelar.
+Si también se deduce el recurso de apelación, se entablarán ambos conjuntamente, a menos que se haya apelado en el acto de la notificación o que la ley establezca un plazo inferior para alzarse, en cuyo caso el escrito de casación podrá presentarse por separado, en el término de cinco días.

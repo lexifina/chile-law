@@ -1,0 +1,4 @@
+Artículo 488 bis.- La prueba de las acciones civiles en el juicio criminal se sujetará a las normas civiles en cuanto a la determinación de la parte que debe probar, y a las disposiciones de este Código en cuanto a su procedencia, oportunidad, forma de rendirla y valor probatorio.
+Las partes podrán absolver posiciones en el plenario sólo una vez sobre hechos comprendidos en la acción civil que no digan relación con la existencia del delito y la responsabilidad penal. Regirán para este efecto las reglas contenidas en el artículo 484 bis A.
+El reconocimiento que las partes hicieren en sus escritos, respecto de los hechos que las perjudiquen indicados en el inciso anterior, constituirá confesión.
+Lo previsto en este artículo se aplicará también a las cuestiones civiles a que se refiere el inciso primero del artículo 173 del Código Orgánico de Tribunales.

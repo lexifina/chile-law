@@ -1,0 +1,1 @@
+Artículo 375 bis.- Si la caución ha consistido en un depósito de dinero, y no comparece el procesado en el tiempo que se le fijare por el juez, éste hará efectiva la caución girando la cantidad consignada a la orden de la Junta de Servicios Judiciales.
