@@ -1,0 +1,1 @@
+Artículo 4°.- Para proveer cargos de Jefes podrán ser designadas por el Presidente de la República, por esta única vez, personas que, cumpliendo con las normas establecidas en el decreto con fuerza de ley N° 338, de 1960, sobre Estatuto Administrativo, no reúnan los requisitos contemplados en el presente decreto con fuerza de ley.
