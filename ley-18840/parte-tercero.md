@@ -1,0 +1,3 @@
+ARTICULO TERCERO.- La Secretaría Ejecutiva del Comité de Inversiones Extranjeras estará adscrita, a contar del 1° de enero de 1990, al Ministerio de Economía, Fomento y Reconstrucción.
+En el tiempo que medie entre la fecha de publicación de esta ley y aquella señalada en el inciso anterior, la referida Secretaría Ejecutiva continuará adscrita al Banco Central de Chile.
+Facúltase al Presidente de la República para que, con anterioridad al 1° de enero de 1990 y, mediante decreto supremo expedido a tráves del Ministerio de Economía, Fomento y Reconstrucción, el que deberá llevar, además, la firma del Ministro de Hacienda, fije la planta de personal y remuneraciones de la mencionada Secretaría Ejecutiva.
