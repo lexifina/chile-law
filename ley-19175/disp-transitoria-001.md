@@ -1,0 +1,1 @@
+PRIMERA.- Los recursos que se asignen al Fondo Nacional de Desarrollo Regional se incrementarán, respecto del presupuesto del año anterior, en los Presupuestos de 1993 y 1994, en una tasa no inferior al 25 por ciento por sobre el crecimiento promedio del presupuesto de la inversión pública nacional en cada uno de esos años, excluida la inversión sectorial de asignación regional.
