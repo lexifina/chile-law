@@ -1,0 +1,1 @@
+Artículo 11.- Dentro de los tres primeros meses posteriores a la publicación de esta ley se dictará un Reglamento para determinar la colaboración de la Comisión de Desarrollo de Isla de Pascua en la administración del Parque Nacional de Isla de Pascua.
