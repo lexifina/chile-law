@@ -1,0 +1,1 @@
+Artículo 6°.- El personal que actualmente cumple funciones en calidad de interino, la conservará durante el plazo de sesenta días contado desde la publicación de esta ley o hasta el término del período de nombramiento, si éste fuere menor.
