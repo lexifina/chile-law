@@ -1,0 +1,1 @@
+Artículo 12.- No obstante lo dispuesto en el artículo 80, los funcionarios que actualmente desempeñan empleos compatibles que no se encuentren considerados en el artículo 81, mantendrán el derecho de continuar ejerciéndolos en las mismas condiciones.
