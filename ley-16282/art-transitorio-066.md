@@ -1,2 +1,0 @@
-Artículo 66°- Los gastos e inversiones que deban realizarse para cumplir las finalidades de las disposiciones transitorias de la presente ley, se consultarán en las Leyes de Presupuestos en los años 1966 y 1967, las cuales deberán contener un ítem especial denominado "Reconstrucción zona devastada por el sismo de 28 de Marzo de 1965".
-Con cargo a este ítem sólo podrán girarse fondos para cubrir los gastos e inversiones que requieran los Servicios Fiscales, Instituciones y Empresas del Estado y las Municipalidades de acuerdo con las disposiciones de la presente ley.
