@@ -1,0 +1,1 @@
+Artículo 2° transitorio.- Se faculta al Presidente de la República para modificar las tasas de los impuestos establecidos en la Ley sobre Impuesto a las Ventas y Servicios, de acuerdo a la recaudación que produzcan, y con el fin de adaptar su rendimiento a los planes presupuestarios.
