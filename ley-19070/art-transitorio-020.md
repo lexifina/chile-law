@@ -1,1 +1,1 @@
-Artículo 20.- El mayor gasto fiscal que represente la aplicación de esta ley para el año 1991, que asciende a $ 8.981.000.000, se financiará con cargo al ítem 50-01-03-25-33-004 de la partida presupuestaria Tesoro Público de la Ley de Presupuestos. Para los años 1992 y siguientes, el financiamiento de esta ley será consultado en la Ley de Presupuestos del Sector Público del año respectivo.
+Artículo 20: El Presidente de la República dictará el Reglamento de la presente ley, dentro del plazo de 150 días siguientes a la fecha de su publicación en el Diario Oficial.
