@@ -1,0 +1,1 @@
+Artículo 145-C.- Lo dispuesto en el inciso primero del artículo 22 de este Código no será aplicable a los trabajadores comprendidos en este Capítulo IV. Con todo, la jornada ordinaria diaria de trabajo no podrá exceder de diez horas.
