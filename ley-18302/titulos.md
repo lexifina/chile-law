@@ -1,12 +1,12 @@
-TITULO I - DE LA AUTORIDAD REGULADORA
+TITULO I De la Autoridad Reguladora
 TITULO II - DEFINICIONES
-TITULO III - DE LA SEGURIDAD NUCLEAR
-Párrafo I - De las Medidas de Seguridad Nuclear.
+TITULO III De la Seguridad Nuclear
+Párrafo I.- De las Medidas de Seguridad Nuclear
 Párrafo II - De las Autorizaciones
 Párrafo III - De la Obligación de Informar
 Párrafo IV.- De las Inspecciones
-TITULO IV.- DE LAS INFRACCIONES DE LAS NORMAS LEGALES Y REGLAMENTARIAS SOBRE SEGURIDAD Y PROTECCION NUCLEAR
-NUCLEAR Párrafo I.- De la competencia de la Comisión para conocer y juzgar las infracciones de las normas, medidas
+TITULO IV De las Infracciones de las Normas Legales y Reglamentarias sobre Seguridad y Protección Nuclear
+Párrafo I.- De la Competencia de la Comisión para Conocer y Juzgar las Infracciones de las Normas, Medidas y Condiciones de la Seguridad Nuclear.
 Párrafo II.- De los delitos contra la seguridad nuclear
 TITULO V.- DE LA RESPONSABILIDAD CIVIL POR DAÑOS NUCLEARES
 Párrafo I.- De la Naturaleza de la Responsabilidad
