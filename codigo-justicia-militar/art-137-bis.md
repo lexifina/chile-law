@@ -1,0 +1,2 @@
+Artículo 137 bis.- Las disposiciones del artículo precedente no impiden ni suspenden, en caso alguno, el cumplimiento de las penas privativas de libertad en la forma prevista por el artículo 86 del Código Penal.
+En consecuencia, la circunstancia de existir un mandamiento de detención o prisión expedido con anterioridad o posterioridad al momento de hallarse ejecutoriada la sentencia, no obstará al cumplimiento de la pena, ni modificará el régimen penitenciario al que, en conformidad al Reglamento, deba someterse el condenado.
