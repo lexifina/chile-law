@@ -1,0 +1,1 @@
+Artículo 11.- El mayor gasto fiscal que represente la aplicación de esta ley, para el año 1994, se financiará con el cargo al ítem 50-01-03-25-33.104, de la Partida Tesoro Público de la Ley de Presupuestos. Para los años siguientes, el financiamiento de esta ley será consultado en la Ley de Presupuestos del año respectivo.
