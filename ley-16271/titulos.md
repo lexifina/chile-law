@@ -1,18 +1,17 @@
-TITULO I Del Impuesto a las Asignaciones y Donaciones
-Capítulo I Del Impuesto y de la forma de determinar el monto imponible
-Capítulo II De las asignaciones y donaciones exentas de impuestos
-Capítulo III Del pago del impuesto sobre las donaciones
-Capítulo IV
-De la posesión efectiva
+Título I DEL IMPUESTO A LAS ASIGNACIONES Y DONACIONES
+Capítulo I DEL IMPUESTO Y DE LA FORMA DE DETERMINAR EL MONTO IMPONIBLE
+Capítulo II DE LAS ASIGNACIONES Y DONACIONES EXENTAS DE IMPUESTOS
+Capítulo III DEL PAGO DEL IMPUESTO SOBRE LAS DONACIONES
+Capítulo IV DE LA POSESION EFECTIVA
 Publicaciones e inscripciones
 De los inventarios
 De la posesión efectiva de herencias que no excedan de cincuenta unidades tributarias anuales
-Capítulo V De los valores en custodia y en depósito
-Capítulo VI De la tasación de bienes
-Capítulo VII De la determinación definitiva del monto imponible
-Capítulo VIII Del pago del impuesto y de las garantías
-TITULO II
-Capítulo I De las infracciones a la presente ley y de sus sanciones
-Capítulo II Del procedimiento judicial
-CAPITULO III Disposiciones Generales
-CAPITULO IV Disposiciones transitorias
+Capítulo V DE LOS VALORES EN CUSTODIA Y EN DEPOSITO
+Capítulo VI DE LA TASACION DE BIENES
+Capítulo VII DE LA DETERMINACION DEFINITIVA DEL MONTO IMPONIBLE
+Capítulo VIII DEL PAGO DEL IMPUESTO Y DE LAS GARANTIAS
+Título II
+Capítulo I DE LAS INFRACCIONES A LA PRESENTE LEY Y DE SUS SANCIONES
+Capítulo II DEL PROCEDIMIENTO JUDICIAL
+Capítulo III DISPOSICIONES GENERALES
+Capítulo IV DISPOSICIONES TRANSITORIAS
