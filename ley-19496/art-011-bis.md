@@ -1,0 +1,3 @@
+Artículo 11 bis.- Créase un Fondo Concursable, destinado al financiamiento de iniciativas que las Asociaciones de Consumidores constituidas según lo dispuesto en la presente ley desarrollen en el cumplimiento de sus objetivos, con exclusión de las actividades a que se refieren las letras d) y e) del artículo 8º.
+Dicho Fondo estará compuesto por los aportes que cada año se contemplen en el presupuesto del Servicio Nacional del Consumidor y por las donaciones que realicen para dicho efecto organizaciones sin fines de lucro nacionales o internacionales.
+Un reglamento establecerá la constitución y composición del Consejo de Administración del Fondo, preservando la autonomía de las Asociaciones de Consumidores y de la gestión del Fondo.
