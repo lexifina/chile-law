@@ -1,0 +1,1 @@
+Artículo 15.- Lo dispuesto en el artículo 130 no será aplicable a las naves con matrícula vigente o que se encuentran en proceso de construcción, entendiéndose por tal la colocación de quilla ya efectuada, al momento de la entrada en vigencia de esta ley.
