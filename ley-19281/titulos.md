@@ -3,4 +3,5 @@ TITULO II De las Sociedades Inmobiliarias Propietarias de las Viviendas que podr
 TITULO III Del Contrato de Arrendamiento de Viviendas con Promesa de Compraventa
 TITULO IV De los Seguros y del Fondo de Garantía
 TITULO V Del Subsidio Habitacional para el Arrendamiento de Viviendas con Promesa de Compraventa
-TITULO VI De las Disposiciones Generales
+TITULO VI. DE LOS FONDOS PARA LA VIVIENDA Y DE LAS SOCIEDADES ADMINISTRADORAS.
+TITULO VII De las Disposiciones Generales
