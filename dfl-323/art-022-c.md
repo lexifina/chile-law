@@ -1,0 +1,1 @@
+Artículo 22-C. Las servidumbres no podrán aprovecharse en fines distintos de aquellos propios de la respectiva concesión y para los cuales hayan sido constituidas y cesarán cuando termine ese aprovechamiento. Podrán ampliarse o restringirse según lo requieran las actividades propias de la respectiva concesión.

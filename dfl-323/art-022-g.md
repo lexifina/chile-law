@@ -1,0 +1,7 @@
+Artículo 22-G. Todas las cuestiones relativas a la constituckón, ejercicio y terminación de las servidumbres reguladas por esta ley, a las indemnizaciones correspondientes y a las cauciones que procedan, se tramitarán conforme al siguiente procedimiento:
+1. Deducida la demanda, citará el tribunal a la audiencia el quinto día hábil después de la última notificación, ampliándose este plazo si el demandado no está en el lugar del juicio, con todo o parte del aumento que concede el artículo 259 del Código de Procedimiento Civil.
+2. La audiencia se celebrará con sólo el que asista y en ella se recibirá la contestación y se rendirán las pruebas. La parte que quiera rendir prueba testimonial deberá presentar, antes de las doce horas del día anterior al de la audiencia, una lista de los testigos de que piensa valerse.
+3. Si el Juez lo estima conveniente, oirá el informe de un perito, nombrado en la misma audiencia por los interesados y, a falta de acuerdo, por él. El Juez fijará un plazo al perito para que presente su informe.
+4. La sentencia se dictará dentro de quinto día contado desde la fecha de la audiencia, o de la presentación del informe, en su caso.
+5. La sentencia definitiva será apelable en el solo efecto devolutivo, salvo que el Juez, por resolución fundada no susceptible de apelación, conceda el recurso en ambos efectos. Las demás resoluciones serán inapelables.
+6. La apelación se tramitará como en los incidentes y gozará de preferencia para su vista y fallo.

@@ -1,0 +1,5 @@
+Artículo 22-J. El dueño del predio sirviente tendrá derecho a que se le pague:
+1. El valor de todo terreno ocupado por las tuberías y sus zanjas, por los centros reductores de presión, por las estaciones de bombeo, por los edificios, por los caminos de acceso y, en general, obras anexas, según los planos de servidumbre.
+2. El valor de los perjuicios ocasionados durante la construcción de las obras o como consecuencia de ellas o del ejercicio de las servidumbres. Igualmente el valor de los perjuicios que causen las tuberías.
+3. Una indemnización por el tránsito que el concesionario tiene derecho a hacer para los efectos de la custodia, conservación y reparación de las tuberías y obras anexas. Esta indemnización no podrá ser superior al valor de una faja de terreno de dos metros de ancho, en la parte del predio ocupado por las tuberías.
+Si al constituirse una servidumbre quedaren terrenos inutilizados para su natural aprovechamiento, el concesionario estará obligado a extender la servidumbre a todos estos terrenos.
