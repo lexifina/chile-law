@@ -1,0 +1,1 @@
+Artículo 2°.- En tanto no se dicte el decreto a que alude el artículo anterior, continuarán vigentes, en lo que no se contrapongan a las normas de la presente ley, todas aquellas disposiciones que regulan la materia.
