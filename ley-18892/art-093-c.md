@@ -1,1 +1,0 @@
-Articulo 93 c).- El conocimiento en primera instancia de los delitos relativos a la normativa pesquera, corresponderá a los juzgados del crimen en cuyo territorio jurisdiccional o su proyección marítima, incluido el mar territorial y la zona económica exclusiva, se sorprenda la existencia del mismo.
