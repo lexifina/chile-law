@@ -1,0 +1,1 @@
+Artículo 2°.- Para los efectos de lo dispuesto en el inciso segundo que mediante el artículo 15 de esta ley, se agrega al artículo 9° del decreto con fuerza de ley N° 15, de 1981, las peticiones de bonificación durante el año 1992 podrán presentarse al Intendente Regional dentro del plazo de noventa días contado desde la publicación de esta ley.
