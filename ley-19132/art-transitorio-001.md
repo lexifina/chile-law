@@ -1,0 +1,1 @@
+Artículo 1°.- El Presidente de la República, dentro de los 20 días siguientes a la fecha de publicación de esta ley, deberá nombrar al Director que se desempeñará como Presidente de la empresa y enviar al Senado la proposición de designación de los seis Directores restantes, conforme a las calidades y requisitos que establece esta ley.
