@@ -1,0 +1,1 @@
+Artículo 3°.- Los recursos para el pago de los subsidios a que se refiere esta ley para el año 1989, se deducirán de la provisión para financiamiento comprometido incluida en la Partida Tesoro Público del Presupuesto de dicho año.
