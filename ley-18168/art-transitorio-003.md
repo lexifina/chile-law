@@ -1,0 +1,1 @@
+Artículo 3°.- En cuanto a la intervención del Consejo Nacional de Radio y Televisión y mientras no entre en vigencia su ley orgánica, las funciones que el artículo 17 de la presente ley confiere a dicho organismo, en relación con la televisión, serán ejercidas por el Consejo Nacional de Televisión.
