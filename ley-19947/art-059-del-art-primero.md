@@ -1,0 +1,2 @@
+Artículo 59.- El divorcio producirá efectos entre los cónyuges desde que quede ejecutoriada la sentencia que lo declare.
+Sin perjuicio de ello, la sentencia ejecutoriada en que se declare el divorcio deberá subinscribirse al margen de la respectiva inscripción matrimonial. Efectuada la subinscripción, la sentencia será oponible a terceros y los cónyuges adquirirán el estado civil de divorciados, con lo que podrán volver a contraer matrimonio.

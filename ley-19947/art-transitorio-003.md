@@ -1,0 +1,2 @@
+Artículo 3º.- Los juicios de nulidad de matrimonio ya iniciados al momento de entrar en vigencia la presente ley continuarán sustanciándose conforme al procedimiento vigente al momento de deducirse la demanda respectiva, salvo que las partes soliciten al juez continuar su tramitación de acuerdo a las normas que prevé esta ley.
+En dicho caso, se aplicará a la nulidad del matrimonio la legislación vigente al momento de contraerse el vínculo.

@@ -1,0 +1,3 @@
+Artículo 4º.- Los juicios por divorcio perpetuo o temporal ya iniciados con anterioridad a la vigencia de la presente ley continuarán tramitándose como juicios de separación judicial bajo el procedimiento regulado al momento de deducir la demanda respectiva.
+Con todo, las partes podrán solicitar al juez que prosiga el juicio comenzado, o que se aplique lo dispuesto en la disposición Segunda del artículo 1º transitorio.
+La resolución judicial, en su caso, indicará el estado desde el cual continúa la sustanciación del procedimiento y, ejecutoriada la sentencia definitiva, regirá lo dispuesto en el artículo 6º transitorio.
