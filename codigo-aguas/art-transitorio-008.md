@@ -1,0 +1,1 @@
+ARTICULO 8°- En el Registro de Aguas del Conservador de Bienes Raíces se inscribirán las escrituras públicas que contengan la resolución de concesión definitiva a la que se refiere el artículo 266° del Código de Aguas aprobado por decreto con fuerza de ley N° 162, de 1969, otorgadas con posterioridad a la vigencia de dicho Código.

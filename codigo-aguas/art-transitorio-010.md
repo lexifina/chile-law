@@ -1,0 +1,3 @@
+ARTICULO 10°- Se faculta al Servicio Nacional de Obras Sanitarias, a la Empresa Metropolitana de Obras Sanitarias y a la Empresa de Obras Sanitarias de Valparaíso, para continuar aprovechando las aguas que utilicen efectivamente a la fecha de entrar en vigencia este código y sobre las cuales no tengan derechos constituidos, sin perjuicio de los derechos de terceros.
+Facúltase a la Dirección General de Aguas para que dentro del plazo de dos años contados desde la vigencia de este código les otorgue los derechos de aprovechamiento respectivos de acuerdo al procedimiento contemplado en el párrafo I del Título I del Libro II.
+El aprovechamiento efectivo se acreditará solamente con la existencia de obras aparentes en actual funcionamiento.
