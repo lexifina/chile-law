@@ -10,6 +10,7 @@ TITULO IV De las Tarifas
 CAPITULO I Generalidades
 CAPITULO II De los precios máximos en sistemas eléctricos cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación.
 CAPITULO III De los precios máximos en sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación
+CAPITULO III De los precios máximos en sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación.
 TITULO V De la Superintendencia de Servicios Eléctricos y de Gas
 TITULO VI Disposiciones Penales
 TITULO VII Disposiciones Varias
