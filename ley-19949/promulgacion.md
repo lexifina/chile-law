@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 17 de mayo de 2004.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Andrés Palma Irarrázaval, Ministro de Planificación y Cooperación.- José Miguel Insulza Salinas, Ministro del Interior.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Juan Cavada Artigues, Subsecretario de Planificación y Cooperación (S).

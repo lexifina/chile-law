@@ -1,0 +1,3 @@
+Artículo 1º transitorio.- "Chile Solidario" se aplicará gradualmente a contar de 2004, pudiendo incorporarse en este año hasta 166.000 familias que se encuentren en situación de extrema pobreza, y hasta 59.073 familias o personas en el año 2005.
+La distribución anual por comuna del número de familias o personas establecidas en el inciso anterior, deberá hacerse sobre la base del número de personas que se encuentren en situación de extrema pobreza, utilizando para ello la información que entrega la encuesta CASEN. La implementación de este programa deberá hacerse con la misma gradualidad a lo largo de todo el territorio.
+Los beneficiarios del programa deberán seleccionarse de acuerdo al puntaje obtenido en la Ficha CAS.

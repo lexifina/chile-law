@@ -1,0 +1,1 @@
+Artículo 6º transitorio.- El gasto que represente esta ley durante el año 2004 se financiará con los recursos contemplados en la Ley de Presupuestos para los Ministerios de Planificación y Cooperación y del Trabajo y Previsión Social.".
