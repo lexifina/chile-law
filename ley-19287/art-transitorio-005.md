@@ -1,0 +1,1 @@
+Artículo 5°.- Las personas que sean deudoras de dos o más fondos de crédito universitario y que deseen acogerse a las condiciones señaladas en los artículos precedentes, deberán consolidar sus deudas respecto de cada institución e informar de este hecho al administrador general del fondo correspondiente a la última institución en que hubieren recibido este beneficio.
