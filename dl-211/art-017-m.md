@@ -1,0 +1,3 @@
+Artículo 17 M.- La ejecución de las resoluciones pronunciadas en virtud de este procedimiento, corresponderá directamente al Tribunal de Defensa de la Libre Competencia el que contará, para tales efectos, con todas las facultades propias de un Tribunal de Justicia.
+Las multas impuestas por el Tribunal de Defensa de la Libre Competencia deberán pagarse dentro de los diez días hábiles siguientes a la fecha en que quede ejecutoriada la respectiva resolución.
+Si cumplido el plazo el afectado no acreditare el pago de la multa, el Tribunal deberá, de oficio o a petición de parte, y sin forma de juicio, apremiarlo del modo establecido en el artículo 543 del Código de Procedimiento Civil.

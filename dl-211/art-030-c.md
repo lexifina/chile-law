@@ -2,6 +2,6 @@ ARTICULO 30 C.- La Fiscalía Nacional Económica se financiará con los siguient
 a) El aporte que se consulte anualmente en la Ley de Presupuestos de la Nación;
 b) Las costas y demás sumas que pueda percibir en los procesos en que participe;
 c) Los ingresos estipulados en los convenios de asesoría, investigación o de otra naturaleza que pueda celebrar con universidades y otras entidades docentes o de investigación públicas o privadas, nacionales o extranjeras;
-d) Los derechos por concepto de certificados y copias que extienda, relativos a expedientes tramitados ante las Comisiones y la misma Fiscalía, y
+d) Los derechos por concepto de certificados y copias que extienda, y
 e) Los bienes e ingresos de otra naturaleza que reciba a cualquier título.
-Las multas que aplique la Comisión Resolutiva por infracciones a la presente ley, serán de beneficio fiscal.
+INCISO SUPRIMIDO
