@@ -1,0 +1,1 @@
+Artículo único transitorio.- Se faculta al Presidente de la República para poner a disposición del Fondo que se crea en este decreto ley el aporte a que se refiere la letra a) del artículo 2° con cargo a la Ley de Presupuesto vigente.
