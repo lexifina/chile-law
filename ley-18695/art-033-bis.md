@@ -1,1 +1,0 @@
-Artículo 33 bis.- El alcalde tendrá derecho al uso de vehículo municipal para el desempeño de las actividades propias de su cargo, sin que sean aplicables a su respectolas restricciones que establecen las normas vigentes en cuanto a su circulación y a la obligación de llevar disco distintivo.

@@ -1,1 +1,0 @@
-DECIMOQUINTA.- Facúltase al Presidente de la República para que, en el plazo de noventa días, contado desde la fecha de publicación de esta ley, fije el texto refundido de la Ley Orgánica Constitucional de Municipalidades.

@@ -1,4 +1,3 @@
-DISPOSICIONES TRANSITORIAS
-Artículo 1°.- Durante la vigencia de la disposición decimotercera transitoria de la Constitución Política, la designación y remoción de los alcaldes se sujetará a lo dispuesto en el número 2) de la letra A.-, de la disposición decimoquinta transitoria de dicha Constitución.
-A lo menos treinta días antes del vencimiento del período a que se refiere la citada disposición transitoria, los consejos de desarrollo comunal se reunirán en sesión extraordinaria y procederán a formar la terna para la designación de los alcaldes cuyo nombramiento corresponda a los consejos regionales de desarrollo. Los alcaldes así designados durarán en sus cargos hasta que entre en funciones el nuevo alcalde con motivo de la renovación del consejo de desarrollo comunal.
-En el evento de que el Presidente de la República disponga la aplicación gradual del artículo 108 de la Constitución Política, los consejos de desarrollo comunal que correspondan, se reunirán en sesión extraordinaria, dentro de los treinta días siguientes, y procederán a formar la terna para la designación de alcalde. En cuanto a la duración en el cargo de los alcaldes así designados regirá lo dispuesto en el inciso anterior.
+Disposiciones Transitorias
+Artículo 1º.- El personal que preste servicios en las municipalidades continuará afecto a las normas estatutarias actualmente en vigor hasta la dictación de los preceptos a que se refiere el artículo 40 de esta ley.
+Asimismo, seguirán siendo aplicables a dicho personal las normas previsionales que lo rigen en la actualidad.

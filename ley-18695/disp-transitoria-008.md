@@ -1,2 +1,0 @@
-OCTAVA.- Para los efectos de determinar el número de concejales que corresponda elegir a cada comuna o agrupación de comunas y para determinar el número mínimo de ciudadanos patrocinantes de candidaturas independientes, se considerará el registro electoral vigente al 31 de agosto de 1991.
-El Servicio Electoral publicará la resolución respectiva en el Diario Oficial, dentro de los diez días siguientes a la publicación de esta ley.
