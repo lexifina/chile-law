@@ -1,0 +1,1 @@
+Artículo 78 c).- La Dirección del Servicio Electoral podrá acreditar un representante ante cada uno de los colegios electorales provinciales para los efectos de prestar la asesoría necesaria al desarrollo del proceso electoral regulado en este Capítulo.
