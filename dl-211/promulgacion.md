@@ -1,0 +1,2 @@
+AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Fernando Léniz Cerda, Ministro de Economía, Fomento y Reconstrucción.- Gonzalo Prieto Gándara, Abogado, Ministro de Justicia.
+Lo que comunico a Ud. para su conocimiento.- Saluda atentamente a Ud.-Héctor Bórquez Rojas, subsecretario de Economía.
