@@ -1,1 +1,0 @@
-ARTICULO W.- Facúltase al Presidente de la República para refundir en un solo texto, dándole numeración de ley, el Título I de la ley 16.282 y sus modificaciones, incluidas las de esta ley, pudiendo ordenar sus disposiciones clasificándolas por materias afines.

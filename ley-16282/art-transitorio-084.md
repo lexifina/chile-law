@@ -1,2 +1,0 @@
-Artículo 84°- Durante el año 1965, el Ministerio de Obras Públicas, por intermedio de la Dirección General de Obras Públicas, Dirección de Arquitectura, podrá llevar a efecto reparaciones y construcciones de edificios destinados a servicios municipales.
-Asimismo, en la zona a que se refiere el artículo 6° de la ley N° 14.171, podrá llevar a efecto reparaciones y construcciones de edificios destinados a establecimientos educacionales cuyos estudios se encontraban en ejecución.

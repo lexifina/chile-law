@@ -1,4 +1,0 @@
-Artículo 47°- Autorízase al Presidente de la República para:
-a) Contratar directamente con Gobiernos, organizaciones estatales, o con instituciones bancarias o financieras extranjeras o nacionales, préstamos a corto y largo plazo;
-b) Emitir obligaciones de Tesorería a corto plazo, y c) Otorgar la garantía del Estado a los empréstitos o créditos que contraten en el exterior la Corporación de Fomento de la Producción y las Municipalidades de la zona a que se refiere el artículo 1° transitorio para los fines de esta ley.
-Se faculta al Banco Central de Chile para conceder al Fisco préstamos en moneda extranjera para los fines de reconstrucción y desarrollo referidos en el artículo 1° transitorio. Estos préstamos no podrán exceder del monto de los que el Banco, a su vez, contrate en virtud de esta ley en el extranjero.
