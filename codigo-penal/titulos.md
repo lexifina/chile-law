@@ -26,6 +26,7 @@ TÍTULO TERCERO. DE LOS CRÍMENES Y SIMPLES DELITOS QUE AFECTAN LOS DERECHOS GAR
 § II. De los crímenes y simples delitos relativos al ejercicio de los cultos permitidos en la República.
 § III. Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares.
 § IV De los agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitución.
+§ 5. De los delitos contra el respeto y protección a la vida privada y pública de la persona y su familia.
 TÍTULO CUARTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO.
 § I. De la moneda falsa.
 § II. De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados.
