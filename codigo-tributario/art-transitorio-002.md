@@ -1,0 +1,1 @@
+Artículo 2°.- Los términos que hubieren empezado a correr, y las actuaciones y diligencias que ya estuviesen iniciadas a la fecha en que entre en vigencia este Código, se regirán por la ley vigente al tiempo de su iniciación.
