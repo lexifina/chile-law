@@ -1,0 +1,1 @@
+Artículo transitorio.- El procedimiento establecido en los incisos segundo, tercero, quinto, sexto y séptimo del artículo 9° entrará en vigencia ciento ochenta días después de la publicación de la presente ley. Durante ese período el Ministerio de Salud realizará campañas de divulgación masiva de sus contenidos.".
