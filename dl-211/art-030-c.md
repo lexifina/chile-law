@@ -1,0 +1,7 @@
+ARTICULO 30 C.- La Fiscalía Nacional Económica se financiará con los siguientes recursos, que se incorporarán a su patrimonio y se administrarán de acuerdo con la Ley de Administración Financiera del Estado, aprobada por el decreto ley Nº 1.263, de 1975, y sus modificaciones:
+a) El aporte que se consulte anualmente en la Ley de Presupuestos de la Nación;
+b) Las costas y demás sumas que pueda percibir en los procesos en que participe;
+c) Los ingresos estipulados en los convenios de asesoría, investigación o de otra naturaleza que pueda celebrar con universidades y otras entidades docentes o de investigación públicas o privadas, nacionales o extranjeras;
+d) Los derechos por concepto de certificados y copias que extienda, relativos a expedientes tramitados ante las Comisiones y la misma Fiscalía, y
+e) Los bienes e ingresos de otra naturaleza que reciba a cualquier título.
+Las multas que aplique la Comisión Resolutiva por infracciones a la presente ley, serán de beneficio fiscal.
