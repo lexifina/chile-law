@@ -1,0 +1,1 @@
+Artículo 19.- Las declaraciones de plena explotación y el cierre de las pesquerías expirarán el 1° de enero de 1993, salvo que el Consejo Nacional de Pesca y los Consejos Zonales de Pesca resuelvan mantener estas medidas de acuerdo al procedimiento establecido en esta ley.

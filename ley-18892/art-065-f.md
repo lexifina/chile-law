@@ -1,7 +1,0 @@
-Artículo 65 f).- El Consejo de Investigación Pesquera tendrá las siguientes funciones:
-1) Establecer el programa anual de investigación y sus prioridades;
-2) Asignar los proyectos de investigación y los fondos para su ejecución, los que se asignarán a través de concurso público de acuerdo con las normas que se establezcan en el reglamento;
-3) Sancionar la calificación técnica de los proyectos de investigación, y
-4) Preparar y divulgar la memoria de actividades.
-El mecanismo de asignación de los proyectos deberá considerar una mayor ponderación a aquellas instituciones regionales que participen en los concursos de investigaciones que se realicen en su zona.
-El estado de avance y los informes finales de cada una de las investigaciones realizadas serán entregados a la Subsecretaría y servirán de base para la adopción de las medidas de administración pesquera.

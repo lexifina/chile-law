@@ -1,6 +1,0 @@
-Artículo 6° b).- El plan de manejo de cada unidad de pesquería contendrá como mínimo los siguientes aspectos:
-a) Su descripción, respecto de su localización geográfica y especies que la conforman.
-b) Antecedentes biológico-pesqueros de las especies que la constituyen y su estrategia de explotación.
-c) Medidas de conservación y regímenes de acceso que le son aplicables.
-d) Antecedentes de captura, producción elaborada y mercado de los productos.
-e) Requerimientos de investigación con fines de conservación y manejo.
