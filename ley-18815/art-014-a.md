@@ -1,0 +1,2 @@
+Artículo 14 A.- La administradora deberá informar en forma veraz, suficiente y oportuna a los partícipes de los fondos y al público en general, sobre las características de los fondos que administra y sobre cualquier hecho o información esencial respecto de sí misma o de los fondos que administre, en los términos dispuestos en el artículo 234 de la ley Nº 18.045.
+Asimismo, a los directores de la administradora les serán aplicables las obligaciones señaladas en el artículo 236 de la ley Nº 18.045.
