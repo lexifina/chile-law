@@ -1,0 +1,1 @@
+Artículo 21º B. La Contraloría General, con motivo del control de legalidad o de las auditorías, no podrá evaluar los aspectos de mérito o de conveniencia de las decisiones políticas o administrativas.
