@@ -1,2 +1,2 @@
-Anótese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Bruno Siebert Held, Brigadier General, Ministro de Obras Públicas.- Rolf Lüders Schwarzenberg, Ministro de Hacienda.
-Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Nidia Grossi Guaita, Secretario General.
+Anótese, tómese razón, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Carlos Hurtado Ruiz-Tagle, Ministro de Obras Públicas.
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Juan Enrique Miquel Muñoz, Subsecretario de Obras Públicas.
