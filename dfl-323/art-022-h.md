@@ -1,0 +1,1 @@
+Artículo 22-H. Será Juez competente para conocer de los juicios a que se refiere el presente Título, el de la comuna donde se encuentre el predio sirviente y si los predios sirvientes estuvieren en dos o más comunas, el Juez de cualesquiera de ellas.
