@@ -1,10 +1,10 @@
-Artículo 152 ter D.- La jornada mensual de trabajo de los tripulantes de vuelo y de cabina no excederá de ciento sesenta horas, salvo que la Dirección General de Aeronáutica Civil, por razones de seguridad, determine establecer una jornada menor. Su distribución se efectuará por medio de los Roles de Vuelo. Si las labores de período de servicio en tierra se desarrollan por siete días o más en el mes calendario, la jornada mensual no podrá superar las ciento ochenta horas ordinarias.
+Artículo 152 ter D.- La jornada mensual de trabajo de los tripulantes de vuelo y de cabina no excederá de ciento sesenta horas, salvo que la Dirección General de Aeronáutica Civil, por razones de seguridad, determine establecer una jornada menor. Su distribución se efectuará por medio de los Roles de Vuelo. Si las labores de período de servicio en tierra se desarrollan por siete días o más en el mes calendario, la jornada mensual no podrá superar las cuarenta horas promedio semanal.
 La jornada ordinaria no podrá superar las doce horas continuas de labores. Sin perjuicio de ello, la jornada ordinaria podrá extenderse hasta catorce horas ante la ocurrencia, en el respectivo vuelo, de contingencias metereológicas, emergencias médicas o necesidades calificadas de mantenimiento de la aeronave, las cuales se entiende que tienen el carácter de tales al encontrarse consignadas en el Minimun Equipment List (MEL), actualizado por la Dirección General de Aeronáutica Civil o la entidad a la cual la empresa se encuentre sujeta en cuanto a la seguridad de vuelo.
 Las horas que por estas circunstancias extiendan la jornada ordinaria, deberán ser pagadas a lo menos con el recargo señalado en el artículo 32 de este Código.
 Los sistemas de descanso compensatorio después de servicios de vuelo en la jornada ordinaria, serán los siguientes:
 Tripulantes de Vuelo
 Período de Servicio Horas de
-de Vuelo Descanso
+Descanso Descanso
 7 10
 8 12
 9 13
