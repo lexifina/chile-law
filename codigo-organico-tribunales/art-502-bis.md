@@ -1,0 +1,1 @@
+Art. 502 bis. No podrán ser nombrados para desempeñar los cargos del escalafón del personal subalterno y de receptores, los parientes consanguíneos o afines en la línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad, con los Ministros de la respectiva Corte de Apelaciones o de la Corte Suprema.
