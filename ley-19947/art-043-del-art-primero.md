@@ -1,0 +1,4 @@
+Artículo 43.- El matrimonio termina por la muerte presunta de uno de los cónyuges, cuando hayan transcurrido diez años desde la fecha de las últimas noticias, fijada en la sentencia que declara la presunción de muerte.
+El matrimonio también se termina si, cumplidos cinco años desde la fecha de las últimas noticias, se probare que han transcurrido setenta años desde el nacimiento del desaparecido. El mismo plazo de cinco años desde la fecha de las últimas noticias se aplicará cuando la presunción de muerte se haya declarado en virtud del número 7 del artículo 81 del Código Civil.
+En el caso de los números 8 y 9 del artículo 81 del Código Civil, el matrimonio se termina transcurrido un año desde el día presuntivo de la muerte.
+El posterior matrimonio que haya contraído el cónyuge del desaparecido con un tercero, conservará su validez aun cuando llegare a probarse que el desaparecido murió realmente después de la fecha en que dicho matrimonio se contrajo.

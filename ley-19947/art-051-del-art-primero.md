@@ -1,0 +1,4 @@
+Artículo 51.- El matrimonio nulo que ha sido celebrado o ratificado ante el oficial del Registro Civil produce los mismos efectos civiles que el válido respecto del cónyuge que, de buena fe y con justa causa de error, lo contrajo, pero dejará de producir efectos civiles desde que falte la buena fe por parte de ambos cónyuges.
+Si sólo uno de los cónyuges contrajo matrimonio de buena fe, éste podrá optar entre reclamar la disolución y liquidación del régimen de bienes que hubieren tenido hasta ese momento, o someterse a las reglas generales de la comunidad.
+Las donaciones o promesas que por causa de matrimonio se hayan hecho por el otro cónyuge al que casó de buena fe, subsistirán no obstante la declaración de la nulidad del matrimonio.
+Con todo, la nulidad no afectará la filiación ya determinada de los hijos, aunque no haya habido buena fe ni justa causa de error por parte de ninguno de los cónyuges.
