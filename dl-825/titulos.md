@@ -1,6 +1,6 @@
 TITULO I NORMAS GENERALES
 PARRAFO 1° De la materia y destino del impuesto
-Párrafo 2° Definiciones.
+PARRAFO 2° Definiciones
 Párrafo 3° De los contribuyentes.
 PARRAFO 4° Otras disposiciones
 TITULO II IMPUESTO AL VALOR AGREGADO
@@ -8,7 +8,6 @@ Párrafo 1° Del hecho gravado.
 Párrafo 2° Del momento en que se devenga el impuesto.
 Párrafo 3° Del sujeto del impuesto.
 Párrafo 5° Tasa, base imponible y débito fiscal.
-Párrafo 6° Del crédito fiscal.
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 TITULO III Impuestos especiales a las ventas y servicios
