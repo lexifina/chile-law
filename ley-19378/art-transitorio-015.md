@@ -4,6 +4,6 @@ Químico-Farmacéuticos, Bioquímicos y
 Cirujanos-Dentistas $ 148.012.-
 b) Otros profesionales $ 112.453.-
 c) Técnicos de Nivel Superior $ 59.337.-
-d) Técnicos de Salud $ 50.170.-
-e) Administrativos de Salud $ 47.678.-
-f) Auxiliares de servicios de Salud $ 39.779.-
+d) Técnicos de Salud $ 88.490.-
+e) Administrativos de Salud $ 82.267.- Art. 5º
+f) Auxiliares de servicios de Salud $ 72.542.-
