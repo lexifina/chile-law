@@ -1,2 +1,1 @@
-Artículo 13.- Lo dispuesto en la letra a) del artículo 7.° de este Estatuto, referente a los Ministerios, sólo se aplicará a contar de la fecha en que se produzca la adecuación de plantas, en conformidad con el artículo 1.° transitorio.
-DEROGADO.-
+Artículo 13.- Las normas del decreto con fuerza de ley Nº 338, de 1960, y el artículo 12 del decreto ley Nº 2.448, de 1978, que actualmente rigen los derechos de desahucio, de jubilación y otros beneficios considerados en el régimen previsional antiguo, seguirán vigentes respecto de las personas a las cuales se apliquen dichas disposiciones a la fecha de vigencia de la presente ley.
