@@ -1,7 +1,7 @@
 TITULO I Del Poder Judicial y de la Administración de Justicia en general
-TITULO II De los Jueces de Distrito y de los Jueces de Subdelegación
-§ 1. Los Jueces de Distrito.
-§ 2. Los Jueces de Subdelegación
+TITULO II De los Jueces de Distrito y de los Jueces de Subdelegación Derogado.
+§ 1. Los Jueces de Distrito. Derogado.
+§ 2. Los Jueces de Subdelegación. Derogado.
 TITULO III De los Jueces de Letras
 TITULO IV De los Presidentes y Ministros de Corte como tribunales unipersonales
 TITULO V Las Cortes de Apelaciones
@@ -18,7 +18,7 @@ TITULO VII La Competencia
 § 4. Reglas que determinan la competencia en materias civiles entre tribunales de igual jerarquía
 § 5. Reglas que determinan la competencia en materias criminales entre tribunales de igual jerarquía
 § 6. Reglas sobre competencia civil de los tribunales en lo criminal
-§ 7. Reglas que determinan el tribunal que debe conocer de un asunto en los lugares en que existan dos o más jueces de la misma jurisdicción
+§ 7. Reglas que determinan la distribución de causas en aquellas comunas o agrupación de comunas en cuyo territorio existan dos o más jueces con igual competencia
 § 8. De la prórroga de jurisdicción
 § 9. De la competencia para fallar en única o en primera instancia
 § 10. De los tribunales que deben conocer en las contiendas y cuestiones de competencia.
@@ -33,7 +33,7 @@ TITULO X De los Magistrados y del Nombramiento y Escalafón de los Funcionarios 
 2). Escalafón Secundario
 3). Formación del Escalafón y calificación del personal
 4). Los nombramientos
-5). Escalafón del personal subalterno
+5). Escalafón del personal de empleados u oficiales de secretaría
 § 4. De la instalación de los jueces
 § 5. De los honores y prerrogativas de los jueces
 § 6. De las permutas y traslados
@@ -65,7 +65,7 @@ TITULO XII Disposiciones generales aplicables a los Auxiliares de la Administrac
 § 4. De las implicancias y recusaciones
 § 5. De su remuneración y de su previsión
 § 6. Suspensión y expiración de funciones. De las licencias
-TITULO XIII Los Oficiales Subalternos
+TITULO XIII De los empleados u oficiales de secretaría
 TITULO XIV La Junta de Servicios Judiciales
 TITULO XV Los Abogados
 TITULO XVI De la jurisdicción disciplinaria y de la inspección y vigilancia de los servicios judiciales
