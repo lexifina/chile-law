@@ -1,0 +1,1 @@
+Artículo 54.- Para el juzgamiento de las faltas y simples delitos previstos en esta ley se aplicarán los procedimientos establecidos en el Código Procesal Penal, con las reglas especiales contempladas en el artículo 196 F de la Ley de Tránsito.
