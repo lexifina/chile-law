@@ -1,0 +1,1 @@
+Artículo 7°- Las sociedades que a la fecha de vigencia de esta ley tuvieren inversiones en otras sociedades en oposición a lo dispuesto en el artículo 88, deberán enajenarlas dentro del plazo de dos años, contado desde esa fecha.

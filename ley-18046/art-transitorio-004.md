@@ -1,0 +1,1 @@
+Artículo 4°- Las acciones que gocen de preferencias a la fecha de vigencia de esta ley y que no tuvieren plazo de duración, deberán fijarlo dentro del término de 2 años contado desde la publicación de la presente ley. Si así no se hiciere, se entenderá que dicho plazo es igual al que se hubiere establecido en los estatutos para la duración de la sociedad.
