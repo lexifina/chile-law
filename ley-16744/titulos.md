@@ -8,7 +8,7 @@ TITULO IV
 TITULO V Prestaciones
 Párrafo 1° Definiciones
 Párrafo 2° Prestaciones médicas
-Párrafo 3° Prestaciones por incapacidad temporal
+3. Prestaciones por incapacidad temporal
 Párrafo 4° Prestaciones por invalidez
 Párrafo 5° Prestaciones por supervivencia.
 6. Cuota mortuoria
