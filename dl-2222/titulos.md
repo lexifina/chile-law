@@ -13,14 +13,14 @@ Párrafo 2°.- De la Seguridad
 Párrafo 3°.- De la Policía Marítima
 TITULO VII De la Reserva Naval
 TITULO VIII De los riesgos de la navegación
-Párrafo 1°.- Reglas Generales
+Párrafo 1° Reglas Generales
 Párrafo 2°.- De los Servicios prestados a la Nave que está en Peligro.
 Párrafo 3°.- Accidentes marítimos.
 Párrafo 4º Restos Náufragos
 TITULO IX De la Contaminación
-Párrafo 1°.- Del Derrame de Hidrocarburos y otras Substancias Nocivas.
+Párrafo 1 Del Derrame de Hidrocarburos y otras Substancias Nocivas
 Párrafo 2°.- De la Responsabilidad Civil por los Daños Derivados de los Derrames de Hidrocarburos y otras Sustancias Nocivas.
-Párrafo 3°.- De las Sanciones y Multas
+Párrafo 3° De las Sanciones y Multas
 Párrafo 4° Del Tribunal y del Procedimiento
 TITULO X Buques de guerra
 TITULO FINAL Otras disposiciones
