@@ -1,0 +1,1 @@
+Artículo 16.- El Presidente de la República dictará el reglamento de esta ley, dentro de los ciento ochenta días siguientes de su publicación, con excepción del reglamento necesario para la aplicación de la carrera funcionaria, el que se promulgará dentro de los noventa días posteriores a la publicación de esta ley en el Diario Oficial.".

@@ -1,0 +1,3 @@
+Teniendo presente, además, que el H. Congreso Nacional ha aprobado las observaciones formuladas por el Ejecutivo y, habiéndose cumplido con lo establecido en el N° 1° del artículo 82 de la Constitución Política de la República; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 24 de marzo de 1995.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Massad Abud, Ministro de Salud.- Carlos Figueroa Serrano, Ministro del Interior.- Eduardo Aninat Ureta, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Fernando Muñoz Porras, Subsecretario de Salud.
