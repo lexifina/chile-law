@@ -1,1 +1,1 @@
-ARTICULO TRANSITORIO las exenciones otorgadas al amparo de la ley 9.705, que a la fecha de publicación de esta ley se encontraren pendientes, subsistirán hasta su término en la forma y condiciones previstas en dicho cuerpo legal.
+ARTICULO TRANSITORIO Las exenciones otorgadas al amparo de la ley 9.705, que a la fecha de publicación de esta ley se encontraren pendientes, subsistirán hasta su término en la forma y condiciones previstas en dicho cuerpo legal.
