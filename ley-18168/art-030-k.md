@@ -1,0 +1,2 @@
+Artículo 30° K. Los concesionarios de servicio público telefónico cuyas tarifas estén sometidas a fijación en los términos que establece este título sólo podrán efectuar cobros por los costos de instalación y por el suministro al público usuario. Lo anterior es sin perjuicio de los aportes de financiamiento reembolsables establecidos en la presente Ley.
+Por costo de instalación se entenderán los gastos de material y de mano de obra asociados a la conexión del servicio a la red pública.

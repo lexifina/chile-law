@@ -1,0 +1,5 @@
+Artículo 24° A. Los concesionarios y permisionarios de servicios de telecomunicaciones no podrán iniciar servicios, sin que sus obras e instalaciones hayan sido previamente autorizadas por la Subsecretaría de Telecomunicaciones.
+Esta autorización se otorgará al comprobarse que las obras e instalaciones se encuentran correctamente ejecutadas y corresponden al respectivo proyecto técnico aprobado.
+La Subsecretaría tendrá un plazo de 30 días, contados desde la fecha de presentación de la solicitud por el interesado para ejecutar la recepción de las obras e instalaciones.
+Si no se procede a la recepción de las obras en el plazo indicado en el inciso anterior, los concesionarios y permisionarios podrán poner en servicio las obras e instalaciones, sin perjuicio que la Subsecretaría de Telecomunicaciones proceda a recibirlas con posterioridad.
+Lo dispuesto en los incisos anteriores no procederá respecto de aquellas modificaciones a la concesión o permiso que no requieran aprobación, según lo dispuesto en el inciso 3° del Artículo 14°.
