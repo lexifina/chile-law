@@ -1,0 +1,1 @@
+Artículo 1°- El Banco podrá mantener durante 3 años la actividad destinada a la comercialización de productos, insumos u otros bienes, que actualmente desarrolla en las condiciones y con las modalidades que señale el Ministerio de Hacienda previo informe del Ministerio de Agricultura.

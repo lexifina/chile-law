@@ -1,0 +1,1 @@
+Artículo 8°- Hasta que entre en vigencia el Estatuto Social de la Empresa, el representante de los trabajadores a que se refiere el artículo 9° de este decreto ley, será designado por el Ministro del Trabajo y Previsión Social con audiencia de los dirigentes laborales de la empresa.
