@@ -1,0 +1,5 @@
+Artículo 196 A.- Será castigado con presidio menor en su grado máximo a presidio mayor en su grado mínimo y las penas accesorias que correspondan el empleado público que abusando de su oficio:
+a) Otorgue indebidamente una licencia de conductor o boleta de citación o un permiso provisorio de conducir o cualquier certificado o documento que permita obtenerlos;
+b) Otorgue falsamente certificados que permitan obtener una licencia de conductor;
+c) Cometiere alguna de las falsedades descritas en el artículo 193 del Código Penal en las inscripciones a que se refieren los artículos 34, 35 y 39 de esta ley, en la certificación de ellas, o en el otorgamiento del padrón, y
+d) Infrinja las normas que la ley establece para el otorgamiento de placa patente.
