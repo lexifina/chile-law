@@ -1,0 +1,1 @@
+Artículo 10°.- Los suministros que en virtud de la presente Ley pasen de régimen de precio fijado a precio libre, mantendrán por un período de un año precios no superiores a los que se fijen para suministros a usuarios de potencia conectada inferior o igual a 2.000 kilowatts.

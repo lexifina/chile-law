@@ -1,0 +1,1 @@
+Artículo 9°.- Los reglamentos y normas técnicas vigentes a la fecha de promulgación de la presente Ley, conservarán su vigencia, en tanto no sean contrarios a esta última y mientras no se dicte la nueva reglamentación.
