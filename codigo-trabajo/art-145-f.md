@@ -1,0 +1,1 @@
+Artículo 145-F.- El empleador deberá costear o proveer el traslado, alimentación y alojamiento del trabajador, en condiciones adecuadas de higiene y seguridad, cuando las obras artísticas o proyectos deban realizarse en una ciudad distinta a aquella en que el trabajador tiene su domicilio.

@@ -1,0 +1,1 @@
+Artículo 145-H.- Cuando el empleador ejecute la obra artística o proyecto por cuenta de otra empresa, cualquiera sea la naturaleza jurídica del vínculo contractual, será aplicable lo dispuesto en los artículos 64 y 64 bis de este Código.
