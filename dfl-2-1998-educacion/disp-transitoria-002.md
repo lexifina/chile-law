@@ -1,0 +1,1 @@
+Artículo segundo transitorio: La formalización a que se refiere el artículo 42 del decreto con fuerza de ley Nº 2, de Educación, de 1989, se podrá realizar por esta única vez, hasta el 28 de febrero de 1990, siempre y cuando se haya dado cumplimiento al aviso previsto en el inciso tercero del referido artículo.

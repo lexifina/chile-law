@@ -1,0 +1,1 @@
+Artículo primero transitorio: Los sostenedores que no cumplan con el requisito establecido en el inciso tercero del artículo 2º, mantendrán no obstante su calidad de tales hasta el 31 de diciembre de 1992.
