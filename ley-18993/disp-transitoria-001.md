@@ -1,0 +1,1 @@
+Artículo primero.- El personal de planta de la Secretaría General de la Presidencia de la República que no sea incorporado a las plantas del artículo 11 de esta ley, tendrá derecho a gozar de los beneficios establecidos en el artículo 148 de la Ley N° 18.834.
