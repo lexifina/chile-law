@@ -1,1 +1,1 @@
-Artículo 8°.- Lo dispuesto en el artículo 120 no será aplicable a las naves ingresadas al país en virtud de contratos de inversión extranjera en conformidad con el decreto ley N° 600, de 1974, vigentes a la fecha de publicación de esta ley.
+Artículo 8°.- Facúltase al Presidente de la República para que dentro del plazo de 180 días, a contar de la fecha de entrada en vigencia de la presente ley, pueda modificar la estructura orgánica de la Subsecretaría y del Servicio, mediante la dictación de un decreto con fuerza de ley.
