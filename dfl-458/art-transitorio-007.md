@@ -1,0 +1,1 @@
+Artículo 7°.- Las menciones que este texto legal hace de los Servicios del Ministerio de Vivienda y Urbanismo, se entenderán referidas a las Divisiones que contemple el decreto ley de reestructuración del mismo Ministerio, que tengan análogas funciones, aun cuando éste último les asigne otra denominación.

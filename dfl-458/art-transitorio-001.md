@@ -1,0 +1,1 @@
+Artículo 1°.- La ejecución de construcciones y de obras de urbanización que se hubieren iniciado con anterioridad a la vigencia de la presente ley, se regirán por las disposiciones vigentes a la fecha del respectivo permiso en lo relativo a construcción, y por lo dispuesto en la presente ley en lo relativo a urbanización.
