@@ -1,0 +1,1 @@
+Artículo 3°- Las cooperativas de abastecimiento de energía eléctrica constituidas conforme al decreto 579, de 4 de Julio de 1942, del Ministerio del Trabajo, se regirán por las disposiciones de esta ley, y en especial por las del Título IV del Capítulo II, y por el reglamento que se dicte.

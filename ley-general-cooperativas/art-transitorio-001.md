@@ -1,0 +1,1 @@
+Artículo 1°- Las sociedades a que se refiere esta ley en formación a la fecha de entrada en vigencia del decreto con fuerza de ley 326, de 1960, deberán conformar sus estatutos a los términos de aquél.
