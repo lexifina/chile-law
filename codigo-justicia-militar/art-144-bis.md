@@ -1,0 +1,5 @@
+Art. 144 bis.- El Fiscal dispondrá la formación de un cuaderno separado para agregar los documentos secretos que le sean remitidos.
+Al mismo cuaderno se incorporarán las declaraciones de testigos que se requiera mantener en reserva para preservar secretos que interesen a la seguridad del Estado, la Defensa Nacional, el orden público interior o la seguridad de las personas.
+De los antecedentes que obren en dicho cuaderno se dará conocimiento a los abogados de las partes sólo en cuanto sirvan de fundamento de la acusación, del sobreseimiento o de la sentencia definitiva. Si se quisiere hacerlos valer ante los Tribunales Superiores, ello se comunicará previamente al Presidente del Tribunal respectivo, quien dispondrá, en tal caso, que la audiencia pertinente no sea pública.
+Todos los que hubieren tomado conocimiento de tales antecedentes estarán obligados a mantener el secreto de su existencia y contenido.
+Las disposiciones de este artículo serán aplicables aun cuando se hubiere cerrado el sumario o se hubiere dictado sentencia firme o ejecutoriada en el proceso.
