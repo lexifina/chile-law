@@ -1,0 +1,1 @@
+Artículo Transitorio.- Las medidas precautorias, las prohibiciones y cualquier otra limitación del dominio sobre vehículos motorizados que estuvieren inscritas, a la vigencia de esta ley, en el Registro de Vehículos Motorizados de acuerdo con las normas del Título IV de la ley N° 15.231, no serán afectadas por la derogación de dicho Título IV.
