@@ -1,0 +1,2 @@
+Trigésimatercera.- Los alcaldes y consejos de desarrollo comunal continuarán en el desempeño de sus funciones, de conformidad con la legislación vigente, mientras no asuman los alcaldes y los concejales elegidos en virtud de esta reforma constitucional.
+Las elecciones populares que se originen en esta reforma constitucional se efectuarán antes del 30 de junio de 1992. Las de los miembros de los consejos regionales, en la forma que prevea la ley orgánica constitucional respectiva, se celebrarán quince días después de la instalación de los concejos.
