@@ -1,0 +1,1 @@
+Artículo 2°.- Hasta el 31 de diciembre de 1987, los ciudadanos podrán participar en la formación de un partido político aun cuando no estén inscritos en los Registros Electorales. Con todo, los partidos políticos en formación deberán acreditar el cumplimiento de dicha exigencia legal, al momento de solicitar su inscripción en el Registro de Partidos Políticos.
