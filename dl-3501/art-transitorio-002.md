@@ -1,0 +1,1 @@
+Artículo 2°- Las disponibilidades y excedentes de los Fondos señalados en el inciso primero del artículo 8°, pasarán a rentas generales de la Nación, en la fecha en que entre en vigencia la Ley de Presupuesto que consultará fondos para el financiamiento a que se refiere dicho inciso.
