@@ -1,1 +1,0 @@
-Artículo 38 bis f).- Por intermedio del Servicio, los Consejos Nacional y Zonales de Pesca tomarán conocimiento del resultado de los proyectos y programas ejecutados y realizarán las observaciones que estimen pertinentes. Estos resultados estarán disponibles para los usuarios a través de los Consejos precitados.
