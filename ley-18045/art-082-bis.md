@@ -1,0 +1,1 @@
+Artículo 82 bis.- Los ingresos obtenidos por el servicio de clasificación de valores de oferta pública que se realice en forma obligatoria o voluntaria, provenientes de un mismo emisor o grupo empresarial no podrán exceder del 15% de los ingresos totales en un año, por concepto de clasificación, a contar del inicio del tercer año de registrada la sociedad clasificadora.
