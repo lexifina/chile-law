@@ -1,0 +1,4 @@
+Artículo 81 bis.- Incurrirá en responsabilidad civil el que, sin autorización del titular de los derechos o de la ley y, sabiendo o debiendo saber que inducirá, permitirá, facilitará u ocultará una infracción de cualquiera de los derechos de autor o derechos conexos, realice una o más de las siguientes conductas:
+a) Suprimir o alterar cualquier información sobre la gestión de derechos; o
+b) Distribuir o importar para su distribución, información sobre la gestión de derechos, sabiendo que la información sobre la gestión de derechos ha sido alterada sin autorización; o
+c) Distribuir, importar para su distribución, emitir, comunicar o poner a disposición del público copias de obras o fonogramas, sabiendo que la información sobre la de gestión de derechos ha sido suprimida o alterada sin autorización.
