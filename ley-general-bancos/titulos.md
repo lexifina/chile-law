@@ -14,6 +14,7 @@ TITULO XII De las operaciones hipotecarias
 @
 TITULO XIV DE LAS SOCIEDADES FINANCIERAS
 TITULO XIII Disposiciones transitorias
+TITULO XV DE LAS MEDIDAS PARA REGULARIZAR LA SITUACION DE LOS BANCOS Y DE SU LIQUIDACION FORZOSA. Párrafo 1°.- De la Capitalización Preventiva.
 Párrafo 2°.- De la Insolvencia y de las Proposiciones de Convenio.
 Párrafo 3°.- De la Liquidación Forzosa.
 Párrafo 4°.- De la Capitalización de un Banco por el Sistema Financiero.
