@@ -1,1 +1,1 @@
-Artículo 2° DEROGADO.-
+Art. 2º. Derogado.

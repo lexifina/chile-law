@@ -1,1 +1,0 @@
-Artículo 1° Mientras se establezcan los Jueces de Letras de Menores a que se refiere el artículo 18°, el Juez Letrado de Mayor Cuantía desempeñará las funciones de tal en cada departamento, y en donde hubiere más de uno, el del tribunal de más antigua creación.
