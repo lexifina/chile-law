@@ -1,0 +1,1 @@
+Artículo 79°- Las reglas establecidas en el artículo 46°, se aplicarán a toda herencia, cualquiera que sea la fecha en que se haya deferido, pero el plazo a que se refiere el inciso 1° de la letra d), se contará desde la fecha en que entre en vigencia la presente ley.
