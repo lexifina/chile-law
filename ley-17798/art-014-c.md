@@ -1,0 +1,1 @@
+Artículo 14 C.- Constituye circunstancia eximente de responsabilidad penal por posesión o tenencia ilegal de las armas prohibidas, la entrega de ellas por su poseedor o tenedor a la autoridad competente, antes de que se inicie procedimiento en su contra.
