@@ -1,0 +1,1 @@
+Artículo 6°.- Los organismos de la administración civil del Estado estarán obligados a proporcionar a la Dirección Nacional la información relacionada con la implementación de las políticas de personal que ésta les solicite.

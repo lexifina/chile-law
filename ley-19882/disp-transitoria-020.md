@@ -1,0 +1,1 @@
+Artículo vigésimo transitorio.- Para el primer nombramiento de los Consejeros de Alta Dirección Pública, el Presidente de la República propondrá al Senado dos candidatos para un periodo completo de seis años y dos para uno parcial de tres años.".
