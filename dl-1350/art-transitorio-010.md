@@ -1,0 +1,3 @@
+Artículo 10°.- Con el objeto de reducir sus inventarios a los mínimos indispensables, facúltase a las Sociedades Colectivas del Estado, a la Corporación del Cobre y a la Corporación Nacional del Cobre de Chile, en su caso, para vender, sin sujeción a las normas de la Ordenanza de Aduanas, cualquiera mercadería importada al amparo de franquicias aduaneras.
+Las referidas transferencias estarán exentas de toda clase de impuestos, derechos, tasas y contribuciones de cualquiera naturaleza que sean, con la sola excepción del Impuesto al Valor Agregado que corresponda, u otros complementarios de este último.
+El presente artículo regirá por el plazo de cuatro años, a contar de la publicación del presente decreto ley en el Diario Oficial.

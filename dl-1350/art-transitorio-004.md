@@ -1,0 +1,1 @@
+Artículo 4°.- La declaración y pago de impuestos a la renta, provisionales o definitivos, que deba hacer la Empresa a partir del 1° de Abril de 1976, se efectuarán considerando como fecha de iniciación de sus actividades el 1° de Enero de 1976.
