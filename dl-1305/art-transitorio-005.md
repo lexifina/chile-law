@@ -1,0 +1,2 @@
+ARTICULO 5° La Empresa de Agua Potable de Santiago, la Empresa Municipal de Desagües de Valparaíso y Viña del Mar y demás empresas de agua potable del país, mantendrán su actual situación jurídica, mientras no se establezca su estatuto definitivo.
+Del mismo modo, mantendrá su situación jurídica el "Parque Metropolitano de Santiago", correspondiendo su administración al Servicio Metropolitano de Vivienda y Urbanización mientras se determinan su dependencia, organización y régimen definitivo.

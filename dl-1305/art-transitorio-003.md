@@ -1,0 +1,3 @@
+ARTICULO 3° Autorízase al Presidente de la República para efectuar los traspasos totales o parciales que corresponda, desde los Item de las partidas y capítulos contemplados en la Ley de Presupuesto correspondiente, a los Servicios, reparticiones, organismos e instituciones que integran el Ministerio de Vivienda y Urbanismo o que se relacionan con el Gobierno por su intermedio, a los nuevos capítulos e Item que se creen en virtud de las disposiciones a que dé lugar la aplicación del presente decreto ley.
+Los traspasos a que se refiere el inciso anterior se efectuarán por decreto supremo suscrito por los Ministros de Vivienda y Urbanismo y de Hacienda.
+La facultad que concede este artículo podrá ser ejercida mediante la reformulación de los presupuestos respectivos.
