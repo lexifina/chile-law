@@ -1,0 +1,1 @@
+Artículo 6°.- No obstante lo dispuesto en la letra c) del artículo 3°, se feculta, hasta el 31 de diciembre de 1991, a los prestadores del servicio para que, en representación de usuarios residenciales, y sin costo para éstos, reciban postulaciones y las presenten a la Municipalidad correspondiente a la dirección de la propiedad en que habitan los usuarios.
