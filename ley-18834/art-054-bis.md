@@ -1,0 +1,1 @@
+Artículo 54 bis.- Un Reglamento contendrá las normas complementarias orientadas a asegurar la objetividad, transparencia, no discriminación, calidad técnica y operación de los concursos para el ingreso, para la promoción y para cualquiera otra finalidad con que estos se realicen.
