@@ -1,1 +1,1 @@
-Artículo 3°- Mientras se dicta el Estatuto del Personal, los funcionarios de Investigaciones de Chile se regirán por sus normas propias y, supletoriamente, por las contenidas en el D.F.L. N° 338, de 1960, sobre Estatuto Administrativo.
+Artículo 3°.- Mientras se dicta el Estatuto del Personal, los funcionarios de Policía de Investigaciones de Chile se regirán por sus normas propias y, supletoriamente, por las contenidas en el D.F.L. N° 338, de 1960, sobre Estatuto Administrativo.
