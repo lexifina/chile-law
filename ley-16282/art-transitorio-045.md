@@ -1,0 +1,2 @@
+Artículo 45°- Durante el término de cuatro años contado desde la vigencia de la presente ley, las obras que se ejecuten en la zona a que se refiere el artículo 1° transitorio pagarán solamente el 50% de los derechos municipales cuando estén afectas a esta obligación.
+Durante el mismo término, las Municipalidades de la indicada zona podrán conceder hasta un año de plazo para el pago de los derechos municipales correspondientes a las obras señaladas en el inciso anterior.

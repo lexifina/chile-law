@@ -1,0 +1,1 @@
+Artículo 3°- No se aplicarán para los efectos del sismo ocurrido el 28 de Marzo de 1965 las disposiciones contenidas en el Título I permanente de esta ley, a excepción de sus artículos 2°, 4° y 5°, incisos primero, segundo, cuarto, quinto y sexto.

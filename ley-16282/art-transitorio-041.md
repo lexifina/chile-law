@@ -1,0 +1,1 @@
+Artículo 41°- Facúltase por el plazo de cinco años al Presidente de la República para poner a disposición de las Municipalidades de la zona a que se refiere el artículo 1° transitorio de esta ley, los fondos que estime necesarios para la ejecución de planes reguladores.

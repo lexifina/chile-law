@@ -1,0 +1,7 @@
+Artículo 52°- Introdúcense en el artículo 2° del Título I de las Disposiciones Transitorias de la ley N° 16.250, las siguientes modificaciones:
+a) Agrégase a la letra A, el siguiente inciso final:
+"Sin embargo, los extranjeros que al 21 de Abril de 1965 tengan menos de tres años de permanencia en el país sólo estarán obligados a incluir en el inventario valorado a que se refiere esta letra los bienes que posean en Chile.".
+b) Sustitúyese en el inciso final del N° 3, por el siguiente: "Tratándose de empresas agrícolas que no sean sociedades anónimas, se considerará que el capital del propietario del predio es igual al avalúo fiscal vigente de éste para el año 1965, sin perjuicio del capital que se determine en conformidad a las normas precedentes respecto de las demás personas que intervengan en la explotación. No regirá la excepción anterior cuando se trate de sociedades anónimas agrícolas constituídas con posterioridad a la ley N° 15.564, de 14 de Febrero de 1964.".
+c) Reemplázase en la letra f) la expresión "en el año 1965" por "en el año 1967".
+d) Agrégase a la letra A), la siguiente frase, en punto seguido: "Esta obligación afectará a las personas señaladas en esta letra, cuyos bienes afectos, en conjunto, sean de un valor que exceda de seis sueldos vitales anuales vigentes en el año 1964."
+e) Agrégase a la letra I) la siguiente frase final, reemplazando el punto por una coma (,): "siempre que dichas deudas se refieran a los bienes que se declaran y el monto y existencia de ellas puedan ser probados en forma fidedigna."

@@ -1,0 +1,1 @@
+Artículo 23°- Los préstamos o saldos de precios que provengan de las operaciones a que se refieren los dos artículos anteriores, deberán ser amortizados en los plazos y en las condiciones que se determinen por decreto supremo del Ministerio de Obras Públicas.

@@ -1,0 +1,6 @@
+Artículo 39°- Para los efectos del servicio de las deudas que contraigan los imponentes de las instituciones de previsión, por aplicación de la ley N° 16.251, los empleadores tendrán la obligación de descontar de los sueldos y salarios, las cuotas que les ordenen por escrito las instituciones de previsión respectivas, debiendo enterarlas en ellas dentro de los 10 primeros días de cada mes.
+Los empleadores que no hagan los descuentos ordenados o que habiéndolos hecho no los enteren en la oportunidad indicada, serán personalmente responsables del pago de dichas cuotas, más un interés penal de un 3% mensual por todo el tiempo del atraso.
+Esta responsabilidad cesará tan pronto notifique por carta certificada a la institución de previsión del término del contrato de trabajo del deudor, siempre que el empleador haya cumplido íntegra y oportunamente las obligaciones a que se refiere este artículo.
+Los empleadores sólo podrán oponer a la institución de previsión la excepción de pago.
+Esta responsabilidad civil es sin perjuicio de la responsabilidad penal que corresponda.
+Facúltase a las instituciones de previsión para descontar del monto líquido de sus pensiones la cuota de amortización mensual que corresponda abonar a los imponentes pensionados que hayan obtenido el préstamo especial.

@@ -1,0 +1,3 @@
+Artículo 16.o bis.- Sin perjuicio de las facultades que correspondan a la Subsecretaría de Economía y Comercio, los Intendentes y Gobernadores podrán en los casos a que se refiere el artículo 4.o, ordenar la clausura de los establecimientos comerciales e industriales hasta por 30 días.
+Contra la resolución que ordene la clausura podrá deducirse apelación dentro del tercero día hábil, para ante el Juez de Letras correspondiente, sin que la interposición del recurso suspenda el cumplimiento de la sanción.
+Sin embargo, en casos calificados y con antecedentes que serán apreciados en conciencia, podrá el Tribunal de inmediato suspender provisionalmente la clausura.

@@ -1,0 +1,3 @@
+Artículo 71°- Se autoriza al Consejo de la Corporación de la Vivienda para que, en los casos que estime justificados, proceda a efectuar con cargo al Presupuesto de dicha institución, los gastos de formación de títulos, extensión de escrituras, legalización e inscripción de las mismas, y que correspondan a las operaciones que deba efectuar con los damnificados a que se refiere la presente ley.
+El Consejo determinará si dichos gastos serán amortizados por los beneficiarios y su forma, plazo y condiciones de amortización.
+Para los efectos de este artículo y del anterior gozarán los peticionarios, en todos sus trámites, de privilegio de pobreza y deberán ser atendidos, preferentemente, por el Servicio de Asistencia Judicial del Colegio de Abogados.
