@@ -1,0 +1,1 @@
+ARTÍCULO SEXAGÉSIMO.- La persona nombrada provisionalmente podrá postular al correspondiente proceso de selección que se convoque, no pudiendo en este caso considerarse como mérito el desempeño provisional del cargo que sirve.
