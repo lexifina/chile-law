@@ -1,0 +1,1 @@
+Artículo 4° Los servicios públicos de recolección de aguas servidas, cualquiera sea su naturaleza jurídica, continuarán explotando los alcantarillados unitarios en actual operación, sin perjuicio de la legislación sobre aguas lluvias.
