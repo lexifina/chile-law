@@ -1,0 +1,2 @@
+Artículo 2° transitorio.- Las personas que padezcan de las enfermedades catastróficas determinadas por reglamento del Ministerio de Salud, suscrito además por el Ministro de Hacienda, podrán impetrar en idénticas condiciones, el mismo beneficio señalado en el artículo 1° transitorio, para lo cual se aplicarán todas las disposiciones contempladas en dicho precepto.
+Para los efectos señalados en el inciso anterior, se entenderá por enfermedades catastróficas aquellas con riesgo inminente de muerte y aquellas incurables y con dicho riesgo.
