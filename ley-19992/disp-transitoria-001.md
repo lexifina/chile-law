@@ -1,0 +1,1 @@
+Artículo primero.- El mayor gasto que represente esta ley durante el año 2005, se financiará con traspasos de recursos provenientes de la partida Tesoro Público y con traspasos y reasignaciones de otras partidas presupuestarias.
