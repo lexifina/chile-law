@@ -1,0 +1,1 @@
+Artículo 5°- El Comité someterá al Presidente de la República el proyecto del Estatuto del Personal a que se refiere el artículo 40, dentro del plazo de 90 días, contados desde la fecha de publicación del presente decreto ley.

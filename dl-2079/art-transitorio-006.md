@@ -1,0 +1,1 @@
+Artículo 6°- Las personas que a la fecha de vigencia del presente decreto ley se encontraren desempeñando cargos cuya designación corresponda al Presidente de la República, tendrán el plazo de sesenta días para ejercer la opción a que se refiere el artículo 43.

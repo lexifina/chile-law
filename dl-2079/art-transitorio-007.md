@@ -1,0 +1,1 @@
+Artículo 7°- Mientras no se dicte el decreto a que se refiere el artículo 40 de este decreto ley, el personal del Banco seguirá rigiéndose por las normas que le eran aplicables hasta la fecha de entrada en vigencia de este cuerpo legal.
