@@ -1,0 +1,1 @@
+Artículo 211-A.- En caso de acoso sexual, la persona afectada deberá hacer llegar su reclamo por escrito a la dirección de la empresa, establecimiento o servicio o a la respectiva Inspección del Trabajo.
