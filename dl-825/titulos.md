@@ -11,6 +11,7 @@ Párrafo 5° Tasa, base imponible y débito fiscal.
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 TITULO III Impuestos especiales a las ventas y servicios
+PARRAFO 1° Del impuesto adicional a ciertos productos
 PARRAFO 3° Del impuesto adicional a las bebidas alcohólicas, analcohólicas y productos similares.
 PARRAFO 4 Otros impuestos específicos
 PARRAFO 6° Disposiciones varias
