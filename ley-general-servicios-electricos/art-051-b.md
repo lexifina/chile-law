@@ -1,2 +1,1 @@
-Artículo 51° B.- Cuando una central generadora esté conectada a un sistema eléctrico cuyas líneas y subestaciones en el área de influencia de la central pertenezcan a un tercero, se entenderá que el propietario de la central hace uso efectivo de dichas instalaciones, independientemente del lugar y de la forma en que se comercializan los aportes de potencia y energía que aquélla efectúa y, por consiguiente, debe pagar los correspondientes peajes a su dueño.
-Se entenderá por área de influencia el conjunto de líneas, subestaciones y demás instalaciones del sistema eléctrico, directa y necesariamente afectado por la inyección de potencia y energía de una central generadora.
+Artículo 51° B.- DEROGADO
