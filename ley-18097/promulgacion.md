@@ -3,4 +3,3 @@ Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en
 Llévese a efecto como ley de la República.
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.
 Santiago, siete de enero de mil novecientos ochenta y dos.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Felipe Errázuriz Correa, Ministro de Minería.
-Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud.- María Teresa Cañas Pinochet, Subsecretario de Minería subrogante.
