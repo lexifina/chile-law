@@ -1,0 +1,1 @@
+Artículo 15°.- Los funcionarios afectos al régimen previsional antiguo que hagan uso de permiso sin goce de remuneraciones podrán efectuar de su peculio, para los efectos del desahucio y de la previsión, las imposiciones que correspondan.
