@@ -1,0 +1,1 @@
+Artículo 4º.- Para los efectos del primer pago del incremento por desempeño institucional a que se refiere el artículo 6º, correspondiente al año 1999, los objetivos de gestión que, durante el año 1998, les corresponda cumplir a las entidades afectas, podrán ser fijados hasta el 31 de mayo de este último año.
