@@ -1,0 +1,1 @@
+Artículo 26° bis- Las modificaciones presupuestarias que se efectúen por aplicación de las normas cuya dictación autoriza el artículo precedente, sólo constituirán la estimación financiera, a juicio exclusivo del Ejecutivo, de los ingresos y gastos incluidos en ellas.
