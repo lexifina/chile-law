@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1° del Artículo 82 de la Constitución Política de la República y por cuanto el Congreso Nacional ha aprobado algunas de las observaciones formuladas por el Ejecutivo y desechado otras; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 18 de mayo de 2001.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Claudio Huepe García, Ministro Secretario General de Gobierno.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- José Antonio Gómez Urrutia, Ministro de Justicia.
+Lo que transcribo a Ud. para su conocimiento. - Saluda atentamente a Ud., Carolina Tohá Morales, Subsecretaria General de Gobierno.
