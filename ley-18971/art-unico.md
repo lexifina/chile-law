@@ -1,0 +1,5 @@
+Artículo único.- Cualquier persona podrá denunciar las infracciones al artículo 19, número 21, de la Constitución Política de la República de Chile.
+El actor no necesitará tener interés actual en los hechos denunciados.
+La acción podrá intentarse dentro de seis meses contados desde que se hubiere producido la infracción, sin más formalidad ni procedimiento que el establecido para el recurso de amparo, ante la Corte de Apelaciones respectiva, la que conocerá de ella en primera instancia. Deducida la acción, el tribunal deberá investigar la infracción denunciada y dar curso progresivo a los autos hasta el fallo respectivo.
+Contra la sentencia definitiva, procederá el recurso de apelación, que deberá interponerse en el plazo de cinco días, para ante la Corte Suprema y que, en caso de no serlo, deberá ser consultada. Este Tribunal conocerá del negocio en una de sus Salas.
+Si la sentencia estableciere fundadamente que la denuncia carece de toda base, el actor será responsable de los perjuicios que hubiere causado.
