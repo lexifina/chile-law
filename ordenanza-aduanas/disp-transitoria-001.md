@@ -1,0 +1,1 @@
+Artículo único transitorio. El texto refundido, coordinado y sistematizado de la Ordenanza de Aduanas que se aprueba por el artículo único de este Decreto con Fuerza de Ley, empezará a regir transcurridos ciento ochenta días desde su publicación en el Diario Oficial.
