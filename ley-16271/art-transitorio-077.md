@@ -1,0 +1,1 @@
+Artículo 77°- Se condonan los intereses penales y multas a los deudores que estén en mora de pagar la contribución de herencias y donaciones, cualquiera que sea el momento en que se hayan deferido, siempre que efectúen el pago dentro de los seis meses siguientes a la fecha en que esta ley entre en vigencia.
