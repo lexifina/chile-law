@@ -13,11 +13,10 @@ PARRAFO 7° Del régimen de tributación simplificada para los pequeños contrib
 TITULO IV Impuestos a los servicios
 Párrafo 1° Del hecho gravado y de las tasas del impuesto.
 Párrafo 2° Del sujeto del impuesto
-TITULO V De la administración del impuesto
-Párrafo 1° Del Registro de los Contribuyentes
-Párrafo 2° De las facturas y otros comprobantes de venta
-Párrafo 3° De los libros y registros
-Párrafo 4° De la declaración y pago del impuesto
+TITULO IV De la administración del impuesto
+PARRAFO 1° Del Registro de los contribuyentes
+PARRAFO 2° De las facturas y otros comprobantes de ventas y servicios
+PARRAFO 3° De los libros y registros.
 Párrafo 5° Otras disposiciones
 Titulo VI Normas derogatorias
 ARTICULOS TRANSITORIOS
