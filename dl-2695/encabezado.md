@@ -1,0 +1,8 @@
+FIJA NORMAS PARA REGULARIZAR LA POSESION DE LA PEQUEÑA PROPIEDAD RAIZ Y PARA LA CONSTITUCION DEL DOMINIO SOBRE ELLA
+Núm. 2.695.- Santiago, 30 de Mayo de 1979.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; 991, de 1976, y
+Considerando:
+1°- Que la deficiente constitución del dominio de las pequeñas propiedades raíces rurales y urbanas genera problemas de índole socioeconómico de crecimiento progresivo, al impedir que gran número de ellas se incorpore efectivamente al proceso productivo nacional;
+2°- Que por ello se ha creado un sistema que la legislación ha denominado "saneamiento del dominio de la pequeña propiedad", que tiene por objeto regularizar la situación del poseedor material que carece de títulos o que los tiene imperfectos, lo que es previo, en el caso de la pequeña propiedad agrícola, a la elaboración de planes de desarrollo y de asistencia técnica o crediticia, así como a cualquier reordenamiento destinado a atacar e impedir el minifundio;
+3°- Que la legislación vigente sobre la materia no ha permitido dar solución eficaz al problema, por lo cual es conveniente modificarla, adecuándola a la realidad actual y estableciendo un nuevo procedimiento que dé facultades a la autoridad administrativa para ordenar la inscripción de los predios a nombre de sus poseedores materiales que reúnan los requisitos establecidos en la ley, y que contemple la intervención de la Justicia Ordinaria sólo en los casos de legitima oposición o para garantizar los derechos de terceros, y Habiéndose oído además al Consejo de Estado sobre esta iniciativa,
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+Decreto ley:
