@@ -1,0 +1,1 @@
+Artículo 2°.- En la primera conformación del Consejo Nacional de Televisión, los Consejeros a que se refieren las letras c) y d) del artículo 2° permanecerán tres años en sus cargos. Asimismo, en dicha primera conformación y mientras no esté en funciones el Congreso Nacional, el Consejero señalado en la letra a) será designado con acuerdo de la Junta de Gobierno.
