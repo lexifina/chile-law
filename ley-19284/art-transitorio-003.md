@@ -1,0 +1,1 @@
+Artículo 3°.- El Fondo a que se refiere el artículo 52 se regirá por los estatutos que al efecto dicte el Presidente de la República, a proposición del Consejo de FONADIS, dentro del plazo de 180 días contado desde la publicación de esta ley. Para este efecto, dicho Consejo deberá constituirse dentro de quince días contados desde la referida publicación.
