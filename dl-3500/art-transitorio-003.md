@@ -1,0 +1,2 @@
+Artículo 3°- Las instituciones de previsión del régimen antiguo emitirán un instrumento expresado en dinero que se denominará Bono de Reconocimiento y será representativo de los períodos de cotizaciones que registren en ellas los imponentes que se incorporen al Sistema que establece esta ley.
+Se entiende por instituciones de previsión del régimen antiguo, aquéllas existentes a la fecha de publicación de esta ley.
