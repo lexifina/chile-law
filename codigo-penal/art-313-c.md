@@ -1,0 +1,1 @@
+Artículo 313° c Las penas señaladas en los artículos precedentes se impondrán sin perjuicio de las que correspondieren por la muerte, lesiones u otras consecuencias punibles que eventualmente resultaren de la comisión de tales delitos.
