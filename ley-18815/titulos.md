@@ -4,3 +4,4 @@ TITULO III De los aportes y aportantes
 TITULO IV De las asambleas ordinarias y extraordinarias de aportantes
 TITULO V De los beneficios y franquicias
 TITULO VI Disposiciones generales
+TITULO VII De los fondos de inversión privados
