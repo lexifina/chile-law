@@ -1,0 +1,2 @@
+Artículo 6°.- El mayor gasto fiscal que represente la aplicación de esta ley durante el primer año se financiará con cargo al ítem 50-01-03-25-33.104 de la partida del Tesoro Público de la Ley de Presupuestos para dicho año.
+El Presidente de la República, mediante decreto supremo expedido por intermedio del Ministerio de Hacienda, con las asignaciones presupuestarias señaladas precedentemente, creará el capítulo respectivo de ingresos y gastos del presupuesto de la Defensoría Penal Pública.".
