@@ -1,0 +1,1 @@
+Artículo 8º.- Las empresas deberán contar con el primer "plan maestro" y "calendario referencial de inversiones" para cada uno de los puertos y terminales de su competencia, dentro del plazo de un año contado desde el inicio de sus actividades.
