@@ -1,0 +1,1 @@
+Artículo 29° bis - Por decreto, del Ministerio de Hacienda, el que deberá llevar además la firma del Ministro del ramo que corresponda, podrá ordenarse el traspaso a rentas generales de la Nación de excedentes de caja de los servicios e Instituciones, incluidos en la Ley de Presupuestos del Sector Público, que no tengan aporte fiscal.
