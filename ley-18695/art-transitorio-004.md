@@ -1,0 +1,1 @@
+Artículo 4°.- Mientras no se dicte la ley a que se refiere el artículo 115, inciso primero, de la Constitución Política, las cuestiones de competencia que se susciten entre municipalidades de una misma provincia serán resueltas por el gobernador respectivo y aquellas que se produzcan entre municipalidades pertenecientes a distintas provincias, por el intendente que corresponda.
