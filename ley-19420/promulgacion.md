@@ -1,2 +1,2 @@
-Arica, 12 de octubre de 1995.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Manuel Marfán Lewis, Ministro de Hacienda Subrogante.- Carlos Figueroa Serrano, Ministro del Interior.- José Miguel Insulza Salinas, Ministro de Relaciones Exteriores.- Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.- Edmundo Pérez Yoma, Ministro de Defensa Nacional.
-Lo que transcribo a Ud. para su conocimiento.- Saluda a usted.- Manuel Marfán Lewis, Subsecretario de Hacienda.
+Anótese, tómese razón y publíquese.- JOSE MIGUEL INSULZA SALINAS, Vicepresidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
