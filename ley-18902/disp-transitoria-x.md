@@ -1,0 +1,1 @@
+Artículo transitorio.- Para los efectos de la preparación y ejecución del primer concurso que deba realizarse para el ingreso a los cargos de carrera, en calidad de titular, en la Superintendencia de Servicios Sanitarios, el Superintendente ejercerá las funciones que corresponden al comité de selección señalado en el artículo 18 de la ley N° 18.834.
