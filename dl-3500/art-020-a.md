@@ -1,0 +1,1 @@
+Artículo 20 A.- Los depósitos de ahorro previsional voluntario podrán realizarse directamente en las instituciones autorizadas o en una administradora de fondos de pensiones. En este último caso, el trabajador deberá indicar a la administradora de fondos de pensiones las instituciones hacia las cuales se transferirán los mencionados depósitos.
