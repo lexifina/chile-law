@@ -1,0 +1,1 @@
+Artículo 8°- Si no se hubiere reformado el estatuto social para adecuarlo a esta ley, las modificaciones que ella introduce respecto de la remuneración de los directores y de los directores suplentes, regirán desde la próxima junta ordinaria que la sociedad deba celebrar y en todo caso, desde el 30 de Abril de 1982.
