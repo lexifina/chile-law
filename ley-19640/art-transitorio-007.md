@@ -1,0 +1,1 @@
+Artículo 7º.- El gasto que origine la aplicación de esta ley durante el año 1999, se financiará mediante transferencias del ítem 50-01-03-25-33.104 de la partida Tesoro Público del Presupuesto vigente.''.
