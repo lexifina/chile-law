@@ -1,0 +1,2 @@
+ARTÍCULO TRIGÉSIMO NOVENO.- En lo no previsto en la presente ley y en cuanto no sea contradictorio con la misma, el Sistema de Alta Dirección Pública se regulará supletoriamente por las normas de la ley N° 18.834, sobre Estatuto Administrativo. En todo caso no les serán aplicables a los altos directivos públicos las normas contenidas en el Título II, De la Carrera Funcionaria, de dicho cuerpo legal.
+Deróganse las normas legales que sean contrarias o incompatibles con las relativas al Sistema de Alta Dirección Pública contenidas en la presente ley.

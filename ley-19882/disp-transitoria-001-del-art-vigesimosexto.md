@@ -1,0 +1,4 @@
+Artículo Primero Transitorio.- Facúltase al Presidente de la República para que en el plazo de 90 días, contados desde la publicación de la presente ley, mediante un decreto con fuerza de ley, fije las plantas del personal de la Dirección Nacional del Servicio Civil y el régimen de remuneraciones aplicable a su personal.
+El Presidente de la República nombrará al Director dentro de los treinta días siguientes a la fijación de la planta de la Dirección Nacional, quien asumirá de inmediato sus funciones.
+En el ejercicio de esta facultad, el Presidente de la República deberá dictar todas las normas necesarias para la adecuada estructuración y operación de las plantas que fije. De igual forma fijará la fecha de vigencia de las plantas, así como la dotación máxima de personal.
+Del mismo modo, el Presidente de la República determinará la fecha de creación de la Dirección Nacional.

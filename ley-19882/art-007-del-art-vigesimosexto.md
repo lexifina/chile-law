@@ -1,0 +1,1 @@
+Artículo 7°.- El Director podrá requerir de las instituciones de la administración civil del Estado, personal en comisión de servicio, sin que en este caso rijan las limitaciones establecidas por las disposiciones legales o reglamentarias vigentes.

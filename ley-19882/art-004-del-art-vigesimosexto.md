@@ -1,0 +1,1 @@
+Artículo 4°.- Para los efectos de dar cumplimiento a sus funciones en el área de la Alta Dirección Pública, y en especial las enumeradas en las letras d) a h) del artículo segundo, la Dirección Nacional consultará en su estructura orgánica y funcional una Subdirección de Alta Dirección Pública.

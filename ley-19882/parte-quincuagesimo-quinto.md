@@ -1,0 +1,1 @@
+ARTÍCULO QUINCUAGÉSIMO QUINTO.- El proceso de selección tendrá el carácter de confidencial, manteniéndose en reserva la identidad de cada candidato. La Dirección Nacional del Servicio Civil dispondrá las medidas necesarias para garantizar esta condición.

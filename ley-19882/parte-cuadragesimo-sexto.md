@@ -1,0 +1,2 @@
+ARTÍCULO CUADRAGÉSIMO SEXTO.- El consejo tomará sus decisiones por la mayoría de sus miembros y en caso de empate resolverá su Presidente. El quórum mínimo para sesionar será de 3 miembros con derecho a voto.
+Un reglamento, que será aprobado por decreto supremo del Ministerio de Hacienda, establecerá las normas necesarias para el funcionamiento del consejo y para la adecuada ejecución de las funciones que le son encomendadas.

@@ -1,0 +1,1 @@
+Artículo noveno transitorio.- Otórgase para los años 2003 y 2004 el Premio Anual por Excelencia Institucional, establecido en el artículo sexto de la presente ley, al Servicio de Registro Civil e Identificación. Para el año 2003 el monto de este premio será de un 4,5% de los estipendios mencionados en la referida disposición.

@@ -1,0 +1,2 @@
+ARTÍCULO CUADRAGÉSIMO NOVENO.- Los ministros respectivos deberán definir los perfiles profesionales y de competencias y aptitudes que deberán cumplir los candidatos a los cargos de jefes superiores de servicio. Estos perfiles deberán ser aprobados por el Consejo de Alta Dirección Pública y ser enviados a la Dirección Nacional del Servicio Civil para su registro.
+En el caso de los altos directivos públicos del segundo nivel jerárquico de la respectiva institución, corresponderá a los jefes superiores de servicio definir dichos perfiles.

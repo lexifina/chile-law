@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SÉPTIMO.- La supervigilancia, control y fiscalización de la entidad administradora corresponderá a la Superintendencia de Valores y Seguros. Para estos efectos, estará investida de las mismas facultades que el decreto ley N° 3.538, de 1980, le otorga respecto de sus fiscalizados.

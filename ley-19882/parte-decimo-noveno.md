@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO NOVENO.- Durante la vigencia del contrato, la entidad administradora deberá asegurar la continuidad de la prestación del servicio en condiciones de absoluta normalidad y en forma ininterrumpida. El incumplimiento de esta obligación constituirá infracción grave de las obligaciones de la administradora.
+La entidad administradora podrá celebrar contratos de prestación de servicios con entidades externas, según lo que al respecto establezcan las bases de licitación y el contrato de administración del fondo.

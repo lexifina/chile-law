@@ -1,0 +1,1 @@
+ARTÍCULO QUINCUAGÉSIMO PRIMERO.- El Presidente de la República podrá nombrar a uno de los candidatos propuestos por el consejo o declarar desierto el proceso de selección, caso en el cual se realizará un nuevo proceso de selección. Una misma persona no podrá ser incluida en más de una nómina.

@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El viático de faena a que se refiere el artículo 7° del decreto con fuerza de ley N° 262, de 1977, del Ministerio de Hacienda, será, para los trabajadores del Ministerio de Obras Públicas, Servicio de Tesorerías, Servicio de Impuestos Internos y Servicio Agrícola y Ganadero de un 40% del viático completo que en cada caso les corresponda.
