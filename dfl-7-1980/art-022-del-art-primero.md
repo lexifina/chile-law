@@ -1,1 +1,1 @@
-Artículo 22°- Todos los funcionarios del Servicio son de la exclusiva confianza del Director, quien los nombrará por resolución, y permanecerán en sus cargos mientras cuenten con dicha confianza, sin perjuicio de las facultades del Presidente de la República.
+Artículo 22°.- Todos los funcionarios del Servicio son de la exclusiva confianza del Director, quien los nombrará por resolución, y permanecerán en sus cargos mientras cuenten con dicha confianza, sin perjuicio de las facultades del Presidente de la República.
