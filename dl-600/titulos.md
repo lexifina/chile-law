@@ -1,7 +1,5 @@
-TITULO I De las Inversiones Extranjeras
-TITULO II Del régimen aplicable a la inversión extranjera
-TITULO III De los créditos
-TITULO IV Del Comité de Inversiones Extranjeras
-TITULO V De la compensación de perjuicios y de las sanciones
-TITULO VI Disposiciones varias
-ARTICULOS TRANSITORIOS
+TITULO I De la Inversión Extranjera y del Contrato de Inversión
+TITULO II De los Derechos y Obligaciones de la Inversión Extranjera
+TITULO III Del comité de Inversiones Extranjeras
+TITULO IV DISPOSICIONES GENERALES
+DISPOSICIONES TRANSITORIAS
