@@ -1,0 +1,1 @@
+Artículo 11.- El Ministerio de Hacienda establecerá, mediante decreto supremo, la gradualidad de incorporación de los organismos públicos regidos por la presente ley a los sistemas a que se refieren los artículos 18, 19 y 20 de este cuerpo legal.".
