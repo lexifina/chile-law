@@ -1,0 +1,1 @@
+Artículo 1°.- Las cantidades aprobadas para los subtítulos 22 "Bienes y Servicios de Consumo" de los presupuestos del año 1982 de las instituciones de previsión social, podrán ser incrementadas mediante reasignaciones internas, sancionadas en conformidad a lo dispuesto en el artículo 70 del decreto ley N° 1.263, de 1975.
