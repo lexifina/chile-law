@@ -1,0 +1,2 @@
+Artículo 2°.- Durante el período a que se refiere la décimo tercera disposición transitoria de la Constitución Política, las normas de esta ley se aplicarán teniendo en consideración lo establecido en las disposiciones transitorias vigésima primera y vigésima segunda de la Constitución.
+Durante igual período y hasta que entre en funciones el Senado y la Cámara de Diputados, las referencias que se hacen en esta ley a la Cámara de origen, al Senado o a la Cámara de Diputados, se entenderán hechas a la Junta de Gobierno.
