@@ -1,0 +1,1 @@
+Artículo 6º.- Aquellos establecimientos educacionales subvencionados que no soliciten el aporte suplementario por costo de capital adicional, podrán incorporarse al régimen de jornada escolar completa diurna hasta el año 2003.

@@ -1,0 +1,2 @@
+Artículo 7º.- El mayor gasto que represente la aplicación de la presente ley para el año 1997, se financiará con cargo al Presupuesto del Ministerio de Educación, en las Partidas 09-01-02 y 09-20-01, según corresponda.
+Mediante uno o más decretos supremos expedidos a través del Ministerio de Hacienda y suscritos, además, por el Ministro de Educación, se efectuarán las modificaciones presupuestarias correspondientes y se dictarán las normas para su aplicación.

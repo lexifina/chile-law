@@ -1,0 +1,1 @@
+Artículo 4º.- La aplicación del régimen de jornada escolar completa diurna no podrá generar, por sí misma, exclusiones de los alumnos matriculados en el establecimiento al 30 de junio del año anterior, ni supresión de niveles de enseñanza por los que el sostenedor respectivo percibió subvención educacional a igual fecha.
