@@ -1,0 +1,1 @@
+Artículo 2°- Mientras se dicte el reglamento de la presente ley, la Dirección de Tierras y Bienes Nacionales y el Departamento de Títulos mantendrán las facultades que les confiere el decreto con fuerza de ley N° 6, de 1968, en cuanto no se opongan a las disposiciones de este texto.
