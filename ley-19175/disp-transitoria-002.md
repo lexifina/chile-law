@@ -1,0 +1,2 @@
+SEGUNDA En los Presupuestos de los años 1993 y 1994, la inversión sectorial de asignación regional incluirá, a lo menos, los ítem de pavimentación urbana, conservación y mejoramiento de caminos secundarios y mejoramiento urbano.
+En los Presupuestos de los años 1993 y 1994, la inversión sectorial de asignación regional crecerá, a lo menos, en una tasa del 25 por ciento más alta que la de crecimiento del resto de la inversión pública en los mismos períodos, excluido el Fondo Nacional de Desarrollo Regional.
