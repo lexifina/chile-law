@@ -1,3 +1,0 @@
-Artículo 2°.- Los actuales tenedores de armas y demás elementos cuyo control contempla esta ley que no estén inscritos, tendrán el plazo de 60 días para legitimar su posesión ante las Comandancias de Guarnición o ante las Comisarías, Tenencias o Retenes de Carabineros.
-En esta regularización no procederá el examen por el Banco de Pruebas respecto de las armas de fabricación industrial ni de colección.
-Transcurrido el plazo de 60 días a que se refiere el inciso primero sin que se hubiere dado cumplimiento a la inscripción y demás requisitos exigidos por la actual reglamentación, los infractores sufrirán las sanciones establecidas en la presente ley.

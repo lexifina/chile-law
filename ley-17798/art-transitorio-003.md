@@ -1,1 +1,0 @@
-Artículo 3°.- Mientras se dicta el Reglamento de la presente ley, permanecerá vigente en lo que no se oponga a ella, el Reglamento de Fabricación y Comercio de Armas de Fuego, Municiones, Explosivos y Productos Químicos, aprobado por decreto supremo N° 3.144, de 26 de Noviembre de 1954.".
