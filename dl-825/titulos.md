@@ -12,7 +12,6 @@ Párrafo 6° Del crédito fiscal.
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 TITULO IV Impuestos a los servicios
 Párrafo 1° Del hecho gravado y de las tasas del impuesto.
-Párrafo 2° Del sujeto del impuesto
 TITULO IV De la administración del impuesto
 PARRAFO 1° Del Registro de los contribuyentes
 PARRAFO 2° De las facturas y otros comprobantes de ventas y servicios
