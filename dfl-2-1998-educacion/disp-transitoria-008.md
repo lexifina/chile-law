@@ -1,0 +1,1 @@
+Artículo octavo transitorio.- Los establecimientos educacionales tendrán un plazo máximo de un año, contado desde la fecha de entrada en vigencia de la presente disposición, para dar cumplimiento a la obligación establecida en el literal d) del artículo 6º de la presente ley.

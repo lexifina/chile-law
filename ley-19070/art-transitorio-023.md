@@ -1,1 +1,1 @@
-Artículo 23: Lo dispuesto en los incisos segundo, tercero y cuarto del artículo 32 de esta ley, tratándose de los profesionales de la educación que actualmente se desempeñan como Directores de establecimientos educacionales, y en el inciso segundo del artículo 34 del mismo cuerpo legal, respecto de los Jefes de Departamentos de Administración de Educación Municipal en actual ejercicio, se aplicará sólo cuando cesen en sus respectivas funciones.
+Artículo 23: DEROGADO
