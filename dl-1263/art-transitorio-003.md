@@ -1,0 +1,1 @@
+Artículo 3°- La Contraloría General de la República podrá desconcentrar por etapas, conforme lo determine el Contralor General, los registros y estados contables primarios, en la medida en que las unidades de contabilidad de los Servicios estén en condiciones de asumir las funciones operativas que se les asignen.
