@@ -1,0 +1,1 @@
+Artículo 6º.- Las resoluciones que se dicten para otorgar asignaciones y beneficios equivalentes a los establecidos en la presente ley, respecto de los trabajadores de las entidades cuyas remuneraciones se fijen de acuerdo con el artículo 9º del decreto ley Nº 1.953, de 1977, regirán a contar del 1º de enero de 1998.
