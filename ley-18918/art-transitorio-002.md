@@ -1,0 +1,1 @@
+Artículo 2°.- Los reglamentos de la Cámara vigentes en 1973 continuarán en vigor con las modificaciones que las respectivas Cámaras pudieren acordar, sin perjuicio de lo dispuesto en la Constitución y en esta ley.
