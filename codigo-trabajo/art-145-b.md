@@ -1,0 +1,1 @@
+Artículo 145-B.- Tratándose de contratos de trabajo por una o más funciones, por obra, por temporada, o por proyecto, de duración inferior a treinta días, el plazo de escrituración será de tres días incorporado el trabajador. Si el contrato se celebrare por un lapso inferior a tres días, deberá constar por escrito al momento de iniciarse la prestación de los servicios.
