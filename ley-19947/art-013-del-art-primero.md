@@ -1,0 +1,3 @@
+Artículo 13.- Las personas pertenecientes a una etnia indígena, según el artículo 2º de la ley Nº 19.253, podrán solicitar que la manifestación, la información para el matrimonio y la celebración de éste se efectúen en su lengua materna.
+En este caso, así como en el que uno o ambos contrayentes no conocieren el idioma castellano, o fueren sordomudos que no pudieren expresarse por escrito, la manifestación, información y celebración del matrimonio se harán por medio de una persona habilitada para interpretar la lengua de el o los contrayentes o que conozca el lenguaje de señas.
+En el acta se dejará constancia del nombre, apellido y domicilio del intérprete, o de quien conozca el lenguaje de señas.
