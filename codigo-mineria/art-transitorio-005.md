@@ -1,0 +1,1 @@
+Artículo 5°.- Los procedimientos de constitución de pertenencias que estén pendientes a la fecha en que entre en vigencia el presente Código, continuarán rigiéndose por el Código de 1932. Sin embargo, en aquellos en los que no se haya iniciado la operación de mensura en el terreno, deberá emplearse para ésta el sistema de coordenadas U.T.M.
