@@ -1,1 +1,0 @@
-Artículo H. 3.- Las declaraciones de plena explotación y el cierre de las pesquerías expirarán al 1° de enero de 1993, salvo que el Consejo Nacional y los Consejos Zonales de Pesca resuelvan mantener estas medidas de acuerdo al procedimiento establecido en esta ley.
