@@ -1,0 +1,1 @@
+Artículo segundo.- Los trabajadores con contrato vigente a la fecha de la presente ley, que hubieren sido contratados con anterioridad al 14 de agosto de 1981 y que se incorporen al Seguro, tendrán derecho a la prestación que les corresponda en conformidad al artículo 13 de la presente ley, sin el límite máximo a que alude dicho precepto.
