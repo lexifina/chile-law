@@ -1,0 +1,1 @@
+Artículo 55 bis.- Toda transferencia de recursos públicos dirigida a las entidades administradoras se hará por intermedio de la municipalidad respectiva, debiendo quedar reflejada en el presupuesto respectivo y constar en el balance a que se hace referencia en el artículo 50.
