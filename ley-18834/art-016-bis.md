@@ -1,2 +1,0 @@
-Artículo 16 bis.- En los concursos se mantendrá en secreto la identidad de cada candidato para los efectos de la evaluación de las pruebas y otros instrumentos de selección en que ello sea posible.
-Será obligación extender un acta de cada concurso que deje constancia de los fundamentos y resultados de la evaluación de los candidatos. Asimismo será obligatorio comunicar a los concursantes el resultado final del proceso.
