@@ -1,0 +1,2 @@
+Artículo 4°.- Para los mismos efectos señalados en el artículo anterior, se considerarán dentro de las cinco primeras categorías a que se refiere el artículo 132°, del DFL N° 338, de 1960, a los funcionarios fuera de grado del Instituto que gocen de un sueldo igual o superior al de la 5a., Categoría de la escala Directiva, Profesional y Técnica.
+Esta disposición le será aplicable al personal regido por la ley N° 16.635.

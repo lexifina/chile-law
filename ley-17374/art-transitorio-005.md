@@ -1,0 +1,2 @@
+Artículo 5°.- El Instituto Nacional de Estadísticas será el sucesor legal de la Dirección de Estadística y Censos, en todos sus bienes, derechos y obligaciones, los cuales pasarán a incrementar su patrimonio por el sólo ministerio de la ley, y sin necesidad de ninguna formalidad especial.
+Respecto de los bienes raíces y vehículos motorizados los Conservadores de Bienes Raíces respectivos procederán a practicar las nuevas inscripciones a petición del Director del Instituto.
