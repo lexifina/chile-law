@@ -1,0 +1,5 @@
+JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la Junta de Gobierno.- RODOLFO STANGE OELCKERS, General Director de Carabineros, Miembro de la Junta de Gobierno.- JULIO CANESSA ROBERT, Teniente General de Ejército, Miembro de la Junta de Gobierno.
+Habiéndose dado cumplimiento a lo dispuesto en el N° 1 del artículo 82 de la Constitución Política de la República, y por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en señal de promulgación. Llévese a efecto como ley de la República.
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la recopilación oficial de dicha Contraloría.
+Santiago, 12 de Noviembre de 1986.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Ricardo García Rodríguez, Ministro del Interior.- Hugo Rosende Subiabre, Ministro de Justicia.
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Alberto Cardemil Herrera, Subsecretario del Interior.
