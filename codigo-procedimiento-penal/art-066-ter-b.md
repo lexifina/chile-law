@@ -1,0 +1,2 @@
+Artículo 66 ter B.- Los tribunales que ejercen competencia en materia penal deberán, a lo menos en el mes de noviembre de cada año, remitir un informe a la Corte de Apelaciones respectiva, dando cuenta del estado de las causas pendientes en el tribunal que pudieren encontrarse en alguno de los casos previstos en el artículo 66 bis.
+Podrán, asimismo, cuando las condiciones hubieren variado, remitir nuevos informes para que se considere la adopción de las medidas que corresponda.
