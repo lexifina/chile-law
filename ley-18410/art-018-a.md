@@ -1,0 +1,2 @@
+Artículo 18 A.- En contra de las resoluciones de la Superintendencia que apliquen sanciones, se podrá interponer el recurso de reposición establecido en el artículo 9º de la ley Nº 18.575, en el plazo de cinco días hábiles contado desde el día siguiente a la notificación de la resolución. La Superintendencia dispondrá de diez días hábiles para resolver.
+La interposición de este recurso suspenderá el plazo para reclamar de ilegalidad, siempre que se trate de materias por las cuales procede dicho recurso.

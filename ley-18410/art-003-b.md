@@ -1,0 +1,2 @@
+Artículo 3º B.- Mediante resolución fundada, la Superintendencia podrá requerir a las empresas y entidades sujetas a su fiscalización, bajo apercibimiento de multa, que efectúen auditorías para comprobar la veracidad y exactitud de las informaciones que le hayan proporcionado.
+La contratación y financiamiento de estas auditorías corresponderá a la empresa o entidad requerida. El auditor deberá ser aprobado por la Superintendencia.
