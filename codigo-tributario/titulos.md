@@ -28,7 +28,7 @@ TITULO II Del procedimiento general de las reclamaciones
 TITULO III De los Procedimientos Especiales
 Párrafo 1°. Del procedimiento de reclamo de los avalúos de bienes raíces
 Párrafo 2°. Del procedimiento de reclamo del impuesto a las asignaciones por causa de muerte y a las donaciones
-Párrafo 3°. Del procedimiento de reclamo del impuesto de Timbres, Estampillas y Papel Sellado
+Párrafo 3° Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
 TITULO IV Del Procedimiento para la Aplicación de Sanciones
 Párrafo 1°. Procedimiento general
 Párrafo 2°. Procedimientos especiales para la aplicación de ciertas multas
