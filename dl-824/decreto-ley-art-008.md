@@ -1,0 +1,1 @@
+ARTICULO 8°.- Derógase, a partir del 1° de Enero de 1975, el artículo 109° de la ley N° 16.250 y sus modificaciones, y condónase el impuesto de declaración anual que en virtud de dicho artículo debería pagarse por el año tributario 1975 en relación con el ejercicio comercial finalizado el 31 de Diciembre de 1974.

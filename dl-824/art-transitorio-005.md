@@ -1,0 +1,1 @@
+ARTICULO 5° TRANSITORIO.- Las declaraciones anuales de renta correspondientes al año tributario 1975 por el ejercicio comercial al 31 de Diciembre de 1974 se presentarán entre los días 2 y 30 de Mayo de 1975. Dentro del mismo plazo deberán pagarse los impuestos adeudados correspondientes a dichas declaraciones.
