@@ -1,0 +1,1 @@
+Artículo 1° transitorio.- Las concesiones mineras vigentes a la fecha de entrada en vigor del nuevo Código de Minería subsistirán bajo el imperio de éste. Pero, en cuanto a sus goces y cargas y en lo tocante a su extinción, prevalecerán las disposiciones de dicho Código.
