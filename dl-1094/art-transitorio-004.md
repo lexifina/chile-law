@@ -1,0 +1,1 @@
+Artículo 4°- Mientras no se dicte el reglamento indicado en el artículo 96, continuarán en vigencia las normas del decreto reglamentario de la ley N° 13.353, contenidas en el decreto supremo N° 5.021, de Interior, de 16 de Septiembre de 1959, en todo aquello que no sea contrario a las disposiciones del presente decreto ley.
