@@ -1,0 +1,1 @@
+Artículo segundo.- El gasto fiscal que represente esta ley durante el año 1990, se financiará con las disponibilidades de los recursos asignados en el presente año al Servicio Secretaría General de la Presidencia de la República y con recursos adicionales provenientes de reasignaciones presupuestarias del Programa Operaciones Complementarias del Tesoro Público.".
