@@ -1,0 +1,2 @@
+Artículo 1.o El gasto fiscal que represente esta ley durante 1990 y 1991, se financiará con cargo al ítem 50-01-03-25-33.004 del Tesoro Público del Presupuesto vigente para 1990 y de la Ley de Presupuestos de 1991, respectivamente.
+El Presidente de la República, por decreto supremo expedido por intermedio del Ministerio de Hacienda, con las asignaciones presupuestarias señaladas precedentemente, creará el capítulo respectivo de ingresos y gastos del presupuesto del Servicio Nacional de la Mujer.
