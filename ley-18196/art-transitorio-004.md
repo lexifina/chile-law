@@ -1,0 +1,2 @@
+Artículo 4°.- Autorízase al Servicio Nacional de Menores para anticipar a las instituciones asistenciales a que se refiere el artículo 7° del decreto con fuerza de ley N° 1.385, de Justicia, de 1980, durante el curso del mes de enero de 1983, hasta una cantidad equivalente a la última subvención fiscal recibida por la institución respectiva.
+Los anticipos que se otorguen serán descontados en diez cuotas iguales, de las subvenciones que les corresponda recibir en los meses de febrero a noviembre de 1983.
