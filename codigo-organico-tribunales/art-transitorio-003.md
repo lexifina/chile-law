@@ -1,0 +1,1 @@
+Art. 3° La disposición del art. 526 no se aplica a los extranjeros que ejercían la profesión de abogado en el país cuando se dictó la ley N° 6985, de 10 de Julio de 1941, ni a aquéllos que obtengan o hayan obtenido su título después de terminar los cursos que, en esa misma fecha, tuvieran iniciados en alguna Universidad reconocida.

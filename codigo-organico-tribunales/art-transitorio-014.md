@@ -1,0 +1,2 @@
+Art. 14. La disposición del art. 285 no se aplicará a los árbitros y partidores no abogados que estaban conociendo de un juicio arbitral o de partición el 10 de Julio de 1941. Sus funciones podrán prorrogarse hasta la terminación del negocio.
+Continuarán, también, en su cargo las personas que en esa fecha formaban parte de un tribunal arbitral destinado a resolver las dificultades que sobrevengan en el cumplimiento de un contrato en actual vigencia.

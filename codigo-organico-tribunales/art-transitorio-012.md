@@ -1,0 +1,1 @@
+Art. 12. Los defensores públicos de Santiago y de Valparaíso que se encontraban desempeñando esos cargos el 15 de Septiembre de 1939 gozarán del sueldo, rango y categoría de jueces de asiento de las respectivas Cortes de Apelaciones de acuerdo con el art. 6 transitorio.

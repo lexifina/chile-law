@@ -1,0 +1,1 @@
+Art. 4° La prohibición del art. 479 no rige respecto de los actuales procuradores del número que estaban desempeñando esos cargos a la fecha de la dictación de la ley 6985, de 10 de Julio de 1941, mientras desempeñen dichos cargos.

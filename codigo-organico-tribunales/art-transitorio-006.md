@@ -1,0 +1,1 @@
+Art. 6° La ley N° 6073, de 9 de Septiembre de 1937, sobre Escalafón Judicial, no rebaja la categoría y derechos adquiridos por los funcionarios a quienes asigna una categoría diferente de la que tenían a la época de su vigencia.

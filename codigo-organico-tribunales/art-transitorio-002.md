@@ -1,0 +1,1 @@
+Art. 2° Lo dispuesto en el art. 261 no afecta a los actuales funcionarios del Poder Judicial que el 21 de Septiembre de 1939 estaban desempeñando alguna cátedra universitaria; y sólo respecto de esa misma cátedra.

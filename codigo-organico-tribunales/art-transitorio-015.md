@@ -1,0 +1,1 @@
+Art. 15. Tampoco se aplicará el artículo 1324 del Código Civil, modificado por la ley 6985 de 10 de Julio de 1941, a las designaciones de partidores hechas en instrumentos públicos o testamentos otorgados con anterioridad a la vigencia de dicha ley. Podrán también prorrogarse sus funciones.

@@ -1,0 +1,1 @@
+Art. 5° Los servicios prestados en los cargos de secretarios, relatores y empleados del Escalafón Secundario y del especial del personal subalterno durante el régimen de arancel, serán considerados como servicios públicos para todos los efectos legales.
