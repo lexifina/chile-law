@@ -1,0 +1,1 @@
+Artículo 3º A.- Para obtener la autorización de su existencia, las administradoras deberán comprobar ante la Superintendencia, un capital pagado en dinero efectivo no inferior al equivalente a 10.000 unidades de fomento. Asimismo, las administradoras deberán cumplir con lo dispuesto en los artículos 225, 226 y 227 de la ley Nº 18.045.
