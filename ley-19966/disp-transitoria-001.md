@@ -1,0 +1,5 @@
+Artículo primero.- Las Garantías Explícitas en Salud del Régimen General de Garantías en Salud entrarán en vigencia según el siguiente cronograma:
+1.- A contar del 1 de abril de 2005, las Garantías Explícitas se aplicarán a un máximo de veinticinco patologías o condiciones de salud y la Prima Universal anual no podrá ser superior a 1,02 unidades de fomento.
+2.- A contar del 1 de abril de 2006, las Garantías Explícitas se aplicarán a un máximo de cuarenta patologías o condiciones de salud y la Prima Universal anual no podrá ser superior a 2,04 unidades de fomento.
+3.- A contar del 1 de abril de 2007, las Garantías Explícitas se aplicarán a un máximo de cincuenta y seis patologías o condiciones de salud y la Prima Universal anual no podrá ser superior a 3,06 unidades de fomento.
+Si a las fechas indicadas el decreto respectivo no hubiera sido publicado en el Diario Oficial o si, habiendo sido publicado, no hubieran transcurrido al menos cinco meses, las Garantías Explícitas entrarán en vigencia el primer día del sexto mes siguiente a la publicación que corresponda.
