@@ -1,1 +1,0 @@
-Artículo 82 bis.- El banco que no se encuentre ajustado a alguna de las proporciones que señala el artículo 81, deberá encuadrarse en ella dentro de un plazo de sesenta días, sin perjuicio de incurrir en una multa del uno por mil sobre el déficit de patrimonio efectivo o capital básico, según corresponda, por cada día que lo mantenga.
