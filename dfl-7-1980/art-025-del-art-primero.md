@@ -1,4 +1,4 @@
-Artículo 25°- Para ingresar al Servicio en los cargos de planta se requerirá:
+Artículo 25°.- Para ingresar al Servicio en los cargos de planta, se requerirá:
 a) Ser chileno y tener a lo menos dieciocho años de edad;
 b) Tener idoneidad cívica en los términos definidos en el D.F.L. N° 338, de 1960;
 c) No haber sido condenado ni hallarse declarado reo por resolución ejecutoriada en proceso por crimen o simple delito de acción pública;
