@@ -1,0 +1,2 @@
+Anótese, tómese razón, publíquese e insértese en la Recopilación correspondiente de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Carlos Granifo Harms, Ministro de la Vivienda y Urbanismo. Jorge Cauas Lama, Ministro de Hacienda.
+Lo que transcribo a U. para su conocimiento.- Dios guarde a U.- Arthur Clark Flores, Comandante de Grupo (I), Subsecretario de Vivienda y Urbanismo.
