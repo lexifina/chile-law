@@ -1,0 +1,1 @@
+Artículo único: Fíjase el nuevo texto refundido, coordinado y sistematizado de la Ley Nº 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del Decreto con Fuerza de Ley, del mismo Ministerio Nº 206, de 1960, sobre construcción y conservación de caminos, que es el que se señala a continuación.
