@@ -1,0 +1,2 @@
+ARTICULO 11° transitorio. Las remuneraciones del personal del Ministerio de la Vivienda y Urbanismo y de las Corporaciones de la Vivienda, de Servicios Habitacionales, de Mejoramiento Urbano y de Obras Urbanas que, por aplicación de este decreto ley, debiere cambiar obligatoriamente su afiliación previsional, no estarán sujetas al descuento señalado en la letra d) del artículo 14° del decreto con fuerza de ley 1.340 bis, de 1930.
+Lo dispuesto en este artículo regirá a contar de la vigencia del decreto ley 1.305, de 1976.
