@@ -1,0 +1,1 @@
+Artículo 92.- Cuando la sentencia que dé lugar a la separación judicial, a la nulidad o al divorcio no sea apelada, deberá elevarse en consulta al tribunal superior, y si él estima dudosa la legalidad del fallo consultado, retendrá el conocimiento del asunto y procederá como si se hubiera interpuesto apelación en su oportunidad. En caso contrario, aprobará la sentencia.".

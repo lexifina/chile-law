@@ -1,0 +1,1 @@
+Artículo 12.- Se acompañará a la manifestación una constancia fehaciente del consentimiento para el matrimonio, dado por quien corresponda, si fuere necesario según la ley y no se prestare oralmente ante el oficial del Registro Civil.

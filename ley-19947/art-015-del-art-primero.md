@@ -1,0 +1,1 @@
+Artículo 15.- Inmediatamente después de rendida la información y dentro de los noventa días siguientes, deberá procederse a la celebración del matrimonio. Transcurrido dicho plazo sin que el matrimonio se haya efectuado, habrá que repetir las formalidades prescritas en los artículos precedentes.

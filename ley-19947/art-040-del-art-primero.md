@@ -1,0 +1,1 @@
+Artículo 40.- La reanudación de la vida en común, luego de la separación judicial, no revive la sociedad conyugal ni la participación en los gananciales, pero los cónyuges podrán pactar este último régimen en conformidad con el artículo 1723 del Código Civil.

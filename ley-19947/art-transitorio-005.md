@@ -1,0 +1,1 @@
+Artículo 5º.- La prosecución de los juicios a que se refieren los artículos 3º y 4º precedentes no impedirá que, una vez terminados por sentencia ejecutoriada, puedan ejercerse las acciones previstas en esta ley, sin perjuicio de la excepción de cosa juzgada que, en este caso, pudiere corresponder.

@@ -1,0 +1,2 @@
+Artículo 2º.- La facultad de contraer matrimonio es un derecho esencial inherente a la persona humana, si se tiene edad para ello. Las disposiciones de esta ley establecen los requisitos para asegurar el libre y pleno consentimiento de los contrayentes.
+El juez tomará, a petición de cualquier persona, todas las providencias que le parezcan convenientes para posibilitar el ejercicio legítimo de este derecho cuando, por acto de un particular o de una autoridad, sea negado o restringido arbitrariamente.

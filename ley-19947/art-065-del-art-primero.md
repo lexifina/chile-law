@@ -1,0 +1,3 @@
+Artículo 65.- En la sentencia, además, el juez determinará la forma de pago de la compensación, para lo cual podrá establecer las siguientes modalidades:
+1.- Entrega de una suma de dinero, acciones u otros bienes. Tratándose de dinero, podrá ser enterado en una o varias cuotas reajustables, respecto de las cuales el juez fijará seguridades para su pago.
+2.- Constitución de derechos de usufructo, uso o habitación, respecto de bienes que sean de propiedad del cónyuge deudor. La constitución de estos derechos no perjudicará a los acreedores que el cónyuge propietario hubiere tenido a la fecha de su constitución, ni aprovechará a los acreedores que el cónyuge beneficiario tuviere en cualquier tiempo.

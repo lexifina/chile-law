@@ -1,0 +1,2 @@
+Artículo 50.- La nulidad produce sus efectos desde la fecha en que queda ejecutoriada la sentencia que la declara, retrotrayéndose las partes al estado en que se encontraban al momento de contraer el vínculo matrimonial, sin perjuicio de lo dispuesto en el presente artículo y en los dos artículos siguientes.
+La sentencia ejecutoriada en que se declare la nulidad de matrimonio, deberá subinscribirse al margen de la respectiva inscripción matrimonial y no será oponible a terceros sino desde que esta subinscripción se verifique.

@@ -1,0 +1,2 @@
+Artículo 19.- El Oficial del Registro Civil levantará acta de todo lo obrado, la que será firmada por él, por los testigos y por los cónyuges, si supieren y pudieren hacerlo. Luego, procederá a hacer la inscripción en los libros del Registro Civil en la forma prescrita en el reglamento.
+Si se trata de matrimonio en artículo de muerte, se especificará en el acta el cónyuge afectado y el peligro que le amenazaba.

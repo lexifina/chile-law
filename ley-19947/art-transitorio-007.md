@@ -1,0 +1,1 @@
+Artículo 7º.- Las incapacidades referidas a los imputados que se establecen en los artículos 7º y 78 de la Ley de Matrimonio Civil se entenderán hechas a los procesados en las causas criminales seguidas por hechos acaecidos con anterioridad a la entrada en vigencia de la reforma procesal penal en la región respectiva.

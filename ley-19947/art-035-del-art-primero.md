@@ -1,0 +1,2 @@
+Artículo 35.- El derecho de los cónyuges a sucederse entre sí no se altera por la separación judicial. Se exceptúa el caso de aquél que hubiere dado lugar a la separación por su culpa, en relación con el cual el juez efectuará en la sentencia la declaración correspondiente, de la que se dejará constancia en la subinscripción.
+Tratándose del derecho de alimentos, regirán las reglas especiales contempladas en el Párrafo V, del Título VI del Libro Primero del Código Civil.
