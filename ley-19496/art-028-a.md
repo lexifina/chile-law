@@ -1,0 +1,1 @@
+Artículo 28 A.- Asimismo, comete infracción a la presente ley el que, a través de cualquier tipo de mensaje publicitario, produce confusión en los consumidores respecto de la identidad de empresas, actividades, productos, nombres, marcas u otros signos distintivos de los competidores.

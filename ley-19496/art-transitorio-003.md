@@ -1,0 +1,1 @@
+Artículo 3º.- Las organizaciones de consumidores existentes a la fecha de entrada en vigencia de la presente ley, serán consideradas asociaciones de consumidores para todos los efectos legales y podrán, en cualquier tiempo, adecuarse al nuevo régimen jurídico según el procedimiento establecido en el artículo 4º transitorio de la ley Nº 19.250.

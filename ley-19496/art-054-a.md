@@ -1,0 +1,5 @@
+Artículo 54 A.- Corresponderá al secretario del tribunal fijar el contenido de los avisos, procurando que su texto sea claro y comprensible para los interesados. Dichos avisos contendrán, a lo menos, las siguientes menciones:
+a) El rol de la causa, el tribunal que la dictó, la fecha de la sentencia y el nombre, profesión u oficio y domicilio del o los infractores y de sus representantes. Se presumirá que conserva esa calidad y su domicilio la persona que compareció como tal en dicho proceso;
+b) Los hechos que originaron la responsabilidad del o los infractores y la forma en que ellos afectaron los derechos de los consumidores;
+c) La identificación del grupo, si está o no dividido en subgrupos y la forma y plazo en que los interesados deberán hacer efectivos sus derechos;
+d) Las instituciones donde los afectados pueden obtener información y orientación, tales como el Servicio Nacional del Consumidor, las oficinas municipales de información al consumidor y las Asociaciones de Consumidores, entre otras.
