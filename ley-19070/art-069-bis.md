@@ -1,0 +1,1 @@
+Artículo 69 bis.- A partir del año 2005 los sostenedores mantendrán un Registro de Asistencia anual e histórico de docentes y directivos, de acuerdo con un reglamento que dictará el Ministerio de Educación.
