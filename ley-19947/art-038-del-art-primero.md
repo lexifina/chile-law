@@ -1,0 +1,1 @@
+Artículo 38.- La reanudación de la vida en común de los cónyuges, con ánimo de permanencia, pone fin al procedimiento destinado a declarar la separación judicial o a la ya decretada, y, en este último caso, restablece el estado civil de casados.
