@@ -4,9 +4,9 @@ Párrafo Primero Superintendencia.
 Párrafo Segundo Disposiciones generales
 Párrafo Tercero De las infracciones
 TITULO II De la clasificación de instrumentos representativos de reservas técnicas y de patrimonio de riesgo
-TITULO III De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y patrimonio de riesgo
-1.- De las sociedades cuyas acciones pueden ser representativas de las reservas técnicas y del patrimonio de riesgo de las compañías del primer grupo.
-2.- De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo.
+TITULO III De los auxiliares del comercio de seguros.
+1.- De los Corredores de Seguros
+2.- De los liquidadores de Siniestros.
 TITULO IV De la regularización de compañías de seguros
 1.- Por déficit de patrimonio.
 2.- Por déficit de inversiones o sobreendeudamiento.
