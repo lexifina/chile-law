@@ -1,0 +1,2 @@
+Artículo 7°.- El primer Reglamento del Personal del Banco a que alude el número 6.- del artículo 18, deberá dictarse dentro del plazo de 90 días contado desde la fecha de publicación de esta ley.
+En el plazo que medie entre la entrada en vigor de esta ley y la dictación del Reglamento aludido en el inciso anterior, regirá, para todos los efectos legales, el Reglamento de Personal que estuviere vigente en dicho período.
