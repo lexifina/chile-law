@@ -1,1 +1,1 @@
-Artículo 5°.- El personal que actualmente cumple funciones en calidad de interino, la conservará durante el plazo de seis meses contado desde la publicación de la presente ley o hasta el término del período de nombramiento, si éste fuere menor.
+Artículo 5°.- El personal que actualmente cumple funciones en calidad de interino, podrá conservar dicha calidad hasta el 31 de diciembre de 1990.
