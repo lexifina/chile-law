@@ -1,0 +1,1 @@
+Artículo 60.- El divorcio pone fin a las obligaciones y derechos de carácter patrimonial cuya titularidad y ejercicio se funda en la existencia del matrimonio, como los derechos sucesorios recíprocos y el derecho de alimentos, sin perjuicio de lo dispuesto en el Párrafo 1 del Capítulo siguiente.

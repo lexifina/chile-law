@@ -1,0 +1,2 @@
+Artículo 18.- En el día de la celebración y delante de los contrayentes y testigos, el Oficial del Registro Civil dará lectura a la información mencionada en el artículo 14 y reiterará la prevención indicada en el artículo 10, inciso segundo.
+A continuación, leerá los artículos 131, 133 y 134 del Código Civil. Preguntará a los contrayentes si consienten en recibirse el uno al otro como marido o mujer y, con la respuesta afirmativa, los declarará casados en nombre de la ley.

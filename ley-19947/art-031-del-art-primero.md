@@ -1,0 +1,3 @@
+Artículo 31.- Al declarar la separación, el juez deberá resolver todas y cada una de las materias que se señalan en el artículo 21, a menos que ya se encontraren reguladas o no procediere la regulación judicial de alguna de ellas, lo que indicará expresamente. Tendrá en especial consideración los criterios de suficiencia señalados en el artículo 27.
+El juez utilizará los mismos criterios al evaluar el acuerdo presentado o alcanzado por los cónyuges, procediendo en la sentencia a subsanar sus deficiencias o modificarlo si fuere incompleto o insuficiente.
+En la sentencia el juez, además, liquidará el régimen matrimonial que hubiere existido entre los cónyuges, si así se le hubiere solicitado y se hubiere rendido la prueba necesaria para tal efecto.

@@ -1,0 +1,1 @@
+Artículo 63.- La compensación económica y su monto y forma de pago, en su caso, serán convenidos por los cónyuges, si fueren mayores de edad, mediante acuerdo que constará en escritura pública o acta de avenimiento, las cuales se someterán a la aprobación del tribunal.

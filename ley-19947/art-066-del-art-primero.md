@@ -1,0 +1,2 @@
+Artículo 66.- Si el deudor no tuviere bienes suficientes para solucionar el monto de la compensación mediante las modalidades a que se refiere el artículo anterior, el juez podrá dividirlo en cuantas cuotas fuere necesario. Para ello, tomará en consideración la capacidad económica del cónyuge deudor y expresará el valor de cada cuota en alguna unidad reajustable.
+La cuota respectiva se considerará alimentos para el efecto de su cumplimiento, a menos que se hubieren ofrecido otras garantías para su efectivo y oportuno pago, lo que se declarará en la sentencia.

@@ -1,0 +1,2 @@
+Artículo 30.- Tratándose de cónyuges casados bajo el régimen de sociedad conyugal, cualquiera de ellos podrá solicitar al tribunal la adopción de las medidas provisorias que estime conducentes para la protección del patrimonio familiar y el bienestar de cada uno de los miembros que la integran.
+Lo dispuesto en el presente artículo se aplicará sin perjuicio del derecho que asiste a las partes de solicitar alimentos o la declaración de bienes familiares, conforme a las reglas generales.

@@ -1,0 +1,1 @@
+Artículo 6º.- Las personas que con anterioridad a la vigencia de la presente ley se hayan divorciado, temporal o perpetuamente, por sentencia ejecutoriada, tendrán el estado civil de separados, y se regirán por lo dispuesto en ella para los separados judicialmente respecto del ejercicio de derechos y demás efectos anexos que tengan lugar después de su entrada en vigencia.

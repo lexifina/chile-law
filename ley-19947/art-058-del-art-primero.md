@@ -1,0 +1,1 @@
+Artículo 58.- El cónyuge menor de edad y el interdicto por disipación son hábiles para ejercer por sí mismos la acción de divorcio, sin perjuicio de su derecho a actuar por intermedio de representantes.

@@ -1,0 +1,4 @@
+Artículo 10.- Al momento de comunicar los interesados su intención de celebrar el matrimonio, el Oficial del Registro Civil deberá proporcionarles información suficiente acerca de las finalidades del matrimonio, de los derechos y deberes recíprocos que produce y de los distintos regímenes patrimoniales del mismo.
+Asimismo, deberá prevenirlos respecto de la necesidad de que el consentimiento sea libre y espontáneo.
+Deberá, además, comunicarles la existencia de cursos de preparación para el matrimonio, si no acreditaren que los han realizado. Los futuros contrayentes podrán eximirse de estos cursos de común acuerdo, declarando que conocen suficientemente los deberes y derechos del estado matrimonial. Este inciso no se aplicará en los casos de matrimonios en artículo de muerte.
+La infracción a los deberes indicados no acarreará la nulidad del matrimonio ni del régimen patrimonial, sin perjuicio de la sanción que corresponda al funcionario en conformidad a la ley.

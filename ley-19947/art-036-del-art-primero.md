@@ -1,0 +1,1 @@
+Artículo 36.- No se alterará la filiación ya determinada ni los deberes y responsabilidades de los padres separados en relación con sus hijos. El juez adoptará todas las medidas que contribuyan a reducir los efectos negativos que pudiera representar para los hijos la separación de sus padres.
