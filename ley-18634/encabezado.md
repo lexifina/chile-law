@@ -1,0 +1,3 @@
+ESTABLECE SISTEMA DE PAGO DIFERIDO DE DERECHOS DE ADUANA, CREDITO FISCAL Y OTROS BENEFICIOS DE CARACTER TRIBUTARIO QUE INDICA
+La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente
+Proyecto de ley
