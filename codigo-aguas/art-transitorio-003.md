@@ -1,0 +1,1 @@
+ARTICULO 3°- Las hipotecas constituidas sobre inmuebles con anterioridad a la vigencia de este código, comprenderán los derechos de aprovechamiento de las aguas destinadas a su uso, cultivo o beneficio, salvo que se hubiese estipulado lo contrario.
