@@ -1,0 +1,5 @@
+Artículo 17 bis D.- El Tribunal funcionará ordinariamente en dos salas y extraordinariamente, en tres. Cada sala deberá ser integrada, a lo menos, por dos miembros titulares. Para la resolución de las causas sometidas a su conocimiento, cada sala deberá sesionar, a lo menos, tres días a la semana.
+El quórum para sesionar en sala será de tres miembros.
+Las resoluciones se adoptarán por simple mayoría, dirimiendo el voto de quien presida, en caso de empate. En lo demás, se seguirán las normas contenidas en el Código Orgánico de Tribunales.
+En casos complejos, el Tribunal podrá ordenar informe pericial, determinando quién debe asumir los costos del mismo, sin perjuicio de lo que en definitiva se resuelva en materia de costas. En los asuntos de que conozca el Tribunal, salvo los relativos a marcas comerciales, si lo solicita alguna de las partes, el Tribunal deberá ordenar el informe de uno o más peritos, caso en el cual éstos participarán en sus deliberaciones, con derecho a voz.
+El Presidente del Tribunal, como asimismo el de cada sala, será elegido por sus respectivos miembros titulares.
