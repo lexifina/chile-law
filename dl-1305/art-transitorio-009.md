@@ -1,0 +1,1 @@
+ARTICULO 9° Los directores del Ministerio que se encuentren actualmente ejerciendo estos cargos, sea en calidad de titulares, subrogantes, interinos o suplentes y que pasen a desempeñarse como Jefes de División, mantendrán, mientras ejerzan esas Jefaturas, las asignaciones que actualmente perciben en razón de ellos.
