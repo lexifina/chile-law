@@ -1,0 +1,5 @@
+Artículo 11.- En caso de cualquier plebiscito previsto en las disposiciones transitorias decimoctava, letra A, y vigesimaprimera, letra d), párrafo segundo, de la Constitución Política, los medios de comunicación a que se refiere el artículo 31, deberán dar expresión, en los términos señalados en dicho artículo, al gobierno, a los partidos políticos legalmente constituidos y a los independientes.
+El tiempo de treinta minutos diarios para propaganda electoral en la televisión de libre recepción se distribuirá en la siguiente forma:
+1) Al gobierno le corresponderán diez minutos, y
+2) A los partidos políticos legalmente constituidos y a los grupos de independientes que se formen con arreglo a lo dispuesto en el artículo siguiente, le corresponderán los veinte minutos restantes. Dentro de este período, a cada uno de ellos le corresponderá igual cantidad de tiempo.
+La distribución del tiempo de propaganda a que se refiere el inciso anterior, será efectuada por el Consejo Nacional de Radio y Televisión.
