@@ -1,0 +1,3 @@
+ARTICULOS TRANSITORIOS {ARTS. 1-17}
+Artículo 1.- Las disposiciones de este Código no alteran las normas y regímenes generales o especiales de carácter previsional. Si embargo, tanto en aquéllas como en éstas regirá plenamente la definición de remuneración contenida en el artículo 41 de este Código.
+Corresponderá a la Superintendencia de Seguridad Social resolver en caso de duda acerca de la calidad de obrero o empleado de un trabajador para los efectos previsionales a que haya lugar mientras esté vigente el contrato, según predomine en su trabajo el esfuerzo físico o el intelectual; y si el contrato hubiere terminado, la materia será de jurisdicción de los tribunales de Justicia.
