@@ -1,0 +1,2 @@
+Artículo 31 bis.- Las Municipalidades podrán autorizar personas naturales o jurídicas para establecer escuelas de la Clase B.
+El Ministerio de Transportes y Telecomunicaciones dictará las normas a que deberán ajustarse dichas escuelas, sus programas de estudios y entrenamiento y, en general, la enseñanza que impartan. Asimismo, determinará las condiciones que deberán reunir sus profesores y los vehículos e implementos que se usen al efecto.
