@@ -1,0 +1,3 @@
+REGULA FONDOS DE INVERSION; MODIFICA DECRETOS CON FUERZA DE LEY N°s. 251 y 252, AMBOS DEL MINISTERIO DE HACIENDA, DE 1931 Y 1960, RESPECTIVAMENTE, Y LA LEY N° 18.045
+La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente
+Proyecto de ley
