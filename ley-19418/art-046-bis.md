@@ -1,0 +1,4 @@
+Artículo 46 bis.- Para constituir una unión comunal se requerirá celebrar una asamblea a la que deberán concurrir representantes de, a lo menos, un treinta por ciento de las juntas de vecinos que existan en la comuna respectiva.
+La convocatoria a la referida asamblea deberá ser efectuada por el alcalde de la comuna, a solicitud de cualesquiera de las juntas de vecinos de dicho ámbito territorial, dentro de los treinta días siguientes a la fecha de la petición.
+Cada junta de vecinos tendrá derecho a ser representada por su presidente, su secretario y su tesorero en la asamblea constitutiva y en las sesiones ordinarias y extraordinarias que celebre la unión comunal.
+La unión comunal deberá proporcionar cédula identificatoria que acredite la calidad de dirigente a los miembros del directorio de las juntas de vecinos que la integran y a los miembros de su propio directorio.
