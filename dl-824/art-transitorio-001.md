@@ -1,0 +1,2 @@
+DISPOSICIONES TRANSITORIAS (Arts 1-17)
+ARTICULO 1° TRANSITORIO.- Para los contribuyentes de la Primera Categoría de la Ley sobre Impuesto a la Renta que practiquen sus balances al 31 de Diciembre de 1974 y que habitualmente negocien con bienes físicos del activo realizable el porcentaje establecido en el número 2° del artículo 35° de la ley citada, según texto vigente a dicha fecha, será, por esta última vez, de 30%.

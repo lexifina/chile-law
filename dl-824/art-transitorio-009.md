@@ -1,0 +1,1 @@
+ARTICULO 9° TRANSITORIO.- Los plazos que se establecen en los artículos 56° y 57° de la Ley sobre Impuesto a la Renta, según texto vigente al 31 de Diciembre de 1974, seguirán corriendo para la reinversión de las ganancias de capital producidas con anterioridad al 1° de Enero de 1975, incluso en el caso de contribuyentes que practiquen sus balances al 30 de Junio de 1975.
