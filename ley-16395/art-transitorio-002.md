@@ -1,0 +1,3 @@
+Artículo 2°.- transitorio.- Las modificaciones de rentas producidas con motivo de la aplicación de la ley N° 15.283, no se considerarán ascensos y, en consecuencia, no afectará al personal lo dispuesto en el artículo 64° del D.F.L. N° 338, de 1960, ni le hará perder el derecho que se establece en los artículos 59° y 60° de dicho texto legal.
+La fijación de remuneraciones hecha de acuerdo con la ley N° 15.283 absorberá las rentas personales de los funcionarios de la Superintendencia, las que desaparecerán, sin perjuicio de su derecho a percibir el sueldo del grado superior, con arreglo a los artículos 59° y 60° del D.F.L. N° 338, de 1960.
+En ningún caso, la aplicación de dicha ley podrá significar disminución de remuneraciones para el personal en actual servicio.
