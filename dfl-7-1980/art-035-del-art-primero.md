@@ -1,1 +1,1 @@
-Artículo 35°- Dentro de las remuneraciones asignadas a los cargos se entenderán incluidas todas las asignaciones, con excepción de aquellas que expresamente se mencionen en el decreto con fuerza de ley que fije las plantas y remuneraciones del Servicio.
+Artículo 35°.- Dentro de las remuneraciones asignadas a los cargos se entenderán incluidas todas las asignaciones, con excepción de aquellas que expresamente se mencionen en el decreto con fuerza de ley que fije las plantas y remuneraciones del Servicio.
