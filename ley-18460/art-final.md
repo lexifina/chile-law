@@ -1,0 +1,2 @@
+ARTICULO FINAL El artículo 84 de la Constitución Política entrará en vigencia con la publicación de la Ley Orgánica Constitucional de los Partidos Políticos, debiendo el Tribunal Calificador de Elecciones constituirse dentro de décimo día.
+No obstante, para los efectos de la calificación de la primera elección de Senadores y Diputados, el artículo 84 de la Constitución Política entrará en vigencia, en lo pertinente, sesenta días antes de la fecha en que debe realizarse su convocatoria.

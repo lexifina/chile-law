@@ -1,1 +1,1 @@
-Artículo 1°.- Mientras no se designe por el Tribunal al Secretario relator, actuará como tal el Secretario de la Corte Suprema, ante quien, además, se prestará el juramento o promesa establecido en el artículo 2° de esta ley.
+Artículos Transitorios (ARTS. 1-3) ARTICULO 1° Mientras no se designe por el Tribunal al Secretario relator, actuará como tal el Secretario de la Corte Suprema, ante quien, además, se prestará el juramento o promesa establecido en el artículo 2° de esta ley.
