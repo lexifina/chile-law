@@ -1,0 +1,2 @@
+Artículo 10.- Las investigaciones y sumarios administrativos en tramitación a la fecha de entrada en vigencia de este Estatuto, se ceñirán a las normas de procedimiento contenidas en la legislación vigente al momento de su inicio, pero en lo relativo a las sanciones aplicables se ajustarán a lo dispuesto en el presente Estatuto.
+Las sanciones administrativas de suspensión del empleo y traslado, aplicadas con anterioridad a la vigencia del presente Estatuto, producirán respecto del ascenso igual efecto que la medida disciplinaria de multa prevista en el artículo 116 letra b).
