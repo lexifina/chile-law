@@ -1,0 +1,1 @@
+Artículo 15°- Las casas de emergencia y los materiales para construirlas que las personas naturales o jurídicas de derecho público o privado hayan entregado a los damnificados, se entenderán cedidos a sus actuales ocupantes y sin relación al dominio del inmueble en que se hayan edificado las casas u ocupado los materiales.

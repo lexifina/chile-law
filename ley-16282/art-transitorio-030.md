@@ -1,0 +1,1 @@
+Artículo 30°- En la zona a que se refiere el artículo 1° transitorio de esta ley, y por el plazo de un año, no será obligatorio lo establecido en el inciso tercero del artículo 2° del D.F.L. N° 285, de 1953, cuyo texto refundido fue fijado por el decreto supremo N° 1.100 del Ministerio de Obras Públicas, de 3 de Junio de 1960.

@@ -1,0 +1,3 @@
+Artículo 63°- El plazo para reclamar de los nuevos avalúos de los bienes raíces, fijados en la retasación general ordenada por la ley N° 15.021, será de 60 días contado desde el 1° de Agosto de 1965.
+Durante dicho plazo, el Servicio de Impuestos Internos proporcionará a los propietarios o sus representantes todos los detalles y antecedentes necesarios para que los interesados conozcan la tasación completa de sus predios y puedan estudiar si legalmente existen causales de reclamación.
+El Servicio de Impuestos Internos deberá usar todos los medios informativos a su alcance para divulgar los nuevos avalúos y los medios y plazos para reclamar de ellos.

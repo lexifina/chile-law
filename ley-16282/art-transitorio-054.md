@@ -1,0 +1,2 @@
+Artículo 54°- Agrégase a la letra a) del artículo 4° del Título I de las Disposiciones Transitorias de la ley N° 12.650, el siguiente inciso:
+"Aclárase que, respecto de las personas que se encuentren afectas a este impuesto, la escala establecida en el artículo 1° de este Título se aplicará sobre la renta presunta correspondiente a la totalidad de su capital líquido, sin considerar la exención del inciso anterior."

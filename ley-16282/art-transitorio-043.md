@@ -1,0 +1,1 @@
+Artículo 43°- Las Municipalidades de la zona a que se refieren los artículos 1° y 2° transitorios, podrán modificar sus presupuestos dentro del plazo de 90 días, contado desde la publicación de la presente ley, para contemplar inversiones o gastos que deban efectuar con ocasión de los sismos.

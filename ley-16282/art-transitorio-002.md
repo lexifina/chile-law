@@ -1,0 +1,1 @@
+Artículo 2°- Para los efectos de lo dispuesto en los artículos 5° y 20° permanentes y 6°, 7°, 8°, 10°, 11°, 12°, 14°, 15°, 17° inciso primero, 18°, 21°, 23°, 24°, 25°, 27°, 28°, 32°, 36°, 37°, 38°, 40° y 43° transitorios de esta ley, se declara también zona afectada por el sismo, las demás comunas de la provincia de Santiago.
