@@ -1,0 +1,1 @@
+Artículo segundo.- Los recursos que hubieren sido asignados en la Ley de Presupuestos del presente año a las instituciones singularizadas en el artículo 1º, y que no hubieren sido utilizados por éstas antes de la vigencia de esta ley, se radicarán en el presupuesto de cada una de ellas.
