@@ -1,0 +1,1 @@
+Artículo 19.- No obstante lo dispuesto en el artículo 70, estarán exceptuados del límite del inciso primero de dicho artículo, los funcionarios que estaban en comisión de servicios, para realizar estudios, al 23 de septiembre de 1989.

@@ -1,0 +1,1 @@
+Artículo 21.- El tope máximo a que se refiere el inciso cuarto del artículo 9° permanente será el de sus respectivos escalafones en los órganos o servicios que no hayan efectuado la adecuación dispuesta en el artículo 1° transitorio.
