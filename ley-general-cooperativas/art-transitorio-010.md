@@ -1,1 +1,1 @@
-ARTICULO 10.- Las entidades que a la fecha de entrada en vigencia de esta ley tengan el carácter de uniones de cooperativas, se tendrán por el solo ministerio de la ley por federaciones, siempre que cumplan con los requisitos establecidos en la presente ley.
+Artículo 10.- Las entidades que al 4 de mayo del 2003 tengan el carácter de uniones de cooperativas, se tendrán por el solo ministerio de la ley por federaciones, siempre que cumplan con los requisitos establecidos en la presente ley.

@@ -1,1 +1,1 @@
-ARTICULO 4º.- Las cooperativas abiertas de vivienda y las de ahorro y crédito actualmente existentes deberán enterar el patrimonio exigido en el plazo de un año contado desde la fecha de publicación de la presente ley en el Diario Oficial.
+Artículo 4º.- Las cooperativas abiertas de vivienda y las de ahorro y crédito actualmente existentes deberán enterar el patrimonio exigido en el plazo de un año contado desde el 4 de noviembre del 2002.
