@@ -1,1 +1,1 @@
-Artículo 1°- Los terrenos de aptitud preferentemente forestal se someterán, en cuanto a su régimen legal, a las disposiciones del presente decreto ley y demás normas que lo contemplen.
+Artículo 1º.- Esta ley tiene por objeto regular la actividad forestal en suelos de aptitud preferentemente forestal y en suelos degradados e incentivar la forestación, en especial, por parte de los pequeños propietarios forestales y aquélla necesaria para la prevención de la degradación, protección y recuperación de los suelos del territorio nacional.

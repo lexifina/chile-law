@@ -1,0 +1,3 @@
+Artículo 35.- El que con el propósito de acogerse a la bonificación establecida en esta ley proporcione antecedentes falsos o adulterados, será sancionado con presidio menor en su grado mínimo a máximo.
+Si el infractor hubiese percibido la bonificación, se le aplicará además una multa que será equivalente al triple de la cantidad de dinero percibida indebidamente por tal concepto, reajustada según la variación que experimente el Indice de Precios al Consumidor o el sistema que lo reemplace.
+Será competente para conocer de estas sanciones el Juez de Letras que corresponda según las normas generales.
