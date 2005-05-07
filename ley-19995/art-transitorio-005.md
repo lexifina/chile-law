@@ -1,0 +1,4 @@
+Artículo 5°.- El Presidente de la República nombrará al Superintendente de Casinos de Juego dentro de los treinta días siguientes de publicada la presente ley, quien asumirá de inmediato sus funciones.
+El Superintendente, dentro del plazo de sesenta días contado desde su nombramiento, procederá a proveer los cargos de la planta del Servicio, conforme a lo dispuesto en el inciso siguiente.
+La primera provisión de todos los cargos de la planta fijada en el artículo 41, a excepción de los cargos de exclusiva confianza, se hará por concurso público de oposición y antecedentes. Estos concursos se regularán, en lo que sea pertinente, por las normas del Párrafo I del Título II de la ley N° 18.834.
+Fíjase en 30 la dotación máxima de personal autorizada para la Superintendencia de Casinos de Juego. Al efecto, no regirá la limitación señalada en el inciso segundo del artículo 9° de la ley N° 18.834, respecto de los empleos a contrata incluidos en dicha dotación.
