@@ -1,0 +1,1 @@
+Artículo 1°.- Las disposiciones de la presente ley comenzarán a regir a contar del centésimo vigésimo día posterior a su publicación, con las excepciones y modalidades que se establecen en los artículos siguientes.
