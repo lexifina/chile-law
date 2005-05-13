@@ -1,1 +1,1 @@
-Artículo 14 C.- Constituye circunstancia eximente de responsabilidad penal por posesión o tenencia ilegal de las armas prohibidas, la entrega de ellas por su poseedor o tenedor a la autoridad competente, antes de que se inicie procedimiento en su contra.
+Artículo 14 C.- En los delitos previstos en los artículos 9º y 13º, constituye circunstancia eximente la entrega voluntaria de las armas o elementos a las autoridades señaladas en el artículo 1º, sin que haya mediado actuación policial, judicial o del Ministerio Público de ninguna especie.
