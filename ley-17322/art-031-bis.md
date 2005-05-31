@@ -1,0 +1,1 @@
+ARTICULO 31° BIS La prescripción que extingue las acciones para el cobro de las cotizaciones de seguridad social, multas, reajustes e intereses, será de cinco años y se contará desde el término de los respectivos servicios.
