@@ -1,2 +1,0 @@
-Artículo 168 bis.- La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado mínimo a medio y multa de hasta cinco veces el valor aduanero de las mercancías.
-Con la misma pena señalada en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
