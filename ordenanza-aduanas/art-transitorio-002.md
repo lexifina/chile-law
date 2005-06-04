@@ -1,1 +1,1 @@
-Artículo 2º. Los Agentes de Cabotaje y Exportación designados al 11 de noviembre de 1974, continuarán desempeñando sus funciones hasta la extinción legal de sus nombramientos, y les serán aplicables, en lo que corresponda, todas las disposiciones relativas a los Agentes de Aduana.
+Artículo 2°.- Los Agentes de Cabotaje y Exportación designados al 11 de noviembre de 1974, continuarán desempeñando sus funciones hasta la extinción legal de sus nombramientos, y les serán aplicables, en lo que corresponda, todas las disposiciones relativas a los Agentes de Aduana.
