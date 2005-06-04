@@ -1,1 +1,1 @@
-Artículo 4º. Mientras tengan tal carácter los recintos de depósito aduanero fiscal y de la Empresa Portuaria de Chile existentes al 5 de diciembre de 1981, seguir n rigiéndose por las normas legales y reglamentarias que regulan su existencia y funcionamiento.
+Artículo 4°.- Mientras tengan tal carácter los recintos de depósito aduanero fiscal y de la Empresa Portuaria de Chile existentes al 5 de diciembre de 1981, seguirán rigiéndose por las normas legales y reglamentarias que regulan su existencia y funcionamiento.
