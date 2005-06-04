@@ -1,3 +1,5 @@
-FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA ORDENANZA DE ADUANAS
-No. 2.- Santiago, 12 de noviembre de 1997.- Vistos: lo dispuesto en el decreto con fuerza de ley No. 30, de Hacienda, de 1982, que fijó el texto refundido del decreto con fuerza de ley No. 213, de 1953, sobre Ordenanza de Aduanas; lo establecido en el artículo 15 de la ley No. 19.479, y las facultades que me confiere el artículo 32, No. 3, de la Constitución Política de la República de Chile, dicto el siguiente:
-Decreto con fuerza de ley :
+APRUEBA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO CON FUERZA DE LEY DE HACIENDA Nº 213, DE 1953, SOBRE ORDENANZA DE ADUANAS
+D.F.L. Núm. 30.- Santiago, 18 de octubre de 2004.- Vistos: Lo dispuesto en el artículo transitorio de la ley Nº 19.912 y las facultades que me confiere el artículo 32, Nº 3 de la Constitución Política de la República de Chile, dicto el siguiente,
+Decreto con fuerza de ley
+Apruébase el siguiente texto refundido, coordinado y sistematizado del decreto con fuerza de ley del Ministerio de Hacienda Nº 213 de 1953, sobre Ordenanza de Aduanas:
+ORDENANZA DE ADUANAS
