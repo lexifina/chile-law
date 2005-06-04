@@ -1,1 +1,0 @@
-Artículo 175 bis.- La Aduana podrá eximir del pago de la multa, considerando las circunstancias que concurran en cada caso, a quien incurriere en una contravención aduanera, pero pusiere este hecho en su conocimiento antes de cualquier fiscalización o requerimiento por parte de ella y pagare los derechos aduaneros correspondientes.
