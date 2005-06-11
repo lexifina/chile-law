@@ -1,0 +1,1 @@
+Artículo segundo.- Los titulares de cuentas de ahorro a plazo para educación superior a que se refiere el artículo 5º de la ley Nº 19.287, que con anterioridad a la fecha de publicación de la presente ley mantengan recursos en estas cuentas, podrán acceder a sus beneficios, siempre que cumplan con los requisitos que ésta establece.

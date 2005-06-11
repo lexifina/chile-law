@@ -1,0 +1,1 @@
+Artículo cuarto.- Durante los tres primeros años de funcionamiento de la Comisión, los gastos de operación de la misma podrán ser financiados con recursos provenientes de fuentes distintas al aporte de las instituciones de educación superior a que se refiere el artículo 25.".
