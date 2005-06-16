@@ -1,0 +1,2 @@
+ARTICULO 129 bis 10°- Serán aplicables a las resoluciones de la Dirección General de Aguas, dictadas en conformidad con lo dispuesto en el presente Título, los recursos contemplados en los artículos 136 y 137 de este Código.
+La interposición del recurso de reclamación señalado en el artículo 137, no suspenderá el pago de la patente, salvo que la Corte de Apelaciones respectiva ordene dicha medida.
