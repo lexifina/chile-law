@@ -1,0 +1,1 @@
+ARTICULO 129 bis 17°- Los demás procedimientos relativos al remate, al acta correspondiente, a la escritura de adjudicación y a su inscripción, se regirán por las disposiciones del Código de Procedimiento Civil relativas a la subasta de bienes inmuebles embargados.
