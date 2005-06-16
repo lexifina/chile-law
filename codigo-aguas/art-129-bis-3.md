@@ -1,0 +1,1 @@
+ARTICULO 129 bis 3°- La Dirección General de Aguas deberá establecer una red de estaciones de control de calidad, cantidad y niveles de las aguas tanto superficiales como subterráneas en cada cuenca u hoya hidrográfica. La información que se obtenga deberá ser pública y deberá proporcionarse a quien la solicite.
