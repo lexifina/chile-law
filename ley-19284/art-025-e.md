@@ -1,0 +1,2 @@
+Artículo 25-E.- Corresponderá al dueño del perro de asistencia, o a quien se sirva de él, adoptar las medidas necesarias para asegurar una sana convivencia y evitar disturbios o molestias a las demás personas.
+Las personas con discapacidad no podrán ejercer los derechos establecidos en este párrafo cuando el perro de asistencia presente signos de enfermedad, agresividad y, en general, cuando el animal se constituya en un evidente riesgo para las personas.
