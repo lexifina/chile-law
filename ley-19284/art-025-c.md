@@ -1,0 +1,2 @@
+Artículo 25-C.- Para los efectos previstos en esta ley, se entenderá por "perro de asistencia" aquel que fuere individualmente entrenado para realizar labores en beneficio de una persona con discapacidad.
+Los perros de asistencia podrán ser entrenados para realizar labores de perros guía, de señal, de servicio o de otro tipo, en conformidad con las características y condiciones que fije el reglamento.

@@ -1,0 +1,1 @@
+Artículo 49-A.- El que causare herida, trauma o muerte injustificada a un perro de asistencia, será obligado al pago de las cuentas veterinarias y de los costos de reemplazo del perro a su dueño, si aquél no pudiere seguir ejerciendo sus labores o fuere muerto, sin perjuicio de la responsabilidad civil indemnizatoria correspondiente.
