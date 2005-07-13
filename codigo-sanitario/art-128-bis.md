@@ -1,0 +1,2 @@
+Artículo 128 bis.- Autorízase la fabricación, venta y entrega, sin receta médica, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia en personas mayores de cuarenta años.
+La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
