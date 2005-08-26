@@ -1,0 +1,1 @@
+Cuadragésimaoctava. No obstante, la modificación al artículo 16 Nº 2 de esta Constitución, también se suspenderá el derecho de sufragio de las personas procesadas por hechos anteriores al 16 de junio de 2005, por delitos que merezcan pena aflictiva o por delito que la ley califique como conducta terrorista.
