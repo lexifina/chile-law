@@ -1,2 +1,1 @@
-VIGESIMA.- En caso de duda acerca de si la imposibilidad que priva al Presidente de la República del ejercicio de sus funciones es de tal naturaleza que deba hacerse su reemplazo, corresponderá a los miembros titulares de la Junta de Gobierno resolver la duda planteada.
-Si la duda se refiere a la imposibilidad que priva a un miembro de la Junta de Gobierno del ejercicio de sus funciones y es de igual naturaleza que la referida en el inciso anterior, corresponderá a los demás miembros titulares de la Junta de Gobierno resolver la cuestión planteada.
+VIGESIMA.- DEROGADA

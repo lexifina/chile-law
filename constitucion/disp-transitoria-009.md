@@ -1,1 +1,1 @@
-NOVENA.- Los miembros del Tribunal Constitucional a que se refiere el artículo 81, deberán ser designados con diez días de anticipación, a lo menos, a la fecha en que comience el primer período presidencial. Para este solo efecto, el Consejo de Seguridad Nacional se constituirá con treinta días de anterioridad a la fecha en que comience a regir esta Constitución.
+NOVENA.- DEROGADA
