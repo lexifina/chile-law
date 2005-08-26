@@ -1,1 +1,1 @@
-CUARTA.- La primera vez que se constituya el Tribunal Constitucional, los Ministros de la Corte Suprema a que se refiere la letra a) del artículo 81, que hayan sido elegidos en la segunda y tercera votación, y el abogado designado por el Presidente de la República a que se refiere la letra b) de dicho artículo, durarán cuatro años en sus cargos y los restantes, ocho años.
+CUARTA.- DEROGADA

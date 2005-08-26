@@ -1,3 +1,1 @@
-Artículo final.- La presente Constitución entrará en vigencia seis meses después de ser aprobada mediante plebiscito, con excepción de las disposiciones transitorias novena y vigésimatercera que tendrán vigor desde la fecha de esa aprobación. Su texto oficial será el que consta en este decreto ley.
-Un decreto ley determinará la oportunidad en la cual se efectuará el señalado plebiscito, así como las normas a que él se sujetará, debiendo establecer las reglas que aseguren el sufragio personal, igualitario y secreto y, para los nacionales, obligatorio.
-La norma contenida en el inciso anterior entrará en vigencia desde la fecha de publicación del presente texto constitucional.
+Artículo final.- DEROGADO

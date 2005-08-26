@@ -1,1 +1,1 @@
-Trigésimasegunda.- Mientras no se proceda a la instalación de los gobiernos regionales que se establecen en esta Constitución, los intendentes y los consejos regionales de desarrollo mantendrán su actual composición y atribuciones, de conformidad a la legislación vigente.
+TRIGÉSIMASEGUNDA.- DEROGADA

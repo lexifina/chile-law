@@ -1,0 +1,1 @@
+Cuadragesimaséptima. Las modificaciones dispuestas en el artículo 54, Nº 2, comenzarán a regir después de la próxima elección general de parlamentarios.

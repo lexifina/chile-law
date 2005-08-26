@@ -1,1 +1,1 @@
-Trigésimacuarta.- No obstante lo dispuesto en el inciso segundo del artículo 54, para las elecciones de diputados y senadores que corresponda realizar en 1993, no podrán ser candidatos los ciudadanos que resulten elegidos alcaldes, miembros de los consejos regionales o concejales en las elecciones que se celebren en 1992.
+TRIGÉSIMACUARTA.- DEROGADA
