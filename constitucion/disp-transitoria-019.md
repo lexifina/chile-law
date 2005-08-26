@@ -1,3 +1,1 @@
-DECIMONOVENA.- Los miembros de la Junta de Gobierno tendrán iniciativa de ley, en todas aquellas materias que constitucionalmente no sean de iniciativa exclusiva del Presidente de la República.
-La Junta de Gobierno ejercerá mediante leyes las Potestades Constituyente y Legislativa. Estas leyes llevarán la firma de los miembros de la Junta de Gobierno y del Presidente de la República en señal de promulgación.
-Una ley complementaria establecerá los órganos de trabajo y los procedimientos de que se valdrá la Junta de Gobierno, para ejercer las aludidas Potestades Constituyente y Legislativa. Estas normas complementarias establecerán, además, los mecanismos que permitan a la Junta de Gobierno requerir la colaboración de la comunidad para la elaboración de las leyes.
+DECIMONOVENA.- DEROGADA

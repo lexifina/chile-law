@@ -1,3 +1,1 @@
-VIGESIMASEGUNDA.- Para los efectos de lo prescrito en el inciso tercero del artículo 82 de la Constitución, la Junta de Gobierno deberá remitir al Tribunal Constitucional el proyecto a que dicho precepto se refiere, antes de su promulgación por el Presidente de la República.
-Sin perjuicio de la facultad que se confiere al Presidente de la República en los incisos cuarto y séptimo del artículo 82, corresponderá también a la Junta de Gobierno en pleno formular el requerimiento a que aluden esas normas.
-En el caso de los incisos decimoprimero y decimosexto del artículo señalado en el inciso anterior, corresponderá, asimismo, a la Junta de Gobierno en pleno formular el requerimiento respectivo.
+VIGESIMASEGUNDA.- DEROGADA
