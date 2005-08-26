@@ -1,1 +1,1 @@
-DECIMOPRIMERA.- El artículo 84 de la Constitución relativo al Tribunal Calificador de Elecciones, comenzará a regir en la fecha que corresponda de acuerdo con la ley respectiva, con ocasión de la primera elección de senadores y diputados, y sus miembros deberán estar designados con treinta días de anticipación a esa fecha.
+DECIMOPRIMERA.- DEROGADA

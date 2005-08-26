@@ -1,1 +1,1 @@
-DECIMOSEGUNDA.- Mientras no proceda constituir el Tribunal Calificador de Elecciones, la designación de los miembros de los tribunales electorales regionales, cuyo nombramiento le corresponde, será hecho por la Corte de Apelaciones respectiva.
+DECIMOSEGUNDA.- DEROGADA

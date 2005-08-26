@@ -1,1 +1,1 @@
-Cuadragésima.- Lo dispuesto en el párrafo final del número 12.º del artículo 19 regirá al momento de entrar en vigencia la ley sobre calificación cinematográfica que se dicte en reemplazo del decreto ley Nº 679, de 1974.
+CUADRAGÉSIMA.- DEROGADA

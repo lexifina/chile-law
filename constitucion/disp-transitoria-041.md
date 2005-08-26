@@ -1,0 +1,1 @@
+Cuadragésimaprimera. El mandato del Presidente de la República en ejercicio será de seis años, no pudiendo ser reelegido para el período siguiente.
