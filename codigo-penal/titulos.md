@@ -51,7 +51,7 @@ TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBL
 § XII. Abusos contra particulares.
 § XIII. Disposición general.
 TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
-§ I. Atentados Y desacatos contra la autoridad.
+§ I. Atentados contra la autoridad.
 § II. Desórdenes públicos.
 § II bis. De la obstrucción a la justicia.
 § III. De la rotura de sellos.
