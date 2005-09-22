@@ -1,1 +1,0 @@
-Cuadragésimaquinta. Las reformas introducidas al Capítulo VII entran en vigor seis meses después de la publicación de la presente reforma constitucional con la excepción de lo regulado en la Disposición Cuadragésimatercera.
