@@ -1,1 +1,1 @@
-SEPTIMA.- Sin perjuicio de lo dispuesto en el inciso tercero del número 20º. del artículo 19, mantendrán su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.
+SEPTIMA.- El indulto particular será siempre procedente respecto de los delitos a que se refiere el artículo 9º cometidos antes del 11 de marzo de 1990. Una copia del Decreto respectivo se remitirá, en carácter reservado, al Senado.
