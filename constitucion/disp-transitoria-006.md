@@ -1,1 +1,1 @@
-SEXTA.- No obstante lo dispuesto en el número 8º. del artículo 32, mantendrán su vigencia los preceptos legales que a la fecha de promulgación de esta Constitución hubieren reglado materias no comprendidas en el artículo 60, mientras ellas no sean expresamente derogadas por ley.
+SEXTA.- Sin perjuicio de lo dispuesto en el inciso tercero del número 20º del artículo 19, mantendrán su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.

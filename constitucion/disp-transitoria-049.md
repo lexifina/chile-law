@@ -1,1 +1,0 @@
-Cuadragésimanovena. En tanto no se creen los tribunales especiales a que alude el párrafo cuarto del número 16° del Artículo 19, las reclamaciones motivadas por la conducta ética de los profesionales que no pertenezcan a colegios profesionales, serán conocidas por los tribunales ordinarios.
