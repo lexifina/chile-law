@@ -1,1 +1,0 @@
-Trigesimaoctava.- Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas a la modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.
