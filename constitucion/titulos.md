@@ -1,12 +1,12 @@
-CAPITULO I Bases de la Institucionalidad
-CAPITULO II Nacionalidad y ciudadanía
-CAPITULO III De los Derechos y Deberes Constitucionales
-CAPITULO IV Gobierno
+Capítulo I BASES DE LA INSTITUCIONALIDAD
+Capítulo II NACIONALIDAD Y CIUDADANIA
+Capítulo III DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
+Capítulo IV GOBIERNO
 Presidente de la República
 Ministros de Estado
 Bases generales de la Administración del Estado
 Estados de excepción constitucional
-CAPITULO V Congreso Nacional
+Capítulo V CONGRESO NACIONAL
 Composición y generación de la Cámara de Diputados y del Senado
 Atribuciones exclusivas de la Cámara de Diputados
 Atribuciones exclusivas del Senado
@@ -15,18 +15,18 @@ Funcionamiento del Congreso
 Normas comunes para los diputados y senadores
 Materias de Ley
 Formación de la ley
-CAPITULO VI Poder Judicial
-Capítulo VI-A MINISTERIO PUBLICO
-CAPITULO VII Tribunal Constitucional
-CAPITULO VIII Justicia Electoral
-CAPITULO IX Contraloría General de la República
-CAPITULO X Fuerzas Armadas, de Orden y Seguridad Pública
-CAPITULO XI Consejo de Seguridad Nacional
-CAPITULO XII Banco Central
-CAPITULO XIII Gobierno y Administración Interior del Estado
+Capítulo VI PODER JUDICIAL
+Capítulo VII MINISTERIO PÚBLICO
+Capítulo VIII TRIBUNAL CONSTITUCIONAL
+Capítulo IX JUSTICIA ELECTORAL
+Capítulo X CONTRALORÍA GENERAL DE LA REPÚBLICA
+Capítulo XI FUERZAS ARMADAS, DE ORDEN Y SEGURIDAD PÚBLICA
+Capítulo XII CONSEJO DE SEGURIDAD NACIONAL
+Capítulo XIII BANCO CENTRAL
+Capítulo XIV GOBIERNO Y ADMINISTRACIÓN INTERIOR DEL ESTADO
 Gobierno y Administración Regional
 Gobierno y Administración Provincial
 Administración Comunal
 Disposiciones Generales
-CAPITULO XIV Reforma de la Constitución
+Capítulo XV REFORMA DE LA CONSTITUCIÓN
 DISPOSICIONES TRANSITORIAS

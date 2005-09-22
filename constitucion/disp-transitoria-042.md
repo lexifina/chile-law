@@ -1,3 +1,0 @@
-Cuadragésimasegunda. El Senado estará integrado únicamente por senadores electos en conformidad con el artículo 45 de la Constitución Política de la República y la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios actualmente vigentes.
-Las modificaciones a la referida Ley Orgánica sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores, las circunscripciones existentes y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
-Los senadores en actual ejercicio incorporados o designados en conformidad a las letras a), b), c), d), e) y f) del artículo 45 que se derogan, continuarán desempeñando sus funciones hasta el 10 de marzo de 2006.
