@@ -1,1 +1,0 @@
-Trigésimaprimera.- El indulto particular será siempre procedente respecto de los delitos a que se refiere el artículo 9º cometidos antes del 11 de Marzo de 1990. Una copia del Decreto respectivo se remitirá, en carácter reservado, al Senado.
