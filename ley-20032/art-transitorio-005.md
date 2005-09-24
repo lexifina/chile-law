@@ -1,0 +1,1 @@
+Artículo 5º.- El mayor gasto que signifique la aplicación de esta ley durante el año 2005 se financiará con reasignaciones del Presupuesto del SENAME de dicho año y, en lo que no alcance, con cargo a la partida del Tesoro Público de la Ley de Presupuestos para el Sector Público del año 2005.".
