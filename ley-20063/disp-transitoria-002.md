@@ -1,0 +1,1 @@
+Artículo segundo.- Los valores de "n" (precios históricos) y "m" (precios futuros) referidos en el artículo 2° de la presente ley, durante su primer mes de vigencia corresponderán a 26 semanas y 0 meses respectivamente.
