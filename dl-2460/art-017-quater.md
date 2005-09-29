@@ -1,0 +1,1 @@
+Artículo 17 quáter.- El que amenazare en los términos de los artículos 296 y 297 del Código Penal a uno de los integrantes de la Policía de Investigaciones de Chile con conocimiento de su calidad de miembro de esa Institución, unidades o reparticiones, sufrirá la pena de presidio menor en su grado mínimo a medio.
