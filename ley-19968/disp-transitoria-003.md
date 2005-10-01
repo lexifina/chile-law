@@ -1,0 +1,1 @@
+Artículo tercero.- La alusión al centro residencial contenida en el artículo 71, letra c), se entenderá que corresponde al Centro de Tránsito y Distribución, mientras se mantengan en funcionamiento dichos centros, conforme a lo dispuesto por el artículo 51 de la ley Nº 16.618.
