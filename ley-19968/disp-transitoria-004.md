@@ -1,0 +1,1 @@
+Artículo cuarto.- El Presidente de la República, dentro del plazo de 90 días, contado desde la publicación de esta ley, y mediante decreto supremo expedido a través del Ministerio de Justicia, el que también será suscrito por el Ministro de Hacienda, establecerá las normas reglamentarias necesarias para la ejecución de esta ley.
