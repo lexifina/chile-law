@@ -1,0 +1,1 @@
+Artículo noveno.- Tratándose de los postulantes en los concursos para los cargos vacantes del Escalafón Secundario y de Empleados del Poder Judicial, la Corporación Administrativa del Poder Judicial procederá a efectuar las pruebas de selección de personal que, según las políticas definidas por el Consejo, corresponda aplicar.
