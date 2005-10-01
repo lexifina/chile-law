@@ -1,0 +1,1 @@
+Artículo segundo.- Las causas de competencia de los juzgados de familia que, a la fecha de entrada en vigencia de esta ley, se encontraren radicadas en juzgados con competencia en lo civil, continuarán radicadas en éstos y se sustanciarán conforme a las normas procesales vigentes a la fecha de inicio de las mismas, hasta la sentencia de término.
