@@ -12,4 +12,5 @@ TITULO IV Disposición de Bienes del Estado.
 Párrafo I. De las ventas
 Párrafo II De las transferencias gratuitas.
 TITULO V De las Derogaciones
+Título VI Del Registro de Contratistas y contratación de acciones de apoyo
 Disposiciones Transitorias
