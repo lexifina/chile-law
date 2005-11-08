@@ -1,0 +1,1 @@
+Artículo 2º.- La primera provisión de los cargos que en virtud de la Ley Nº 20.035, se crean en la Planta de Profesionales se hará por concurso público, según lo dispuesto en el artículo 14 de la Ley Nº 18.834, en el que podrán participar postulantes que no pertenezcan al gobierno regional.
