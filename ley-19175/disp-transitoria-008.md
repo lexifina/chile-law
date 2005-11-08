@@ -1,2 +1,0 @@
-OCTAVA.- El Director del Servicio Electoral certificará, mediante resolución que expedirá al efecto, y previa información que deberán remitirle los secretarios municipales dentro de quinto día de publicado en el Diario Oficial el requerimiento que para tal efecto formule dicho funcionario, el hecho de haberse completado la instalación de todos los Concejos Municipales del país.
-La certificación del Director del Servicio Electoral deberá publicarse en el Diario Oficial.
