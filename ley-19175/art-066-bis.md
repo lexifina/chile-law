@@ -1,3 +1,0 @@
-Artículo 66 bis.- El intendente, para el cumplimiento de las funciones que la presente ley le asigna como ejecutivo del gobierno regional, contará con la siguiente estructura administrativa, que le estará directamente adscrita:
-a) Una división de administración y finanzas, encargada de la gestión administrativa y financiera, de la formulación y ejecución del presupuesto y de la provisión de los servicios generales del gobierno regional, y
-b) Una división de análisis y control de gestión, que colaborará en la elaboración del proyecto de presupuesto en lo relativo a la inversión del gobierno regional y en su seguimiento y control.
