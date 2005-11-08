@@ -1,1 +1,0 @@
-Artículo 49 bis.- Al consejo económico y social provincial le serán aplicables, en lo pertinente, las disposiciones contempladas por los artículos 95 y 96 de la ley N° 18.695, Orgánica Constitucional de Municipalidades, cuyo texto refundido fue fijado por el decreto supremo N° 662, del Ministerio del Interior, de 1992, respecto del consejo económico y social comunal.
