@@ -1,19 +1,21 @@
-"TITULO PRIMERO DEL GOBIERNO DE LA REGION
-CAPITULO I DEL INTENDENTE
-CAPITULO II DEL GOBERNADOR
-CAPITULO III DISPOSICIONES COMUNES A INTENDENTES Y GOBERNADORES
-TITULO SEGUNDO DE LA ADMINISTRACION DE LA REGION
-CAPITULO I NATURALEZA Y OBJETIVOS DEL GOBIERNO REGIONAL
-CAPITULO II FUNCIONES Y ATRIBUCIONES DEL GOBIERNO REGIONAL
-CAPITULO III ORGANOS DEL GOBIERNO REGIONAL
+TITULO PRIMERO DEL GOBIERNO DE LA REGIÓN
+CAPITULO I Del Intendente
+CAPITULO II Del Gobernador
+CAPITULO III Disposiciones Comunes a Intendentes y Gobernadores
+TITULO SEGUNDO DE LA ADMINISTRACIÓN DE LA REGIÓN
+CAPITULO I Naturaleza y Objetivos del Gobierno Regional
+CAPITULO II Funciones y Atribuciones del Gobierno Regional
+CAPITULO III Órganos del Gobierno Regional
 Párrafo 1° Del Intendente
 Párrafo 2° Del Consejo Regional
 Párrafo 3° Del Gobernador
 Párrafo 4° Del Consejo Económico y Social Provincial
-CAPITULO IV DE LA ESTRUCTURA ADMINISTRATIVA DEL GOBIERNO REGIONAL Y DE OTROS ORGANOS DE LA ADMINISTRACION PUBLICA EN LAS REGIONES
-CAPITULO V DEL PATRIMONIO Y DEL SISTEMA PRESUPUESTARIO REGIONALES
-CAPITULO VI DE LA ELECCION DEL CONSEJO REGIONAL
+CAPITULO IV De la Estructura Administrativa del Gobierno Regional y de Otros Órganos de la Administración Pública en las Regiones
+CAPITULO V Del Patrimonio y del Sistema Presupuestario Regionales
+CAPITULO VI De la Elección del Consejo Regional
 Párrafo 1° De los Colegios Electorales Provinciales y de la Votación
-Párrafo 2° De las reclamaciones del acto electoral
+Párrafo 2° De las Reclamaciones del Acto Electoral
+CAPITULO VII Del Asociativismo Regional
 TITULO FINAL
-DISPOSICIONES TRANSITORIAS
+DISPOSICIÓN TRANSITORIA
+ARTÍCULOS TRANSITORIOS DE LA LEY Nº 20.035.-
