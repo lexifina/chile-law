@@ -1,0 +1,1 @@
+Artículo 4°.- Facúltase al Presidente de la República para que, en el plazo de un año contado desde el 1º de julio de 2005, mediante decreto con fuerza de ley del Ministerio del Interior, fije el texto refundido, coordinado, sistematizado y actualizado de la Ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
