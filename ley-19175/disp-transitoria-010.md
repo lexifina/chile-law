@@ -1,1 +1,0 @@
-DECIMA.- Facúltase al Presidente de la República para que, dentro del plazo de sesenta días, a través del Ministerio del Interior, fije el texto refundido, coordinado y sistematizado de la ley sobre Gobierno y Administración Regional.

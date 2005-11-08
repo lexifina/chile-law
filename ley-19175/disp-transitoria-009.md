@@ -1,1 +1,0 @@
-NOVENA.- Para los efectos de la primera constitución de los Consejos Economicos y Sociales Provinciales, la Comisión a que se refiere el artículo 54, se constituirá sesenta días después de la publicación de la presente ley.
