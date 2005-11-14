@@ -1,0 +1,1 @@
+Artículo 395 bis. Preparación del juicio simplificado. Si el imputado no admitiere responsabilidad, el juez procederá, en la misma audiencia, a la preparación del juicio simplificado, el cual tendrá lugar inmediatamente, si ello fuere posible, o a más tardar dentro de quinto día.
