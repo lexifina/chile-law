@@ -34,7 +34,7 @@ TÍTULO CUARTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS
 § IV. De la falsificación de documentos públicos o auténticos.
 § V. De la falsificación de instrumentos privados.
 § VI. De la falsificación de pasaportes, portes de armas y certificados.
-§ VII. Del falso testimonio y del perjurio.
+§ VII. De las falsedades vertidas en el proceso y del perjurio.
 § VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres.
 TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
 § I. Anticipación y prolongación indebida de funciones públicas. Derogado.
@@ -53,7 +53,7 @@ TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBL
 TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
 § I. Atentados contra la autoridad.
 § II. Desórdenes públicos.
-§ II bis. De la obstrucción a la justicia.
+§ II bis. De la obstrucción a la investigación.
 § III. De la rotura de sellos.
 § IV. De los embarazos puestos a la ejecución de los trabajos públicos.
 § V. Crímenes y simples delitos de los proveedores.
