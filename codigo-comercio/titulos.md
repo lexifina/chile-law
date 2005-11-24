@@ -150,3 +150,55 @@ TITULO IX Disposiciones Complementarias
 § 1. De las Protestas
 § 2. De la unidad de cuenta y su conversión y de los intereses
 TITULO X De la Prescripción
+LIBRO IV "De las quiebras"
+TITULO I Disposiciones Generales
+TITULO III De los Síndicos
+1.- De la nómina nacional de síndicos.
+2.- De la designación de síndico y la asunción al cargo.
+3.- De las atribuciones y deberes de los síndicos.
+4.- De la cuenta del síndico y de la cesación en el cargo.
+5.- De la remuneración del síndico.
+6.- De la responsabilidad de los síndicos.
+TITULO IV De la declaración de quiebra
+TITULO V De la fijación de la fecha de la cesación de pagos
+TITULO VI De los efectos de la declaración de quiebra
+1.- Efectos inmediatos.
+2.- Efectos retroactivos de la declaración de quiebra de todo deudor.
+3.- Efectos retroactivos especiales de la declaración de quiebra del deudor que ejerciere una actividad comercial, industrial, minera o agrícola.
+4.- Disposiciones comunes a los dos párrafos precedentes.
+5.- De la reivindicación, resolución y retención.
+TITULO VII De la incautación e inventario
+TITULO VIII De las Juntas de Acreedores
+1.- Disposiciones generales.
+2.- De la primera junta de acreedores.
+3.- De las reuniones ordinarias y extraordinarias y de la continuación efectiva del giro del fallido.
+TITULO IX De la realización del Activo
+TITULO X De la liquidación del pasivo
+1.- De la verificación de créditos.
+2.- De la Graduación de créditos y su pago.
+TITULO XI Del sobreseimiento en los procedimientos de la quiebra
+1.- Del sobreseimiento en general.
+2.- Del sobreseimiento temporal. (ARTS. 158-163)
+3.- Del sobreseimiento definitivo.
+TITULO XII DEL CONVENIO
+1. Del convenio extrajudicial.
+2. Del Convenio Judicial Preventivo
+SECCION PRIMERA DE LAS PROPOSICIONES DEL CONVENIO
+SECCION SEGUNDA DE LA APROBACION DEL CONVENIO
+SECCION TERCERA DE LOS EFECTOS DEL CONVENIO
+SECCION CUARTA DEL INTERVENTOR
+SECCION QUINTA DEL RECHAZO DEL CONVENIO
+SECCION SEXTA DE LA NULIDAD Y RESOLUCION DEL CONVENIO
+TITULO XIII De los delitos relacionados con las quiebras
+1.- De la calificación de la quiebra.
+2.- De los cómplices de quiebra fraudulenta.
+3.- Del procedimiento de calificación.
+4.- De las penas.
+TITULO XIV De la rehabilitación del fallido
+TITULO XV De la cesión de bienes
+1.- De la cesión de bienes en general.
+2.- De la cesión de bienes a un solo acreedor.
+3.- De la cesión de bienes a varios acreedores.
+4.- Disposiciones comunes a los dos párrafos precedentes.
+TITULO FINAL
+Artículos Transitorios
