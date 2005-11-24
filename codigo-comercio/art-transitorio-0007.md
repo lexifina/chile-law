@@ -1,0 +1,1 @@
+ARTICULO 7° Los gastos que importe la aplicación de esta ley durante el año 1982 se dispondrán por decreto del Ministerio de Hacienda con cargo al presupuesto vigente de la Sindicatura Nacional de Quiebras.
