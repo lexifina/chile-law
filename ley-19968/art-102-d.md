@@ -1,0 +1,2 @@
+Artículo 102 D.- El procedimiento podrá iniciarse con el solo mérito del parte policial que dé cuenta de la denuncia interpuesta por un particular o de la falta flagrante en que se haya sorprendido a un adolescente. En ambos casos la policía procederá a citar al adolescente para que concurra a primera audiencia ante el tribunal, lo que deberá quedar consignado en el parte respectivo.
+Los particulares también podrán formular la denuncia directamente al tribunal.
