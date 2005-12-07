@@ -1,0 +1,1 @@
+Artículo 102 I.- Si el adolescente negare los hechos o guardare silencio, se realizará el juzgamiento de inmediato, procediéndose a oír a los comparecientes y a recibir la prueba, tras lo cual se preguntará al adolescente si tiene algo que agregar. Con su declaración o sin ella, el juez pronunciará sentencia de absolución o condena.
