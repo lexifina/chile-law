@@ -1,0 +1,1 @@
+Artículo 102 B.- Será aplicable al proceso contravencional lo dispuesto en los Párrafos 1º, 2º y 3º del Título III de esta ley, en lo que no sea incompatible con lo dispuesto en el presente Título y con la naturaleza infraccional de las faltas a juzgar.
