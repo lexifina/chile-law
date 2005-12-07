@@ -1,0 +1,1 @@
+Artículo 102 F.- Si el adolescente no concurriere a la primera citación, el tribunal podrá ordenar que sea conducido a su presencia por medio de la fuerza pública. En este caso se procurará que la detención se practique en el tiempo más próximo posible al horario de audiencias del tribunal.

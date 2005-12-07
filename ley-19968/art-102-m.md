@@ -1,0 +1,1 @@
+Artículo 102 M.- En caso de incumplimiento de la sanción impuesta, el tribunal remitirá los antecedentes al Ministerio Público para los efectos previstos en el inciso segundo del artículo 240 del Código de Procedimiento Civil.
