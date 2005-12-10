@@ -1,3 +1,1 @@
-Artículo 196 G.- La infracción de la prohibición establecida en el inciso segundo del artículo 115 A, cuando la conducción, operación o desempeño fueren ejecutados bajo la influencia del alcohol y no se ocasione lesiones ni daño alguno, será sancionada con multa de una a cinco unidades tributarias mensuales y la suspensión por un mes de la licencia para conducir.
-Si mediante esa conducción, operación o desempeño se causaren lesiones leves, se impondrá la pena de prisión en su grado mínimo y suspensión de tres a seis meses de la licencia para conducir vehículos.
-En caso de reincidencia el infractor sufrirá, además de la pena que le corresponda, la accesoria de cancelación definitiva de la licencia para conducir vehículos.
+Artículo 196 G.- DEROGADO
