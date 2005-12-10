@@ -1,0 +1,2 @@
+Artículo 209 bis.- El que haya sido sancionado con la cancelación de su licencia de conductor y que, no obstante ello, sea sorprendido conduciendo un vehículo, será castigado con la pena de presidio menor en su grado mínimo y multa de hasta 15 unidades tributarias mensuales.
+Si el conductor hubiese sido sancionado con la suspensión de su licencia y es sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta será castigado con prisión en su grado máximo y multa de hasta 10 unidades tributarias mensuales.
