@@ -1,0 +1,3 @@
+Artículo 9º ter.- El Fiscal Nacional, los Fiscales Regionales y los fiscales adjuntos deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+La declaración de patrimonio deberá efectuarse ante el Fiscal Nacional. Una copia de ella deberá mantenerse, para consulta pública, en la oficina de personal de la propia Fiscalía o de la Fiscalía Regional, según el caso.
+La no presentación oportuna de la declaración de patrimonio o el incumplimiento de la obligación de actualizarla se sancionará en los términos establecidos en el artículo 47 de la presente ley.
