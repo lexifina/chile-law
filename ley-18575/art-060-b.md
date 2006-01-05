@@ -1,0 +1,1 @@
+Artículo 60 B.- La declaración de patrimonio comprenderá también los bienes del cónyuge de las personas a que se refiere el artículo anterior, siempre que estén casados bajo el régimen de sociedad conyugal. No obstante, si el cónyuge es mujer, no se considerarán los bienes que ésta administre de conformidad a los artículos 150, 166 y 167 del Código Civil.
