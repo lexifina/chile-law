@@ -180,15 +180,14 @@ TITULO XI Del sobreseimiento en los procedimientos de la quiebra
 1.- Del sobreseimiento en general.
 2.- Del sobreseimiento temporal. (ARTS. 158-163)
 3.- Del sobreseimiento definitivo.
-TITULO XII DEL CONVENIO
-1. Del convenio extrajudicial.
+TITULO XII DE LOS ACUERDOS EXTRAJUDICIALES Y DE LOS CONVENIOS JUDICIALES
+1. De los Acuerdos Extrajudiciales
 2. Del Convenio Judicial Preventivo
-SECCION PRIMERA DE LAS PROPOSICIONES DEL CONVENIO
-SECCION SEGUNDA DE LA APROBACION DEL CONVENIO
-SECCION TERCERA DE LOS EFECTOS DEL CONVENIO
-SECCION CUARTA DEL INTERVENTOR
-SECCION QUINTA DEL RECHAZO DEL CONVENIO
-SECCION SEXTA DE LA NULIDAD Y RESOLUCION DEL CONVENIO
+3. Del Convenio simplemente judicial
+4. De la aprobación de los Convenios Judiciales
+5. De los efectos del convenio
+6. Del rechazo del convenio
+7. De la nulidad e incumplimiento del convenio
 TITULO XIII De los delitos relacionados con las quiebras
 1.- De la calificación de la quiebra.
 2.- De los cómplices de quiebra fraudulenta.
