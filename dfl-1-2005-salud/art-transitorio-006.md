@@ -1,0 +1,1 @@
+Artículo 6°.- El inciso primero del artículo 60 del Libro II entrará en vigencia una vez que el Instituto de Salud Pública sea incorporado al Sistema de Alta Dirección Pública, de acuerdo al artículo 14 Transitorio de la Ley N°19.882
