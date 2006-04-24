@@ -1,0 +1,2 @@
+Artículo 5°.- Los activos y pasivos de los Fondos de Salud y de Subsidios de Incapacidad Laboral que administran la Caja Bancaria de Pensiones y la Caja de Previsión y Estímulo de los Empleados del Banco del Estado de Chile, se traspasarán al Fondo de Pensiones de la respectiva Institución de Previsión.
+Los activos y pasivos del Servicio Médico de la Empresa de los Ferrocarriles del Estado continuarán formando parte del patrimonio de dicha Empresa.
