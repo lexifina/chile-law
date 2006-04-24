@@ -1,0 +1,1 @@
+Artículo 4°.- Los trabajadores que, al 1 de enero de 1986, se hubiesen encontrado acogidos a reposo preventivo, de acuerdo con la Ley N° 6.174, continuarán gozando de dicho reposo en la forma y por el plazo otorgado.
