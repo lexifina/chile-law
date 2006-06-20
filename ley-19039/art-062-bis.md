@@ -1,1 +1,1 @@
-Artículo 62 bis.- La protección conferida a los dibujos y diseños industriales establecida en esta ley se entenderá sin perjuicio de aquella que pueda otorgárseles en virtud de las normas de la ley Nº17.336.
+Artículo 62 bis.- La protección conferida a los dibujos y diseños industriales establecida en esta ley se entenderá sin perjuicio de aquella que pueda otorgárseles en virtud de las normas de la ley Nº 17.336.
