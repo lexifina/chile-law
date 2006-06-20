@@ -1,2 +1,0 @@
-Artículo 2°.- A los plazos que se encontraren iniciados y a las resoluciones que se hubieren notificado con antelación a la vigencia de esta ley, les serán aplicables las normas a que se refiere el artículo 73.
-Los recursos de apelación que estuvieren pendientes en la Comisión Arbitral a que se refiere el artículo 17 del decreto ley N° 958, de 1931, pasarán al conocimiento y resolución del Tribunal Arbitral creado por el artículo 17 de la presente ley. Estas apelaciones quedarán exentas de efectuar la consignación a que se refiere el artículo 18.
