@@ -1,1 +1,1 @@
-Artículo primero.- Para efectos del promedio móvil a que se refiere el artículo 2° de la presente ley, los precios del petróleo crudo WTI para cada una de las semanas anteriores a aquella que se inicia el 12 de septiembre de 2005, considerarán un precio del petróleo crudo WTI de US$65,7 por barril.
+Artículo primero.- DEROGADO
