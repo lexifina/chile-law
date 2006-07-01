@@ -1,0 +1,1 @@
+Artículo segundo.- El saldo de la cuenta especial a que se refiere el artículo 5° de esta ley, al 30 de junio de 2006, se mantendrá como parte de los recursos del Fondo de Compensación de los Ingresos del Cobre. El saldo del Fondo a que se refiere el artículo 1° de la presente ley, al término de su vigencia, en caso de ser positivo, recibirá el mismo tratamiento.
