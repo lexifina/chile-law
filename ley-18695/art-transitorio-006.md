@@ -1,2 +1,0 @@
-Artículo 6º.- La ordenanza de participación ciudadana y el reglamento a que se refieren, respectivamente, los artículos 93 y 94, deberán dictarse dentro de los 180 días siguientes al 25 de marzo de 1999.
-Los consejos económicos y sociales comunales previstos en el artículo 94 deberán quedar instalados dentro de los 60 días siguientes a la fecha de publicación de dicho reglamento. El día en que se instalen estos consejos cesarán en funciones los actuales consejos económicos y sociales comunales.
