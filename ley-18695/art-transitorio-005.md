@@ -1,1 +1,0 @@
-Artículo 5º.- Sin perjuicio de lo dispuesto en el artículo 91, los concejales no deberán reintegrar las cotizaciones previsionales correspondientes al período comprendido entre el 25 de marzo de 1999 y el inicio de sus funciones.
