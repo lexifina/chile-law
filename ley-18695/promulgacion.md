@@ -1,2 +1,3 @@
-Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- José Miguel Insulza Salinas, Ministro del Interior.
-Lo que transcribo a usted para su conocimiento.- Saluda a Ud., Francisco Vidal Salinas, Subsecretario de Desarrollo Regional y Administrativo.
+Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
+Felipe Harboe Bascuñán, Ministro del Interior (S).
+Lo que transcribo a usted para su conocimiento.- Saluda a usted, Claudia Serrano Madrid, Subsecretaria de Desarrollo Regional y Administrativo.
