@@ -1,0 +1,3 @@
+Artículo 87 bis.- Por decreto supremo expedido a través del Ministerio, se determinarán las medidas de protección y control bajo las cuales se autorizará la introducción, investigación, cultivo y comercialización de organismos genéticamente modificados a fin de evitar su propagación al ambiente natural.
+El reglamento, asimismo, determinará el registro en que deban inscribirse las personas que realicen las actividades anteriormente
+señaladas con organismos genéticamente modificados y el sistema de acreditación de origen de los mismos o de sus productos y las garantías pecuniarias que sean exigibles para asegurar la reparación de posibles daños ambientales.
