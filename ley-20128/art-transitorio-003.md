@@ -1,0 +1,1 @@
+Artículo 3°.- Para efectos de lo dispuesto en el literal a) del artículo 6°, el primer aporte de recursos al Fondo de Reserva de Pensiones que deba efectuarse se enterará dentro de los 90 días siguientes a la publicación de la presente ley, con cargo al superávit de 2005.
