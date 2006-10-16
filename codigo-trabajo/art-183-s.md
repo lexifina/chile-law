@@ -1,0 +1,1 @@
+Artículo 183-S.- En ningún caso la empresa de servicios transitorios podrá exigir ni efectuar cobro de ninguna naturaleza al trabajador, ya sea por concepto de capacitación o de su puesta a disposición en una usuaria.
