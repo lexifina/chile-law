@@ -1,0 +1,1 @@
+Artículo 183-T.- En caso de que el trabajador continúe prestando servicios después de expirado el plazo de su contrato de trabajo, éste se transformará en uno de plazo indefinido, pasando la usuaria a ser su empleador y contándose la antigüedad del trabajador, para todos los efectos legales, desde la fecha del inicio de la prestación de servicios a la usuaria.
