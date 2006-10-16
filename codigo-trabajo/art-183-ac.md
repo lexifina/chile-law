@@ -1,0 +1,1 @@
+Artículo 183-AC.- En el caso de los trabajadores con discapacidad, el plazo máximo de duración del contrato de puesta a disposición de trabajadores de servicios transitorios establecido en el párrafo segundo del inciso primero del artículo 183-O, será de seis meses renovables.
