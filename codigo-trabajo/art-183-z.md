@@ -1,0 +1,1 @@
+Artículo 183-Z.- En la remuneración convenida, se considerará la gratificación legal, el desahucio, las indemnizaciones por años de servicios y sustitutiva del aviso previo, y cualquier otro concepto que se devengue en proporción al tiempo servido, salvo la compensación del feriado que establece el artículo 183-V.
