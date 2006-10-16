@@ -1,0 +1,2 @@
+Artículo 183-AE.- Las trabajadoras contratadas bajo el régimen contemplado en este Párrafo, gozarán del fuero maternal señalado en el inciso primero del artículo 201, cesando éste de pleno derecho al término de los servicios en la usuaria.
+Si por alguna de las causales que establece el presente Párrafo se determinare que la trabajadora es dependiente de la usuaria, el fuero maternal se extenderá por todo el período que corresponda, conforme a las reglas generales del presente Código.

@@ -27,6 +27,13 @@ Título III DEL REGLAMENTO INTERNO
 Título IV DEL SERVICIO MILITAR OBLIGATORIO
 Título V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO
 Título VI DE LA CAPACITACION OCUPACIONAL
+Título VII Del trabajo en régimen de subcontratación y del trabajo en empresas de servicios transitorios
+Párrafo 1º Del trabajo en régimen de subcontratación
+Párrafo 2º De las empresas de servicios transitorios, del contrato de puesta a disposición de trabajadores y del contrato de trabajo de servicios transitorios
+De las Empresas de Servicios Transitorios
+Del contrato de puesta a disposición de trabajadores
+Del contrato de trabajo de servicios transitorios
+Normas Generales
 LIBRO II DE LA PROTECCION A LOS TRABAJADORES
 Título I NORMAS GENERALES
 TITULO II DE LA PROTECCION A LA MATERNIDAD

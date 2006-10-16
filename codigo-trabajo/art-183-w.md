@@ -1,0 +1,2 @@
+Artículo 183-W.- Será obligación de la usuaria controlar la asistencia del trabajador de servicios transitorios y poner a disposición de la empresa de servicios transitorios copia del registro respectivo.
+En el registro se indicará, a lo menos, el nombre y apellido del trabajador de servicios transitorios, nombre o razón social y domicilio de la empresa de servicios transitorios y de la usuaria, y diariamente las horas de ingreso y salida del trabajador.
