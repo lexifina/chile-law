@@ -1,0 +1,1 @@
+Artículo 183-H.- Las cuestiones suscitadas entre las partes de un contrato de trabajo de servicios transitorios, o entre los trabajadores y la o las usuarias de sus servicios, serán de competencia de los Juzgados de Letras del Trabajo.
