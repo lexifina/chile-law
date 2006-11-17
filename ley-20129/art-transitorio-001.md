@@ -1,0 +1,1 @@
+Artículo 1º.- La primera designación de los integrantes de la Comisión Nacional de Acreditación indicados en las letras a), b), c), d), e) y f), del inciso primero del artículo 7º, deberá efectuarse dentro del plazo máximo de 30 días contado desde la fecha de publicación de la presente ley en el Diario Oficial.
