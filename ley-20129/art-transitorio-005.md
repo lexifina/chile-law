@@ -1,0 +1,1 @@
+Artículo 5º.- Corresponderá al Ministerio de Educación desarrollar una propuesta para el establecimiento de un Sistema Nacional de Certificación y Habilitación Profesional, para lo cual deberá promover una amplia participación de los distintos actores involucrados. Dicha propuesta deberá ser presentada dentro del plazo de dos años contado desde la entrada en vigencia de esta ley.
