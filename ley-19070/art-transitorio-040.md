@@ -1,0 +1,1 @@
+Artículo 40 transitorio.- Las modificaciones introducidas en los incisos segundo y siguientes del artículo 73 comenzarán a regir a partir de la formulación del Plan de Desarrollo Educativo Municipal del año 2008.
