@@ -1,0 +1,3 @@
+Artículo 53 Bis 4.- La solicitud de Protección Suplementaria será presentada ante el Tribunal de Propiedad Industrial, quien resolverá sobre la existencia de demoras injustificadas y la extensión de
+éstas en única instancia, de conformidad al procedimiento establecido para el recurso de apelación. La resolución que así lo declare, tendrá como único efecto la ampliación del plazo de protección y no dará origen a responsabilidad de ninguna especie.
+Previo a la vista de la causa, el Tribunal ordenará se oficie al organismo respectivo, a fin de que emita su opinión dentro del plazo de sesenta días.
