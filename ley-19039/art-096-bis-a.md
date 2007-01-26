@@ -1,0 +1,4 @@
+Artículo 96 bis A.- Cuando por aplicación de las normas previstas en esta ley o en tratados internacionales ratificados por Chile, el Departamento llegue a la convicción que es posible la coexistencia entre marcas e indicaciones geográficas o denominaciones de origen, o de estas últimas entre sí, en la resolución definitiva determinará las condiciones en las cuales deben ser usadas las Indicaciones Geográficas, Denominaciones de Origen o Marcas, para evitar la inducción a error o confusión al público consumidor.
+Cuando uno o más de los productos en cuestión tengan carácter silvoagropecuario o agroindustrial, el Departamento, para formar su convicción acerca de la posibilidad de coexistencia, deberá solicitar el informe al Ministerio de Agricultura.
+En todo caso, las condiciones de uso formarán parte del registro respectivo.
+El incumplimiento de las condiciones de uso, priva a su titular de la facultad de hacer valer las acciones establecidas en esta ley.
