@@ -1,1 +1,0 @@
-Artículo 99º ter.- Todo cliente sometido a regulación de precios tiene derecho a recibir las compensaciones del artículo anterior, independientemente del origen de la obligación de abastecer a la concesionaria de servicio público de distribución por las empresas generadoras.
