@@ -1,0 +1,1 @@
+Artículo 21°.- La circunstancia establecida en la letra d) del inciso final del artículo 147º de la presente ley que permite contratar a precios libres los suministros referidos en los números 1 y 2 del mismo artículo, entrará en vigencia una vez transcurridos dos años desde el 13 de marzo de 2004.
