@@ -1,0 +1,1 @@
+Artículo 26º.- Las licitaciones para abastecer suministros regulados que las distribuidoras efectúen durante el primer año contado desde el día 19 de mayo de 2005 se sujetarán, en cuanto a sus plazos, requisitos y condiciones, a las disposiciones de esta ley y a las que se establezcan por resolución exenta de la Comisión Nacional de Energía.
