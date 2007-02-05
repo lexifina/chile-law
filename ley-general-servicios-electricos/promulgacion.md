@@ -1,2 +1,2 @@
-Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Felipe Errázuriz, Ministro de Minería.
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Alvaro Larenas Letelier, Capitán de Fragata, Subsecretario de Minería.
+Tómese razón, regístrese, comuníquese y publíquese.- ANDRES ZALDIVAR LARRAIN, Vicepresidente de la República.- Ana María Correa López, Ministra de Economía, Fomento y Reconstrucción (S).
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Luis Sánchez Castellón, Subsecretario de Economía, Fomento y Reconstrucción (S).
