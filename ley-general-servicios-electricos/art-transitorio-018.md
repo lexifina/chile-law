@@ -1,0 +1,2 @@
+Artículo 18°.- En los sistemas de capacidad instalada superior a 1.500 kilowatts e inferior a 200 megawatts, la primera fijación tarifaria conforme a lo señalado en los artículos 173º y siguientes de esta ley se efectuará antes de doce meses contados desde el 13 de marzo de 2004.
+En el período que medie entre el 13 de marzo de 2004 y la fecha de la fijación señalada en el inciso anterior, los precios de generación y de transmisión se determinarán conforme a las normas que se han aplicado hasta antes de la publicación de la ley 19.940.
