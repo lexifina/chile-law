@@ -1,1 +1,1 @@
-Artículo 9°.- Los reglamentos y normas técnicas vigentes a la fecha de promulgación de la presente Ley, conservarán su vigencia, en tanto no sean contrarios a esta última y mientras no se dicte la nueva reglamentación.
+Artículo 9°.- Los reglamentos y normas técnicas vigentes a la fecha de promulgación del decreto con fuerza de ley Nº 1, de 1982, del Ministerio de Minería, conservarán su vigencia, en tanto no sean contrarios a esta última y mientras n o se dicte la nueva reglamentación.
