@@ -1,1 +1,0 @@
-Artículo 96º bis.- Los precios de energía y potencia obtenidos en las licitaciones reguladas en el artículo 79º-1 y siguientes, llamados "precios de nudo de largo plazo", y sus fórmulas de indexación, se incluirán en el decreto contemplado en el artículo 103º que se dicte con posterioridad al término de la licitación respectiva.
