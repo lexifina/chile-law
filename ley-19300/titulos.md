@@ -15,9 +15,10 @@ TITULO V Del Fondo de Protección Ambiental
 TITULO FINAL De la Comisión Nacional del Medio Ambiente
 Párrafo 1° Naturaleza y Funciones
 Párrafo 2° Del Consejo Directivo
-Párrafo 3° De la Dirección Ejecutiva
-Párrafo 4° Del Consejo Consultivo
-Párrafo 5° De las Comisiones Regionales del Medio Ambiente
-Párrafo 6° Del Patrimonio
-Párrafo 7° Del Personal
+Párrafo 3° Del Presidente de la Comisión Nacional del Medio Ambiente
+Párrafo 4° De la Dirección Ejecutiva
+Párrafo 5° Del Consejo Consultivo
+Párrafo 6° De las Comisiones Regionales del Medio Ambiente
+Párrafo 7° Del Patrimonio
+Párrafo 8° Del Personal
 ARTICULOS TRANSITORIOS
