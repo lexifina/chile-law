@@ -23,6 +23,13 @@ Párrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves
 Párrafo 2º Del contrato de los trabajadores portuarios eventuales
 Capítulo IV Del contrato de los trabajadores de artes y espectáculos
 Capítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR
+Capítulo VI Del contrato de los deportistas profesionales y trabajadores que desempeñan actividades conexas
+Párrafo 1º Definiciones
+Párrafo 2º Forma, contenido y duración del contrato de trabajo
+Párrafo 3º De la periodicidad en el pago de las remuneraciones
+Párrafo 4º Cesiones temporales y definitivas
+Párrafo 5º Del derecho de información y pago por subrogación
+Párrafo 6º Del reglamento interno de orden, higiene y seguridad
 Título III DEL REGLAMENTO INTERNO
 Título IV DEL SERVICIO MILITAR OBLIGATORIO
 Título V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO
