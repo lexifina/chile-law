@@ -1,0 +1,2 @@
+Artículo 152 bis C.- Sin perjuicio de lo dispuesto en el artículo 9°, el contrato de trabajo se firmará en triplicado, entregándose un ejemplar al deportista profesional o trabajador que desempeñe actividades conexas, en el acto de la firma; otro quedará en poder del empleador y el tercero se registrará, dentro del plazo de 10 días hábiles de suscrito el contrato, ante la entidad superior correspondiente.
+Dicho contrato mencionará todo beneficio o prestación que reciba el deportista profesional, y que tenga como causa el contrato de trabajo.

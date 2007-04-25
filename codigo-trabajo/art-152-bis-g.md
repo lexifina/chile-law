@@ -1,0 +1,1 @@
+Artículo 152 bis G.- La entidad deportiva que utilizando cualquier subterfugio, oculte o simule beneficios o prestaciones laborales que tengan como causa el contrato de trabajo, será sancionada de conformidad a lo establecido en el artículo 152 bis L.

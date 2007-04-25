@@ -1,0 +1,2 @@
+Artículo 152 bis F.- El uso y explotación comercial de la imagen de los deportistas profesionales y de los trabajadores que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+En cuanto a los beneficios pecuniarios para el trabajador, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
