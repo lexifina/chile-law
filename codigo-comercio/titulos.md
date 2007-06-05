@@ -45,7 +45,7 @@ Título VII DE LA SOCIEDAD
 § 5. De las prohibiciones a que están sujetos los socios en la sociedad colectiva
 § 6. De la disolución y liquidación de la sociedad colectiva
 § 7. De la prescripción de las acciones procedentes de la sociedad colectiva
-§ 8. De las sociedades anónimas
+§ 8. De las Sociedades por Acciones
 § 9. Disposiciones relativas a la sociedad en comandita
 § 10. De la comandita simple
 § 11. De la comandita por acciones
