@@ -1,0 +1,1 @@
+Artículo 137 bis.- La Superintendencia determinará, mediante norma de carácter general, los medios alternativos a través de los cuales las sociedades fiscalizadas podrán enviar o poner a disposición de sus accionistas, los documentos, información y comunicaciones que establece esta ley.
