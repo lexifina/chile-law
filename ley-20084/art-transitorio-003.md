@@ -1,0 +1,2 @@
+Artículo 3º.- Cursos de especialización. La exigencia de especialización y las modalidades de integración de la sala del tribunal de juicio oral en lo penal y de distribución de asuntos en los tribunales con competencia en materias criminales se aplicarán seis meses después de la fecha de entrada en vigencia de la presente ley.
+En todo caso, las Cortes de Apelaciones podrán prorrogar dicho término por otros seis meses, por motivos fundados.".
