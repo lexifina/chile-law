@@ -1,0 +1,5 @@
+Artículo 90 A.- Los funcionarios que ejerzan las acciones a que se refiere la letra k) del artículo 61 tendrán los siguientes derechos:
+a) No podrán ser objeto de las medidas disciplinarias de suspensión del empleo o de destitución, desde la fecha en que la autoridad reciba la denuncia y hasta la fecha en que se resuelva en definitiva no tenerla por presentada o, en su caso, hasta noventa días después de haber terminado la investigación sumaria o sumario, incoados a partir de la citada denuncia.
+b) No ser trasladados de localidad o de la función que desempeñaren, sin su autorización por escrito, durante el lapso a que se refiere la letra precedente.
+c) No ser objeto de precalificación anual, si el denunciado fuese su superior jerárquico, durante el mismo lapso a que se refieren las letras anteriores, salvo que expresamente la solicitare el denunciante. Si no lo hiciere, regirá su última calificación para todos los efectos legales.
+Aceptada la denuncia por una autoridad competente, la formulación de ella ante otras autoridades no dará origen a la protección que establece este artículo.
