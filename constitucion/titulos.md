@@ -28,5 +28,6 @@ Gobierno y Administración Regional
 Gobierno y Administración Provincial
 Administración Comunal
 Disposiciones Generales
+Disposiciones Especiales
 Capítulo XV REFORMA DE LA CONSTITUCIÓN
 DISPOSICIONES TRANSITORIAS
