@@ -1,0 +1,1 @@
+Artículo 126 bis.- Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
