@@ -1,0 +1,1 @@
+Artículo 35 ter.- En cada año calendario que los días 18 y 19 de septiembre sean días martes y miércoles, respectivamente, o miércoles y jueves, respectivamente, será feriado el día lunes 17 o el día viernes 20 de dicho mes, según el caso.
