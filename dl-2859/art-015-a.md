@@ -1,0 +1,1 @@
+Artículo 15 A.- El que matare a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
