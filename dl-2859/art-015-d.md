@@ -1,0 +1,1 @@
+Artículo 15 D.- El que amenazare a un miembro de Gendarmería de Chile en los términos de los artículos 296 y 297 del Código Penal durante el desempeño de sus funciones o en razón de ellas, será castigado con el grado máximo de las penas previstas en dichos artículos para los distintos tipos de amenazas contemplados por éstos.
