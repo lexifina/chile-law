@@ -1,0 +1,13 @@
+Artículo primero.- Mientras no se establezcan los estándares nacionales, de conformidad con lo dispuesto en la letra a) del artículo 9°, los establecimientos que postulen y se incorporen al régimen de subvención preferencial podrán ser clasificados en la categoría de Autónomos en la oportunidad que señala el artículo 12, si cumplen los siguientes requisitos relacionados con los resultados obtenidos en las mediciones realizadas a los 4° básicos por el Ministerio de Educación para los efectos del artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación, esto es:
+a) Que su puntaje promedio como establecimiento sea mayor que el puntaje promedio del establecimiento situado en la mediana de rendimientos de su grupo similar.
+b) Que el porcentaje de alumnos sobre 250 puntos del SIMCE sea mayor que el porcentaje de alumnos sobre este puntaje que posee el establecimiento situado en la mediana de rendimientos de su grupo similar.
+c) Que el porcentaje de alumnos sobre 300 puntos del SIMCE sea mayor que el porcentaje de alumnos sobre este puntaje que posee el establecimiento situado en la mediana de rendimientos de su grupo similar.
+Lo anterior deberá ocurrir en un número significativo de mediciones y sectores de aprendizaje, que no podrá ser, en el caso de las mediciones, inferior a dos. El procedimiento utilizado para clasificar a las escuelas a partir de estos criterios será establecido en el reglamento correspondiente.
+Además, deberán considerarse los siguientes indicadores complementarios:
+a) Tasas de retención y aprobación de alumnos;
+b) Integración de profesores, padres y apoderados en el proyecto educativo del establecimiento;
+c) Iniciativa, consistente en la capacidad del establecimiento para incorporar innovaciones educativas y comprometer el apoyo de agentes externos en su quehacer pedagógico;
+d) Mejoramiento de condiciones de trabajo y adecuado funcionamiento del establecimiento, y
+e) Evaluación del cuerpo docente, en el caso del sector municipal.
+En el mismo período señalado en el inciso primero, la clasificación a que se refiere el artículo 9º se realizará considerando grupos de establecimientos de similares características. Los criterios para realizar dicha agrupación quedarán establecidos en el reglamento y considerarán fundamentalmente el nivel socioeconómico de los alumnos atendidos y los recursos o aportes en dinero con que cuente o reciba el establecimiento educacional.
+En el mismo período señalado en el inciso primero, los establecimientos educacionales que se incorporen al régimen de subvención preferencial que no cumplan los requisitos de éste y del siguiente artículo serán clasificados como Emergentes.

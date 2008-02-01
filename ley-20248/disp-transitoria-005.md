@@ -1,0 +1,4 @@
+Artículo quinto.- No obstante lo dispuesto en los artículos 1º y 14 de esta ley, los niveles de 5º a 8º año de la educación general básica se incorporarán gradualmente a la percepción de la subvención escolar preferencial y de los aportes establecidos en ella, a razón de un nivel por año a contar del segundo año de su entrada en vigencia.
+La subvención por concentración de alumnos prioritarios a que se refiere el artículo 16, regirá a contar del 1 de enero de 2008, desde el primer nivel de transición de la educación parvularia hasta el 4º año de la educación general básica.
+Asimismo, los niveles de 5º a 8º año de la educación general básica se incorporarán gradualmente a la percepción de la subvención a que se refiere el artículo 16, a razón de un nivel por año a contar del segundo año de su entrada en vigencia.
+Para los efectos de los incisos anteriores se suscribirá un convenio sobre estos recursos.
