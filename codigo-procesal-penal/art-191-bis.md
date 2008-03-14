@@ -1,0 +1,4 @@
+Artículo 191 bis.- Anticipación de prueba de menores de edad. El fiscal podrá solicitar que se reciba la declaración anticipada de los menores de 18 años que fueren víctimas de alguno de los delitos contemplados en el Libro Segundo, Título VII, párrafos 5 y 6 del Código Penal. En dichos casos, el juez, considerando las circunstancias personales y emocionales del menor de edad, podrá, acogiendo la solicitud de prueba anticipada, proceder a interrogarlo, debiendo los intervinientes dirigir las preguntas por su intermedio.
+Con todo, si se modificaren las circunstancias que motivaron la recepción de prueba anticipada, la misma deberá rendirse en el juicio oral.
+La declaración deberá realizarse en una sala acondicionada, con los implementos adecuados a la edad y etapa evolutiva del menor de edad.
+En los casos previstos en este artículo, el juez deberá citar a todos aquellos que tuvieren derecho a asistir al juicio oral.
