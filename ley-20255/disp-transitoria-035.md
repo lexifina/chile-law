@@ -1,0 +1,1 @@
+Artículo trigésimo quinto.- Quienes se encuentren pensionados a la fecha de entrada en vigencia de las modificaciones que el Título V de esta ley introduce al decreto ley N°3.500, de 1980, podrán efectuar la cotización de salud a que se refiere el inciso final del artículo 85 de dicho decreto ley, introducido por el número 60 del artículo 91 del Título V de la presente ley.

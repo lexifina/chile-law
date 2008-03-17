@@ -1,0 +1,1 @@
+Artículo décimo noveno.- El gasto que se derive de las nuevas plantas que se fijen y del encasillamiento que se practique, considerando su efecto año completo, no podrá exceder la cantidad de $ 9.400.000 miles.

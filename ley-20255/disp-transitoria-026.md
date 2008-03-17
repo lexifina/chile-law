@@ -1,0 +1,1 @@
+Artículo vigésimo sexto.- Lo dispuesto en el inciso primero del artículo 82 entrará en vigencia a contar del primer día del séptimo mes siguiente al de su publicación en el Diario Oficial y el inciso segundo de esa misma disposición, lo hará a partir del 1 de julio de 2011.

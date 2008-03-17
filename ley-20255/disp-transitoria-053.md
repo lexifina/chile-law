@@ -1,0 +1,2 @@
+Artículo quincuagésimo tercero.- Podrán efectuarse retiros al Fondo de Reserva de Pensiones a que se refiere el artículo 5° de la ley N° 20.128, hasta por un monto máximo anual equivalente al aporte realizado en el año anterior, según lo dispone la letra b) del artículo 6° de dicha ley.
+Los retiros a que se refiere el inciso precedente podrán efectuarse a contar de la fecha de entrada en vigencia de las disposiciones del Título I de la presente ley y hasta el año 2016.

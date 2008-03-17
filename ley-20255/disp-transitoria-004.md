@@ -1,0 +1,2 @@
+Artículo cuarto.- Las obligaciones y derechos que tenga el Fondo Nacional de Pensiones Asistenciales, creado por el artículo 8° del decreto ley N° 869, de 1975, a la fecha de la entrada en vigencia del Título I de esta ley corresponderán al Instituto de Previsión Social, ejerciendo la Superintendencia de Pensiones la fiscalización de esta disposición.
+Derógase, a contar de la fecha señalada en el inciso anterior, el artículo 2° de la ley N° 18.141.

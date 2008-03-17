@@ -1,0 +1,1 @@
+Artículo cuadragésimo sexto.- Las modificaciones que el número 8 del artículo 91 del Título V de esta ley introduce en el artículo 16 del decreto ley Nº 3.500, de 1980, comenzarán a aplicarse a contar del 1 de enero del año siguiente al de la publicación de la presente ley.

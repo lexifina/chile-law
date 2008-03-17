@@ -1,0 +1,1 @@
+Artículo transitorio final.- Sin perjuicio de lo dispuesto en los artículos precedentes de este cuerpo legal, podrán dictarse los reglamentos que dispone la presente ley, desde la fecha de publicación de la misma.".

@@ -1,0 +1,2 @@
+Artículo vigésimo tercero.- Para el primer nombramiento de los Consejeros a que se refiere la letra b) del artículo 70, el Presidente de la República propondrá al Senado dos candidatos para un periodo completo de seis años y dos para uno parcial de tres años.
+Una vez constituido el primer Consejo, éste deberá ser convocado para emitir su opinión respecto de los reglamentos a que se refiere la letra b) del inciso primero del artículo 66 que se encuentren vigentes a dicha fecha.

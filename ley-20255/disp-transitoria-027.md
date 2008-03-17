@@ -1,0 +1,1 @@
+Artículo vigésimo séptimo.- No les serán aplicables las disposiciones establecidas en el artículo 4° bis del decreto ley N° 3.500, de 1980, a las afiliadas mujeres que a la fecha de publicación de esta ley tengan más de sesenta años de edad.
