@@ -1,0 +1,1 @@
+Artículo décimo cuarto.- El primer reajuste que corresponda por aplicación de lo dispuesto en el artículo 8° de la presente ley, se concederá a los doce meses siguientes contados desde el 1 de julio de 2009. El primer reajuste que corresponda por la aplicación de lo dispuesto en el artículo 13 de esta ley, se concederá a los doce meses siguientes al 1 de julio de 2012.
