@@ -1,0 +1,2 @@
+Artículo primero.- Las disposiciones del Título I de la presente ley entrarán en vigencia a contar del 1 de julio de 2008.
+Durante los dos primeros años de la entrada en vigencia del Título mencionado en el inciso anterior, para los efectos de la aplicación de la letra b) del artículo 3° de esta ley, se utilizará como instrumento técnico de focalización la Ficha de Protección Social. En todo caso, el reglamento establecerá los procedimientos para utilizar la información contenida en la referida ficha considerando lo dispuesto en el artículo 4° de la presente ley.

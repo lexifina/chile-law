@@ -1,0 +1,1 @@
+Artículo quinto.- Deróganse a contar de la fecha de la entrada en vigencia del Título I de la presente ley, los artículos 73 al 81, ambos inclusive, del decreto ley N° 3.500, de 1980, sin perjuicio de lo dispuesto en los artículos sexto, duodécimo y décimo quinto transitorios siguientes.
