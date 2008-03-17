@@ -1,0 +1,1 @@
+Artículo cuadragésimo cuarto.- La primera licitación del seguro a que se refiere el artículo 59 bis del decreto ley N°3.500, de 1980, introducido por el número 47 del artículo 91 del Título V de esta ley, se realizará transcurridos al menos 6 meses desde la entrada en vigencia de las modificaciones que el Título V de esta ley introduce en el decreto ley N°3.500, de 1980.
