@@ -1,0 +1,2 @@
+Artículo vigésimo octavo.- Las normas contenidas en el Párrafo cuarto del Título III de esta ley entrarán en vigencia el primer día del séptimo mes siguiente al de su publicación en el Diario Oficial.
+Las modificaciones que los números 2 al 6 del artículo 85 introducen al decreto ley Nº 3.500, de 1980, regirán sólo para aquellas personas que se pensionen con posterioridad a la vigencia establecida en el inciso anterior.
