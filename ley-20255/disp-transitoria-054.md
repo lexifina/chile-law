@@ -1,0 +1,1 @@
+Artículo quincuagésimo cuarto.- Durante el primer año de vigencia el mayor gasto que represente la aplicación de esta ley, se financiará con cargo al Presupuesto del Ministerio del Trabajo y Previsión Social, y en lo que faltare, con cargo a la Partida Tesoro Público. En los años siguientes, los recursos serán provistos en las respectivas leyes de presupuestos.
