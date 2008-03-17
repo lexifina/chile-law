@@ -1,0 +1,1 @@
+Artículo décimo octavo.- Los altos directivos públicos del Instituto de Normalización Previsional que estuvieren ejerciendo un cargo en dicha institución y que sean traspasados al Instituto de Previsión Social, continuarán sometidos a la misma normativa que los rigen.
