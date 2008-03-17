@@ -1,0 +1,1 @@
+Artículo vigésimo quinto.- Las normas contenidas en el Párrafo 2° del Título III entrarán en vigencia el primer día del séptimo mes siguiente al de su publicación en el Diario Oficial y sólo serán aplicables en los juicios de nulidad o divorcio que se inicien con posterioridad a dicha fecha.
