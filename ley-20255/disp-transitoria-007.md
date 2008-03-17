@@ -1,0 +1,1 @@
+Artículo séptimo.- Para las personas que hasta el último día del décimo quinto año posterior a la publicación de la presente ley, cumplan con los requisitos para tener derecho a una pensión de invalidez, de conformidad a lo dispuesto en el decreto ley N° 3.500, de 1980, será aplicable lo dispuesto en el inciso segundo del artículo precedente.
