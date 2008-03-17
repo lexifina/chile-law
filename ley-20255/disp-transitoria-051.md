@@ -1,0 +1,1 @@
+Artículo quincuagésimo primero.- Las modificaciones señaladas en los artículos 100 y 101 comenzarán a regir a contar de la fecha de publicación de la presente ley. No obstante, las modificaciones que introduce el numeral 4 del artículo 100 en la ley N° 20.128, comenzarán a regir el primer día del séptimo mes siguiente al de su publicación en el Diario Oficial.
