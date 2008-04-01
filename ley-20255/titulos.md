@@ -10,6 +10,8 @@ Párrafo octavo Del Consejo Consultivo Previsional
 TÍTULO III Normas sobre Equidad de Género y Afiliados Jóvenes
 Párrafo primero Bonificación por hijo para las mujeres
 Párrafo tercero Subsidio previsional a los trabajadores jóvenes
+TÍTULO V Sobre Beneficios Previsionales, Ahorro Previsional Voluntario Colectivo, Inversiones, Seguro de Invalidez y Sobrevivencia y Competencia
+Párrafo primero Modificaciones al decreto ley N° 3.500, de 1980.
 TÍTULO VI Otras Normas
 Párrafo primero De la responsabilidad de alcaldes y otras autoridades
 Párrafo segundo Fija renta mínima imponible para trabajadores de casa particular
