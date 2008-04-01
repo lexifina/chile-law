@@ -30,4 +30,5 @@ TITULO XIV De la Regulación de Conflicto de Intereses
 3.- De la votación de las Administradoras en la elección de directores en las sociedades cuyas acciones hayan sido adquiridas con recursos de los Fondos de Pensiones.
 4.- De la Elección de Directores en las Administradoras. De los Directores
 5.- Sanciones y Procedimientos.
+Título XVI Del Consejo Técnico de Inversiones
 TITULO XVIII DISPOSICIONES TRANSITORIAS
