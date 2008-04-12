@@ -1,0 +1,1 @@
+Artículo 6º.- Mientras no exista un Director Zonal de Pesca exclusivo para la XI Región, corresponderá al Director Zonal de la XII Región ejercer en la XI Región las competencias en materia de pesca recreativa a que se refiere la presente ley.".
