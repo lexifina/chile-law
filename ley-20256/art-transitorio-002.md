@@ -1,0 +1,1 @@
+Artículo 2º.- El Ministerio, dentro del plazo de ciento ochenta días corridos contado desde la fecha de entrada en vigencia de la presente ley, deberá dictar el reglamento de los registros a que se refiere el artículo 54.
