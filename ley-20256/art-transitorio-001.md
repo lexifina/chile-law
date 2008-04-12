@@ -1,0 +1,1 @@
+Artículo 1º.- Las medidas de administración que a la fecha de vigencia de la presente ley hubieren sido dictadas por la autoridad para el ejercicio de la pesca recreativa mantendrán su vigencia, mientras no sean modificadas, para una especie o área determinada, de acuerdo a los procedimientos que en cada caso establece la presente ley.
