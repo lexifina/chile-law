@@ -1,0 +1,1 @@
+Artículo 4º.- Redúcese en cinco cupos la dotación máxima de personal vigente del Servicio Nacional de Pesca y auméntase en cinco cupos la dotación máxima de personal vigente de la Subsecretaría de Pesca.

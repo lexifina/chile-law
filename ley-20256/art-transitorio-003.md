@@ -1,0 +1,1 @@
+Artículo 3º.- Dentro del plazo de noventa días corridos contado desde la publicación del reglamento a que se refiere el artículo anterior, los titulares de cotos de pesca que se encuentren en funcionamiento deberán solicitar la inscripción correspondiente.
