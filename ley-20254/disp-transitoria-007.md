@@ -1,0 +1,1 @@
+Séptima.- El Presidente de la República, por decreto expedido a través del Ministerio de Hacienda, conformará el primer presupuesto del Instituto de Propiedad Industrial. Asimismo, podrá rebajar el presupuesto de la Secretaría y Administración General del Ministerio de Economía, Fomento y Reconstrucción, incluso disminuyendo dotación de personal y todas las glosas de personal.".
