@@ -1,0 +1,4 @@
+LEY NÚM. 20.261
+CREA EXAMEN ÚNICO NACIONAL DE CONOCIMIENTOS DE MEDICINA, INCORPORA CARGOS QUE INDICA AL SISTEMA DE ALTA DIRECCIÓN PÚBLICA Y MODIFICA LA LEY Nº19.664
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:

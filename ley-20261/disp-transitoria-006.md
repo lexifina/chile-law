@@ -1,0 +1,1 @@
+Artículo sexto.- El mayor gasto que represente la aplicación de esta ley durante su primer año de vigencia, se financiará con cargo al presupuesto del Ministerio de Salud. No obstante lo anterior, el Ministerio de Hacienda, con cargo a la partida presupuestaria Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no pudiera financiarse con esos recursos.
