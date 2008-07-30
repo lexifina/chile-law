@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 11 de julio de 2008.- MICHELLE BACHELET JERIA, Presidenta de la República.- Marigen Hornkohl Venegas, Ministra de Agricultura.- Andrés Velasco Brañes, Ministro de Hacienda.- Ana Lya Uriarte Rodríguez, Ministra Presidenta Comisión Nacional del Medio Ambiente.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Reinaldo Ruiz Valdés, Subsecretario de Agricultura.
