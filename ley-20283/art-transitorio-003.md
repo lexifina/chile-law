@@ -1,0 +1,1 @@
+Artículo 3º.- En el plazo que transcurra entre la aprobación de esta ley y el decreto supremo mencionado en el inciso primero del artículo 3º de la misma, se considerarán, como tales, los tipos forestales señalados en el artículo 19 del Reglamento Técnico del decreto ley Nº 701, de 1974, aprobado por decreto supremo Nº 259, de 1980, del Ministerio de Agricultura.
