@@ -1,0 +1,1 @@
+Artículo 24 bis A).- Responderá del cumplimiento del plan de manejo el propietario del bosque, si éste fuere una persona distinta del dueño del predio, salvo que se trate de bosques fiscales, caso en que responderá el concesionario o arrendatario del respectivo inmueble fiscal, o la persona o entidad autorizada para realizar obras civiles en dichos predios.
