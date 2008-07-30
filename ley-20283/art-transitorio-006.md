@@ -1,0 +1,1 @@
+Artículo 6°.- Las normas del Reglamento a que se refiere el artículo 17 de la presente ley, deberán dictarse en un plazo de dos años a contar de la fecha de la publicación de la presente ley en el Diario Oficial.
