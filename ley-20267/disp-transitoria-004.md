@@ -1,0 +1,1 @@
+Artículo cuarto.- Para la primera designación de los miembros de la Comisión a que se refiere el artículo 5° de esta ley, aquellos miembros señalados en las letras b) y c), como también uno de los miembros indicados en la letra d) y uno de los señalados en la letra e), durarán un período de dos años en sus cargos. Los demás miembros durarán un período completo de cuatro años.
