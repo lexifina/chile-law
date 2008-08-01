@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 6 de junio de 2008.- MICHELLE BACHELET JERIA, Presidenta de la República.- Osvaldo Andrade Lara, Ministro del Trabajo y Previsión Social.- Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.- Andrés Velasco Brañes, Ministro de Hacienda.- Mónica Jiménez de la Jara, Ministra de Educación.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Mauricio Jélvez Maturana, Subsecretario del Trabajo.
