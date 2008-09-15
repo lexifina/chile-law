@@ -1,4 +1,1 @@
-Artículo 74.- El mediador se cerciorará de que los cónyuges se encuentren en igualdad de condiciones para adoptar acuerdos. Si no fuese así, propondrá o adoptará, en su caso, las medidas necesarias para que se obtenga ese equilibrio. De no ser ello posible, declarará terminada la mediación.
-Se presume que no existe igualdad de condiciones entre los cónyuges si uno de ellos hubiere sido objeto de violencia intrafamiliar por parte del otro.
-El mediador velará, además, porque en el curso de la mediación se tomen en consideración los intereses de los hijos, si los hubiere, así como el de los interesados que no hubieren sido citados a la audiencia, a quienes podrá citar, con las mismas formalidades que a los cónyuges.
-El mediador deberá guardar reserva de todo lo escuchado o visto durante el proceso de mediación. La violación de dicha reserva será sancionada con la pena prevista en el artículo 247 del Código Penal.
+Artículo 74.- SUPRIMIDO
