@@ -1,2 +1,1 @@
-Artículo 73.- El mediador fijará una sesión inicial de la mediación, y citará a los cónyuges, por carta certificada, para que concurran personalmente. En esa sesión, el mediador deberá informar a las partes acerca de la naturaleza y los objetivos de la mediación, su duración y etapas y el carácter voluntario de los acuerdos que de ella deriven, y las ilustrará acerca del valor jurídico de dichos acuerdos.
-Si alguna de las partes, citada por dos veces, no concurriere a la sesión inicial ni justificare causa, se tendrá por frustrada la mediación. El juez tomará en consideración esta circunstancia para los efectos de regular las costas.
+Artículo 73.- SUPRIMIDO

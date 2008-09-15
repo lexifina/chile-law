@@ -1,0 +1,2 @@
+Artículo 66 bis.- Celebración de nueva audiencia. Si el juez ante el cual se desarrolló la audiencia de juicio no pudiera dictar sentencia por causa legal sobreviniente, aquélla deberá celebrarse nuevamente.
+En caso de nombramiento, promoción, destinación, traslado o comisión del juez ante el cual se desarrolló la audiencia del juicio, éste sólo podrá asumir su nueva función luego de haber dictado sentencia definitiva en las causas que tuviese pendientes.
