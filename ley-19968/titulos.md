@@ -11,6 +11,7 @@ Párrafo tercero De la prueba
 3. Prueba pericial
 4. Declaración de las partes
 5. Otros medios de prueba
+5. Admisibilidad y etapa de recepción
 Párrafo cuarto Del procedimiento ordinario ante los juzgados de familia
 TITULO IV PROCEDIMIENTOS ESPECIALES
 Párrafo primero De la aplicación judicial de medidas de protección de los derechos de los niños, niñas o adolescentes
