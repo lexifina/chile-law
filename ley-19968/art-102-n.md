@@ -1,0 +1,1 @@
+Artículo 102 N.- En los casos en que un niño, niña o adolescente inimputable incurra en una conducta ilícita, el juez de familia deberá citar a su padre, madre o a quien lo tenga a su cuidado a una audiencia, para los fines del artículo 234 del Código Civil.

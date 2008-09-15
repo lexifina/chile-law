@@ -1,2 +1,1 @@
-Artículo 68.- Deducida la demanda, el juez citará a las partes a una audiencia especial de conciliación, a la cual deberán comparecer personalmente.
-Podrá disponer medidas de apremio, de conformidad al artículo 543 del Código de Procedimiento Civil, para lograr la asistencia del cónyuge que no compareciere personalmente, sin causa justificada.
+Artículo 68.- Si el divorcio fuere solicitado de común acuerdo por ambos cónyuges, las partes podrán asistir a la audiencia a que se refiere el artículo anterior personalmente o representadas por sus apoderados.
