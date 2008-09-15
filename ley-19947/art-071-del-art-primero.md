@@ -1,3 +1,1 @@
-Artículo 71.- El juez ordenará llevar a cabo un proceso de mediación si ambos cónyuges lo solicitaren. En todo caso, no procederá mediación en relación a las causales de nulidad.
-También dispondrá que se efectúe cuando no se haya producido conciliación completa y suficiente entre los cónyuges, en los términos del artículo 27, salvo que se formare la convicción de que la mediación no será útil para conseguir esa finalidad.
-Esta decisión la adoptará al término de la audiencia de conciliación, dejando citados a los cónyuges para que concurran al tribunal en un día y una hora determinados a fin de proceder a la designación de mediador. Para tal efecto ordenará que se les informe sobre la nómina de mediadores que, de acuerdo al Registro de Mediadores, se encuentren habilitados para actuar en el territorio jurisdiccional del tribunal, con indicación del carácter gratuito o remunerado de sus servicios.
+Artículo 71.- SUPRIMIDO
