@@ -1,0 +1,1 @@
+Artículo 4° bis.- Sin perjuicio de lo establecido en esta ley, las afiliadas mayores de sesenta y hasta sesenta y cinco años de edad no pensionadas, tendrán derecho a pensión de invalidez y al aporte adicional para las pensiones de sobrevivencia que generaren, conforme a lo establecido en el artículo 54, con cargo al seguro a que se refiere el artículo 59.
