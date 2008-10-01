@@ -1,0 +1,4 @@
+Artículo 20 G.- Las Superintendencias de Pensiones, de Valores y Seguros y de Bancos e Instituciones Financieras, dictarán conjuntamente una norma de carácter general que establecerá los requisitos que deberán cumplir los contratos y los planes de ahorro previsional voluntario colectivo, así como los procedimientos necesarios para su correcto funcionamiento.
+Con el objeto que la oferta de un empleador de suscribir uno o más contratos tenga amplia cobertura y no discrimine arbitrariamente entre los distintos trabajadores, la referida norma de carácter general considerará al menos:
+a) El número o porcentaje mínimo de trabajadores, de un mismo empleador, que deban adherir a alguno de los contratos ofrecidos en relación al número total de aquellos;
+b) El número máximo de meses de permanencia en la empresa que los contratos podrán establecer como requisito para que el trabajador adquiera la propiedad de los aportes efectuados por el empleador.
