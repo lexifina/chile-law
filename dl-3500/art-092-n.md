@@ -1,0 +1,1 @@
+Artículo 92 N.- La Superintendencia regulará mediante una norma de carácter general, las materias relacionadas con las cotizaciones a que se refiere este párrafo. Dicha norma contendrá, a lo menos, los procedimientos para la determinación del porcentaje y el cobro de la cotización adicional y la imputación de las cotizaciones para los fines que corresponda.
