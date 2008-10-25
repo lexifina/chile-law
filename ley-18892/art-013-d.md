@@ -1,0 +1,1 @@
+Artículo 13 D.- La reinserción o liberación de los ejemplares mantenidos en un centro de rehabilitación deberá efectuarse en su hábitat natural. Un reglamento establecerá el procedimiento de reinserción, sus características y la calidad técnica que deberá poseer el personal que ejecute dicha actividad.
