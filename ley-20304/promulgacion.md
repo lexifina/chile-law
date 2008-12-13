@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 29 de noviembre de 2008.- MICHELLE BACHELET JERIA, Presidenta de la República.- Sergio Bitar Chacra, Ministro de Obras Públicas.- Andrés Velasco Brañes, Ministro de Hacienda.- Marcelo Tokman Ramos, Ministro Presidente Comisión Nacional de Energía (S).
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Juan Eduardo Saldivia Medina, Subsecretario de Obras Públicas
