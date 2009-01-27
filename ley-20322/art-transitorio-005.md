@@ -1,0 +1,2 @@
+Artículo 5º.- La provisión de los cargos de los Tribunales Tributarios y Aduaneros deberá efectuarse con no más de noventa ni menos de treinta días de antelación a la fecha que señala para la respectiva Región el artículo primero transitorio.
+En los mismos plazos deberá efectuarse la provisión de los nuevos cargos que se crean y la instalación de las nuevas salas en las respectivas Cortes de Apelaciones.

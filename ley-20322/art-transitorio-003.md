@@ -1,0 +1,1 @@
+Artículo 3º.- En el ejercicio de sus facultades jurisdiccionales, los Directores Regionales del Servicio de Impuestos Internos no estarán sujetos a lo dispuesto en el inciso final del artículo 6º del Código Tributario.
