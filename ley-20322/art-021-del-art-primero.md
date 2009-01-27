@@ -1,0 +1,1 @@
+Artículo 21.- Para el cargo de Jefe de Unidad será requisito poseer un título profesional, otorgado por una universidad del Estado o reconocida por éste, de una carrera de a lo menos diez semestres de duración.

@@ -1,0 +1,1 @@
+Artículo 9º.- Los Jueces Tributarios y Aduaneros podrán perder su competencia para conocer determinados negocios por implicancia o recusación declaradas, en virtud de las causales contempladas en los artículos 195 y 196 del Código Orgánico de Tribunales. Para estos efectos se aplicarán, en lo que sea pertinente, los artículos 199 a 202, 204 y 205 del mismo Código.

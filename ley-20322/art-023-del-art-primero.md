@@ -1,0 +1,1 @@
+Artículo 23.- La Unidad Administradora mantendrá dos cuentas corrientes bancarias a su nombre. Una de éstas se utilizará para los fines propios de la administración operativa de los Tribunales Tributarios y Aduaneros, y la otra se empleará para todos los fines judiciales.

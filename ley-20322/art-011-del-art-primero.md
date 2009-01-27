@@ -1,0 +1,1 @@
+Artículo 11.- A los Jueces Tributarios y Aduaneros y Secretarios Abogados, les son aplicables los deberes, prohibiciones e inhabilidades a que se refieren los artículos 316 a 323 ter del Párrafo 7 del Título X del Código Orgánico de Tribu-nales.

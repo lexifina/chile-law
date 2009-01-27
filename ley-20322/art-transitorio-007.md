@@ -1,0 +1,1 @@
+Artículo 7º.- El Servicio de Impuestos Internos y el Servicio Nacional de Aduanas, de conformidad a lo establecido en los artículos 131 bis del Código Tributario y 127 de la Ordenanza de Aduanas, deberán efectuar el registro de la dirección de correo electrónico dentro del mes anterior a la fecha en que cada tribunal deba entrar en funciones.

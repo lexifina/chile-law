@@ -1,0 +1,5 @@
+Artículo 1º.- Los artículos Primero a Noveno y Undécimo de esta ley entrarán en vigencia en cuatro años contados desde el día primero del mes siguiente al de la fecha de su publicación en el Diario Oficial.
+Sin perjuicio de lo dispuesto en el inciso anterior, dichos artículos entrarán a regir:
+En un año, contado desde el día primero del mes siguiente al de la fecha de su publicación en el Diario Oficial, en las siguientes Regiones: XV Región de Arica y Parinacota, I Región de Tarapacá, II Región de Antofagasta, III Región de Atacama.
+En dos años, contados desde el día primero del mes siguiente al de la fecha de su publicación en el Diario Oficial, en las siguientes Regiones: IV Región de Coquimbo, VII Región del Maule, IX Región de La Araucanía, XII Región de Magallanes y Antártica Chilena.
+En tres años, contados desde el día primero del mes siguiente al de la fecha de su publicación en el Diario Oficial, en las siguientes Regiones: VIII Región del Bío Bío, XIV Región de Los Ríos, X Región de Los Lagos, XI Región de Aysén del General Carlos Ibáñez del Campo.".

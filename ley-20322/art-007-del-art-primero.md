@@ -1,0 +1,1 @@
+Artículo 7º.- Antes de asumir sus funciones, los Jueces Tributarios y Aduaneros prestarán juramento o promesa de guardar la Constitución y las leyes de la República ante el Presidente de la respectiva Corte de Apelaciones.
