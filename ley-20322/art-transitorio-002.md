@@ -1,0 +1,1 @@
+Artículo 2º.- Las causas tributarias que, a la fecha de entrada en funciones de los Tribunales Tributarios y Aduaneros que crea esta ley, se encontraren pendientes de resolución, serán resueltas por el respectivo Director Regional del Servicio de Impuestos Internos de conformidad con el procedimiento vigente a la fecha de la interposición del reclamo.
