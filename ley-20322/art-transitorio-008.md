@@ -1,0 +1,1 @@
+Artículo 8º.- Sin perjuicio de lo dispuesto en el artículo 1º transitorio, el Título II del Artículo Primero y el número 7) del Artículo Tercero de esta ley regirán a contar de la fecha de su publicación en el Diario Oficial.
