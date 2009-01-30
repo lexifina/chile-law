@@ -1,0 +1,1 @@
+Artículo 58F.- La Sociedad Administradora deberá contar con políticas de inversión y de solución de conflictos de interés para los Fondos de Cesantía observando lo dispuesto en el artículo 50 del decreto ley N° 3.500, de 1980.
