@@ -1,0 +1,1 @@
+Artículo 62 bis.- En caso de nulidad del acto eleccionario de alcalde, declarada por sentencia firme o ejecutoriada por el tribunal electoral competente, las funciones correspondientes serán desempeñadas por el secretario municipal, hasta la investidura del nuevo alcalde.
