@@ -1,0 +1,1 @@
+Artículo 58I.- Los integrantes del Consejo Técnico de Inversiones percibirán una dieta adicional en pesos equivalentes a 17 unidades tributarias mensuales por cada sesión que asistan, con un máximo de 34 unidades tributarias mensuales por cada mes calendario, cuando el Consejo deba tratar en dicha sesión, materias relacionadas exclusivamente con los Fondos de Cesantía.
