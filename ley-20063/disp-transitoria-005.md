@@ -1,1 +1,0 @@
-Artículo quinto.- Durante la vigencia de esta ley, suspéndese el mecanismo de estabilización dispuesto en la ley N° 19.030 para los derivados del petróleo a que se refiere el artículo 1° de la presente ley.
