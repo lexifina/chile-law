@@ -1,0 +1,1 @@
+Artículo 3º.- El mayor gasto que represente la aplicación de esta ley durante el primer año de su vigencia, se financiará mediante transferencias del ítem 50-01-03-24-03-104 de la Partida Presupuestaria Tesoro Público de la Ley de Presupuestos del año respectivo.".

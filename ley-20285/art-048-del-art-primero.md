@@ -1,0 +1,1 @@
+Artículo 48.- Las sanciones previstas en este Título, deberán ser publicadas en los sitios electrónicos del Consejo y del respectivo órgano o servicio, dentro del plazo de cinco días hábiles, contados desde que la respectiva resolución quede a firme.

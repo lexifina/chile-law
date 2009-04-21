@@ -1,0 +1,4 @@
+Artículo 16.- La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, estará obligado a proporcionar la información que se le solicite, salvo que concurra la oposición regulada en el artículo 20 o alguna de las causales de secreto o reserva que establece la ley.
+En estos casos, su negativa a entregar la información deberá formularse por escrito, por cualquier medio, incluyendo los electrónicos.
+Además, deberá ser fundada, especificando la causal legal invocada y las razones que en cada caso motiven su decisión. Todo abuso o exceso en el ejercicio de sus potestades, dará lugar a las acciones y recursos correspondientes.
+La resolución denegatoria se notificará al requirente en la forma dispuesta en el inciso final del artículo 12 y la reclamación recaída en ella se deducirá con arreglo a lo previsto en los artículos 24 y siguientes.

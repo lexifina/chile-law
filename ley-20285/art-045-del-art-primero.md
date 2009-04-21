@@ -1,0 +1,1 @@
+Artículo 45.- La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, que hubiere denegado infundadamente el acceso a la información, contraviniendo, así, lo dispuesto en el artículo 16, será sancionado con multa de 20% a 50% de su remuneración.

@@ -1,0 +1,8 @@
+Artículo 1°.- La presente ley regula el principio de transparencia de la función pública, el derecho de acceso a la información de los órganos de la Administración del Estado, los procedimientos para el ejercicio del derecho y para su amparo, y las excepciones a la publicidad de la información.
+Para los efectos de esta ley se entenderá por:
+1. La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado: es la autoridad con competencia comunal, provincial, regional o, en su caso, el jefe superior del servicio a nivel nacional.
+2. El Consejo: el Consejo para la Transparencia.
+3. Días hábiles o plazo de días hábiles: es el plazo de días establecido en el artículo 25 de la ley Nº 19.880 , sobre Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado, entendiéndose por inhábiles los sábados, los domingos y los festivos.
+4. La Ley de Transparencia: la presente Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado.
+5. Los órganos o servicios de la Administración del Estado: los señalados en el inciso segundo del artículo 1º de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado está contenido en el D.F.L. Nº 1-19.653, de 2001, del Ministerio Secretaría General de la Presidencia .
+6. Sitios electrónicos: También denominados "sitios web". Dispositivos tecnológicos que permiten transmitir información por medio de computadores, líneas telefónicas o mediante el empleo de publicaciones digitales.

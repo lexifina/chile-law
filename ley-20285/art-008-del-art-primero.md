@@ -1,0 +1,1 @@
+Artículo 8°.- Cualquier persona podrá presentar un reclamo ante el Consejo si alguno de los organismos de la Administración no informa lo prescrito en el artículo anterior. Esta acción estará sometida al mismo procedimiento que la acción regulada en los artículos 24 y siguientes.

@@ -1,0 +1,1 @@
+Artículo transitorio.- La presente ley entrará en vigencia ocho meses después de publicada en el Diario Oficial, salvo el artículo 2º transitorio de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado, que regirá desde su publicación en el Diario Oficial.
