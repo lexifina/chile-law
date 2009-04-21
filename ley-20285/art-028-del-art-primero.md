@@ -1,0 +1,4 @@
+Artículo 28.- En contra de la resolución del Consejo que deniegue el acceso a la información, procederá el reclamo de ilegalidad ante la Corte de Apelaciones del domicilio del reclamante.
+Los órganos de la Administración del Estado no tendrán derecho a reclamar ante la Corte de Apelaciones de la resolución del Consejo que otorgue el acceso a la información que hubieren denegado, cuando la denegación se hubiere fundado en la causal del número 1 del artículo 21.
+El afectado también podrá reclamar de la resolución del Consejo ante la Corte de Apelaciones respectiva, cuando la causal invocada hubiere sido la oposición oportunamente deducida por el titular de la información, de conformidad con el artículo 20.
+El reclamo deberá interponerse en el plazo de quince días corridos, contado desde la notificación de la resolución reclamada, deberá contener los fundamentos de hecho y de derecho en que se apoya y las peticiones concretas que se formulan.

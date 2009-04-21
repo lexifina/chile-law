@@ -1,0 +1,1 @@
+Artículo 29.- En caso que la resolución reclamada hubiere otorgado el acceso a la información denegada por un órgano de la Administración del Estado, la interposición del reclamo, cuando fuere procedente, suspenderá la entrega de la información solicitada y la Corte no podrá decretar medida alguna que permita el conocimiento o acceso a ella.
