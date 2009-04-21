@@ -1,0 +1,1 @@
+Artículo 35.- Todos los actos y resoluciones del Consejo, así como sus fundamentos y los procedimientos que se utilicen, serán públicos, exceptuando aquella información que en virtud del artículo 8º de la Constitución Política y de las disposiciones contenidas en la presente ley, tenga el carácter de reservado o secreto.

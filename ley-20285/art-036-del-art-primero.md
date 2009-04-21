@@ -1,0 +1,4 @@
+Artículo 36.- La dirección y administración superiores del Consejo corresponderán a un Consejo Directivo integrado por cuatro consejeros designados por el Presidente de la República, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio. El Presidente hará la proposición en un solo acto y el Senado deberá pronunciarse respecto de la propuesta como una unidad.
+Los consejeros durarán seis años en sus cargos pudiendo ser designados sólo para un nuevo período. Se renovarán por parcialidades de tres años.
+El Consejo Directivo elegirá de entre sus miembros a su Presidente. Para el caso de que no haya acuerdo, la designación del Presidente se hará por sorteo.
+La presidencia del Consejo será rotativa. El Presidente durará dieciocho meses en el ejercicio de sus funciones, y no podrá ser reelegido por el resto de su actual período como consejero.

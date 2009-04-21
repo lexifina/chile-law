@@ -1,0 +1,2 @@
+Artículo 46.- La no entrega oportuna de la información en la forma decretada, una vez que ha sido ordenada por resolución a firme, será sancionada con multa de 20% a 50% de la remuneración correspondiente.
+Si la autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, persistiere en su actitud, se le aplicará el duplo de la sanción indicada y la suspensión en el cargo por un lapso de cinco días.

@@ -1,0 +1,5 @@
+Artículo 24.- Vencido el plazo previsto en el artículo 14 para la entrega de la documentación requerida, o denegada la petición, el requirente tendrá derecho a recurrir ante el Consejo establecido en el Título V, solicitando amparo a su derecho de acceso a la información.
+La reclamación deberá señalar claramente la infracción cometida y los hechos que la configuran, y deberá acompañarse de los medios de prueba que los acrediten, en su caso.
+La reclamación deberá presentarse dentro del plazo de quince días, contado desde la notificación de la denegación de acceso a la información o desde que haya expirado el plazo previsto en el artículo 14 para la entrega de información.
+Cuando el requirente tenga su domicilio fuera de la ciudad asiento del Consejo, podrá presentar su reclamo en la respectiva gobernación, la que deberá transmitirla al Consejo de inmediato y por el medio más expedito de que disponga. En estos casos, el reclamo se entenderá presentado en la fecha de su recepción por la gobernación.
+El Consejo pondrá formularios de reclamos a disposición de los interesados, los que también proporcionará a las gobernaciones.

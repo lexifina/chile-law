@@ -1,0 +1,2 @@
+Artículo 34.- Para el ejercicio de sus atribuciones, el Consejo podrá solicitar la colaboración de los distintos órganos del Estado. Podrá, asimismo, recibir todos los testimonios y obtener todas las informaciones y documentos necesarios para el examen de las situaciones comprendidas en el ámbito de su competencia.
+Igualmente, para el cumplimiento de sus fines, el Consejo podrá celebrar convenios con instituciones o corporaciones sin fines de lucro, para que éstas presten la asistencia profesional necesaria para ello.

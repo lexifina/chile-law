@@ -1,0 +1,1 @@
+Artículo 9°.- Las reparticiones encargadas del control interno de los órganos u organismos de la Administración, tendrán la obligación de velar por la observancia de las normas de este Título, sin perjuicio de las atribuciones y funciones que esta ley encomienda al Consejo y a la Contraloría General de la República.

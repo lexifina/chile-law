@@ -1,0 +1,4 @@
+Artículo 2°.- Las disposiciones de esta ley serán aplicables a los ministerios, las intendencias, las gobernaciones, los gobiernos regionales, las municipalidades, las Fuerzas Armadas, de Orden y Seguridad Pública, y los órganos y servicios públicos creados para el cumplimiento de la función administrativa.
+La Contraloría General de la República y el Banco Central se ajustarán a las disposiciones de esta ley que expresamente ésta señale, y a las de sus respectivas leyes orgánicas que versen sobre los asuntos a que se refiere el artículo 1º precedente.
+También se aplicarán las disposiciones que esta ley expresamente señale a las empresas públicas creadas por ley y a las empresas del Estado y sociedades en que éste tenga participación accionaria superior al 50% o mayoría en el directorio.
+Los demás órganos del Estado se ajustarán a las disposiciones de sus respectivas leyes orgánicas que versen sobre los asuntos a que se refiere el artículo 1º precedente.
