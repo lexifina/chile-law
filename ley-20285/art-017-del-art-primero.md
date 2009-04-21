@@ -1,0 +1,2 @@
+Artículo 17.- La información solicitada se entregará en la forma y por el medio que el requirente haya señalado, siempre que ello no importe un costo excesivo o un gasto no previsto en el presupuesto institucional, casos en que la entrega se hará en la forma y a través de los medios disponibles.
+Se deberá contar con un sistema que certifique la entrega efectiva de la información al solicitante, que contemple las previsiones técnicas correspondientes.
