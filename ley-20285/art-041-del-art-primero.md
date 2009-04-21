@@ -1,0 +1,1 @@
+Artículo 41.- Los estatutos del Consejo establecerán sus normas de funcionamiento. Los estatutos y sus modificaciones serán propuestos al Presidente de la República por, a lo menos, una mayoría de tres cuartos de sus miembros, y su aprobación se dispondrá mediante decreto supremo expedido a través del Ministerio Secretaría General de la Presidencia.
