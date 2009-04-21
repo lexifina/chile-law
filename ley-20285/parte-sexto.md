@@ -1,0 +1,4 @@
+Artículo sexto.- El Congreso Nacional se rige por el principio de la transparencia en el ejercicio de la función pública consagrado en el inciso segundo del artículo 8º de la Constitución Política y en los artículos 3º y 4º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.
+Las Cámaras deberán dar cumplimiento a lo dispuesto en el artículo 7º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, en lo pertinente.
+Deberán especialmente publicar, además, la asistencia de los parlamentarios a las sesiones de Sala y de comisiones, las votaciones y elecciones a las que concurran y las dietas y demás asignaciones que perciban.
+Los reglamentos de ambas Cámaras consignarán las normas que cautelen el acceso del público a la información de que trata este artículo.

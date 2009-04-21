@@ -1,0 +1,4 @@
+Artículo 27.- La resolución del reclamo se dictará dentro de quinto día hábil de vencido el plazo a que se refiere el artículo 25, sea que se hayan o no presentado descargos. En caso de haberse decretado la audiencia a que se refiere el mismo artículo, este plazo correrá una vez vencido el término fijado para ésta.
+La resolución del Consejo que otorgue el acceso a la información, fijará un plazo prudencial para su entrega por parte del órgano requerido.
+La resolución será notificada mediante carta certificada al reclamante, al órgano reclamado y al tercero, si lo hubiere.
+En la misma resolución, el Consejo podrá señalar la necesidad de iniciar un procedimiento disciplinario para establecer si algún funcionario o autoridad ha incurrido en alguna de las infracciones al Título VI, el que se instruirá conforme a lo señalado en esta ley.
