@@ -1,0 +1,1 @@
+Artículo 40.- El Consejo Directivo adoptará sus decisiones por la mayoría de sus miembros y, en caso de empate, resolverá su Presidente. El quórum mínimo para sesionar será de tres consejeros. El reglamento establecerá las demás normas necesarias para su funcionamiento.
