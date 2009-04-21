@@ -1,0 +1,1 @@
+Artículo 19.- La entrega de copia de los actos y documentos se hará por parte del órgano requerido sin imponer condiciones de uso o restricciones a su empleo, salvo las expresamente estipuladas por la ley.
