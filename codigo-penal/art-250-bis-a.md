@@ -1,3 +1,1 @@
-ART. 250 bis A.
-El que ofreciere dar a un funcionario público extranjero un beneficio económico, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja en el ámbito de transacciones comerciales internacionales, será sancionado con las mismas penas de reclusión, multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. De igual forma será castigado el que ofreciere dar el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
-El que, en iguales hipótesis a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo, además de las mismas penas de multa e inhabilitación señaladas.
+ART. 250 bis A. Derogado

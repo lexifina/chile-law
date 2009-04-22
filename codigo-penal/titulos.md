@@ -46,6 +46,7 @@ TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBL
 § VII. Infidelidad en la custodia de documentos.
 § VIII. Violación de secretos.
 § IX. Cohecho.
+§ 9 bis. Cohecho a Funcionarios Públicos Extranjeros
 § X. Resistencia y desobediencia.
 § XI. Denegación de auxilio y abandono de destino.
 § XII. Abusos contra particulares.
