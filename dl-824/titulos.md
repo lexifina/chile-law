@@ -24,3 +24,4 @@ Párrafo 2° De la retención del impuesto
 Párrafo 3° Declaración y pago mensual provisional
 Párrafo 4° De los informes obligatorios
 Párrafo 5° Disposiciones varias
+TÍTULO VI Disposiciones especiales relativas al mercado de capitales
