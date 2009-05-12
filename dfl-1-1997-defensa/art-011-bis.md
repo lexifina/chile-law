@@ -1,0 +1,2 @@
+Artículo 11 BIS.- El personal de tropa profesional no constituirá escalafón. No obstante, podrá agruparse en las mismas calidades y especialidades que se establecen para los escalafones del cuadro permanente y de gente de mar, de acuerdo a lo que establezca la respectiva reglamentación institucional.
+Las dotaciones del personal que integrará el grado de marinero o soldado en las plantas de tropa profesional, serán determinadas por decreto supremo, de acuerdo con las necesidades de la institución, y se ceñirán a lo dispuesto por el artículo 436 del Código de Justicia Militar.
