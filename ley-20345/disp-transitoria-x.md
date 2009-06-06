@@ -1,0 +1,2 @@
+Artículo transitorio.- Esta ley entrará en vigencia a contar de su publicación en el Diario Oficial.
+Sin embargo, las entidades que a la fecha de entrada en vigencia efectúen la compensación y liquidación de instrumentos financieros, tendrán un plazo de quince meses contados desde tal fecha para adecuarse a las disposiciones de esta ley. Asimismo, lo dispuesto en los artículos 43 y 44 entrará en vigencia después de quince meses contados desde la fecha de publicación de la presente ley en el Diario Oficial.

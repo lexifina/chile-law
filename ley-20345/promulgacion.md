@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 14 de mayo de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Velasco Brañes, Ministro de Hacienda.- Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.- Carlos Maldonado Curti, Ministro de Justicia.- Marigen Hornkohl Venegas, Ministra de Agricultura.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
