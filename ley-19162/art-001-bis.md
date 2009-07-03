@@ -1,0 +1,1 @@
+Artículo 1° bis.- El Servicio Agrícola y Ganadero establecerá las normas de un Sistema de Trazabilidad del ganado y carne, las que deberán, a lo menos, contemplar los siguientes elementos: registro de establecimientos pecuarios, declaración de existencias de animales, identificación animal oficial, registro de movimientos de animales y base de datos oficial.
