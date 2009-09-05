@@ -1,0 +1,3 @@
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 1 de septiembre de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Andrés Velasco Brañes, Ministro de Hacienda.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.- Sergio Bitar Chacra, Ministro de Obras Públicas.- Paula Quintana Meléndez, Ministra de Planificación.- Edmundo Pérez Yoma, Ministro del Interior.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Álvaro Henríquez Aguirre, Subsecretario de Transportes (S).
