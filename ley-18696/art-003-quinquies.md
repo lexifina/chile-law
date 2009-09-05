@@ -1,0 +1,1 @@
+Artículo 3° quinquies.- De la Garantía de Fiel Cumplimiento. El concesionario deberá constituir la garantía de fiel cumplimiento del contrato, en la forma, monto y oportunidad establecida en las bases de licitación.

@@ -1,0 +1,2 @@
+Artículo 3° sexies.- De Los Bienes Afectos a la Concesión. Las bases de licitación y los contratos de concesión podrán considerar, si se estima pertinente por el Ministerio de Transportes y Telecomunicaciones, los bienes y derechos afectos a la concesión, los cuales al término de la concesión deberán ser transferidos a quien le suceda en la respectiva concesión.
+Para determinar la continuidad de los vehículos e infraestructura adscrita a la concesión se observará el procedimiento establecido en las respectivas bases de licitación y en los contratos respectivos.
