@@ -1,0 +1,4 @@
+LEY NÚM. 20.379
+CREA EL SISTEMA INTERSECTORIAL DE PROTECCIÓN SOCIAL E INSTITUCIONALIZA EL SUBSISTEMA DE PROTECCIÓN INTEGRAL A LA INFANCIA "CHILE CRECE CONTIGO"
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
