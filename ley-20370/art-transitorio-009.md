@@ -1,0 +1,1 @@
+Artículo 9º.- Tratándose de establecimientos educacionales que impartan exclusivamente enseñanza parvularia, el Ministerio de Educación podrá encomendar a otros organismos públicos relacionados o dependientes del mismo, la certificación del cumplimiento de los requisitos señalados en el artículo 46 de esta ley.
