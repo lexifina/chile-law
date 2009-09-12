@@ -1,0 +1,1 @@
+Artículo 4º.- Los sostenedores de establecimientos educacionales, para los efectos de dar cumplimiento a lo prescrito en la letra h) del artículo 46 de esta ley, deberán acreditar la solvencia requerida en ella y,o constituir, cuando sea necesario, las garantías reales o personales exigidas, en el plazo de un año contado desde la fecha de su publicación.
