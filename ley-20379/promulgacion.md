@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 1 de septiembre de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paula Quintana Meléndez, Ministra de Planificación.- Andrés Velasco Brañes, Ministro de Hacienda.- Álvaro Erazo Latorre, Ministro de Salud.- Mónica Jiménez de la Jara, Ministra de Educación.
+Lo que comunico a Ud. para su conocimiento.- Eduardo Abedrapo Bustos, Subsecretario de Planificación.
