@@ -1,0 +1,1 @@
+Artículo segundo.- El Ministerio de Planificación tendrá un plazo máximo de seis meses desde la entrada en vigencia de esta ley para implementar el Registro Nacional de Encuestadores a que se refiere el artículo 6º.
