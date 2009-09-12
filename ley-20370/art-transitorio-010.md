@@ -1,0 +1,1 @@
+Artículo 10.- En tanto no entren en vigencia las normas que crean la Superintendencia de Educación y la Agencia de Calidad de la Educación, las facultades que la presente ley les otorga serán ejercidas por el Ministerio de Educación.
