@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 11 de septiembre de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- Álvaro Erazo Latorre, Ministro de Salud.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.- Mónica Jiménez de la Jara, Ministra de Educación.- Carlos Maldonado Curti, Ministro de Justicia.- Marigen Hornkohl Venegas, Ministra de Agricultura.
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cecilia Morales Veloso, Subsecretaria de Salud Pública Subrogante.
