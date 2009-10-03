@@ -1,0 +1,2 @@
+Artículo 1°.- El Comité de Bioética Animal deberá constituirse dentro de los sesenta días siguientes a la publicación de esta ley.
+Para tal efecto, el Consejo de Rectores de las Universidades Chilenas, dentro de los primeros treinta días, comunicará, según corresponda, a los presidentes, directores o representantes legales de las instituciones señaladas en el artículo 9º , la obligación de proceder a designar a los integrantes de dicho Comité dentro del plazo establecido en el inciso anterior.
