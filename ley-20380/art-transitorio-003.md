@@ -1,0 +1,1 @@
+Artículo 3°.- Los establecimientos y medios de transporte que deban adecuar sus instalaciones a las normas de esta ley, tendrán, para tal efecto, el plazo de un año, a contar de la publicación del reglamento respectivo.
