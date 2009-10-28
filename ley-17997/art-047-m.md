@@ -1,0 +1,1 @@
+Artículo 47 M.- La sentencia que se pronuncie sobre la cuestión de inaplicabilidad deberá notificarse a la o las partes que formularon el requerimiento y comunicarse al juez o a la sala del tribunal que conoce del asunto, haya o no requerido, y a los órganos señalados en el artículo 47 H. Deberá, además, publicarse en la forma y plazo establecidos en el artículo 31 bis.
