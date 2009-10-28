@@ -1,0 +1,2 @@
+Artículo 46 D.- La sentencia que acoja la cuestión promovida por el Presidente de la República será comunicada al Contralor General para que proceda, de inmediato, a tomar razón del decreto con fuerza de ley respectivo.
+La sentencia que acoja una cuestión respecto de todo o parte de un decreto con fuerza de ley del cual la Contraloría General haya tomado razón, será publicada en la forma y plazo que señala el artículo 31 bis. A partir de la fecha de publicación, la norma respectiva se entenderá derogada, sin efecto retroactivo.
