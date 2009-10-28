@@ -1,0 +1,3 @@
+Artículo 37 D.- Declarada la admisibilidad del requerimiento, se comunicará a la Corte Suprema, a la Corte de Apelaciones o al Tribunal Calificador de Elecciones que haya dictado el auto acordado impugnado y, cuando corresponda, se comunicará al tribunal de la gestión o juicio pendiente y se notificará a las partes de éste, enviándoles copia del requerimiento, para que, en el plazo de diez días, hagan llegar al Tribunal las observaciones y los antecedentes que estimen pertinentes.
+Declarada la admisibilidad, la resolución se notificará a quien haya requerido.
+La resolución que declare la admisibilidad o inadmisibilidad del requerimiento no será susceptible de recurso alguno.
