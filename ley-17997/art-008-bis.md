@@ -1,0 +1,1 @@
+Artículo 8º bis.- El Ministro que, conforme a lo dispuesto en el artículo 25 B de esta ley, presida la sala que no integre el Presidente del Tribunal, tendrá respecto a las sesiones que ella celebre las atribuciones que señala el artículo 8°, en lo que corresponda.

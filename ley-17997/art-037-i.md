@@ -1,0 +1,2 @@
+Artículo 37 I.- En el caso del requerimiento deducido por una parte en un juicio o gestión pendiente ante un tribunal ordinario o especial, el Tribunal impondrá las costas a la persona natural o jurídica que haya solicitado su intervención, si el requerimiento es rechazado en la sentencia final. Con todo, el Tribunal podrá eximirla de ellas cuando el requirente haya tenido motivo plausible para deducir su acción, sobre lo cual hará declaración expresa en su resolución.
+Para los efectos de las costas, se aplicará lo dispuesto en el artículo 47 Y de esta ley.
