@@ -1,1 +1,1 @@
-Artículo 3°.- Las normas relativas a la edad establecidas en el inciso cuarto del artículo 81 de la Constitución Política y en el número 3 del artículo 13 de la presente ley, no se aplicarán a aquellos miembros que sean Ministros de la Corte Suprema al 11 de Marzo de 1981 y que en el carácter de tales sean elegidos miembros del Tribunal Constitucional.
+Artículo 3°. Derogado
