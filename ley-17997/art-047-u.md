@@ -1,0 +1,1 @@
+Artículo 47 U.- El plazo para dictar sentencia será de treinta días, contados desde que concluya la tramitación de la causa, término que podrá ser prorrogado hasta por otros quince días, por resolución fundada del Tribunal.

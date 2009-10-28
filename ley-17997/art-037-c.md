@@ -1,0 +1,7 @@
+Artículo 37 C.- Dentro del plazo de cinco días, contado desde que el requerimiento sea acogido a tramitación, el Tribunal se pronunciará sobre la admisibilidad o inadmisibilidad del mismo. Si el requirente pide alegar acerca de la admisibilidad, y en virtud de lo dispuesto en el artículo 32 B el Tribunal acoge la solicitud, dará traslado de esta cuestión, por tres días, al tribunal que haya dictado el auto acordado impugnado y a los órganos y las personas legitimados.
+Procederá declarar la inadmisibilidad de la cuestión de inconstitucionalidad, en los siguientes casos:
+1° Cuando el requerimiento no es formulado por una persona u órgano legitimado;
+2° Cuando se promueva respecto de un auto acordado o de una de sus disposiciones, que hayan sido declarados constitucionales en una sentencia previa dictada de conformidad a este Párrafo y se invoque el mismo vicio materia de dicha sentencia;
+3° Cuando no exista gestión, juicio o proceso penal pendiente, en los casos en que sea promovida por una parte o persona constitucionalmente legitimada, y
+4° Cuando no se indique la manera en que el auto acordado afecta el ejercicio de los derechos constitucionales del requirente, en los casos en que sea promovida por una parte o persona constitucionalmente legitimada.
+Declarada la inadmisibilidad por resolución fundada, ésta será notificada a quien haya recurrido y el requerimiento se tendrá por no presentado, para todos los efectos legales.

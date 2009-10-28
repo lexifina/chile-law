@@ -1,0 +1,1 @@
+Artículo 47 V.- La declaración de inconstitucionalidad de las normas legales cuestionadas deberá fundarse únicamente en la infracción de él o los preceptos constitucionales que fueron considerados transgredidos por la sentencia previa de inaplicabilidad que le sirve de sustento.

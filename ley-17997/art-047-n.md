@@ -1,0 +1,3 @@
+Artículo 47 N.- La sentencia que declare la inaplicabilidad sólo producirá efectos en el juicio en que se solicite.
+En caso de que la inaplicabilidad haya sido deducida por una parte del juicio o gestión, si el requerimiento es rechazado en la sentencia final, el Tribunal impondrá las costas a la persona natural o jurídica que haya requerido su intervención. Con todo, podrá eximirla de ellas cuando el requirente haya tenido motivos plausibles para deducir su acción, sobre lo cual hará declaración expresa en su resolución.
+Respecto de las costas, se aplicará la dispuesto en el artículo 47 Y de esta ley.

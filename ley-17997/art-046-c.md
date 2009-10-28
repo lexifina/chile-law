@@ -1,0 +1,2 @@
+Artículo 46 C.- Declarada admisible la cuestión, se comunicará a los órganos constitucionales interesados para que, dentro del plazo de diez días, formulen las observaciones y presenten los antecedentes que estimen pertinentes.
+El plazo para dictar sentencia será de treinta días, contado desde la declaración de admisibilidad, término que podrá ser prorrogado hasta por otros quince días, por resolución fundada del Tribunal.
