@@ -1,4 +1,4 @@
-Artículo 14 bis.- Los Ministros y los abogados integrantes del Tribunal Constitucional deberán efectuar una declaración jurada de patrimonio en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+Artículo 14 bis.- Los Ministros y los suplentes de ministro del Tribunal Constitucional deberán efectuar una declaración jurada de patrimonio en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 La declaración de patrimonio deberá efectuarse ante el Secretario del Tribunal, quien la mantendrá para su consulta pública.
 La no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
 El incumplimiento de la obligación de actualizar la declaración de patrimonio se sancionará con multa de cinco a quince unidades tributarias mensuales.

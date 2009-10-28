@@ -1,1 +1,1 @@
-Artículo 4°.- Los primeros integrantes a que se refiere el artículo 15 de la presente ley, deberán ser designados dentro de los sesenta días siguientes al de la publicación de esta ley y durarán en sus cargos tres años a partir del 1° de Enero de 1982.
+Artículo 4°. Derogado

@@ -1,0 +1,1 @@
+Artículo 72 E.- El plazo para dictar sentencia será de veinte días, contado desde que concluya la tramitación de la causa, término que podrá ser prorrogado hasta por otros veinte días, por resolución fundada del Tribunal.

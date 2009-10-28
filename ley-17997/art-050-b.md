@@ -1,0 +1,1 @@
+Artículo 50 B.- Una vez declarada admisible, se dará traslado al o a los otros órganos en conflicto para que, en el plazo de diez días, hagan llegar al Tribunal las observaciones y antecedentes que estimen pertinentes.
