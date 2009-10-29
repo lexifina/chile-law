@@ -1,1 +1,1 @@
-Artículo 1°.- El Ministerio de Transportes y Telecomunicaciones podrá, antes del 1° de enero de 1985, otorgar las autorizaciones que señala el artículo 9° para que las Municipalidades otorguen licencias de conductor a partir de la vigencia de esta ley.
+Artículo 1º.- El tiempo de posesión de la licencia de conductor otorgada en conformidad a la Ordenanza General de Tránsito, valdrá para los efectos indicados en el artículo 13.
