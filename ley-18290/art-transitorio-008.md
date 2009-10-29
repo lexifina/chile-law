@@ -1,2 +1,0 @@
-Artículo 8°.- No obstante lo establecido en el artículo anterior, deberá pagarse el permiso de circulación de los vehículos motorizados, correspondiente al año 1985, de acuerdo con lo establecido en el decreto ley N° 3.063, de 1979.
-El pago se acreditará mediante un certificado que otorgue la Municipalidad como complementario del padrón y con un sello valorado que entregará la Municipalidad y que deberá colocarse en el parabrisas delantero del vehículo, costado superior izquierdo.
