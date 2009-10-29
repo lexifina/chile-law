@@ -1,1 +1,0 @@
-Artículo 10.- Las disposiciones contenidas en los artículos 64, 65, 66, 67, 68, 69, 70, 74, 75, 76, 77 y 84 de esta ley mantendrán su vigencia hasta que el Ministerio de Transportes y Telecomunicaciones dicte los reglamentos respectivos.
