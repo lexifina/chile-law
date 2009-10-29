@@ -1,3 +1,6 @@
-MINISTERIO DE JUSTICIA LEY NUM. 18.290 LEY DE TRANSITO (Publicada en el "Diario Oficial" N° 31.791, de 7 de Febrero de 1984.
-La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente
-Proyecto de ley:
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY DE TRÁNSITO
+DFL Nº 1.- Santiago, 27 de diciembre de 2007.- Vistos: Lo dispuesto en el artículo 64 de la Constitución Política de la República, y
+Considerando:
+1.- Que en el artículo 64 inciso 5º de la Constitución Política de la República, se faculta al Presidente de la República a fijar el texto refundido, coordinado y sistematizado de las leyes cuando sea conveniente para su mejor ejecución.
+2.- La necesidad de refundir, coordinar y sistematizar el citado cuerpo legal.
+Decreto con fuerza de ley:
