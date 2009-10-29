@@ -1,1 +1,0 @@
-Artículo 7°.- Las patentes y padrones otorgados durante el año 1984, continuarán vigentes y valdrán hasta las fechas en que, respecto de cada vehículo, deba obtenerse la patente única de acuerdo con el artículo 5° transitorio.
