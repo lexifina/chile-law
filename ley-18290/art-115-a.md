@@ -1,2 +1,0 @@
-Artículo 115 A.- Se prohíbe, al conductor y a los pasajeros, el consumo de bebidas alcohólicas en el interior de vehículos motorizados.
-Se prohíbe, asimismo, la conducción de cualquier vehículo o medio de transporte, la operación de cualquier tipo de maquinaria o el desempeño de las funciones de guardafrenos, cambiadores o controladores de tránsito, ejecutados en estado de ebriedad, bajo la influencia de sustancias estupefacientes o sicotrópicas, o bajo la influencia del alcohol.
