@@ -1,0 +1,1 @@
+Artículo 390 bis.- La Dirección del Trabajo deberá llevar un registro de las sentencias condenatorias por prácticas desleales en la negociación colectiva, debiendo publicar semestralmente la nómina de empresas y organizaciones sindicales infractoras. Para este efecto, el tribunal enviará a la Dirección del Trabajo copia de los respectivos fallos.
