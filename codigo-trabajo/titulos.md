@@ -79,12 +79,14 @@ Título XI NORMAS ESPECIALES
 LIBRO V DE LA JURISDICCION LABORAL
 Título I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO
 Capítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional
-Capítulo II DEL PROCEDIMIENTO
-Párrafo 1° Reglas Comunes
-Párrafo 2° Del procedimiento de aplicación general
-Párrafo 3° Del juicio laboral de menor cuantía
-Párrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo
-Párrafo 5° De los recursos
-Título II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES
+Capítulo II De los principios formativos del proceso y del procedimiento en juicio del trabajo
+Párrafo 1º De los principios formativos del proceso
+Párrafo 2º Reglas Comunes
+Párrafo 3º Del procedimiento de aplicación general
+Párrafo 4º Del cumplimiento de la sentencia y de la ejecución de los títulos ejecutivos laborales
+Párrafo 5º De los recursos
+Párrafo 6º Del Procedimiento de Tutela Laboral
+Párrafo 7° Del procedimiento monitorio
+Título II Del procedimiento de reclamación de multas y demás resoluciones administrativas
 Título Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION
 ARTICULOS TRANSITORIOS
