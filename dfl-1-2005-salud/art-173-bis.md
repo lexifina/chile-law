@@ -1,0 +1,3 @@
+Artículo 173 bis.- Los prestadores de salud no podrán exigir, como garantía de pago por las prestaciones que reciba el paciente, el otorgamiento de cheques o de dinero en efectivo. En estos casos, se podrá garantizar el pago por otros medios idóneos, tales como el registro de la información de una tarjeta de crédito, cartas de respaldo otorgadas por los empleadores, o letras de cambio o pagarés, los que se regirán por las normas contenidas en la ley Nº 18.092.
+Sin perjuicio de lo anterior, el paciente podrá, voluntariamente, dejar en pago de las citadas prestaciones cheques o dinero en efectivo.
+En los casos de atenciones de emergencia, debidamente certificadas por un médico cirujano, regirá lo prescrito en el inciso séptimo del artículo anterior.
