@@ -1,0 +1,2 @@
+Artículo Tercero.- Introdúcese, en el artículo 28 de la ley Nº 19.913 , que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, el siguiente inciso segundo:
+"Cuando la asociación se hubiere formado a través de una persona jurídica, se impondrá además, como consecuencia accesoria de la pena impuesta a los responsables individuales, la disolución o cancelación de la personalidad jurídica.".
