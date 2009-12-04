@@ -1,0 +1,1 @@
+Artículo 6° bis.- Una vez establecidas las normas técnicas chilenas de calidad de equipos y elementos de riego mecánico por medio del Instituto Nacional de Normalización, la Comisión Nacional de Riego deberá exigir su cumplimiento en los proyectos de riego y drenaje que se presenten a los concursos de esta ley.
