@@ -1,0 +1,1 @@
+Artículo 5º.- En el año 2009, para realizar lo señalado en el artículo 13 , N°1, podrán efectuarse los traspasos que resulten necesarios entre las partidas correspondientes de la Ley de Presupuestos del Sector Público de ese año, pudiendo al efecto crearse, suprimirse o modificarse las asignaciones, ítems y glosas presupuestarias que sean pertinentes.
