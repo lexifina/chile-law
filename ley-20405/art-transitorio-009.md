@@ -1,0 +1,1 @@
+Artículo 9°.- La pensión establecida en el artículo 7° transitorio será incompatible con los beneficios otorgados de acuerdo a las leyes N° 19.234 , N° 19.582 y N° 19.881 y le será aplicable lo dispuesto en el artículo 36 de la ley N° 20.255 .
