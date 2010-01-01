@@ -1,7 +1,7 @@
 TITULO I Objetivos de la ley, fiscalización y definiciones
 TITULO II Del Registro de Valores y de la información
 TITULO III De la información continua y reservada
-TITULO IV De la emisión de títulos de deuda a largo plazo
+TÍTULO IV DE LAS TRANSACCIONES SOBRE VALORES DE OFERTA PÚBLICA
 TITULO V Del Mercado Secundario
 TITULO VI De los Corredores de Bolsa y de los Agentes de Valores
 TITULO VII De las Bolsas de Valores
@@ -25,4 +25,5 @@ TITULO XXIV De la oferta pública de valores extranjeros en el país
 TITULO XXV De la Oferta Pública de Adquisición de Acciones
 TITULO XXVI De la oferta pública de acciones o valores convertibles en el extranjero
 TÍTULO XXVII DE LAS ADMINISTRADORAS GENERALES DE FONDOS
+TÍTULO XXVIII DE LAS EMPRESAS DE AUDITORÍA EXTERNA
 DISPOSICIONES TRANSITORIAS
