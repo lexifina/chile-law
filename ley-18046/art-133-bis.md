@@ -1,3 +1,1 @@
-Artículo 133 bis.- Toda pérdida irrogada al patrimonio de la sociedad como consecuencia de una infracción a esta ley, su reglamento, los estatutos sociales o las normas que imparta la Superintendencia, dará derecho a un accionista o grupo de accionistas que representen, a lo menos, un 5% de las acciones emitidas por la sociedad o a cualquiera de los directores de la sociedad, a demandar la indemnización de perjuicios a quien correspondiere, en nombre y beneficio de la sociedad.
-Las costas a que hubiere lugar serán pagadas a los demandantes y no podrán, de forma alguna, beneficiar a la sociedad. Por su parte, si los accionistas o el director demandantes fueren condenados en costas, serán exclusivamente responsables de éstas.
-Las acciones contempladas en este artículo, son compatibles con las demás acciones establecidas en la presente ley.
+[La fuente no da el texto vigente en esta fecha.]
