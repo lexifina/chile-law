@@ -46,10 +46,11 @@ Título VII DE LA SOCIEDAD
 § 6. De la disolución y liquidación de la sociedad colectiva
 § 7. De la prescripción de las acciones procedentes de la sociedad colectiva
 § 8. De las Sociedades por Acciones
-§ 9. Disposiciones relativas a la sociedad en comandita
-§ 10. De la comandita simple
-§ 11. De la comandita por acciones
-§ 12. De la asociación o cuentas en participación
+§ 9. De las Agencias de Sociedades Extranjeras u otras Personas Jurídicas con Fines de Lucro
+§ 10. Disposiciones relativas a la sociedad en comandita
+§ 11. De la comandita simple
+§ 12. De la comandita por acciones
+§ 13. De la asociación o cuentas en participación
 Título VIII DEL SEGURO EN GENERAL Y DE LOS SEGUROS TERRESTRES EN PARTICULAR
 § 1. Definiciones
 § 2. Disposiciones comunes a los seguros terrestres y marítimos

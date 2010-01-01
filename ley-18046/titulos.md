@@ -13,4 +13,5 @@ TITULO XII Del Arbitraje
 TITULO XIII De las Sociedades sujetas a normas especiales.
 TITULO XIV De las responsabilidades y sanciones
 TITULO XV Disposiciones varias
-TITULO XVI Disposiciones Transitorias
+TÍTULO XVI DE LAS OPERACIONES CON PARTES RELACIONADAS EN LAS SOCIEDADES ANÓNIMAS ABIERTAS Y SUS FILIALES
+TITULO XVII Disposiciones Transitorias
