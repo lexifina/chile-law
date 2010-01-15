@@ -1,0 +1,2 @@
+Artículo 4º bis.- La extracción de órganos en vida con fines de trasplante sólo se permitirá en personas capaces mayores de dieciocho años y cuando el receptor sea su pariente consanguíneo o por adopción hasta el cuarto grado, o su cónyuge, o una persona que, sin ser su cónyuge, conviva con el donante.
+El consentimiento del donante no puede ser sustituido ni complementado, pudiendo siempre ser revocado, hasta el instante mismo de la intervención quirúrgica, mientras conserve capacidad para expresar su voluntad, caso en el cual la extracción no será practicada.
