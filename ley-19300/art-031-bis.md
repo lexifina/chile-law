@@ -1,0 +1,9 @@
+Artículo 31 bis.- Toda persona tiene derecho a acceder a la información de carácter ambiental que se encuentre en poder de la Administración, de conformidad a lo señalado en la Constitución Política de la República y en la ley Nº 20.285 sobre Acceso a la Información Pública.
+Se entenderá por información ambiental toda aquella de carácter escrita, visual, sonora, electrónica o registrada de cualquier otra forma que se encuentre en poder de la Administración y que verse sobre las siguientes cuestiones:
+a) El estado de los elementos del medio ambiente, como el aire y la atmósfera, el agua, el suelo, los paisajes, las áreas protegidas, la diversidad biológica y sus componentes, incluidos los organismos genéticamente modificados; y la interacción entre estos elementos.
+b) Los factores, tales como sustancias, energía, ruido, radiaciones o residuos, incluidos los residuos radiactivos, emisiones, vertidos y otras liberaciones en el medio ambiente, que afecten o puedan afectar a los elementos del medio ambiente señalados en el número anterior.
+c) Los actos administrativos relativos a materias ambientales, o que afecten o puedan afectar a los elementos y factores citados en las letras a) y b), y las medidas, políticas, normas, planes, programas, que les sirvan de fundamento.
+d) Los informes de cumplimiento de la legislación ambiental.
+e) Los análisis económicos, sociales, así como otros estudios utilizados en la toma de decisiones relativas a los actos administrativos y sus fundamentos, señalados en la letra c).
+f) El estado de salud y seguridad de las personas, condiciones de vida humana, bienes del patrimonio cultural, cuando sean o puedan verse afectados por el estado de los elementos del medio ambiente citados en la letra a) o por cualquiera de los factores y medidas señaladas en las letras b) y c).
+g) Toda aquella otra información que verse sobre medio ambiente o sobre los elementos, componentes o conceptos definidos en el artículo 2º de la ley.
