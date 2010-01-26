@@ -1,2 +1,0 @@
-Artículo 74 bis.- El Presidente de la Comisión Nacional del Medio Ambiente será un funcionario de la exclusiva confianza del Presidente de la República que, con el rango de Ministro de Estado, actuará como su colaborador directo en materias ambientales.
-Corresponde al Ministro Presidente de la Comisión ejercer, en conjunto con el Consejo Directivo, la dirección superior de la Comisión de conformidad a esta ley.
