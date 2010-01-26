@@ -1,0 +1,1 @@
+Artículo 11 ter.- En caso de modificarse un proyecto o actividad, la calificación ambiental deberá recaer sobre dicha modificación y no sobre el proyecto o actividad existente, aunque la evaluación de impacto ambiental considerará la suma de los impactos provocados por la modificación y el proyecto o actividad existente para todos los fines legales pertinentes.
