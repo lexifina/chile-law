@@ -1,0 +1,1 @@
+Artículo 31 quáter.- Cualquier persona que se considere lesionada en su derecho a acceder a la información ambiental, podrá recurrir ante la autoridad competente, de conformidad con lo señalado en la ley Nº 20.285, sobre Acceso a la Información Pública.
