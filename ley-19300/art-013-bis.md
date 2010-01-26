@@ -1,0 +1,1 @@
+Artículo 13 bis.- Los proponentes deberán informar a la autoridad ambiental si han establecido, antes o durante el proceso de evaluación, negociaciones con los interesados con el objeto de acordar medidas de compensación o mitigación ambiental. En el evento de existir tales acuerdos, éstos no serán vinculantes para la calificación ambiental del proyecto o actividad.
