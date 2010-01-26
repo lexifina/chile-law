@@ -1,0 +1,1 @@
+Artículo 48 bis.- Los actos administrativos que se dicten por los Ministerios o servicios para la ejecución o implementación de normas de calidad, emisión y planes de prevención o descontaminación, señalados en tales instrumentos, deberán contar siempre con informe previo del Ministerio del Medio Ambiente.
