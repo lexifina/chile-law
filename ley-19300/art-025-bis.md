@@ -1,0 +1,1 @@
+Artículo 25 bis.- Las Direcciones de Obras Municipales no podrán otorgar la recepción definitiva si los proyectos o actividades a los que se refiere el artículo 10 no acreditan haber obtenido una resolución de calificación ambiental favorable.
