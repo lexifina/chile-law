@@ -1,0 +1,2 @@
+Artículo 25 ter.- La resolución que califique favorablemente un proyecto o actividad caducará cuando hubieren transcurrido más de cinco años sin que se haya iniciado la ejecución del proyecto o actividad autorizada, contado desde su notificación.
+El Reglamento deberá precisar las gestiones, actos o faenas mínimas que, según el tipo de proyecto o actividad, permitirán constatar el inicio de la ejecución del mismo.

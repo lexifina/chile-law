@@ -1,0 +1,1 @@
+Artículo 14 ter.- El procedimiento de evaluación de impacto ambiental se iniciará con una verificación rigurosa del tipo de proyecto y la vía de evaluación que debe seguir, con el objetivo de que no existan errores administrativos en el proceso de admisión a trámite de un proyecto.
