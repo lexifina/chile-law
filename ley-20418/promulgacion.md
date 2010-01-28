@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 18 de enero de 2010.- MICHELLE BACHELET JERIA, Presidenta de la República.- Álvaro Erazo Latorre, Ministro de Salud.- Mónica Jiménez de la Jara, Ministra de Educación.- José Antonio Viera-Gallo Quesney, Ministro Secretario General de la Presidencia.- Carmen Andrade Lara, Ministra Directora Servicio Nacional de la Mujer.
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Jeanette Vega Morales, Subsecretaria de Salud Pública.
