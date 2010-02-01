@@ -1,0 +1,1 @@
+Artículo séptimo.- Suprímense, en el inciso undécimo del artículo 2º de la ley Nº 18.120 , las frases "el Servicio de Impuestos Internos, salvo que tratándose de asuntos superiores a dos unidades tributarias mensuales, el Servicio exija por resolución fundada la intervención de abogados;".

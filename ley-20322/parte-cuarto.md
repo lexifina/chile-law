@@ -1,0 +1,5 @@
+Artículo cuarto.- Introdúcense las siguientes modificaciones en la ley orgánica del Servicio de Impuestos Internos, contenida en el decreto con fuerza de ley Nº 7, de 1980, del Ministerio de Hacienda .
+1) En la letra d) del artículo 7º, suprímese la frase ", sin perjuicio de la representación que corresponde al Presidente del Consejo de Defensa del Estado conforme a la Ley Orgánica de dicho Servicio".
+2) Reemplázase la letra b) del artículo 19, por la siguiente:
+"b) Aplicar sanciones y girar multas por infracciones a las leyes tributarias que se sometan al procedimiento del artículo 165 del Código Tributario, que no hayan sido objeto de reclamo de conformidad con lo dispuesto en el número 3º de dicha disposición legal;".
+3) Sustitúyese, en el inciso primero del artículo 46, la expresión "Tribunales de Justicia" por "Tribunales de cualquier denominación"; intercálanse, a continuación de la palabra "Director", los vocablos "o el Director Regional", y reemplázase la frase "artículo 41 de la Ley sobre Colegio de Abogados" por "inciso primero del artículo 2º de la ley Nº18.120".
