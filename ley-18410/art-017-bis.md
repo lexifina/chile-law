@@ -1,0 +1,1 @@
+Artículo 17 bis.- La Superintendencia no podrá aplicar sanciones luego de transcurridos tres años desde la fecha en que hubiere terminado de cometerse la infracción o de ocurrir la omisión sancionada.
