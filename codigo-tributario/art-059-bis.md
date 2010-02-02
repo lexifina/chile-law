@@ -1,0 +1,1 @@
+Artículo 59 bis.- Será competente para conocer de todas las actuaciones de fiscalización posteriores la unidad del Servicio que practicó al contribuyente una notificación, de conformidad a lo dispuesto en el número 1º del artículo único de la ley Nº 18.320, o una citación, según lo dispuesto en el artículo 63.
