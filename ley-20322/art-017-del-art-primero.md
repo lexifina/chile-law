@@ -1,0 +1,1 @@
+Artículo 17.- En todo lo no previsto por esta ley, el personal de los Tribunales Tributarios y Aduaneros se regirá por las normas de la ley Nº 18.834, sobre Estatuto Administrativo, salvo en aquello que sea incompatible con la naturaleza de su función.
