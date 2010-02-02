@@ -1,0 +1,2 @@
+Artículo 16.- Los funcionarios del Tribunal Tributario y Aduanero tendrán prohibición de ejercer libremente su profesión u otra actividad remunerada, y de ocupar cargos directivos, ejecutivos y administrativos en otras entidades, sea que persigan o no fines de lucro.
+No obstante lo dispuesto en el inciso anterior, el desempeño como funcionario del Tribunal Tributario y Aduanero será compatible con los cargos docentes, hasta un máximo de seis horas semanales.
