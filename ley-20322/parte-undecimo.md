@@ -1,0 +1,1 @@
+Artículo undécimo.- El mayor gasto fiscal que represente la aplicación de esta ley, se financiará con los recursos que se contemplen en las partidas correspondientes del presupuesto del sector público.
