@@ -1,0 +1,1 @@
+Artículo Décimo Cuarto.- Ninguna disposición contenida en esta ley podrá interpretarse en el sentido de dejar sin efecto las normas de la ley N° 19.749 , que establece normas para facilitar la creación de micro empresas familiares.

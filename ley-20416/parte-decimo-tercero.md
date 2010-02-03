@@ -1,0 +1,2 @@
+Artículo Décimo Tercero.- Cambio de Denominación. Modifícase la denominación dada por el artículo 1° de la ley N° 14.171 , a la Subsecretaría de Economía, Fomento y Reconstrucción, la que pasará a denominarse en lo sucesivo Subsecretaría de Economía y Empresas de Menor Tamaño.
+Todas las menciones que el ordenamiento jurídico haga a la Subsecretaría de Economía, Fomento y Reconstrucción o simplemente "de Economía", en ambos casos, deberán entenderse referidas a la Subsecretaría de Economía y Empresas de Menor Tamaño.

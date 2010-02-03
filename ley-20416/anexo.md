@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de Ley que fija normas especiales para las empresas de menor tamaño (Boletín Nº5724-26)
+El Secretario Suplente del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de las normas que regulan materias propias de ley orgánica constitucional que aquel contiene, y que por sentencia de 29 de diciembre de 2009 en los autos rol Nº1.567-09-CPR.
+Se Declara:
+1) Que son constitucionales el numeral 4) del artículo noveno y la oración: "Sin perjuicio de los recursos administrativos que procedan, el asesor afectado por alguna causal de exclusión o por instrucciones particulares que le hubiere impartido la Superintendencia, podrá reclamar de ellas dentro del plazo de cinco días a contar de la fecha en que sea notificada la respectiva resolución administrativa, ante el juez de letras que corresponda a su respectivo domicilio.", contenida en el inciso primero del artículo 8º del Título Segundo del artículo Undécimo del proyecto de ley remitido para su control preventivo.
+2) Que por no regular materias propias de ley orgánica constitucional, esta Magistratura no se pronuncia sobre el artículo Cuarto del proyecto de ley remitido a control preventivo.
+Santiago, 29 de diciembre de 2009.- Marta de la Fuente Olguín, Secretario Suplente.

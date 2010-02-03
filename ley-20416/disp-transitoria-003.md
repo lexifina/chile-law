@@ -1,0 +1,1 @@
+Artículo Tercero.- El mayor gasto que represente esta ley, durante su primer año de vigencia, se financiará con cargo a recursos de la partida presupuestaria del Tesoro Público. En los años posteriores se financiará con los recursos que para estos efectos contemple la Ley de Presupuestos de cada año para las instituciones respectivas.
