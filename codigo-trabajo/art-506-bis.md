@@ -1,0 +1,1 @@
+Artículo 506 bis. El inspector del trabajo que constate en una micro o pequeña empresa una infracción legal o reglamentaria que no ponga en riesgo inminente la seguridad o la salud de los trabajadores podrá conceder un plazo de, a lo menos, cinco días hábiles para dar cumplimiento a las normas respectivas.

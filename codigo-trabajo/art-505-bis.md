@@ -1,0 +1,2 @@
+Artículo 505 bis. Para los efectos de este Código y sus leyes complementarias, los empleadores se clasificarán en micro, pequeña, mediana y gran empresa, en función del número de trabajadores.
+Se entenderá por micro empresa aquella que tuviere contratados de 1 a 9 trabajadores, pequeña empresa aquella que tuviere contratados de 10 a 49 trabajadores, mediana empresa aquella que tuviere contratados de 50 a 199 trabajadores y gran empresa aquella que tuviere contratados 200 trabajadores o más.
