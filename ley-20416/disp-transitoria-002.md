@@ -1,0 +1,1 @@
+Artículo Segundo.- Increméntase la dotación máxima vigente de personal de la Superintendencia de Quiebras en siete cupos destinados a garantizar el cumplimiento de las nuevas funciones que se le encargan por esta ley.
