@@ -1,6 +1,6 @@
 Artículo 53 C.- En la sentencia que acoja la demanda, el juez, además de lo dispuesto en el artículo 170 del Código de Procedimiento Civil, deberá:
 a) Declarar la forma en que tales hechos han afectado el interés colectivo o difuso de los consumidores.
-b) Declarar la responsabilidad del o los proveedores demandados en los hechos denunciados y la aplicación de la multa o sanción que fuere procedente.
+b) Declarar la responsabilidad del o los proveedores demandados en los hechos denunciados y la aplicación de la multa o sanción que fuere procedente. La suma de las multas que se apliquen por cada consumidor afectado tomará en consideración en su cálculo los elementos descritos en el artículo 24 y especialmente el daño potencialmente causado a todos los consumidores afectados por la misma situación.
 c) Declarar la procedencia de las correspondientes indemnizaciones o reparaciones y el monto de la indemnización o la reparación a favor del grupo o de cada uno de los subgrupos, cuando corresponda.
 d) Disponer la devolución de lo pagado en exceso y la forma en que se hará efectiva, en caso de tratarse de procedimientos iniciados en virtud de un cobro indebido de determinadas sumas de dinero. En el caso de productos defectuosos, se dispondrá la restitución del valor de aquéllos al momento de efectuarse el pago.
 e) Disponer la publicación de los avisos a que se refiere el inciso tercero del artículo 54, con cargo al o a los infractores.
