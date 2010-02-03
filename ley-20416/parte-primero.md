@@ -1,0 +1,1 @@
+"Artículo Primero.- Objetivo. La presente ley tiene por objeto facilitar el desenvolvimiento de las empresas de menor tamaño, mediante la adecuación y creación de normas regulatorias que rijan su iniciación, funcionamiento y término, en atención a su tamaño y grado de desarrollo.
