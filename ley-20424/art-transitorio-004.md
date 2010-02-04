@@ -1,0 +1,1 @@
+Artículo 4°.- Derógase a partir de la fecha señalada por el Presidente de la República en conformidad al inciso final del artículo 6º transitorio, la ley Nº 18.952, que creó la Dirección Administrativa del Ministerio de Defensa Nacional , de conformidad con lo dispuesto en el inciso final del artículo 6º transitorio de esta ley.

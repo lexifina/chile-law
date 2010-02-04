@@ -1,0 +1,3 @@
+Artículo 3°.- Derógase a partir de la fecha señalada por el Presidente de la República en conformidad al inciso final del artículo 6º transitorio, la ley Nº 7.144, que crea el Consejo Superior de Defensa Nacional , y sus modificaciones. Sin perjuicio de lo anterior, el Reglamento Complementario de la ley N° 7.144, contenido en el decreto supremo Nº 124, de 2004, del Ministerio de Defensa Nacional, mantendrá su vigencia en todo lo que no sea contrario a la presente ley, en tanto no se dicte por el Presidente de la República el reglamento que lo reemplace.
+Derógase la letra a) del artículo 62 de la ley Nº 18.948, Orgánica Constitucional de las Fuerzas Armadas .
+Derógase, también, toda norma que se contraponga a lo establecido en esta ley.
