@@ -1,0 +1,1 @@
+Artículo 2°.- Un reglamento, que deberá ser dictado en un plazo no superior a un año desde la publicación de la presente ley, fijará las normas relativas a la organización y funcionamiento administrativo del Ministerio de Defensa Nacional, referidas a la ejecución de la misma.
