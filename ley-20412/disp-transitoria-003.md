@@ -1,0 +1,1 @@
+Artículo Tercero.- En la elaboración del reglamento a que hace referencia esta ley, y al menos 30 días antes de su dictación, el Ministerio de Agricultura deberá solicitar la opinión fundada de cada uno de los Comités Técnicos Regionales vigentes, de acuerdo a lo dispuesto por el decreto con fuerza de ley Nº 235, del Ministerio de Agricultura, de 1999 .".
