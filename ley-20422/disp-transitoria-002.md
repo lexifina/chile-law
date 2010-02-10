@@ -1,0 +1,1 @@
+Artículo segundo.- Agrégase en el número 7 del artículo 154 del Código del Trabajo, a continuación de la expresión "sexo de los trabajadores" la siguiente frase ", y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado".
