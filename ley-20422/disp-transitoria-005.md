@@ -1,0 +1,1 @@
+Artículo quinto.- Todos los reglamentos a los que se refiere esta ley, deberán dictarse dentro del plazo de nueve meses, contado desde su publicación en el Diario Oficial. Lo anterior, no obsta exigir el cumplimiento de los derechos, garantías y obligaciones consagrados en esta ley.".
