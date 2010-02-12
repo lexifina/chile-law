@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de ley que establece un sistema institucional para el desarrollo del turismo, modifica el decreto ley Nº 1.224, que crea el Servicio Nacional de Turismo (Boletín Nº 5687-23)
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control de constitucionalidad respecto de las normas que regulan materias propias de ley orgánica constitucional que aquel contiene, y que por sentencia de 28 de enero de 2010 en los autos rol Nº 1.595-10-CPR.
+Se declara:
+1. Que los artículos 7º, 8º, 13, inciso segundo, en la medida que dispone que la declaración de Zonas de Interés Turístico ha de efectuarse con acuerdo previo del Comité de Ministros del Turismo e informes vinculantes de los municipios cuyos territorios o una parte de ellos se vean afectados por la misma, y 29 del proyecto remitido son constitucionales.
+2. Que no le corresponde a este Tribunal pronunciarse sobre los artículos 9º, 13, incisos primero y segundo, en cuanto no establece que la declaración de Zonas de Interés Turístico ha de efectuarse con acuerdo previo del Comité de Ministros del Turismo e informes vinculantes de los municipios cuyos territorios o una parte de ellos se vean afectados por la misma, 18, 23, 24, 25, 26, 27, 51 y 54 del proyecto remitido, por versar sobre materias que no son propias de ley orgánica constitucional.
+Santiago, 28 de enero de 2010.- Marta de la Fuente Olguín, Secretaria.

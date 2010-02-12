@@ -1,0 +1,1 @@
+Artículo 2°.- Dentro del plazo de un año, contado desde la publicación de esta ley, deberá iniciarse un proceso de actualización o creación de planes de manejo para todas las Áreas Silvestres Protegidas del Estado definidas como prioritarias por el Comité de Ministros. Dicho proceso será desarrollado por la institución encargada de la administración de dichas áreas.

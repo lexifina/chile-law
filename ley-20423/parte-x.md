@@ -1,0 +1,10 @@
+Artículo 7°.- Créase el Comité de Ministros del Turismo, en adelante "el Comité", cuya función será, a través del Ministro Presidente del mismo, asesorar al Presidente de la República en la fijación de los lineamientos de la política gubernamental para el desarrollo de la actividad turística.
+El Comité estará integrado por:
+1) El Ministro de Economía, Fomento y Turismo, quien lo presidirá.
+2) El Ministro de Obras Públicas.
+3) El Ministro de Vivienda y Urbanismo.
+4) El Ministro de Agricultura.
+5) El Ministro de Bienes Nacionales.
+6) El Ministro Presidente de la Comisión Nacional del Medio Ambiente.
+7) El Presidente del Consejo Nacional de la Cultura y las Artes.
+En caso de ausencia o impedimento del Presidente, éste será reemplazado por el Ministro que corresponda según el orden establecido en el inciso anterior.

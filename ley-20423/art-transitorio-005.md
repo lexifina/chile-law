@@ -1,0 +1,1 @@
+Artículo 5°.- El Presidente de la República, a través de decreto expedido por el Ministerio de Hacienda, conformará el primer presupuesto de la Subsecretaría de Turismo, pudiendo al efecto crear, suprimir o modificar los capítulos, asignaciones, ítem y glosas que sean pertinentes.
