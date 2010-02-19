@@ -2,6 +2,7 @@ TITULO PRELIMINAR
 Párrafo 1°. Disposiciones generales
 Párrafo 2°. De la fiscalización y aplicación de las disposiciones tributarias
 Párrafo 3°. De algunas definiciones
+Párrafo 4.º Derechos de los Contribuyentes
 LIBRO PRIMERO DE LA ADMINISTRACION, FISCALIZACION Y PAGO
 TITULO I NORMAS GENERALES
 Párrafo 1°. De la comparecencia, actuaciones y notificaciones.
