@@ -1,0 +1,1 @@
+Artículo 11° A.- En todo lo que no se oponga a los términos de esta ley y a la naturaleza pública de la empresa, corresponderá al Presidente de la República ejercer las atribuciones y funciones que la ley Nº 18.046 confiere a los accionistas y a las Juntas de Accionistas.
