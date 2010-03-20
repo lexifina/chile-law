@@ -1,0 +1,6 @@
+Artículo 8° A.- La Subdirección Operativa estará encargada de implementar las políticas institucionales destinadas al fortalecimiento de la seguridad de los establecimientos penitenciarios del país.
+Esta Subdirección tendrá las siguientes funciones:
+a) Asesorar, controlar y coordinar las acciones relativas a la seguridad penitenciaria y de los bienes y recursos que Gendarmería de Chile ha asignado a los distintos establecimientos penitenciarios del país.
+b) Velar por el adecuado diseño, ejecución, desarrollo y control de los proyectos de seguridad electrónica, en los establecimientos penitenciarios.
+La Jefatura de esta Subdirección será asumida por el Subdirector Operativo, que será un funcionario de exclusiva confianza del Director Nacional y será nombrado de entre los Oficiales Penitenciarios titulares del cargo de Coronel que se encuentren entre las cinco primeras antigüedades de dicho grado.
+Si como resultado del nombramiento del Subdirector Operativo, se alterare el orden de precedencia de los coroneles que cumplen los requisitos para ser nombrados en dicho cargo, deberá llamarse a retiro a aquellos coroneles que antecedan a aquel que fue nombrado en el cargo de Subdirector Operativo.
