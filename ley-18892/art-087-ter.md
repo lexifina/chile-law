@@ -1,0 +1,1 @@
+Artículo 87 ter.- A fin de tener un control en línea de los parámetros ambientales de las agrupaciones de concesiones acuícolas, deberán éstas disponer de una tecnología que registre y transmita al menos indicadores de conductividad, salinidad, temperatura, profundidad, corrientes, densidad, fluorescencia y turbidez, según lo establezca el reglamento.
