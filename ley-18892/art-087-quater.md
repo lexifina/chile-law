@@ -1,0 +1,1 @@
+Artículo 87 quáter.- Los instrumentos de evaluación ambiental y sanitaria, así como las certificaciones que se requieran por los reglamentos establecidos en los artículos 12, 86, 87, 87 bis y 90 bis deberán ser elaborados por las personas naturales o jurídicas inscritas en el registro a que se refiere el artículo 122, letra k).
