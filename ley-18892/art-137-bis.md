@@ -1,0 +1,1 @@
+Artículo 137 bis.- El que liberare especies hidrobiológicas exóticas desde centros de cultivo al ambiente sin obtener la autorización previa a que se refiere el reglamento del artículo 87, será sancionado con multa de 100 a 3.000 unidades tributarias mensuales y con la pena de presidio menor en su grado mínimo a medio.
