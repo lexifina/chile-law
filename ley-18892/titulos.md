@@ -4,6 +4,7 @@ Párrafo 1° FACULTADES DE CONSERVACION DE LOS RECURSOS HIDROBIOLOGICOS
 Párrafo 2° DE LOS PLANES DE MANEJO
 Párrafo 3° DE LA IMPORTACION DE ESPECIES HIDROBIOLOGICAS
 Párrafo 4º De la protección, rescate, rehabilitación, reinserción, observación y monitoreo de mamíferos, reptiles y aves hidrobiológicas
+Párrafo 5º Del Bienestar Animal
 TITULO III DEL ACCESO A LA ACTIVIDAD PESQUERA EXTRACTIVA INDUSTRIAL
 Párrafo 1° DEL REGIMEN GENERAL DE ACCESO
 Párrafo 2° DEL REGIMEN DE PLENA EXPLOTACION
