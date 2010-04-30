@@ -8,3 +8,5 @@ Artículo 5°.- Para los fines de la presente Ley Orgánica, salvo que de su tex
 7° Por "Secretario General", el "Jefe del Departamento de Secretaría General".
 8° Por "Director Regional", el "Director de la Dirección Regional del territorio jurisdiccional correspondiente."
 9° Por "unidad" cualquiera de los niveles establecidos en la organización interna del Servicio.
+10° Por "Director de Grandes Contribuyentes" el Director de la Dirección de Grandes Contribuyentes.
+11° Por "sitio web del Servicio de Impuestos Internos" los dispositivos tecnológicos que permiten transmitir información por medio de computadores, líneas telefónicas o mediante el empleo de publicaciones digitales.
