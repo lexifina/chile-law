@@ -1,0 +1,1 @@
+Artículo 4°.- En aquellas municipalidades pertenecientes a las regiones declaradas zonas de catástrofe, en conformidad al decreto supremo N° 150, de 2010, del Ministerio del Interior, el plazo a que se refiere el inciso primero del artículo 67 de esta ley se extenderá hasta el 31 de agosto de 2010.
