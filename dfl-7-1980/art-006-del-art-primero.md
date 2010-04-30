@@ -1,2 +1,2 @@
-Artículo 6°.- Un funcionario con el título de "Director", es el Jefe Superior del Servicio; será nombrado por el Presidente de la República, siendo de su exclusiva confianza.
+Artículo 6°.- Un funcionario con el título de "Director", es el Jefe Superior del Servicio; será nombrado por el Presidente de la República, siendo de su exclusiva confianza, y será seleccionado, nombrado y remunerado conforme a las normas establecidas en el Título VI de la ley N° 19.882, que Regula Nueva Política de Personal a los Funcionarios Públicos, sujetándose en todo a las reglas a que se refiere el citado Título.
 Subrogarán al Director, los Subdirectores o Directores Regionales, en el orden de precedencia que determine el Director.
