@@ -1,0 +1,2 @@
+Artículo 71 D. Las lecciones dictadas en instituciones de educación superior, colegios y escuelas, podrán ser anotadas o recogidas en cualquier forma por aquellos a quienes van dirigidas, pero no podrán ser publicadas, total o parcialmente, sin autorización de sus autores.
+Las conferencias, discursos políticos, alegatos judiciales y otras obras del mismo carácter que hayan sido pronunciadas en público, podrán ser utilizadas libremente y sin pago de remuneración, con fines de información, quedando reservado a su autor el derecho de publicarlas en colección separada.
