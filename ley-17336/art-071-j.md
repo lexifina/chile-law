@@ -1,0 +1,2 @@
+Artículo 71 J. Las bibliotecas y archivos que no tengan fines lucrativos podrán, sin que se requiera autorización del autor o titular, ni pago de remuneración alguna, efectuar copias de fragmentos de obras que se encuentren en sus colecciones, a solicitud de un usuario de la biblioteca o archivo exclusivamente para su uso personal.
+Las copias a que se refiere el inciso anterior sólo podrán ser realizadas por la respectiva biblioteca o archivo.
