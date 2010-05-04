@@ -1,1 +1,1 @@
-Artículo 45 bis.- Las excepciones establecidas en este Párrafo y en el Párrafo siguiente se circunscribirán a los casos que no atenten contra la explotación normal de la obra, ni causen un perjuicio injustificado a los intereses legítimos del titular de los derechos.
+Articulo 45° BIS.- (DEROGADO)
