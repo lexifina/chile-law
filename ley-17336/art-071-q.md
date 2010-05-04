@@ -1,0 +1,1 @@
+Artículo 71 Q. Es lícito el uso incidental y excepcional de una obra protegida con el propósito de crítica, comentario, caricatura, enseñanza, interés académico o de investigación, siempre que dicha utilización no constituya una explotación encubierta de la obra protegida. La excepción establecida en este artículo no es aplicable a obras audiovisuales de carácter documental.

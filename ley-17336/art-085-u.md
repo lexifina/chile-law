@@ -1,0 +1,7 @@
+Artículo 85 U. Sin perjuicio de las disposiciones previas contenidas en este Capítulo, los prestadores de servicios de Internet deberán comunicar por escrito a sus usuarios los avisos de supuestas infracciones que reciban, a condición que en la comunicación que reciban cumplan los siguientes requisitos:
+a) Reciba en forma electrónica o de otra forma escrita del titular de los derechos o de su representante, aviso de la supuesta infracción;
+b) El titular de los derechos o su representante deberá tener domicilio o residencia en Chile y, en su caso, contar con poder suficiente para ser emplazado en juicio, en representación del titular;
+c) Se identifiquen los derechos supuestamente infringidos, con indicación precisa de la titularidad de éstos y la modalidad de la infracción;
+d) Se identifique el material infractor y su localización en las redes o sistemas del prestador de servicios a quien se envía la comunicación, a través del URL o sus equivalentes, y
+e) Contenga datos que permitan al prestador de servicios identificar al usuario proveedor del supuesto material infractor.
+Los prestadores de servicios de Internet, una vez recibida una comunicación de conformidad al inciso anterior, informarán al usuario supuestamente infractor esta situación acompañando los antecedentes proporcionados por el titular del derecho o su representante, dentro del plazo de cinco días hábiles contados desde la recepción de la referida comunicación.

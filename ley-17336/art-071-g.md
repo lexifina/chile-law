@@ -1,0 +1,1 @@
+Artículo 71 G. En las obras de arquitectura, el autor no podrá impedir la introducción de modificaciones que el propietario decida realizar, pero podrá oponerse a la mención de su nombre como autor del proyecto.

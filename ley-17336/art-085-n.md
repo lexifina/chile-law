@@ -1,0 +1,5 @@
+Artículo 85 N. Los prestadores de servicios que temporalmente almacenen datos mediante un proceso de almacenamiento automático no serán considerados responsables de los datos almacenados a condición que el prestador:
+a) Respete las condiciones de acceso de usuarios y las reglas relativas a la actualización del material almacenado establecidas por el proveedor del sitio de origen, salvo que dichas reglas sean usadas por éste para prevenir o dificultar injustificadamente el almacenamiento temporal a que se refiere este artículo;
+b) No interfiera con la tecnología compatible y estandarizada utilizada en el sitio de origen para obtener información sobre el uso en línea del material almacenado, cuando la utilización de dichas tecnologías se realice de conformidad con la ley y sean compatibles con estándares de la industria ampliamente aceptados;
+c) No modifique su contenido en la transmisión a otros usuarios, y
+d) Retire o inhabilite en forma expedita el acceso a material almacenado que haya sido retirado o al que se haya inhabilitado el acceso en su sitio de origen, cuando reciba una notificación de conformidad con el procedimiento establecido en el artículo 85 Q.
