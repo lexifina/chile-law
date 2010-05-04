@@ -1,0 +1,2 @@
+Artículo 85 C. El tribunal, a solicitud del perjudicado, ordenará que los ejemplares que hubieren sido producto de alguna infracción o delito contenido en esta ley sean destruidos o apartados del comercio.
+Estos ejemplares sólo podrán ser destinados a beneficencia por el tribunal cuando cuente con autorización del titular de los derechos. En este caso, el tribunal podrá decretar las medidas necesarias para garantizar que no reingresen al comercio, ordenando el marcado de los ejemplares y decretando la prohibición de enajenarlos por parte del beneficiario.

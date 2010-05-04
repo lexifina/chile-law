@@ -1,0 +1,1 @@
+Artículo 71 R. Se podrá, sin que se requiera autorización del autor o titular, ni pago de remuneración alguna, efectuar la traducción de obras originalmente escritas en idioma extranjero y legítimamente adquiridas, para efectos de uso personal.
