@@ -1,0 +1,6 @@
+Artículo 85 Ñ. Los prestadores de servicios que a petición de un usuario almacenan, por sí o por intermedio de terceros, datos en su red o sistema, o que efectúan servicios de búsqueda, vinculación y,o referencia a un sitio en línea mediante herramientas de búsqueda de información, incluidos los hipervínculos y directorios, no serán considerados responsables de los datos almacenados o referidos a condición que el prestador:
+a) No tenga conocimiento efectivo del carácter ilícito de los datos;
+b) No reciba un beneficio económico directamente atribuible a la actividad infractora, en los casos en que tenga el derecho y la capacidad para controlar dicha actividad;
+c) Designe públicamente un representante para recibir las notificaciones judiciales a que se refiere el inciso final, de la forma que determine el reglamento, y
+d) Retire o inhabilite en forma expedita el acceso al material almacenado de conformidad a lo dispuesto en el inciso siguiente.
+Se entenderá que el prestador de servicios tiene un conocimiento efectivo cuando un tribunal de justicia competente, conforme al procedimiento establecido en el artículo 85 Q, haya ordenado el retiro de los datos o el bloqueo del acceso a ellos y el prestador de servicios, estando notificado legalmente de dicha resolución, no cumpla de manera expedita con ella.

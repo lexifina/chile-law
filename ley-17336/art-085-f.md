@@ -1,0 +1,1 @@
+Artículo 85 F. Al hacer efectiva la indemnización de perjuicios, el tribunal podrá ordenar, a petición de parte y sin perjuicio de los derechos que puedan hacer valer terceros, la incautación y entrega al titular del derecho del producto de la recitación, representación, reproducción, ejecución o cualquier otra forma de explotación ilícita.

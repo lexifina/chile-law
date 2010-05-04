@@ -1,0 +1,1 @@
+Artículo 71 S. Se podrá, sin requerir autorización del autor o titular, ni pago de remuneración alguna, reproducir o comunicar al público una obra para la realización de actuaciones judiciales, administrativas y legislativas.

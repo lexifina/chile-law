@@ -1,0 +1,2 @@
+Artículo 85 H. Se presume, salvo prueba en contrario, que el derecho de autor y los derechos conexos subsisten sobre una obra o fonograma, cuya fecha de su primera publicación sea inferior a setenta años.
+Sin embargo, no será aplicable lo dispuesto en el inciso anterior respecto de aquellas obras y materias afines que hayan pasado al dominio público por expiración del plazo de protección de acuerdo a esta ley o a leyes anteriores.
