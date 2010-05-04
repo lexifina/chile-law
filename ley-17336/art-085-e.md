@@ -1,0 +1,3 @@
+Artículo 85 E. Al determinar el perjuicio patrimonial el tribunal considerará, entre otros factores, el valor legítimo de venta al detalle de los bienes sobre los cuales recae la infracción.
+El tribunal podrá, además, condenar al infractor a pagar las ganancias que haya obtenido, que sean atribuibles a la infracción y que no hayan sido consideradas al calcular los perjuicios.
+Con independencia de la existencia de un perjuicio patrimonial, para efectos de la determinación del daño moral, el tribunal considerará las circunstancias de la infracción, la gravedad de la lesión, el menoscabo producido a la reputación del autor y el grado objetivo de difusión ilícita de la obra.

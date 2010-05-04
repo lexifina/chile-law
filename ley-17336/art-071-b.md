@@ -1,0 +1,1 @@
+Artículo 71 B. Es lícita la inclusión en una obra, sin remunerar ni obtener autorización del titular, de fragmentos breves de obra protegida, que haya sido lícitamente divulgada, y su inclusión se realice a título de cita o con fines de crítica, ilustración, enseñanza e investigación, siempre que se mencione su fuente, título y autor.
