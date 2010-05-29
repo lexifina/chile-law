@@ -1,0 +1,3 @@
+Artículo 55 B.- Las áreas de manejo serán entregadas mediante resolución del Servicio, previa aprobación, por parte de la Subsecretaría de Pesca, de un proyecto de manejo y explotación del área solicitada, a través de un convenio de uso, cuya vigencia no podrá exceder del plazo de la destinación respectiva.
+El citado convenio deberá incorporar, dentro de sus causales de caducidad, lo establecido, al respecto, en el decreto con fuerza de ley N°340, de 1960, del Ministerio de Defensa Nacional, y aquella normativa que la complemente o reemplace.
+Los derechos emanados de la resolución que habilita a la organización para el uso de esta área de manejo no podrán enajenarse, arrendarse ni constituirse, a su respecto, otros derechos en beneficio de terceros.
