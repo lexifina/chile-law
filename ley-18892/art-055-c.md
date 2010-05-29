@@ -1,0 +1,1 @@
+Artículo 55 C.- Las áreas de manejo y explotación quedarán sujetas a las medidas de administración de los recursos hidrobiológicos consignados en el párrafo 1º del Título II, como también a las que señala este párrafo. No obstante, se podrá exceptuar del cumplimiento de tales medidas, mediante decretos del Ministerio o resoluciones de la Subsecretaría.
