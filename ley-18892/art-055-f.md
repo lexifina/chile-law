@@ -1,0 +1,6 @@
+Artículo 55 F.- Las organizaciones de pescadores artesanales a las cuales se les entregue un área de manejo, pagarán, cada año calendario, una patente única, de beneficio fiscal, equivalente a 0,18 unidad tributaria mensual por cada hectárea o fracción. No obstante, respecto de aquella parte del área de manejo en que se autoricen actividades de acuicultura, se pagarán, anualmente, dos unidades tributarias mensuales por hectárea o fracción.
+Las organizaciones de pescadores artesanales estarán exentas del pago de la patente:
+a) Durante los dos primeros años de vigencia del convenio de uso;
+b) Respecto de las áreas de manejo en las cuales no se haya realizado actividad extractiva durante el año calendario anterior, y
+c) Por aquellas áreas de manejo afectadas por una catástrofe natural, declarada por la autoridad competente. Las organizaciones de pescadores artesanales a las cuales se les haya entregado un área de manejo y sea afectada por una catástrofe natural, podrán solicitar a la autoridad competente que formule la declaración indicada en esta letra.
+En el evento que se autoricen en el área de manejo actividades de acuicultura, la patente a que se refiere la parte final del inciso primero regirá a partir del segundo año, contado desde la autorización respectiva.
