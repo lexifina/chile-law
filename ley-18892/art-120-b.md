@@ -1,0 +1,3 @@
+Artículo 120 B.- El procesamiento, el apozamiento, la elaboración, la transformación y el almacenamiento de los recursos señalados en el artículo anterior, así como también de productos derivados de éstos, serán sancionados con multa de 30 a 300 unidades tributarias mensuales y, además, con la clausura del establecimiento o local en que se hubiere cometido la infracción, hasta por un plazo de 30 días.
+El gerente y el administrador del establecimiento industrial serán sancionados, personalmente, con una multa de 15 a 150 unidades tributarias mensuales.
+En caso de reincidencia en las infracciones de este artículo, las personas responsables serán sancionadas con la pena de presidio menor en su grado mínimo y las multas se duplicarán.
