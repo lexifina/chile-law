@@ -1,1 +1,1 @@
-Artículo 5º.- Los establecimientos educacionales de las instituciones de la Defensa Nacional que a la fecha de publicación de esta ley impartan educación media, deberán ajustarse a lo prescrito en los artículos 44 y 46 en el plazo de cuatro años contado desde la fecha referida.
+Art. 5º. Los establecimientos educacionales de las Instituciones de la Defensa Nacional que a la fecha de publicación de la ley Nº 20.370 impartan educación media, deberán ajustarse a lo prescrito en los artículos 44 y 46 en el plazo de cuatro años contado desde la fecha referida.
