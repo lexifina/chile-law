@@ -1,3 +1,2 @@
-Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
-Santiago, 17 de agosto de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.- Paula Quintana Meléndez, Ministra de Planificación.
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Cristián Martínez Ahumada, Subsecretario de Educación.
+Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.- Paula Quintana Meléndez, Ministra de Planificación.
+Lo que transcribo a usted para su conocimiento.- Saluda a usted, Cristián Martínez Ahumada, Subsecretario de Educación.
