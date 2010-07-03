@@ -1,0 +1,1 @@
+Artículo 17 A.- La Sala, a propuesta de la comisión respectiva, podrá refundir dos o más proyectos de ley radicados en esa Cámara, siempre que todos se encuentren en el primer trámite constitucional y sus ideas matrices o fundamentales tengan entre sí relación directa. En cuanto sea posible, se consultará a sus autores.
