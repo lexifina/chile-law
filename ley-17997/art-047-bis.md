@@ -1,5 +1,0 @@
-Artículo 47 bis.- Para ser acogido a tramitación, el requerimiento deberá cumplir con las exigencias señaladas en el inciso primero del artículo 39 y en el inciso segundo de este artículo, y deberá acompañarse a él la publicación en el Diario Oficial del decreto que fija el día de la consulta plebiscitaria.
-El requerimiento deberá indicar, además, si la cuestión se refiere a la procedencia de la consulta plebiscitaria, a su oportunidad o a los términos de la misma, precisando los aspectos específicos de la impugnación y su fundamento.
-Procederá declarar la inadmisibilidad de la cuestión si no es formulada por un órgano legitimado, si es promovida extemporáneamente o se refiere a materias de la competencia del Tribunal Calificador de Elecciones.
-Si la sentencia resolviere que el plebiscito es procedente, deberá fijar en la misma resolución el texto definitivo de la consulta plebiscitaria, manteniendo la forma dispuesta en el decreto de convocatoria o modificándola, en su caso.
-La sentencia deberá publicarse en la forma y plazo establecidos en el artículo 31 bis.

@@ -1,1 +1,0 @@
-Artículo 47 L.- Resuelta la cuestión de inaplicabilidad por el Tribunal Constitucional, no podrá ser intentada nuevamente, por el mismo vicio, en las sucesivas instancias o grados de la gestión en que se hubiere promovido.

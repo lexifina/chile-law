@@ -1,1 +1,0 @@
-Artículo 25 A.- El Tribunal, en sesiones especialmente convocadas al efecto, podrá dictar autos acordados sobre materias que no sean propias del dominio legal y que tengan como objetivo la buena administración y funcionamiento del Tribunal.

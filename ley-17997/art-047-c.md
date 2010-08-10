@@ -1,1 +1,0 @@
-Artículo 47 C.- El requerimiento podrá interponerse respecto de cualquier gestión judicial en tramitación, y en cualquier oportunidad procesal en que se advierta que la aplicación de un precepto legal que pueda ser decisivo en la resolución del asunto resulta contraria a la Constitución.

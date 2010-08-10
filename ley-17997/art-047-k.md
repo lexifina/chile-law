@@ -1,1 +1,0 @@
-Artículo 47 K.- La sentencia que declare la inaplicabilidad del precepto legal impugnado deberá especificar de qué modo su aplicación en la gestión pendiente de que se trata resulta contraria a la Constitución.
