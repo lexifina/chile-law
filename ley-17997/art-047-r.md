@@ -1,5 +1,0 @@
-Artículo 47 R.- Procederá declarar la inadmisibilidad de la cuestión de inconstitucionalidad promovida mediante acción pública, en los siguientes casos:
-1° Cuando no exista sentencia previa que haya declarado la inaplicabilidad del precepto legal impugnado, y
-2° Cuando la cuestión se funde en un vicio de inconstitucionalidad distinto del que motivó la declaración de inaplicabilidad del precepto impugnado.
-Declarada la inadmisibilidad por resolución que deberá ser fundada, se notificará a quien haya recurrido, se comunicará a la Cámara de Diputados, al Senado y al Presidente de la República, y el requerimiento se tendrá por no presentado, para todos los efectos legales.
-La resolución que declare la admisibilidad o inadmisibilidad de la cuestión no será susceptible de recurso alguno.

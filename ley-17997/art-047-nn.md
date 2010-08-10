@@ -1,2 +1,0 @@
-Artículo 47 Ñ.- En el caso del número 7º del artículo 93 de la Constitución Política de la República, la cuestión de inconstitucionalidad podrá ser promovida por el Tribunal Constitucional actuando de oficio y por las personas legitimadas a que se refiere el inciso duodécimo del mismo artículo.
-Esta cuestión no podrá promoverse respecto de un tratado ni de una o más de sus disposiciones.
