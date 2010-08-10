@@ -1,2 +1,0 @@
-Artículo 2° transitorio.- La entrada en vigencia de esta ley no obstará a la validez de los procesos iniciados ante el Tribunal a partir del 26 de febrero de 2006, ni alterará los efectos de las sentencias que les hayan puesto término.
-Respecto de los procesos que a la fecha de entrada en vigencia de esta ley se encuentren pendientes ante el Tribunal, se aplicará lo dispuesto en el artículo 24 de la Ley sobre el Efecto Retroactivo de las Leyes.
