@@ -1,1 +1,0 @@
-Artículo 47 T.- Una vez evacuadas las diligencias anteriores, o vencidos los plazos legales para ello, el Tribunal procederá conforme al artículo 43 y el Presidente deberá incluir el asunto en la tabla del Pleno, para su decisión.

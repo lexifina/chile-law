@@ -1,1 +1,0 @@
-Artículo 48 ter.- Declarado admisible, la resolución respectiva y el requerimiento se pondrán en conocimiento de las partes y los órganos constitucionales interesados para que, dentro del plazo de diez días, presenten los antecedentes y formulen las observaciones que estimen pertinentes.

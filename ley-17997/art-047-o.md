@@ -1,1 +1,0 @@
-Artículo 47 O.- En los casos en que el Tribunal proceda de oficio, así lo declarará en una resolución preliminar fundada, que individualizará la sentencia de inaplicabilidad que le sirve de sustento y las disposiciones constitucionales transgredidas.

@@ -1,1 +1,0 @@
-Artículo 50 C.- El Tribunal podrá, de acuerdo a lo establecido en el artículo 30 bis, disponer la suspensión del procedimiento en que incida su decisión si la continuación del mismo puede causar daño irreparable o hacer imposible el cumplimiento de lo que se resuelva, en caso de acogerse la contienda.
