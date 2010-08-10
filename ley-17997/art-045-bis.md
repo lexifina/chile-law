@@ -1,1 +1,0 @@
-Artículo 45 bis.- Declarado por el Tribunal que un precepto legal impugnado de conformidad a este Párrafo es constitucional, no podrá ser declarado posteriormente inaplicable por el mismo vicio materia del proceso y de la sentencia respectiva.
