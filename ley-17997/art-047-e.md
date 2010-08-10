@@ -1,1 +1,0 @@
-Artículo 47 E.- Dentro del plazo de cinco días, contado desde que se acoja el requerimiento a tramitación o desde que concluya la vista del incidente, en su caso, la sala que corresponda examinará la admisibilidad de la cuestión de inaplicabilidad.

@@ -1,1 +1,0 @@
-Artículo 37 H.- Habiéndose pronunciado el Tribunal sobre la constitucionalidad de un auto acordado, no se admitirá a tramitación ningún requerimiento para resolver sobre cuestiones de constitucionalidad del mismo, a menos que se invoque un vicio distinto del hecho valer con anterioridad.
