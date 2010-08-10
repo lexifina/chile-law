@@ -1,1 +1,0 @@
-Artículo 47 S.- Declarada la admisibilidad, el Tribunal deberá poner la resolución respectiva y el requerimiento en conocimiento de los órganos individualizados en el artículo anterior, los cuales podrán formular las observaciones y acompañar los antecedentes que estimen pertinentes, dentro del plazo de veinte días.
