@@ -1,1 +1,0 @@
-Artículo 72 A.- En el caso del número 15° del artículo 93 de la Constitución Política de la República, la renuncia del parlamentario deberá presentarse ante el Presidente de la Cámara a la que pertenece, quien la remitirá al Tribunal en el plazo de cinco días desde que le fue presentada.
