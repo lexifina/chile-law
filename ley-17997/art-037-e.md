@@ -1,1 +1,0 @@
-Artículo 37 E.- Una vez evacuadas las diligencias anteriores, o vencidos los plazos para ello, el Tribunal procederá conforme a lo dispuesto en el artículo 43. El plazo para dictar sentencia será de treinta días, contado desde que concluya la tramitación de la causa, término que podrá ser prorrogado hasta por otros quince días, por resolución fundada del Tribunal.
