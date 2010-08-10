@@ -1,1 +1,0 @@
-Artículo 37 G.- La sentencia que declare la inconstitucionalidad de todo o parte de un auto acordado, deberá publicarse en el Diario Oficial dentro de los tres días siguientes a su dictación. Desde dicha publicación, el auto acordado, o la parte de él que hubiere sido declarada inconstitucional, se entenderá derogado, lo que no producirá efecto retroactivo.
