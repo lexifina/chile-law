@@ -1,1 +1,0 @@
-Artículo 47 W.- La sentencia que se pronuncie sobre la inconstitucionalidad de todo o parte de un precepto legal, será publicada en la forma y plazo establecidos en el artículo 31 bis. El precepto declarado inconstitucional se entenderá derogado desde la fecha de la publicación en el Diario Oficial, sin efecto retroactivo.

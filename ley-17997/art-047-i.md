@@ -1,2 +1,0 @@
-Artículo 47 I.- Una vez evacuadas las diligencias anteriores, o vencidos los plazos legales para ello, el Tribunal procederá conforme al artículo 43, debiendo el Presidente incluir el asunto en la tabla del pleno, para su decisión.
-Terminada la tramitación, el Tribunal dictará sentencia dentro del plazo de treinta días, término que podrá prorrogar hasta por otros quince, en casos calificados y por resolución fundada.
