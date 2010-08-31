@@ -1,1 +1,1 @@
-Artículo 2°.- Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional, por la Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
+Artículo 2°.- Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
