@@ -15,7 +15,7 @@ TITULO XIV De la Clasificación de Riesgo
 TITULO XV De los grupos empresariales, de los controladores y de las personas relacionadas
 TITULO XVI De la emisión de títulos de deuda a largo plazo.
 TITULO XVII De la emisión de títulos de deuda a corto plazo
-TITULO XVIII De las sociedades securitizadoras
+TITULO XVIII De las Sociedades Securitizadoras y de la Emisión de Títulos de Deuda de Securitización
 TITULO XIX Derogado De la Cámara de Compensación
 TITULO XX De la responsabilidad de las sociedades administradoras de fondos fiscalizados por la Superintendencia
 TITULO XXI De la información privilegiada
