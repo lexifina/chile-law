@@ -12,7 +12,7 @@ Párrafo 5 Cuestiones de constitucionalidad sobre convocatorias a plebiscito
 Párrafo 6 Cuestiones de inaplicabilidad
 Párrafo 7 Cuestiones de inconstitucionalidad de un precepto legal declarado Inaplicable
 Párrafo 8 Cuestiones sobre la promulgación de una ley
-Párrafo 9 Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República la Contraloría
+Párrafo 9 Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República
 Párrafo 10 Cuestiones de constitucionalidad sobre decretos supremos
 Párrafo 11 Contiendas de competencia entre autoridades políticas o administrativas y tribunales de justicia
 Párrafo 12 Inhabilidades e incompatibilidades de los Ministros de Estado y parlamentarios
