@@ -1,1 +1,1 @@
-Artículo 34 bis.- El plazo que tendrá cada municipio para otorgar y renovar la patente comercial y la patente profesional, será de diez días hábiles contados desde el día en que tenga a su disposición todos los antecedentes, lo que será certificado por la Secretaría Municipal. Respecto de la patente industrial, dicho plazo será de quince días hábiles.
+Artículo 34 bis.- DEROGADO.
