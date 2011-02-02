@@ -3,4 +3,8 @@ En el caso de los Tribunales Tributarios y Aduaneros con más de un Secretario A
 A falta o inhabilidad de todos los anteriores, subrogará el Secretario Abogado del Tribunal Tributario y Aduanero que se indica en la tabla siguiente. A falta o inhabilidad del Secretario Abogado de este último Tribunal, subrogará el Juez del mismo:
 XVª Región Iª Región
 IIª Región IIIª Región
+IVª Región Vª Región
+VIª Región VIIª Región
+VIIIª Región IXª Región
+XIª Región XIIª Región
 En el caso de los Tribunales Tributarios y Aduaneros con más de un Juez, a falta o inhabilidad del Secretario, antes de aplicar las reglas precedentes, subrogará el otro juez del mismo Tribunal.
