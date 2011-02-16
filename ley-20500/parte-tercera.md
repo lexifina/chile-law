@@ -1,0 +1,1 @@
+Tercera.- Las corporaciones y fundaciones cuya personalidad jurídica sea o haya sido conferida por el Presidente de la República con arreglo a leyes anteriores se regirán por las disposiciones establecidas por la presente ley en cuanto a sus obligaciones, fiscalización, requisitos y formalidades de modificación y de extinción.
