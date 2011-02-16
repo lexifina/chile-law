@@ -1,0 +1,2 @@
+Artículo 5º.- La ordenanza a que alude el artículo 93 y el reglamento señalado en el artículo 94 deberán dictarse dentro del plazo de 180 días siguientes a la fecha de publicación de la presente ley.
+Los consejos comunales de organizaciones de la sociedad civil deberán quedar instalados en el plazo de 60 días, contado desde la fecha de publicación del reglamento mencionado en el inciso precedente.
