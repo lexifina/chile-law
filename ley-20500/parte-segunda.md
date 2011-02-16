@@ -1,0 +1,1 @@
+Segunda.- Las disposiciones de la presente ley contenidas en el Párrafo 2º del Título I, en el artículo 34 Nº 1 y en el Párrafo VI del Título IV, entrarán en vigencia doce meses después de su publicación en el Diario Oficial.
