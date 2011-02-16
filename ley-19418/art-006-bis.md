@@ -1,0 +1,1 @@
+Artículo 6º bis.- Las uniones comunales de juntas de vecinos y las uniones comunales de organizaciones comunitarias funcionales podrán agruparse en federaciones y confederaciones de carácter provincial, regional o nacional. Un reglamento establecerá el funcionamiento de este tipo de asociaciones, garantizando la debida autonomía en sus distintos niveles de funcionamiento.
