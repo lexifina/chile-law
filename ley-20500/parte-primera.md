@@ -1,0 +1,1 @@
+Primera.- Los ministerios y servicios referidos en el Título IV de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, deberán dictar la respectiva norma de aplicación general a que se refiere su artículo 70, dentro del plazo de seis meses contado desde la fecha de publicación de la presente ley.
