@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 4 de febrero de 2011.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Hinzpeter Kirberg, Ministro del Interior.- Rodrigo Álvarez Zenteno, Ministro de Hacienda (S).- Claudio Alvarado Andrade, Ministro Secretario General de la Presidencia (S).- María Eugenia de la Fuente Núñez, Ministra Secretaria General de Gobierno (S).
+Lo que transcribo a Ud., para su conocimiento y fines.- René Montané Hispa, Subsecretario General de Gobierno (S).
