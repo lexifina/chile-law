@@ -1,0 +1,1 @@
+Artículo cuarto.- En la primera provisión de los cargos de carrera que deba realizarse en la Subsecretaría de Prevención del Delito y en el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, no regirá la norma establecida en el artículo 8° del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, sobre Estatuto Administrativo.

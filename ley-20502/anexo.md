@@ -1,0 +1,9 @@
+Tribunal Constitucional
+Proyecto de ley que crea el Ministerio de Seguridad Pública, el Servicio Nacional para la Prevención del Consumo y Tráfico de Drogas, y modifica diversos cuerpos legales. (Boletín Nº 4.248-06.)
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control de constitucionalidad respecto de las normas contenidas en él que versen sobre materias propias de ley orgánica constitucional; del proyecto y por sentencia de 27 de enero de 2011 en los autos Rol Nº 1.901-11-CPR.
+Se declara:
+1. Que los artículos 1º, inciso primero, 3º, letra c), 4º, 7º, inciso final, 8º, 12, 13, incisos segundo y tercero, letra a), 22, primero transitorio, número 4, y cuarto transitorio del proyecto de ley sometido a control no son contrarios a la Constitución.
+2. Que el inciso tercero del artículo 15 del proyecto de ley sometido a control no es contrario a la Constitución, en el entendido de que la nueva atribución que confiere a los Municipios no afecta las atribuciones y funciones privativas de las Fuerzas de Orden y Seguridad Pública dentro del correspondiente territorio comunal.
+3. Que el inciso primero del artículo 10 del proyecto de ley sometido a control no versa sobre materias propias de ley orgánica constitucional, en el entendido de que no afecta las atribuciones que la legislación vigente otorga al General Director de Carabineros de Chile y al Director General de la Policía de Investigaciones de Chile.
+4. Que, en este examen preventivo de constitucionalidad, este Tribunal Constitucional no emitirá pronunciamiento sobre las demás normas contenidas en el proyecto de ley, por no versar sobre materias propias de ley orgánica constitucional.
+Santiago, 27 de enero de 2011.- Marta de la Fuente Olguín, Secretaria.

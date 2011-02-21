@@ -1,0 +1,1 @@
+Artículo sexto.- El mayor gasto fiscal que represente la aplicación de la presente ley durante su primer año de vigencia se financiará con cargo al ítem 50-01-03-24- 03.104 de la Partida Presupuestaria Tesoro Público y, en los años siguientes, con cargo a los recursos que se establezcan en las respectivas leyes de presupuestos del Sector Público.
