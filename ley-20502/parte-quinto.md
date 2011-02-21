@@ -1,0 +1,1 @@
+Artículo quinto.- El mayor gasto que pueda derivar de las nuevas plantas que se fijen y del encasillamiento que se practique en virtud de los artículos primero y segundo transitorios, no podrá exceder, considerando su efecto año completo, de la cantidad de $1.412.542 miles.
