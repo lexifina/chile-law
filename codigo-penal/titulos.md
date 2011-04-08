@@ -87,6 +87,7 @@ TÍTULO OCTAVO. CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 § III. Lesiones corporales.
 § IV. Del duelo.
 § V. Disposiciones comunes a los párrafos I, III y IV de este título.
+§ V bis. De los delitos de tráfico ilícito de migrantes y trata de personas
 § VI De la calumnia.
 § VII De las injurias.
 § VIII. Disposiciones comunes a los dos párrafos anteriores.
