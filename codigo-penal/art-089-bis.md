@@ -1,0 +1,2 @@
+ART. 89 bis.
+El Ministro de Justicia podrá disponer, de acuerdo con los tratados internacionales vigentes sobre la materia y ratificados por Chile, o sobre la base del principio de reciprocidad, que los extranjeros condenados por alguno de los delitos contemplados en los artículos 411 bis, 411 ter, 411 quáter y 411 quinquies, cumplan en el país de su nacionalidad las penas privativas de libertad que les hubieren sido impuestas.
