@@ -1,0 +1,1 @@
+Artículo 134-F. Para efectos de aplicar las sanciones previstas en este párrafo, las naves que no porten pabellón, que no indiquen nombre alguno o que naveguen sin nacionalidad, se considerarán de pabellón extranjero.
