@@ -1,0 +1,1 @@
+Artículo 134-D. Las infracciones a que se refiere este párrafo serán perseguidas por las autoridades nacionales en forma subsidiaria y sólo cuando la jurisdicción del Estado del pabellón no sea ejercida, en relación con los mismos hechos que son materia de la infracción.
