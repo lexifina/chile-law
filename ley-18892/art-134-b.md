@@ -1,0 +1,1 @@
+Artículo 134-B. Las personas naturales y jurídicas chilenas que sean propietarias, poseedoras, meras tenedoras o armadoras, totales o parciales, de naves pesqueras de pabellón extranjero y que, con su conocimiento, realicen o participen en las actividades de pesca a que se refiere el inciso primero del artículo 134-A, serán sancionadas con multa de entre 100 y 3.000 UTM.
