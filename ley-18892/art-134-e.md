@@ -1,0 +1,2 @@
+Artículo 134-E. Las resoluciones que condenen al pago de multas serán ejecutadas por el Servicio de Tesorerías de acuerdo con lo dispuesto en el Título III del decreto ley Nº1.263, de 1975, Ley Orgánica de la Administración Financiera del Estado.
+En el caso de las personas jurídicas, las sanciones podrán hacerse efectivas, de forma subsidiaria, en cualquiera de sus representantes legales o apoderados con poder general de administración.
