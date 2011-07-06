@@ -1,0 +1,1 @@
+Artículo 28 A bis.- Se deberá entregar en forma semestral la información del uso de estos recursos, de manera detallada, a la Comisión de Obras Públicas, Transportes y Telecomunicaciones de la Cámara de Diputados.
