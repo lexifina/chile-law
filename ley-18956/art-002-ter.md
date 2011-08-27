@@ -1,0 +1,3 @@
+Artículo 2º ter.- En cumplimiento del deber del Estado a que se refiere el inciso octavo del artículo 4° de la ley N° 20.370, General de Educación, corresponderá al Ministerio de Educación facilitar apoyo técnico pedagógico a los establecimientos educacionales y promover el desarrollo profesional docente.
+Dichas funciones podrá desarrollarlas el Ministerio, por sí o a por medio de terceros elegidos por el sostenedor de entre los sujetos registrados conforme al artículo 18, literal d).
+No obstante, el Ministerio de Educación brindará el apoyo técnico directamente cuando así se lo soliciten sostenedores que sean municipalidades, corporaciones u otros entes creados por ley o que reciben aporte del Estado.
