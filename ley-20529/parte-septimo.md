@@ -1,0 +1,7 @@
+Artículo séptimo.- Los concursos que deban realizarse de conformidad al inciso tercero del artículo quinto transitorio serán llamados por la Subsecretaría de Educación, directamente o utilizando el procedimiento que establece el artículo 23 del Estatuto Administrativo y se sujetarán al procedimiento dispuesto en los incisos siguientes.
+La Subsecretaría de Educación definirá, conjuntamente con el Superintendente de Educación o el Secretario Ejecutivo de la Agencia de Calidad de la Educación, según corresponda, los factores, subfactores, competencias o aptitudes específicas a considerar, pudiendo fijarse por cargos o grupo de cargos o funciones.
+Sin perjuicio de las disposiciones del Título II del Estatuto Administrativo, el concurso deberá seguir, a lo menos, las siguientes normas básicas:
+a) En la convocatoria se especificarán los cargos, los requisitos requeridos, las funciones a desempeñar y la localidad en la que estará ubicada la vacante.
+b) La provisión de los cargos de cada planta se efectuará, en cada grado, en orden decreciente, conforme al puntaje obtenido por los postulantes.
+c) En caso de producirse empate, se pronunciará el Superintendente de Educación o el Secretario Ejecutivo de la Agencia de Calidad de la Educación, según corresponda.
+Facúltase al Presidente de la República para que, mediante uno o más decretos con fuerza de ley expedidos por intermedio del Ministerio de Educación, que además deberán ser suscritos por el Ministro de Hacienda, dicte normas complementarias para el adecuado desarrollo del concurso.
