@@ -1,0 +1,1 @@
+Artículo duodécimo.- La ordenación de los establecimientos afectos a la ley N° 20.248 seguirá rigiéndose por lo dispuesto en los artículos primero y segundo transitorios de la mencionada ley en tanto no entren en vigencia los nuevos estándares de aprendizaje y otros indicadores de calidad educativa a que hace referencia esta ley.
