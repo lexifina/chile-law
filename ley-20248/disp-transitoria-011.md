@@ -1,1 +1,1 @@
-Artículo undécimo.- La atribución del Ministerio de Educación para suscribir los convenios de la presente ley sólo podrá ejercerse hasta el tercer año de su entrada en vigencia, o hasta que entre en operación el Sistema de Aseguramiento de la Calidad de la Educación, si ello ocurriere antes de los tres años.
+Artículo undécimo.- DEROGADO.
