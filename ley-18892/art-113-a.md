@@ -1,0 +1,1 @@
+Artículo 113 A.- Será sancionado con multa de 3 a 300 unidades tributarias mensuales el armador pesquero industrial o artesanal que no informe la recalada de acuerdo al procedimiento establecido en el artículo 63 bis.

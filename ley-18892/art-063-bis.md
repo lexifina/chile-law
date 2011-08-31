@@ -1,0 +1,1 @@
+Artículo 63 bis.- Los armadores pesqueros artesanales e industriales deberán informar la recalada de la nave, antes de su arribo a puerto, en los casos, forma y condiciones que establezca el Servicio mediante resolución.
