@@ -22,5 +22,6 @@ Párrafo 4º Del escrutinio general y de la calificación de las elecciones
 TITULO VI DE LAS CORPORACIONES, FUNDACIONES Y ASOCIACIONES MUNICIPALES
 Párrafo 1º De las corporaciones y fundaciones municipales
 Párrafo 2º De las asociaciones de municipalidades
+Párrafo 3º De la personalidad jurídica de las Asociaciones Municipales
 TITULO FINAL
 DISPOSICIONES TRANSITORIAS
