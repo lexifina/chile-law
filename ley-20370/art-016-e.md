@@ -1,0 +1,1 @@
+Artículo 16 E. El personal directivo, docente, asistentes de la educación y las personas que cumplan funciones administrativas y auxiliares al interior de todos los establecimientos educacionales recibirán capacitación sobre la promoción de la buena convivencia escolar y el manejo de situaciones de conflicto.
