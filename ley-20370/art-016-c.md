@@ -1,0 +1,1 @@
+Artículo 16 C. Los alumnos, alumnas, padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales deberán propiciar un clima escolar que promueva la buena convivencia de manera de prevenir todo tipo de acoso escolar.
