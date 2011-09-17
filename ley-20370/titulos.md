@@ -1,6 +1,7 @@
 TÍTULO PRELIMINAR Normas generales
 Párrafo 1º Principios y fines de la educación
 Párrafo 2º Derechos y deberes
+Párrafo 3º Convivencia Escolar
 TÍTULO I De los niveles y modalidades educativas
 TÍTULO II Normas generales sobre educación parvularia, básica y media
 Párrafo 1º Requisitos mínimos de la educación parvularia, básica y media y normas objetivas para velar por su cumplimiento

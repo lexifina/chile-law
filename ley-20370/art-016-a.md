@@ -1,0 +1,1 @@
+Artículo 16 A. Se entenderá por buena convivencia escolar la coexistencia armónica de los miembros de la comunidad educativa, que supone una interrelación positiva entre ellos y permite el adecuado cumplimiento de los objetivos educativos en un clima que propicia el desarrollo integral de los estudiantes.
