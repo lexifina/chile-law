@@ -1,0 +1,1 @@
+Artículo tercero.- La modificación a que se refiere el artículo 22 de esta ley, que sustituye el inciso final del artículo 2° del decreto N° 900, de 1996, del Ministerio de Obras Públicas, entrará en vigencia transcurridos 12 meses desde la publicación de esta ley en el Diario Oficial.
