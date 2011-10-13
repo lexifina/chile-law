@@ -1,0 +1,1 @@
+Artículo cuarto.- El mayor gasto que se derive del ejercicio de la facultad del artículo primero transitorio de la presente ley, considerando su efecto año completo, no podrá exceder la cantidad de $ 1.678.541 miles.
