@@ -1,0 +1,1 @@
+Artículo decimosexto.- Los Convenios de Igualdad de Oportunidades y Excelencia Educativa suscritos con anterioridad al 30 de junio de 2011 se entenderán finalizados al término del año escolar en que dicho convenio establecía que expiraban.
