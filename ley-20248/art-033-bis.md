@@ -1,0 +1,2 @@
+Artículo 33 bis.- Los municipios, corporaciones municipales u otras entidades creadas por ley que administren establecimientos educacionales que estén adscritos al régimen de subvención preferencial, deberán administrar los recursos que perciban por aplicación de esta ley en una cuenta corriente única para este solo efecto.
+Los recursos entregados en virtud de esta ley son inembargables salvo en el caso de deudas derivadas del incumplimiento de obligaciones contraídas en implementación y ejecución del plan de mejoramiento educativo.
