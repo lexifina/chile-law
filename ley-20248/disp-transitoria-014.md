@@ -1,0 +1,1 @@
+Artículo decimocuarto.- El plazo que los establecimientos lleven ordenados en la categoría de "en recuperación" de conformidad a la presente ley se agregará para efectos de lo establecido en el párrafo 5° del Título II de la ley N° 20.529.
