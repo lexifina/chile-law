@@ -1,0 +1,3 @@
+Artículo 63 ter.- Los operadores extranjeros autorizados de acuerdo al artículo 63 bis, estarán exentos del pago de los impuestos especiales establecidos en los artículos 58 y 59 de la presente ley.
+Los operadores extranjeros autorizados a explotar juegos de azar en aguas sometidas a la jurisdicción nacional deberán suspender la operación de los referidos juegos durante el atraque de la nave en puertos nacionales y mientras se encuentre a una distancia inferior a tres millas de tales puertos.
+Asimismo, las normas sobre fiscalización y sanciones de esta ley no se aplicarán a la explotación de los juegos de azar regulados en el artículo 63 bis, aplicándoseles, para estos efectos, sólo las disposiciones de la ley Nº19.913.
