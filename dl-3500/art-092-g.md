@@ -1,0 +1,1 @@
+Artículo 92 G.- Si las cantidades señaladas en el inciso primero del artículo anterior fueren de un monto inferior a las cotizaciones adeudadas, se pagarán en primer orden las destinadas a pensiones y subsistirá la obligación del trabajador independiente por el saldo insoluto, y a partir de ese momento se considerarán adeudadas para todos los efectos legales.
