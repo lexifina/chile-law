@@ -1,34 +1,67 @@
-Artículo 50 A.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
-El reemplazo operará en forma indivisible respecto de todas las categorías, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
-Para estos efectos, el Servicio otorgará, a petición del titular de la inscripción, un certificado que acredite la individualización del titular de aquélla, las características básicas de la nave, en su caso, y la individualización de la o las pesqueras inscritas que mantiene vigentes.
-Este certificado tendrá una duración indefinida, mientras se mantenga la vigencia de la suspensión del acceso y no se vea afectado por la causal de caducidad en que pueda incurrir el titular de la inscripción.
-Para estos efectos, se deberá presentar una solicitud ante el Servicio, en que conste la manifestación de voluntad de ambas partes de ejercer la facultad establecida en el inciso primero. El Servicio efectuará el reemplazo en aquellas pesquerías que se encuentren vigentes.
-El reemplazante deberá cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
-El armador reemplazante deberá, además, acreditar el título de
-dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 29.
-El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
-Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos,
-dos años, consecutivos o no, en
-los últimos cuatro años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
-Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo
-63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de los buzos y de los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
-En el caso que se modifique parcialmente la integración de una comunidad o persona jurídica, el o los nuevos integrantes o socios deberán cumplir con el requisito de habitualidad antes
-señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
-El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta,
-ni los ascendientes del
-reemplazado, ni a los colaterales
-hasta el tercer grado de consanguinidad
-o afinidad, inclusive.
-Con todo, para los efectos
-de lo dispuesto en el inciso
-séptimo del presente artículo,
-se considerará acreditada la
-habitualidad durante el lapso
-en que la mujer se encuentre en
-estado de gravidez, así como
-aquel en que esté gozando del
-descanso de maternidad a que
-se refiere el artículo 195,
-inciso primero, del Código
-del Trabajo.
-El reemplazo no operará respecto de la categoría de recolector de orilla, alguero y buzo apnea, ni podrá ser invocada por el reemplazante.
+Artículo 50 A.- Se inscribirán en el
+Registro Artesanal las solicitudes
+de inscripción que recaigan sobre
+las pesquerías que se encuentran
+incorporadas en una nómina que
+determinará la Subsecretaría por
+región.
+La Subsecretaría establecerá,
+mediante resolución, la nómina
+de pesquerías y las especies que
+la constituyen por región, el
+respectivo arte o aparejo de pesca
+y categoría de pescador artesanal
+que la puede extraer, y que
+conformarán el Registro Artesanal.
+Dicha nómina se deberá actualizar,
+a lo menos, cada dos años.
+La solicitud de inscripción
+será denegada cuando concurra
+alguna de las siguientes causales:
+a) Encontrarse suspendida
+transitoriamente la inscripción
+de la pesquería solicitada en
+el Registro Artesanal, de
+conformidad con los artículos
+20, 33 y 50 de esta ley.
+b) Constituir la o las
+pesquerías solicitadas,
+unidades de pesquerías
+declaradas en régimen de
+recuperación o de desarrollo
+incipiente, según lo
+dispuesto en el Párrafo
+3º del Título III de esta ley.
+c) Constituir la o las
+especies solicitadas, en
+conformidad a una nómina
+que establecerá la
+Subsecretaría de Pesca,
+fauna acompañante de
+las pesquerías señaladas
+en las letras a) o b)
+anteriores, salvo que el
+solicitante se encuentre
+inscrito en ellas.
+En el evento que la
+especie solicitada no
+se encuentre en la
+nómina el Servicio
+deberá remitir dicha
+solicitud a la
+Subsecretaría la que
+deberá pronunciarse
+en el plazo de un mes,
+incluyendo en la nómina
+las respectivas especies
+y artes o denegándola
+mediante resolución
+fundada en virtud de
+las siguientes causales:
+a) Por no tener
+distribución geográfica
+en el área solicitada.
+b) Cuando la actividad
+solicitada sea contraria
+a la normativa pesquera
+vigente.
