@@ -1,1 +1,1 @@
-Artículo 171 bis.- La convocatoria a plebiscito comunal fijará la fecha de su realización, que no deberá ser antes de treinta ni después de sesenta días contados desde la publicación en el Diario Oficial del decreto alcaldicio que lo ordene.
+Artículo 171 bis.- Derogado.
