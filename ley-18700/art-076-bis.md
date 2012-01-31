@@ -1,0 +1,2 @@
+Artículo 76 bis.- La persona que disponga el Servicio Electoral se instalará en la Oficina Electoral del local de votación y procederá a recibir los ejemplares del acta señalados en el inciso sexto del artículo 72, cuyos datos procederá a incorporar al sistema computacional en la forma que disponga el Servicio Electoral, en conformidad al artículo 175 bis.
+Los apoderados acreditados ante la Oficina Electoral del Local de Votación podrán estar presentes y observar la recepción de las actas y el proceso de ingreso o transmisión de los datos que ellas contengan.
