@@ -1,0 +1,3 @@
+Artículo 83 bis.- Cualquier miembro de los Colegios Escrutadores podrá excusarse de desempeñar el cargo, en los plazos y formas y por las causales establecidas en el artículo 44.
+En el mismo plazo cualquier persona podrá solicitar la exclusión del o los miembros de un Colegio Escrutador que estuvieren afectados por alguna de las causales de inhabilidad señaladas en el artículo 81.
+Para los efectos de conocer y resolver las excusas que se presentaren y reemplazar a los miembros cuya excusa o exclusión hubiere sido acordada por la Junta Electoral, se procederá de conformidad con lo dispuesto en los artículos 45 y 46 de esta ley.
