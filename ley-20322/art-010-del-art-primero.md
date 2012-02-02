@@ -6,5 +6,6 @@ IIª Región IIIª Región
 IVª Región Vª Región
 VIª Región VIIª Región
 VIIIª Región IXª Región
+Xª Región XIVª Región
 XIª Región XIIª Región
 En el caso de los Tribunales Tributarios y Aduaneros con más de un Juez, a falta o inhabilidad del Secretario, antes de aplicar las reglas precedentes, subrogará el otro juez del mismo Tribunal.
