@@ -20,5 +20,6 @@ TITULO X De la observancia de los Derechos de Propiedad Industrial
 Párrafo 1º De las acciones civiles
 Párrafo 2º De las medidas precautorias
 Párrafo 3º De las medidas prejudiciales
-TITULO XI
-TITULO XII Disposiciones transitorias
+TITULO XI De la Tramitación de las solicitudes internacionales de patentes de invención o de modelos de utilidad.
+TITULO XII Artículo final
+TITULO XIII Disposiciones transitorias
