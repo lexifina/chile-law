@@ -14,7 +14,7 @@ Título II DEL PRINCIPIO Y FIN DE LA EXISTENCIA DE LAS PERSONAS
 DE LAS PERSONAS
 § 2. Del fin de la existencia de las personas
 § 3. De la presunción de muerte por desaparecimiento
-§ 4. De la muerte civil
+§ 4. De la comprobación judicial de la muerte
 Título III DE LOS ESPONSALES
 Título IV DEL MATRIMONIO
 Título V DE LAS SEGUNDAS NUPCIAS
