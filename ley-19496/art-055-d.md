@@ -1,0 +1,2 @@
+Artículo 55 D.- Los proveedores que promocionen o distribuyan un contrato de adhesión de un producto o servicio financiero sin sello SERNAC como si lo tuviere, o que no cumplan las obligaciones establecidas en el inciso final del artículo 55 C, serán sancionados con multa de hasta mil unidades tributarias mensuales.
+La reincidencia será sancionada con el doble de la multa aplicada. En el caso de este artículo no regirá el límite temporal de un año establecido en el inciso tercero del artículo 24 para calificar la reincidencia.
