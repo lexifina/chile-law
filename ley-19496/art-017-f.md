@@ -1,0 +1,1 @@
+Artículo 17 F.- Los proveedores de servicios o productos financieros y de seguros al público en general, no podrán enviar productos o contratos representativos de ellos que no hayan sido solicitados, al domicilio o lugar de trabajo del consumidor.

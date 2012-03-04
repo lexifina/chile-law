@@ -1,0 +1,1 @@
+Artículo 17 K.- El incumplimiento por parte de un proveedor de lo dispuesto en los artículos 17 B a 17 J y de los reglamentos dictados para la ejecución de estas normas, que afecte a uno o más consumidores, será sancionado como una sola infracción, con multa de hasta setecientas cincuenta unidades tributarias mensuales.
