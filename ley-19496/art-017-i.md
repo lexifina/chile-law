@@ -1,0 +1,4 @@
+Artículo 17 I.- Cuando el consumidor haya otorgado un mandato, una autorización o cualquier otro acto jurídico para que se pague automáticamente el todo o parte del saldo de su cuenta, su crédito o su tarjeta de crédito, podrá dejar sin efecto dicho mandato, autorización o acto jurídico en cualquier tiempo, sin más formalidades que aquellas que haya debido cumplir para otorgar el acto jurídico que está revocando.
+En todo caso, la revocación sólo surtirá efecto a contar del período subsiguiente de pago o abono que corresponda en la obligación concernida.
+La inejecución de la revocación informada al proveedor del producto o servicio dará lugar a la indemnización de todos los perjuicios y hará presumir la infracción a este artículo.
+En ningún caso será eximente de la responsabilidad del proveedor la circunstancia de que la revocación deba ser ejecutada por un tercero.
