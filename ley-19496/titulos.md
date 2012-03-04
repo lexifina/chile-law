@@ -15,6 +15,7 @@ T I T U L O IV Del procedimiento a que da lugar la aplicación de esta ley
 TITULO IV Del procedimiento a que da lugar la aplicación de esta ley y del procedimiento para la defensa del interés colectivo o difuso
 Párrafo 1º Normas generales
 Párrafo 2º Del Procedimiento Especial para Protección del Interés Colectivo o Difuso de los Consumidores
-T I T U L O V Del Servicio Nacional del Consumidor
+Título V Del sello SERNAC, del servicio de atención al cliente y del Sistema de Solución de Controversias
+T I T U L O VI Del Servicio Nacional del Consumidor
 Titulo final
 Disposiciones transitorias
