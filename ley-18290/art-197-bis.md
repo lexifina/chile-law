@@ -1,0 +1,1 @@
+Artículo 197 bis.- Los jueces podrán siempre, aunque no medie condena por concurrir alguna circunstancia eximente de responsabilidad penal, decretar la inhabilidad temporal o perpetua para conducir vehículos motorizados, si las condiciones psíquicas y morales del autor lo aconsejan.
