@@ -1,0 +1,2 @@
+Artículo 118 quinquies.- Se aplicará la suspensión de operaciones por el plazo de dos años, a un centro de cultivo por haber sido clasificado en bioseguridad baja por dos veces consecutivas, al término de los descansos sanitarios respectivos, de conformidad con la metodología establecida en el reglamento a que se refiere el artículo 86.
+La suspensión de operaciones se aplicará de conformidad al procedimiento previsto en el artículo 118 ter.
