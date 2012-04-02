@@ -1,0 +1,1 @@
+Artículo 86 quáter.- No podrá negarse el uso de los puntos de embarque o desembarque señalados por el Servicio de conformidad con el artículo 122 letra ñ) y su uso gozará de preferencia. El titular o administrador del punto de embarque o desembarque podrá cobrar a quien los utiliza el costo en que incurra.
