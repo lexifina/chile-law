@@ -1,0 +1,1 @@
+Artículo 156 bis.- Medidas cautelares especiales. En los casos de investigaciones por fraude en el otorgamiento de licencias médicas, el tribunal podrá, en la oportunidad y a petición de las personas señaladas en el artículo 155, decretar la suspensión de la facultad de emitir dichas licencias mientras dure la investigación o por el menor plazo que, fundadamente, determine.
