@@ -1,0 +1,1 @@
+Artículo undécimo.- El mayor gasto fiscal que represente la aplicación de la presente ley durante el año 2012, se financiará con cargo al presupuesto vigente del Ministerio de Desarrollo Social y, en lo que faltare, con recursos provenientes de la partida presupuestaria Tesoro Público.
