@@ -1,0 +1,1 @@
+Artículo séptimo.- Lo dispuesto en el artículo 16 inciso cuarto de esta ley, en relación al Consejo de la Sociedad Civil, comenzará a regir el 1 de enero del año 2013. Dicho Consejo podrá ser oído en relación a las condicionantes establecidas por el reglamento dictado de conformidad al referido artículo.
