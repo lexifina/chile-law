@@ -6,7 +6,7 @@ a) Hotel y anexo de hotel, en el que se preste servicio de hospedaje y alimentac
 Valor Patente: 0,7 UTM.
 b) Casas de pensión o residenciales, que proporcionen alojamiento y comida, principalmente por meses. El expendio se hará exclusivamente a los alojados, en las horas de almuerzo o de comida y sólo en los comedores.
 Valor Patente: 0,6 UTM.
-C) RESTAURANTES DIURNOS O NOCTURNOS, con expendio de bebidas alcohólicas a los clientes que concurran a ingerir alimentos preparados.
+C) RESTAURANTES DIURNOS O NOCTURNOS, con expendio de bebidas alcohólicas a los clientes que concurran a ingerir alimentos preparados. Los Restaurantes Diurnos que cuenten con este tipo de patentes podrán realizar espectáculos artísticos consistentes en música en vivo.
 Valor Patente: 1,2 UTM.
 D) CABARÉS O PEÑAS FOLCLÓRICAS:
 a) Cabarés, con espectáculos artísticos y expendio de bebidas alcohólicas.
@@ -51,5 +51,8 @@ P) SUPERMERCADOS, de comestibles y abarrotes en la modalidad de autoservicio, co
 El lugar destinado al área de bebidas alcohólicas, no podrá ocupar un espacio superior al 10% de los metros cuadrados, destinados a la venta de comestibles y abarrotes.
 Lo dispuesto en el inciso anterior se hará exigible a todos los establecimientos que tengan esta categoría de patente, dentro de 30 días posteriores a la publicación de esta ley.
 Valor Patente: 3 UTM.
+Q) SALONES DE MÚSICA EN VIVO, establecimientos con expendio de bebidas alcohólicas y venta de comidas, según el tipo de la patente principal, donde se realicen presentaciones de música en vivo.
+Valor Patente: 3,5 UTM.
+Esta patente sólo podrá otorgarse, con carácter de accesoria, a los establecimientos que cuenten con alguna de las patentes establecidas en las letras C), E) y Ñ) de este artículo. Esta patente se concederá en la forma que determina el artículo 5º, previo cumplimiento de los requisitos de zonificación y distanciamiento establecidos en el artículo 8º, en las normas sobre emisión de ruidos y en las ordenanzas municipales respectivas.
 Para los efectos de esta ley se entenderá por venta o expendio al por mayor, el realizado en cantidades no inferiores a 200 litros, si se trata de venta a granel, o de 48 botellas, cajas, latas u otras unidades de consumo si la venta es de bebidas envasadas.
 Para la determinación del equivalente en pesos de las patentes establecidas en esta ley, se estará al valor de la unidad tributaria mensual a la fecha de su pago efectivo y no se considerará el sistema de reajustabilidad establecido en el artículo 59 del decreto ley Nº3.063 del año 1979.
