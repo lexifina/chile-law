@@ -28,7 +28,7 @@ CAPITULO I Normas de diseño
 PARRAFO 1°.- Del diseño de obras de urbanización y edificación
 PARRAFO 2°.- De los conjuntos armónicos
 PARRAFO 3°.- De los Edificios y Viviendas Acogidos a la Ley de Propiedad Horizontal
-CAPITULO II De la ejecución de obras de urbanización y de edificación
+CAPITULO II De la ejecución de obras de urbanización, edificación e instalaciones complementarias
 PARRAFO 1°.- De los permisos
 PARRAFO 2°.- De las autorizaciones especiales para edificación
 PARRAFO 3°.- De los Derechos Municipales y Garantías
