@@ -1,0 +1,4 @@
+LEY NÚM. 20.594
+CREA INHABILIDADES PARA CONDENADOS POR DELITOS SEXUALES CONTRA MENORES Y ESTABLECE REGISTRO DE DICHAS INHABILIDADES
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
