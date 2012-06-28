@@ -1,0 +1,1 @@
+Artículo quinto.- La incompatibilidad establecida en el inciso primero del artículo 3° de esta ley regirá también respecto de quienes se hayan desempeñado como director ejecutivo o directores regionales de la Comisión Nacional de Medio Ambiente.

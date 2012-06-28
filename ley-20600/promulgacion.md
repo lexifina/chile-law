@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 18 de junio de 2012.- RODRIGO HINZPETER KIRBERG, Vicepresidente de la República.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.- Julio Dittborn Cordua, Ministro de Hacienda (S).- Cristián Larroulet Vignau, Ministro Secretario General de la Presidencia.- Teodoro Ribera Neumann, Ministro de Justicia.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Ricardo Irarrázabal Sánchez, Subsecretario del Medio Ambiente.
