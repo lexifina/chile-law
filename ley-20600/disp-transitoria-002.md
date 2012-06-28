@@ -1,0 +1,2 @@
+Artículo segundo.- La instalación del Primer Tribunal Ambiental y del Tercer Tribunal Ambiental se efectuará en el plazo de doce meses contado desde la publicación de esta ley.
+Para estos efectos los concursos para el nombramiento de los ministros de dichos tribunales deberán realizarse dentro del plazo de dos meses contado desde la publicación de esta ley, en la forma dispuesta en el artículo 2º.
