@@ -6,3 +6,4 @@ En lo no previsto por el Régimen de Inversión de los Fondos de Cesantía, se e
 4) Que la información que sustenta las carteras de referencia sea de acceso público y no pueda ser alterada ni manipulada.
 5) Que contemple criterios de diversificación en su conformación, respecto de a lo menos, emisores, naturaleza de instrumentos y mercados.
 La Superintendencia podrá revisar la composición de las carteras de inversión referenciales cada 36 meses y someterla a la consideración del Consejo Técnico de Inversiones a que se refiere el artículo 58H, si los numerales del inciso anterior experimentan variaciones significativas.
+El Régimen de Inversión deberá establecer la medida de la volatilidad de la diferencia entre la rentabilidad del Fondo respectivo y su cartera referencial.
