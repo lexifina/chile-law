@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1° del Artículo 93 de la Constitución Política de la República, y por cuanto el H. Congreso Nacional ha aprobado algunas de las observaciones formuladas por el Ejecutivo y ha desechado otras; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 22 de junio de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
+Transcribo para su conocimiento Ley N° 20.606/2012.- Saluda atentamente a Ud., Jorge Díaz Anaiz, Subsecretario de Salud Pública.
