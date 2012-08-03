@@ -1,0 +1,2 @@
+Artículo 90 D.- La Comisión contará con una Secretaría Ejecutiva, que estará radicada en la Subsecretaría.
+Corresponderá a la Secretaría Ejecutiva coordinar las reuniones de la Comisión, levantar acta de los acuerdos adoptados, elaborar una memoria anual que resuma las actividades desarrolladas por la Comisión durante el año calendario anterior y, en general, efectuar todas aquellas tareas que sean necesarias para el cumplimiento de los fines de la Comisión establecidos en la presente ley.
