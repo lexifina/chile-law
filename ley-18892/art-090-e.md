@@ -1,0 +1,1 @@
+Artículo 90 E.- La Comisión podrá invitar a sus sesiones a representantes de otros Ministerios y Servicios relacionados con las materias a tratar, así como a representantes del sector privado y de las organizaciones de trabajadores del sector que lo soliciten.
