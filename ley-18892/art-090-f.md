@@ -1,0 +1,1 @@
+Artículo 90 F.- Las autoridades y directivos de los órganos de la Administración del Estado deberán prestar a la Comisión, dentro del ámbito de sus respectivas competencias, toda la colaboración que ésta les solicite.

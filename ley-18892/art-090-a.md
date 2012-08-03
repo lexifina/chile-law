@@ -1,0 +1,1 @@
+Artículo 90 A.- Créase la Comisión Nacional de Acuicultura, en adelante "la Comisión", cuya función será asesorar al Presidente de la República, a través del Ministerio de Economía, Fomento y Turismo, en la formulación y evaluación de las acciones, medidas y programas que se requieran para implementar la Política Nacional de Acuicultura.
