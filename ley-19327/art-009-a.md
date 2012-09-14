@@ -1,0 +1,2 @@
+Artículo 9º A.- Si un menor de dieciocho años y mayor de catorce años de edad incurriere en alguna de las conductas descritas en los artículos 6º G y 6º H, se le impondrán las penas que, conforme a los artículos 21, 22, 23, número 5, y demás pertinentes de la ley Nº 20.084, corresponda aplicar.
+Además, se le impondrá la prohibición de asistir a cualquier espectáculo de fútbol profesional por los plazos previstos en el artículo 6º G.
