@@ -1,0 +1,2 @@
+Artículo 111 B.- El armador de una nave pesquera industrial o de una embarcación artesanal de eslora igual o superior a 15 metros que haya operado sin mantener en funcionamiento el dispositivo de registro de imágenes, o lo haya manipulado o interferido, será sancionado con multa de 20 a 300 unidades tributarias mensuales.
+El capitán o patrón de la nave en que se hubiere cometido la infracción a que se refiere el inciso anterior será sancionado personalmente con multa de 3 a 30 unidades tributarias mensuales.
