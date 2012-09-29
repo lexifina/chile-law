@@ -1,0 +1,1 @@
+Artículo 63 ter.- Los armadores pesqueros industriales o artesanales deberán informar, en los términos establecidos en los artículos anteriores, el descarte de especies sometido a las disposiciones del Párrafo 1º bis del Título II de esta ley.
