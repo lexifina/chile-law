@@ -1,0 +1,2 @@
+Artículo 121 ter.- Será sancionado con multa de 3 a 300 unidades tributarias mensuales el que obstaculice el ejercicio de las funciones del observador científico a bordo de las naves o en las plantas de proceso.
+En las mismas sanciones incurrirán los armadores pesqueros y los gerentes o administradores de las plantas de proceso por el incumplimiento de cualquiera de las obligaciones señaladas en los artículos precedentes o en el reglamento respectivo.
