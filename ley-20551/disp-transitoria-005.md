@@ -1,0 +1,1 @@
+Artículo quinto.- En contra de la resolución del Servicio que rechace o apruebe parcialmente la solicitud de valorización procederá el recurso de reposición, el que podrá deducirse dentro del plazo de diez días contados desde la notificación por carta certificada de dicha resolución.".
