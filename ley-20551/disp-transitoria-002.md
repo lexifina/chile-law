@@ -1,0 +1,2 @@
+Artículo segundo.- Para efectos de lo establecido en el artículo anterior, la valorización de los planes de cierre aprobados por el Servicio, en virtud del Título X del Reglamento de Seguridad Minera, deberá efectuarse mediante la aprobación ambiental de la fase de cierre del mismo, cuando procediere obtenerla, de acuerdo a las normas de la ley N° 19.300.
+El proceso de valorización respecto de la fase de cierre deberá efectuarse en el plazo de dos años, de manera que integre los aspectos ambientales y sectoriales aprobados por las autoridades competentes.
