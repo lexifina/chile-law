@@ -1,0 +1,1 @@
+Artículo primero.- La presente ley comenzará a regir a partir del día de su publicación, siempre que a esa fecha faltaren, al menos, 210 días para la realización de la próxima elección general. De lo contrario, regirá a partir del primer día del mes siguiente de realizada la última elección.
