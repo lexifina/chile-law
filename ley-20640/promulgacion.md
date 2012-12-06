@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 29 de noviembre de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Cristián Larroulet Vignau, Ministro Secretario General de la Presidencia.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Sebastián Soto Velasco, Subsecretario General de la Presidencia (S).
