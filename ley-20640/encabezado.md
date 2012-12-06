@@ -1,0 +1,4 @@
+LEY NÚM. 20.640
+ESTABLECE EL SISTEMA DE ELECCIONES PRIMARIAS PARA LA NOMINACIÓN DE CANDIDATOS A PRESIDENTE DE LA REPÚBLICA, PARLAMENTARIOS Y ALCALDES
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
