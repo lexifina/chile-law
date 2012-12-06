@@ -1,0 +1,1 @@
+Artículo segundo.- El gasto fiscal que irrogue la puesta en marcha de la presente iniciativa durante el primer año de su vigencia, se financiará con cargo a reasignaciones del presupuesto del Ministerio del Interior y Seguridad Pública y, en lo que faltare, con cargo a la Partida Tesoro Público.".
