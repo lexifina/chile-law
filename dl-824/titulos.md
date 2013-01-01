@@ -10,7 +10,7 @@ Párrafo 2° De los pequeños contribuyentes
 Párrafo 3° De la base imponible
 Párrafo 4° De las exenciones
 Párrafo 5° De la corrección monetaria de los activos y pasivos
-PARRAFO 6° De las normas relativas a la doble tributación internacional
+PARRAFO 6° De las normas relativas a la tributación internacional
 SEGUNDA CATEGORIA De las rentas del trabajo
 PARRAFO 1° De la materia y tasa del impuesto
 TITULO III Del Impuesto Global Complementario
