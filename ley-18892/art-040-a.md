@@ -1,0 +1,2 @@
+Artículo 40 A.- A los adjudicatarios de la subasta a que se refieren los artículos 39 y 40, se les otorgará un permiso extraordinario de pesca, que les dará derecho a capturar anualmente, a partir del año calendario siguiente al de la licitación, hasta un monto equivalente al resultado de multiplicar la cuota global anual de captura correspondiente por el coeficiente determinado en el permiso extraordinario de pesca en la unidad de pesquería respectiva.
+A los permisos extraordinarios de pesca se les aplicará lo dispuesto en los artículos 30 y 30 A.

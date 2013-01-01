@@ -1,0 +1,2 @@
+Artículo 110 quáter.- Será sancionado con multa de 30 a 100 unidades tributarias mensuales el capitán o patrón de una nave industrial o artesanal que entorpezca, por sí o por terceros, las labores de los observadores científicos a bordo de las mismas, o que no otorgue las facilidades necesarias para que éstos desempeñen sus funciones.
+Igual sanción se aplicará al capitán o patrón de una nave industrial o artesanal que no dé cumplimiento a la obligación establecida en el inciso cuarto del artículo 6º B.

@@ -1,0 +1,1 @@
+Artículo 64 G.- Se prohíbe a los buques pesqueros y embarcaciones artesanales que operen en áreas de pesca sujetas a restricción o prohibición de artes o aparejos de pesca, llevar o mantener a bordo dichas artes o aparejos prohibidos.

@@ -9,7 +9,7 @@ regiones, el que deberá
 contener las menciones y
 se implementará de conformidad
 a las reglas establecidas en
-el artículo 9º.
+el artículo 8º.
 No obstante lo anterior,
 en la formulación de estos
 planes de manejo se deberá
@@ -56,11 +56,16 @@ c) Traslocación y repoblación
 de recursos bentónicos.
 d) Técnicas de extracción o
 cosecha.
-e) Buenas prácticas,
+e) Instalación de arrecifes
+artificiales, de conformidad
+con los requisitos y
+características establecidas
+en el reglamento.
+f) Buenas prácticas,
 sustentabilidad y
 recuperación de
 ecosistemas.
-f) Programas de educación y capacitación.
+g) Programas de educación y capacitación.
 En el plan de manejo se
 podrá considerar un
 procedimiento de certificación
@@ -86,21 +91,29 @@ propuesta, implementación,
 evaluación y adecuación si
 correspondiere del plan de
 manejo, la Subsecretaría
-constituirá una mesa de
-trabajo público privada
-que tendrá el carácter
-de asesora y será
-presidida por el
+constituirá un Comité de
+Manejo que tendrá el
+carácter de asesora y
+será presidida por el
 funcionario que el
 Subsecretario designe
-al efecto. Dicha mesa
-deberá estar integrada por
+al efecto. Dicho Comité
+deberá estar integrado
+por no menos de dos
+ni más de siete
+representantes de
 los pescadores artesanales
 inscritos en la o las
-pesquerías de que se trate,
-a través de las
-organizaciones a las
-cuales pertenecen.
+pesquerías de que se
+trate, así como un
+representante de las
+plantas de proceso, un
+representante de la
+Dirección General del
+Territorio Marítimo y
+Marina Mercante Nacional
+y un representante del
+Servicio.
 La propuesta de plan de
 manejo será sometida a
 consulta pública a través

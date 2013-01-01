@@ -1,0 +1,1 @@
+Artículo 55 P.- En el evento que los pescadores artesanales cometan más de dos infracciones de este párrafo, en el plazo de dos años calendario, cualquiera sea su naturaleza, se aplicará, además, la sanción más alta contemplada para dichas infracciones.

@@ -1,5 +1,2 @@
-Artículo 50 C.- Dos o más pescadores artesanales de la Región XI de Aysén del General Carlos Ibáñez del Campo podrán constituir una organización de pescadores artesanales de conformidad con la normativa vigente, a la que podrán aportar hasta dos embarcaciones artesanales de las que alguno de ellos sea titular.
-Los aportes se inscribirán en el Servicio correspondiente, quedando sin efecto para el aportante la inscripción original de la categoría de armador respectiva, conservando el resto de sus categorías.
-En el caso que el armador que realiza el aporte sea titular de dos embarcaciones mantendrá la inscripción en la embarcación que no sea objeto del aporte, conservando además el resto de sus categorías.
-Para todos los efectos legales la organización será continuadora del o los armadores artesanales que efectúen el respectivo aporte.
-Lo antes señalado sólo será posible en la medida que el recurso hidrobiológico como especie objetivo lo permita.
+Artículo 50 C.- Los pescadores artesanales propiamente tales y los buzos, deberán contar con un seguro de vida vigente contra riesgo de muerte accidental e invalidez. Se eximirá de dicha obligación a los pescadores y buzos mayores de 65 años de edad.
+El pescador que no cuente con el seguro no podrá desarrollar actividades pesqueras extractivas a bordo de embarcaciones artesanales. La embarcación artesanal sólo podrá zarpar si la totalidad de su tripulación cuenta con dicho seguro.
