@@ -1,84 +1,62 @@
-Artículo 55 I.- Dentro del marco
-del Régimen Artesanal
-de Extracción establecido
-de conformidad con el
-artículo 48 A, los
-titulares de asignaciones
-podrán ceder las toneladas
-asignadas para el respectivo
-año calendario a otro titular
-de la misma región o a
-titulares de otras regiones,
-siempre que se trate de una
-misma unidad poblacional.
-También se podrán celebrar
-estos actos jurídicos en
-beneficio de uno o más
-pescadores artesanales
-inscritos en el Registro
-Artesanal en el recurso
-respectivo en regiones
-no sometidas al régimen
-y dentro de la misma
-unidad poblacional.
-La Subsecretaría,
-mediante resolución
-fundada, autorizará
-las cesiones a que se
-refiere el inciso
-anterior.
-El Servicio llevará,
-de oficio, un registro
-público de traspasos
-que estará disponible
-en su página de dominio
-electrónico, en el que
-se registrará la cesión
-celebrada, debiendo
-constar en ella el
-cedente y el cesionario
-y las toneladas objeto
-de la cesión, así como
-el listado de los
-pescadores artesanales
-propiamente tales que
-hayan participado en
-el último zarpe de la
-embarcación del
-cedente, de conformidad
-con el registro de
-zarpe otorgado por la
-Autoridad Marítima o
-en el contrato de
-embarque, cualquiera
-que conste en la
-solicitud de cesión.
-En el evento de que
-las toneladas objeto
-de la cesión superen
-los saldos de asignación
-disponibles al momento
-de la autorización,
-ésta se realizará hasta
-el límite disponible.
-En los casos antes
-regulados las capturas
-se imputarán al titular
-original de la asignación.
-No obstante lo anterior,
-el titular de la asignación
-sólo podrá ceder, en un período
-de tres años corridos, hasta
-el 50% de la cuota asignada
-para dicho período.
-La infracción a la
-obligación señalada en
-el inciso anterior será
-causal de caducidad de
-la inscripción en el
-Registro Artesanal del
-pescador o pescadores
-titulares de la
-asignación y de la
-embarcación artesanal,
-en su caso.
+Artículo 55 I.- Además de las
+facultades de administración de los
+recursos hidrobiológicos establecidas
+en el Párrafo Primero del Título II y
+de lo previsto en el artículo 48, en
+las pesquerías que tengan su acceso
+suspendido conforme a los artículos
+50 ó 33 de esta ley, podrá
+establecerse por decreto, previo
+informe técnico de la Subsecretaría
+y consulta al Consejo Zonal de
+Pesca respectivo, y con consulta o a
+solicitud de las organizaciones de
+pescadores artesanales, un sistema
+denominado "Régimen Artesanal de
+Extracción". Este régimen consistirá
+en la asignación de la fracción
+artesanal de la cuota global de
+captura en una determinada Región, ya
+sea por área o flota, tamaño de las
+embarcaciones, caleta, organizaciones
+de pescadores artesanales o
+individualmente.
+Para estos efectos se
+considerarán, según corresponda, los
+pescadores artesanales debidamente
+inscritos en el Registro Pesquero
+Artesanal en la respectiva pesquería,
+la caleta, la organización, o el
+tamaño de las embarcaciones.
+La asignación de la fracción
+artesanal de la cuota global se
+efectuará por resolución del
+Subsecretario, de acuerdo a la
+historia real de desembarques de la
+Caleta, Organización, pescador
+artesanal o tamaño de las
+embarcaciones, según corresponda,
+y teniendo en cuenta la
+sustentabilidad de los recursos
+hidrobiológicos.
+No obstante lo anterior, en caso
+de catástrofe natural declarada por
+la autoridad competente, la
+Subsecretaría podrá no considerar el
+o los años durante los cuales estuvo
+vigente dicha declaración para
+efectos de determinar la historia
+real de desembarque. Del mismo
+modo, la Subsecretaría no considerará
+las capturas que se imputen a la
+reserva de la cuota global anual
+fijada para efectos de atender
+necesidades sociales urgentes,
+establecida de conformidad con lo
+dispuesto en el párrafo primero de
+la letra c) del artículo 3°.
+Una vez establecido el Régimen
+Artesanal de Extracción, el
+Subsecretario podrá, por resolución,
+organizar días de captura, los que
+podrán ser continuos o discontinuos.

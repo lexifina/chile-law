@@ -4,9 +4,13 @@ El reemplazo operará en forma indivisible respecto de todas las categorías, y 
 Para estos efectos, el Servicio otorgará, a petición del titular de la inscripción, un certificado que acredite la individualización del titular de aquélla, las características básicas de la nave, en su caso, y la individualización de la o las pesqueras inscritas que mantiene vigentes.
 Este certificado tendrá una duración indefinida, mientras se mantenga la vigencia de la suspensión del acceso y no se vea afectado por la causal de caducidad en que pueda incurrir el titular de la inscripción.
 Para estos efectos, se deberá presentar una solicitud ante el Servicio, en que conste la manifestación de voluntad de ambas partes de ejercer la facultad establecida en el inciso primero. El Servicio efectuará el reemplazo en aquellas pesquerías que se encuentren vigentes.
-El reemplazante deberá cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
+El reemplazante deberá ser pescador artesanal inscrito en el Registro Artesanal en cualquiera de sus categorías y cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
 El armador reemplazante deberá, además, acreditar el título de
 dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 29.
+El Servicio deberá llevar un
+Registro Público de las solicitudes
+y reemplazos autorizados, por
+región.
 El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
 Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos,
 dos años, consecutivos o no, en

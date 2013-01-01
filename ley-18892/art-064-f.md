@@ -1,2 +1,20 @@
-Artículo 64 F.- Las imágenes que registre el dispositivo a que se refiere el artículo 64 E tendrán el carácter de reservado de conformidad con la ley Nº 20.285. Su destrucción, sustracción o revelación indebida será sancionada con las penas señaladas en los artículos 242 ó 247 del Código Penal, según corresponda.
-La información que genere el dispositivo de registro de imágenes, certificada por el Servicio Nacional de Pesca, en su caso, tendrá el carácter de instrumento público y constituirá una presunción para acreditar infracciones a la normativa pesquera. La información, en este caso, no revestirá el carácter de reservada y su publicidad quedará sometida a las normas generales que regulan el procedimiento administrativo o judicial, según corresponda.
+Artículo 64 F.- La habilitación
+y control de los sistemas de pesaje
+utilizados para la certificación del
+desembarque a que se refiere el
+artículo anterior, corresponderá al
+Servicio, así como la verificación de
+los parámetros metrológicos e
+inspección de su funcionamiento y uso.
+El Servicio establecerá un
+procedimiento de habilitación y
+control de los sistemas de pesaje y
+un período de calibración y
+verificación de los parámetros
+metrológicos de operación del
+sistema. El Servicio podrá
+suspender o caducar la habilitación
+del sistema de pesaje cuando los
+parámetros metrológicos están
+fuera de los márgenes establecidos
+o hayan sido adulterados.

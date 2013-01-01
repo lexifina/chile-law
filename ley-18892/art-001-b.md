@@ -1,0 +1,1 @@
+Artículo 1° B.- El objetivo de esta ley es la conservación y el uso sustentable de los recursos hidrobiológicos, mediante la aplicación del enfoque precautorio, de un enfoque ecosistémico en la regulación pesquera y la salvaguarda de los ecosistemas marinos en que existan esos recursos.
