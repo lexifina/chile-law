@@ -1,0 +1,1 @@
+Artículo 129 C.- Notificada que sea la sentencia que falle el reclamo no podrá modificarse o alterarse, salvo en cuanto se deba, de oficio o a petición de parte, aclarar los puntos oscuros o dudosos, salvar las omisiones o rectificar los errores de copia, de referencias o de cálculos numéricos que aparezcan en ella.
