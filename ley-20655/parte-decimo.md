@@ -1,0 +1,3 @@
+Artículo décimo.- La presente ley entrará en vigencia a partir del 1 de enero de 2012. En el caso de las modificaciones introducidas en la ley Nº19.420 y en la ley Nº19.606, éstas se aplicarán respecto de las inversiones consistentes en bienes que sean adquiridos o terminados de construir a partir de dicha fecha.
+Sin perjuicio de lo anterior, lo dispuesto por el número 3) del artículo cuarto, y por el número 2) del artículo quinto, comenzará a regir luego de 90 días corridos desde la fecha de la publicación de la presente ley.
+El artículo séptimo comenzará a regir a partir de la fecha de su publicación en el Diario Oficial.".
