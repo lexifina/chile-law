@@ -1,0 +1,1 @@
+Artículo octavo.- Sustitúyese en el inciso primero del artículo 28 del decreto con fuerza de ley Nº2, del Ministerio de Hacienda, de 2001 , que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº341, de 1977, del Ministerio de Hacienda, sobre Zonas Francas, el guarismo "2012" por "2025".

@@ -1,0 +1,1 @@
+Artículo sexto.- Sustitúyese en el inciso primero del artículo 4º de la ley Nº 18.841 , que establece un sistema simplificado de exportaciones, la expresión "1 unidad tributaria mensual" por "cero coma cinco unidades tributarias mensuales".
