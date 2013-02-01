@@ -23,12 +23,12 @@ TITULO II De las infracciones y sanciones.
 Párrafo 1°. De los contribuyentes y otros obligados
 Párrafo 2°. De las infracciones cometidas por los funcionarios y ministros de fe y de las sanciones
 Párrafo 3°. Disposiciones comunes
-LIBRO TERCERO De los Tribunales, de los procedimientos y de la prescripción
-TITULO I De los Tribunales
+LIBRO TERCERO De la competencia para conocer de los asuntos contenciosos tributarios, de los procedimientos y de la prescripción
+TITULO I De la competencia para conocer de los asuntos contenciosos tributarios
 TITULO II Del procedimiento general de las reclamaciones
 TITULO III De los Procedimientos Especiales
 Párrafo 1°. Del procedimiento de reclamo de los avalúos de bienes raíces
-Párrafo 2°. Del procedimiento de reclamo del impuesto a las asignaciones por causa de muerte y a las donaciones
+Párrafo 2°. Del procedimiento especial de reclamo por vulneración de derechos
 Párrafo 3° Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
 TITULO IV Del Procedimiento para la Aplicación de Sanciones
 Párrafo 1°. Procedimiento general

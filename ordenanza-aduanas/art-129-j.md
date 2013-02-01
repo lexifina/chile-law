@@ -1,0 +1,1 @@
+Artículo 129 J.- La interposición de la reclamación suspenderá la prescripción del artículo 2521 del Código Civil, hasta que la resolución que le pone término o hace imposible su prosecución quede ejecutoriada.

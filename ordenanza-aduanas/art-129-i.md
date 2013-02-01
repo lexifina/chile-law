@@ -1,0 +1,2 @@
+Artículo 129 I.- El reclamante o el Servicio podrán interponer los recursos de casación en contra de los fallos de segunda instancia.
+Los recursos de casación que se interpongan en contra de las sentencias de segunda instancia, se sujetarán a las reglas contenidas en el Título XIX del Libro Tercero del Código de Procedimiento Civil.

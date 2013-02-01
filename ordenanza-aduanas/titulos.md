@@ -4,7 +4,7 @@ TITULO PRELIMINAR
 3.- Disposiciones generales relativas a los derechos y obligaciones de las personas respecto de la legislación aduanera
 4.- De las Aduanas
 5.- Ejercicio de la Potestad Aduanera
-LIBRO I DE LA JUNTA GENERAL DE ADUANAS
+LIBRO I DE LA JUNTA GENERAL DE ADUANAS DEROGADO.
 LIBRO II DE LA ENTRADA Y SALIDA DE VEHICULOS, MERCANCIAS Y PERSONAS HACIA Y DESDE EL TERRITORIO NACIONAL Y DE SU PRESENTACION AL SERVICIO DE ADUANAS
 TITULO I Generalidades
 TITULO II Presentación y entrega de las mercancías y recepción de vehículos
@@ -27,7 +27,11 @@ TITULO V Destinaciones aduaneras
 6. Exportación
 7. Salida temporal
 8. Salida temporal para perfeccionamiento pasivo
-TITULO VI De las reclamaciones
+TÍTULO VI De las materias de competencia de los Tribunales Tributarios y Aduaneros, de la Reposición Administrativa, del Procedimiento de Reclamación y del Procedimiento Especial de Reclamo por Vulneración de Derechos
+1. DE LAS MATERIAS DE COMPETENCIA DE LOS TRIBUNALES TRIBUTARIOS Y ADUANEROS
+2. DE LA REPOSICIÓN ADMINISTRATIVA
+3. DEL PROCEDIMIENTO DE RECLAMACIÓN
+4. DEL PROCEDIMIENTO ESPECIAL DE RECLAMO POR VULNERACIÓN DE DERECHOS
 TITULO VII Devoluciones de gravámenes aduaneros
 TITULO VIII
 LIBRO III DE LAS INFRACCIONES A LA ORDENANZA, DE SUS PENAS Y DEL PROCEDIMIENTO PARA APLICARLAS

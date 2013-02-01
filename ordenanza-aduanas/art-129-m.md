@@ -1,0 +1,1 @@
+Artículo 129 M.- En lo no establecido por este Párrafo, y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Párrafo 3 de este Título. En todo caso, el solicitante podrá comparecer sin patrocinio de abogado.
