@@ -1,6 +1,8 @@
 Artículo sexto.- Introdúcense en el Código Orgánico de Tribunales las siguientes modificaciones:
 1) Modifícase el artículo 56, de la siguiente forma:
 a) Reemplázase en el número 3º, la palabra "dieciséis" por "diecinueve".
+b) Sustitúyese en el número 4º, la palabra "diecinueve" por "veintidós".
+c) Reemplázanse en el número 5º, las palabras "treinta y un" por "treinta y cuatro".
 2) Sustitúyese el artículo 59, por el siguiente:
 "Artículo 59.- Las Cortes de Apelaciones tendrán el número de relatores que a continuación se indica:
 1º. La Corte de Apelaciones de Chillán tendrá dos relatores;
