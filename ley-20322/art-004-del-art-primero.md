@@ -17,6 +17,16 @@ Profesional Experto 1
 Administrativo 1
 Auxiliar 1
 Total planta 5
+TRIBUNAL TRIBUTARIO Y ADUANERO V REGIÓN
+Cargos Nº de Cargos
+Juez Tributario y Aduanero 1
+Secretario Abogado Tributario 1
+Secretario Abogado Aduanero 1
+Resolutor 6
+Profesional Experto 2
+Administrativo 2
+Auxiliar 1
+Total planta 14
 TRIBUNAL TRIBUTARIO Y ADUANERO VI, VII, IX Y X REGIONES
 Cargos Nº de Cargos
 Juez Tributario y Aduanero 1
@@ -26,6 +36,25 @@ Profesional Experto 1
 Administrativo 1
 Auxiliar 1
 Total planta 6
+PRIMER TRIBUNAL REGIÓN METROPOLITANA DE SANTIAGO
+Cargos Nº de Cargos
+Juez Tributario y Aduanero 1
+Secretario Abogado Tributario 1
+Secretario Abogado Aduanero 1
+Resolutor 7
+Profesional Experto 2
+Administrativo 2
+Auxiliar 1
+Total planta 15
+CUARTO TRIBUNAL REGIÓN METROPOLITANA DE SANTIAGO
+Cargos Nº de Cargos
+Juez Tributario 2
+Secretario Abogado 1
+Resolutor 4
+Profesional Experto 3
+Administrativo 2
+Auxiliar 1
+Total planta 13
 TRIBUNAL TRIBUTARIO Y ADUANERO VIII REGIÓN, Y SEGUNDO Y TERCER TRIBUNAL REGIÓN METROPOLITANA DE SANTIAGO
 Cargos Nº de Cargos
 Juez Tributario y Aduanero 1
