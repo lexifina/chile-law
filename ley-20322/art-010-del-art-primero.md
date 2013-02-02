@@ -8,4 +8,8 @@ VIª Región VIIª Región
 VIIIª Región IXª Región
 Xª Región XIVª Región
 XIª Región XIIª Región
+1º Tribunal Región 4º Tribunal Región
+Metropolitana Metropolitana
+2º Tribunal Región 3º Tribunal Región
+Metropolitana Metropolitana
 En el caso de los Tribunales Tributarios y Aduaneros con más de un Juez, a falta o inhabilidad del Secretario, antes de aplicar las reglas precedentes, subrogará el otro juez del mismo Tribunal.
