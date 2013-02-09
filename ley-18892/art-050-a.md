@@ -13,6 +13,9 @@ respectivo arte o aparejo de pesca
 y categoría de pescador artesanal
 que la puede extraer, y que
 conformarán el Registro Artesanal.
+En caso de la Isla de Pascua, el
+Registro Artesanal será independiente
+del de la V Región de Valparaíso.
 Dicha nómina se deberá actualizar,
 a lo menos, cada dos años.
 La solicitud de inscripción

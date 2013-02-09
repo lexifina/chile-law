@@ -1,0 +1,1 @@
+Artículo 4° D.- La Subsecretaría mediante resolución, previo informe técnico y consulta al Consejo Zonal de Pesca que corresponda, determinará los recursos hidrobiológicos que se exceptúan de consumo humano directo y que pueden ser destinados a la elaboración de harina y aceite.
