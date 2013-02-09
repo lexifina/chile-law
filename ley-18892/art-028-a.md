@@ -1,0 +1,1 @@
+Artículo 28 A.- Para los efectos tanto de la aplicación de la licencia transable de pesca como de los permisos extraordinarios de pesca, se deberá fijar anualmente una cuota global de captura para cada una de las unidades de pesquería administradas bajo este sistema, de conformidad con lo dispuesto en esta Ley.
