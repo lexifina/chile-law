@@ -1,0 +1,5 @@
+Artículo 55 Q.- Los sancionados dispondrán de un plazo de 15 días hábiles, contado desde la notificación de la resolución sancionatoria, para reclamar de ella ante la Corte de Apelaciones que corresponda, la que deberá pronunciarse en cuenta sobre la admisibilidad del reclamo y si éste se ha interpuesto dentro del término legal.
+Admitido el reclamo, la Corte dará traslado por 15 días hábiles al Servicio. Evacuado el traslado, la Corte ordenará traer los autos en relación, agregándose la causa en forma extraordinaria a la tabla del día siguiente, previo sorteo de la sala cuando corresponda.
+La Corte dictará sentencia dentro del término de 15 días.
+La resolución que expida la Corte de Apelaciones será apelable en el plazo de diez días, recurso del que conocerá en cuenta la Corte Suprema, sin esperar la comparecencia de las partes, salvo que estime conveniente traer los autos en relación. En contra de la sentencia definitiva dictada por la Corte de Apelaciones no procederá el recurso de casación.
+El Servicio tendrá siempre la facultad de hacerse parte en estos procesos, de acuerdo con lo establecido en el artículo 123.
