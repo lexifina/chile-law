@@ -1,0 +1,2 @@
+Artículo 30 A.- En el Registro a que se refiere el artículo anterior, se inscribirán además los embargos y prohibiciones judiciales que recaigan sobre las licencias, encontrándose la Subsecretaría impedida de inscribir cualquier acto jurídico que se solicite con posterioridad a la inscripción de las medidas antes señaladas y mientras éstas se encuentren vigentes.
+La Subsecretaría deberá emitir los certificados que sean requeridos por los interesados, respecto del estado en que se encuentren las licencias transables de pesca.
