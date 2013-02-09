@@ -1,0 +1,1 @@
+Artículo 55 M.- En caso de muerte de un pescador artesanal, si no se ha reservado la vacante de conformidad con el artículo 55, su coeficiente se redistribuirá al año siguiente a prorrata entre los beneficiarios del régimen en la región.
