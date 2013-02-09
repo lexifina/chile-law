@@ -1,0 +1,1 @@
+Artículo 113 C.- Durante el desarrollo del programa de investigación a que se refiere el artículo 7º A no serán aplicables, a todas aquellas naves que participen de la investigación, las sanciones sobre descarte contempladas en esta ley.

@@ -1,0 +1,1 @@
+Artículo 156 B.- Los informes y demás antecedentes recabados de conformidad a los artículos anteriores, deberán ser puestos a disposición del público general de forma permanente en el sitio de dominio electrónico del Instituto tan pronto como sean remitidos a la Subsecretaría.
