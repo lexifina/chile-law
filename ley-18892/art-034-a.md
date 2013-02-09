@@ -1,0 +1,5 @@
+Artículo 34 A.- Tratándose de pesquerías altamente migratorias y transzonales, según los tratados internacionales sobre la materia ratificados por Chile y que se encuentren vigentes, para desarrollar actividades pesqueras extractivas en el área de alta mar aledaña a la zona económica exclusiva sobre dichas especies, se deberá cumplir con los siguientes requisitos:
+a) Contar con autorización de la Subsecretaría para ejercer actividades en áreas de alta mar, o aledañas a la zona económica exclusiva.
+b) La nave con la cual se ejerzan dichas actividades extractivas debe estar matriculada en Chile, de conformidad con las disposiciones de la Ley de Navegación.
+c) Dependiendo del régimen de administración de la pesquería, quien ejerza la actividad pesquera debe contar, ya sea con una autorización de pesca, licencia transable de pesca o permisos extraordinarios de pesca, según corresponda.
+d) Cumplir con las normas de conservación, manejo y cumplimiento, establecidas de conformidad a esta ley, así como con las normas de conservación, manejo y cumplimiento que hayan sido adoptadas por tratados internacionales de los cuales Chile es parte, y que sean aplicables.
