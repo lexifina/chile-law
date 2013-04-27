@@ -1,0 +1,1 @@
+Artículo 21 bis.- Sin perjuicio de lo dispuesto en los artículos anteriores, cualquier elector podrá solicitar al Servicio Electoral la actualización del Registro Electoral, para lo cual acompañará los antecedentes fundantes de su petición.
