@@ -1,0 +1,2 @@
+Artículo tercero.- El Reglamento establecerá las fechas a partir de las cuales la constitución o migración de las personas jurídicas señaladas en el artículo 2° podrán acogerse a esta ley.
+Con todo, las personas jurídicas a que se hace referencia en los números 7 y 8 del artículo 2° de esta ley sólo podrán someterse a ésta una vez transcurridos dos años contados desde la publicación de la misma en el Diario Oficial.
