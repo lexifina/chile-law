@@ -1,0 +1,1 @@
+Artículo primero.- El Reglamento que se dicte para desarrollar y complementar esta ley será expedido mediante decreto del Ministerio de Economía, Fomento y Turismo, suscrito, además, por el Ministro de Hacienda, dentro del plazo de tres meses a contar de la fecha de publicación de la presente ley.
