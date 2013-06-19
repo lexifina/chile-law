@@ -12,9 +12,11 @@ Párrafo 3° Del Gobernador
 Párrafo 4° Del Consejo Económico y Social Provincial
 CAPITULO IV De la Estructura Administrativa del Gobierno Regional y de Otros Órganos de la Administración Pública en las Regiones
 CAPITULO V Del Patrimonio y del Sistema Presupuestario Regionales
-CAPITULO VI De la Elección del Consejo Regional
-Párrafo 1° De los Colegios Electorales Provinciales y de la Votación
-Párrafo 2° De las Reclamaciones del Acto Electoral
+Capítulo VI DE LA ELECCIÓN DEL CONSEJO REGIONAL
+Párrafo 1º De la presentación de candidaturas
+Párrafo 2º De la aceptación, rechazo e inscripción de candidaturas
+Párrafo 3º Del escrutinio en las mesas receptoras de sufragios
+Párrafo 4º Del escrutinio general y de la calificación de las elecciones
 CAPITULO VII Del Asociativismo Regional
 TITULO FINAL
 DISPOSICIÓN TRANSITORIA
