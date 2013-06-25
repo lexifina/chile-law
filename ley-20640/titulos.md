@@ -10,5 +10,6 @@ Párrafo 7° De la Calificación de la Elección Primaria
 Párrafo 8° De los Efectos Vinculantes de las Elecciones Primarias
 TÍTULO II PLAZOS
 TÍTULO III DEL GASTO ELECTORAL
-TÍTULO IV OTRAS DISPOSICIONES
+Título IV De la transmisión de propaganda electoral por los canales de televisión
+TÍTULO V OTRAS DISPOSICIONES
 ARTÍCULOS TRANSITORIOS
