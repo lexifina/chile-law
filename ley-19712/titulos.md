@@ -2,7 +2,7 @@ TITULO I Principios, Objetivos y Definiciones
 TITULO II Del Instituto Nacional de Deportes de Chile
 Párrafo 1º Naturaleza y Objetivos
 Párrafo 2º De la Supervigilancia y la Fiscalización
-Párrafo 3º Del Consejo Nacional
+Párrafo 3º Del Consejo Nacional DEROGADO
 Párrafo 4º Del Director Nacional
 Párrafo 5º De las Direcciones Regionales
 Párrafo 6º De los Consejos Consultivos Regionales
