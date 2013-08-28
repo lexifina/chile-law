@@ -1,0 +1,1 @@
+Artículo tercero.- La implementación de las Secretarías Regionales Ministeriales del Ministerio del Deporte y la provisión de los cargos de Secretarios Regionales Ministeriales que se fijen en su planta, se hará en su totalidad dentro del plazo de doce meses, a contar de la publicación de esta ley.

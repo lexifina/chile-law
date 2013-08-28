@@ -1,0 +1,1 @@
+Artículo séptimo.- Los miembros del Consejo Nacional del Instituto Nacional de Deportes de Chile, cuyas designaciones se encuentren vigentes a la fecha de entrada en vigencia de la presente ley, cesarán en sus cargos por su solo ministerio, a contar de la fecha que se fije en virtud del numeral 5) del artículo primero transitorio.".

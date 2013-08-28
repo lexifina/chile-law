@@ -1,0 +1,1 @@
+Artículo sexto.- El funcionario que, a la data señalada en el artículo anterior, se encuentre desempeñando el cargo de Director Nacional del Instituto Nacional de Deportes de Chile y mientras mantenga dicho nombramiento, continuará percibiendo las remuneraciones que por ley le correspondían, incluida la asignación de dirección superior del artículo 1° de la ley N° 19.863 .
