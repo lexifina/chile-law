@@ -23,3 +23,4 @@ AÑO PORCENTAJE
 2008 5.5%
 2009 7.3%
 A partir del año 2010 este porcentaje será de un 9,0%.
+Para el año 2012 el porcentaje será de 9,2%, para el año 2013 será de 9,5% y a partir del año 2014 será de un 10%.
