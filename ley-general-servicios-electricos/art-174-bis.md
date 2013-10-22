@@ -1,0 +1,1 @@
+Artículo 174 bis.- Los planes de expansión de las instalaciones de generación de cada sistema mediano deberán contemplar proyectos de medios de generación renovables no convencionales, los que deberán priorizarse en relación a otras fuentes de energía primaria considerando una expansión eficiente del sistema.
