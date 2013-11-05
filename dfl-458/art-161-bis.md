@@ -1,0 +1,2 @@
+Artículo 161 bis.- Previo informe fundado de la Dirección de Obras, la Municipalidad podrá decretar la inhabitabilidad parcial o total de los edificios que presenten daños que comprometan su estabilidad, ordenando el desalojo correspondiente.
+Decretada la inhabitabilidad, la parte de ésta declarada inhabitable no podrá ser utilizada hasta contar con la recepción de las obras de reparación por la Dirección de Obras Municipales.
