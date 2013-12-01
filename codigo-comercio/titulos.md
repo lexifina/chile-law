@@ -51,14 +51,19 @@ Título VII DE LA SOCIEDAD
 § 11. De la comandita simple
 § 12. De la comandita por acciones
 § 13. De la asociación o cuentas en participación
-Título VIII DEL SEGURO EN GENERAL Y DE LOS SEGUROS TERRESTRES EN PARTICULAR
-§ 1. Definiciones
-§ 2. Disposiciones comunes a los seguros terrestres y marítimos
-§ 3. Disposiciones especiales relativas a los seguros terrestres
-§ 4. Del seguro de vida
-§ 5. Del seguro contra incendio
-§ 6. Del seguro contra los riesgos a que están expuestos los productos de la agricultura
-§ 7. Del seguro de transportes terrestres
+TITULO VIII Del contrato de seguro
+Sección Primera. Normas comunes a todo tipo de seguros
+Sección Segunda. De los seguros de daños
+§ 1. Normas generales
+§ 2. Del seguro contra incendio
+§ 3. De los seguros de robo, hurto y otras sustracciones
+§ 4. Del seguro de responsabilidad civil
+§ 5. Del seguro de transporte terrestre
+§ 6. Del seguro de pérdida de beneficios
+§ 7. Del seguro de crédito
+§ 8. Del seguro de caución
+§ 9. Del contrato de reaseguro
+Sección Tercera. De los seguros de personas
 Título IX DEL CONTRATO DE CUENTA CORRIENTE
 Título X DEL CONTRATO DE CAMBIO
 Título XII DE LAS CARTAS ORDENES DE CREDITO
