@@ -1,1 +1,1 @@
-VIGESIMA PRIMERA.- La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
+VIGESIMA PRIMERA.- La reforma introducida en el numeral 10º del artículo 19, que establece la obligatoriedad del segundo nivel de transición y el deber del Estado de financiar un sistema gratuito a partir del nivel medio menor, destinado a asegurar el acceso a éste y sus niveles superiores, entrará en vigencia gradualmente, en la forma que disponga la ley.
