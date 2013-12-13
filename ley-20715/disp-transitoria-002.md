@@ -1,0 +1,1 @@
+Artículo segundo.- La fiscalización del cumplimiento de la ley Nº 18.010 respecto a las instituciones identificadas en su artículo 31 que no son bancos se aplicará a contar del primer lunes del séptimo mes siguiente a la fecha de la publicación en el Diario Oficial de la presente ley.
