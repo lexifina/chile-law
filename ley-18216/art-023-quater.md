@@ -1,0 +1,2 @@
+Artículo 23 quáter.- La responsabilidad de la administración del dispositivo será de cargo de Gendarmería de Chile, institución que podrá contratar servicios externos para estos efectos, de conformidad a la ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
+Los requisitos y características técnicas del sistema de monitoreo telemático, así como los procedimientos para su instalación, administración y retiro, serán regulados en el reglamento a que alude el artículo 23 octies.
