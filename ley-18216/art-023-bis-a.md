@@ -1,0 +1,1 @@
+Artículo 23 bis A.- Tratándose del régimen de pena mixta, previsto en el artículo 33 de esta ley, la supervisión a través de monitoreo telemático será obligatoria durante todo el período de la libertad vigilada intensiva.
