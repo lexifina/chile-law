@@ -1,0 +1,2 @@
+Artículo 13 bis.- En caso de aplicarse la pena de prestación de servicios en beneficio de la comunidad, el juez podrá, de oficio o a solicitud del condenado, efectuar un control sobre las condiciones de su cumplimiento, debiendo citar, en ese caso, a una audiencia de seguimiento durante el período que dure su ejecución.
+Al concluir dicho período, el delegado responsable de gestionar el cumplimiento de la pena remitirá al tribunal un informe sobre la ejecución efectiva de la misma.
