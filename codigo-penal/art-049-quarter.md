@@ -1,0 +1,2 @@
+Art. 49 quáter.
+En caso de decretarse la sanción de prestación de servicios en beneficio de la comunidad, el delegado de Gendarmería de Chile responsable de gestionar el cumplimiento informará al tribunal que dictó la sentencia, quien a su vez notificará al Ministerio Público, al defensor y al condenado, el tipo de servicio, el lugar donde deba realizarse y el calendario de su ejecución, dentro de los treinta días siguientes a la fecha en que la condena se encontrare firme o ejecutoriada.
