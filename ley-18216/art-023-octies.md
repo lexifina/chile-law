@@ -1,0 +1,1 @@
+Artículo 23 octies.- Las normas referidas al mecanismo de control de monitoreo telemático contenidas en este Título, se aplicarán en conformidad a un reglamento especialmente dictado al efecto, el que será suscrito por los Ministros de Justicia y de Hacienda.

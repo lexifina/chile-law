@@ -1,0 +1,1 @@
+Artículo 23 septies.- La instalación, mantención y utilización de los dispositivos de control telemático de que trata esta ley, serán siempre gratuitas para los sujetos afectos al sistema de monitoreo telemático.

@@ -1,1 +1,1 @@
-Artículo 1°.- En aquellas localidades donde no exista una sección de tratamiento en el medio libre de Gendarmería de Chile, le corresponderá asumir las funciones que señalan las letras a), b) y c) del artículo 5°, al Patronato de Reos respectivo.
+Artículo 1°.- DEROGADO.
