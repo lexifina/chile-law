@@ -1,0 +1,2 @@
+Artículo segundo transitorio.- Exceptúanse de lo dispuesto en el artículo 14 las patentes existentes a la fecha de publicación de esta ley, clasificadas en las letras A y H del artículo 3º, de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena.
+Esta excepción corresponderá para las patentes que no hayan sido canceladas por las causales que determina la ley, incluyendo la clausura del local.
