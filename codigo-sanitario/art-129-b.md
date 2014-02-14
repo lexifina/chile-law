@@ -1,0 +1,6 @@
+Artículo 129 B.- Los medicamentos de venta directa podrán estar disponibles en farmacias y almacenes farmacéuticos en repisas, estanterías, góndolas, anaqueles, dispensadores u otros dispositivos similares que permitan el acceso directo al público, considerando medidas de resguardo general para evitar su alcance y manipulación por niños o infantes, todo conforme lo determine el reglamento que se dicte para regular lo dispuesto en este artículo.
+Al efecto, la puesta a disposición al público deberá efectuarse en un área especial y exclusivamente destinada para ello, la que deberá permitir su adecuada conservación y almacenamiento.
+Las farmacias y almacenes farmacéuticos que expendan medicamentos de venta directa conforme al inciso anterior, además, deberán:
+1) Instalar infografías en espacios visibles al público, que permitan la lectura de una advertencia sobre el adecuado uso y dosificación de medicamentos con condición de venta directa.
+2) Mantener en un lugar visible al público, números telefónicos de líneas existentes que provean gratuitamente información toxicológica, ya sea de servicios públicos o privados.
+El texto y formato de la infografía, como también la información sobre líneas telefónicas a que se refiere este artículo, serán aprobados por resolución del Ministro de Salud.
