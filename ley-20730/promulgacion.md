@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº1 del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 3 de marzo de 2014.- SEBASTIAN PIÑERA ECHENIQUE, Presidente de la República.- Cristián Larroulet Vignau, Ministro Secretario General de la Presidencia.- Felipe Larraín Bascuñán, Ministro de Hacienda.- Juan Ignacio Piña Rochefort, Ministro de Justicia (s).
+Lo que transcribo a Ud., para su conocimiento.- Atentamente, Claudio Alvarado Andrade, Subsecretario General de la Presidencia.
