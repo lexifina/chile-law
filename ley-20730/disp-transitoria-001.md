@@ -1,0 +1,1 @@
+Artículo primero.- El mayor gasto que signifique la aplicación de esta ley durante el año de su entrada en vigencia se financiará con cargo al presupuesto vigente de las instituciones respectivas, pudiendo al efecto realizarse transferencias y reasignaciones.
