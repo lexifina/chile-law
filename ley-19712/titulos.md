@@ -12,6 +12,7 @@ TITULO III De las Organizaciones Deportivas
 Párrafo 1º Normas Básicas
 Párrafo 2º De la Constitución y Personalidad Jurídica
 Párrafo 3º De los Estatutos
+Párrafo 4º Régimen Especial de las Federaciones Deportivas Nacionales
 TITULO IV Del Fomento del Deporte
 Párrafo 1º Del Fondo Nacional para el Fomento del Deporte
 Párrafo 2º De la Infraestructura Deportiva

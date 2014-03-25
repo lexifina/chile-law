@@ -1,0 +1,3 @@
+Artículo 40 Ñ.- Designados sus miembros para cada período cuadrienal, el Comité se instalará en una sesión pública dentro de los treinta días siguientes contados desde el último nombramiento, en la cual procederán a elegir de entre ellos un Presidente y un Secretario-Relator que será, a la vez, Ministro de Fe de sus actuaciones.
+El Presidente y el Secretario del Comité durarán dos años en sus cargos, al término de los cuales se elegirá, de la misma manera, a quienes los sucederán en los dos años siguientes.
+El Comité no podrá sesionar ni adoptar acuerdos sin la concurrencia de la mayoría de sus miembros.
