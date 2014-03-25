@@ -1,0 +1,1 @@
+Artículo 40 L.- Las Federaciones Deportivas Nacionales, cualquiera sea el número de sus socios, estarán obligadas a elegir un Tribunal de Honor o Comisión de Ética, en la forma y oportunidad establecida en el artículo 40. Al menos uno de sus integrantes deberá tener el título de abogado.

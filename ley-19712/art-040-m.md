@@ -1,0 +1,8 @@
+Artículo 40 M.- El Comité Nacional de Arbitraje Deportivo, en adelante el "Comité", es un organismo colegiado, adscrito al Comité Olímpico de Chile, que ejercerá la potestad disciplinaria sobre las Federaciones Deportivas Nacionales.
+Este Comité estará integrado por cinco miembros:
+a) Tres miembros elegidos por el Consejo de Delegados del Comité Olímpico de Chile, debiendo dos de ellos tener el título de abogado.
+b) Dos miembros designados por el Director del Instituto Nacional del Deporte. Uno de ellos será seleccionado a propuesta de una terna que le presenten las organizaciones deportivas nacionales que no estén afiliadas al Comité Olímpico de Chile, las que serán convocadas por el Director Nacional para este efecto. En todo caso, a lo menos uno de los designados deberá tener el título de abogado.
+El Comité tendrá, asimismo, cinco integrantes suplentes designados de la misma forma que los titulares.
+En caso de inhabilidad, implicancia, recusación u otro motivo que impida a uno o más de sus miembros titulares conocer de un asunto, será sustituido por el suplente que hubiere sido elegido para reemplazarlo.
+Los miembros titulares y suplentes del Comité durarán cuatro años en sus cargos pudiendo ser designados por nuevos períodos. Las vacantes que se produzcan se proveerán de la misma manera que establece este artículo sólo por el tiempo que le reste al miembro que genera la vacante.
+La calidad de miembro titular o suplente del Comité será incompatible con la de cualquier cargo directivo en las organizaciones deportivas sujetas a su potestad y les afectarán las mismas inhabilidades e incompatibilidades que las establecidas para ejercer el cargo de director de ellas.
