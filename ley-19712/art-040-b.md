@@ -1,0 +1,1 @@
+Artículo 40 B.- No podrá negarse la incorporación ni la permanencia en una FDN a una asociación deportiva o club que así lo requiera y que cumpla los requisitos legales, reglamentarios y estatutarios para ello.
