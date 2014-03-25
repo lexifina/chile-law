@@ -1,0 +1,1 @@
+Artículo 40 H.- En el ejercicio de sus funciones, los directores de las FDN responderán hasta de la culpa leve por los perjuicios que causaren a su organización. El director que quiera salvar su responsabilidad por algún acto o acuerdo de su Directorio deberá dejar constancia de su oposición en el alta respectiva, de lo cual deberá darse cuenta en la siguiente asamblea ordinaria.
