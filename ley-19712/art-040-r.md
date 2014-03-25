@@ -1,0 +1,15 @@
+Artículo 40 R.- Los procedimientos que se sustancien ante el Comité serán públicos y orales. No obstante, las partes podrán presentar minutas escritas en las que expongan los hechos invocados, las normas que se habrían vulnerado y las peticiones que se someten a consideración del Comité.
+Los procedimientos serán los siguientes:
+1.- En los casos en que se formule un reclamo en contra de la actuación de un integrante de un Tribunal de Honor o Comisión de Ética, el Comité citará a una audiencia que se realizará el quinto día hábil después de la última notificación. Ese plazo se ampliará, si la parte requerida no está en el lugar de inicio del procedimiento, con todo el aumento que corresponda en conformidad a lo previsto en el artículo 259 del Código de Procedimiento Civil.
+En la referida audiencia el demandado podrá formular sus descargos y solicitar que se reciba la causa a prueba.
+No deduciéndose oposición al reclamo o en caso de rebeldía de la parte requerida, el Comité recibirá la causa a prueba, o citará a las partes a oír su sentencia sobre el asunto sometido a su conocimiento, según lo estime conforme a derecho.
+La prueba se rendirá en el plazo y en la forma establecida para los incidentes en el Código de Procedimiento Civil.
+Vencido el término probatorio, el Comité, de inmediato, citará a las partes para oír sentencia.
+La sentencia deberá dictarse en el plazo de los diez días siguientes a la fecha de la resolución que citó a las partes para oír sentencia.
+2.- En el caso que se solicite la revisión de una decisión definitiva de un Tribunal de Honor o Comisión de Ética, dicha petición deberá formularse en el término fatal de diez días contado desde la notificación de la parte que formula la solicitud. En ella deberá contenerse los fundamentos en que se apoya y las peticiones concretas que se someten al conocimiento del Comité. Si se presenta fuera de plazo o no cumple con las referidas exigencias, el Comité la declarará inadmisible.
+Recibida la solicitud, el Comité requerirá informe al Tribunal de Honor o Comité de Ética correspondiente para que formule sus observaciones en el plazo máximo de cinco días. El Comité podrá pedir, además, que le remitan los antecedentes del proceso en que se dictó la resolución cuya revisión se solicita.
+Entregados tales antecedentes, el Comité podrá decretar medidas para mejor resolver o recibir la causa a prueba. En este último caso, la prueba se rendirá en el plazo y en la forma establecida para los incidentes en el Código de Procedimiento Civil.
+Ejecutadas las mencionadas medidas o vencidos los plazos para rendir la prueba, el Comité citará a las partes para oír sentencia.
+Si el Comité declara no haber lugar a la solicitud, devolverá los antecedentes al Tribunal de Honor o Comité de Ética correspondiente.
+Si acoge la solicitud del requirente, dictará una resolución de reemplazo y podrá imponer las sanciones que se establecen en el artículo siguiente.
+En todo lo no previsto en este artículo se aplicarán las disposiciones complementarias establecidas en un reglamento que deberá garantizar los principios de publicidad y oralidad, y demás que aseguren un debido proceso.
