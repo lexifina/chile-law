@@ -1,0 +1,1 @@
+Artículo séptimo.- Reemplázase, en el inciso primero del artículo 3º de la ley Nº 19.913 , que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, la expresión "administradoras de fondos de inversión", por la frase "sociedades que administren fondos de inversión privados".
