@@ -1,1 +1,0 @@
-Artículo 6º bis.- Las inversiones en Chile del Fondo de Inversión de Capital Extranjero de Riesgo se realizarán en los Nºs 8) y 9) del artículo 5º de la ley Nº 18.815, sin perjuicio que podrán mantener hasta un 30% de su activo invertido en los instrumentos señalados en los números 1) al 7) de dicho artículo.
