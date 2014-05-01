@@ -1,1 +1,1 @@
-Artículo 55 A.- Para obtener la autorización de existencia, las administradoras deberán acreditar ante la Superintendencia, un capital pagado en dinero efectivo no inferior al equivalente a 10.000 unidades de fomento. Asimismo, las administradoras deberán cumplir con lo dispuesto en los artículos 225 y 226 de la ley Nº 18.045.
+Artículo 55 A.- DEROGADO.
