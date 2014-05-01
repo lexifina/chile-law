@@ -1,1 +1,0 @@
-Artículo 6° bis.- Las operaciones de cambios internacionales que realicen los fondos de inversión se regirán por las disposiciones contenidas en el Párrafo Octavo del Artículo Primero de la Ley Nº 18.840.
