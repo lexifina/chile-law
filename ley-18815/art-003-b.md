@@ -1,1 +1,0 @@
-Artículo 3º B.- Los directores y ejecutivos principales de la administradora deberán acreditar ante la Superintendencia, que cumplen con los requisitos señalados en el artículo 229 de la ley Nº 18.045.

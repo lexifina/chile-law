@@ -17,13 +17,13 @@ TITULO XVI De la emisión de títulos de deuda a largo plazo.
 TITULO XVII De la emisión de títulos de deuda a corto plazo
 TITULO XVIII De las Sociedades Securitizadoras y de la Emisión de Títulos de Deuda de Securitización
 TITULO XIX Derogado De la Cámara de Compensación
-TITULO XX De la responsabilidad de las sociedades administradoras de fondos fiscalizados por la Superintendencia
+TITULO XX De la responsabilidad de las sociedades administradoras de fondos fiscalizados por la Superintendencia DEROGADO.
 TITULO XXI De la información privilegiada
 TITULO XXII De las Garantías
 TITULO XXIII Disposiciones varias
 TITULO XXIV De la oferta pública de valores extranjeros en el país
 TITULO XXV De la Oferta Pública de Adquisición de Acciones
 TITULO XXVI De la oferta pública de acciones o valores convertibles en el extranjero
-TÍTULO XXVII DE LAS ADMINISTRADORAS GENERALES DE FONDOS
+TITULO XXVII DE LAS ADMINISTRADORAS GENERALES DE FONDOS DEROGADO.
 TÍTULO XXVIII DE LAS EMPRESAS DE AUDITORÍA EXTERNA
 DISPOSICIONES TRANSITORIAS
