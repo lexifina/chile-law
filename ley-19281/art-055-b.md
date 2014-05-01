@@ -1,1 +1,1 @@
-Artículo 55 B.- La institución que mantenga las cuentas con cuyos recursos se hubieren constituido los fondos beneficiarios de la garantía a que se refiere el artículo 226 de la ley Nº 18.045, actuará como representante de los mismos, desempeñando las funciones que se señalan en el artículo 227 del mismo cuerpo legal.
+Artículo 55 B.- DEROGADO.
