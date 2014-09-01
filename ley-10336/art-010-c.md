@@ -1,0 +1,2 @@
+Artículo 10º C. Efectuado el trámite de toma de razón o registro electrónico mediante el uso de firma electrónica, el servicio deberá mantener archivados en soporte papel los documentos o certificados oficiales que fueron digitalizados para estos efectos, pudiendo mantenerlos exclusivamente en soporte digital cuando éstos se ajusten a la normativa vigente sobre digitalización de documentos.
+El Contralor General, en casos excepcionales, podrá disponer que un determinado servicio mantenga archivados en soporte papel los antecedentes mencionados en el inciso precedente.
