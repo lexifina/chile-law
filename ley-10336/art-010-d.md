@@ -1,0 +1,1 @@
+Artículo 10º D. Sin perjuicio de la toma de razón o registro electrónicos, el Contralor General, en ejercicio de sus atribuciones, podrá realizar posteriormente la verificación de antecedentes de los actos administrativos sometidos a este sistema de tramitación electrónica.
