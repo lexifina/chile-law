@@ -7,3 +7,5 @@ Artículo 1º.- Los Tribunales Tributarios y Aduaneros son órganos jurisdiccion
 6º. Conocer del procedimiento especial de reclamo por vulneración de derechos a que se refiere el Párrafo 2º del Título III del Libro Tercero del Código Tributario.
 7º. Conocer del procedimiento especial de reclamo por vulneración de derechos establecido en el Párrafo 4 del Título VI del Libro II de la Ordenanza de Aduanas.
 8º. Conocer de las demás materias que señale la ley.
+Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
+La autoridad legalmente requerida deberá prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar.
