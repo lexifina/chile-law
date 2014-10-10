@@ -1,0 +1,2 @@
+ART. 463 quáter.-
+Será castigado como autor de los delitos contemplados en los artículos 463, 463 bis y 463 ter quien, en la dirección o administración de los negocios del deudor, sometido a un procedimiento concursal de reorganización o de liquidación, hubiese ejecutado alguno de los actos o incurrido en alguna de las omisiones allí señalados, o hubiese autorizado expresamente dichos actos u omisiones.
