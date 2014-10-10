@@ -1,0 +1,2 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 30 de diciembre de 2013.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Tomás Flores Jaña, Ministro de Economía, Fomento y Turismo (S).- Julio Dittborn Cordua, Ministro de Hacienda (S).- Juan Ignacio Piña Rochefort, Ministro de Justicia (S).
