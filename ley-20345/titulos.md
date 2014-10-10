@@ -10,6 +10,6 @@ TÍTULO III Del Principio de Firmeza
 TÍTULO IV De las garantías y los fondos de garantía
 Capítulo I De las garantías
 Capítulo II De los fondos de garantía
-TÍTULO V De la liquidación y quiebra de las sociedades administradoras
+TÍTULO V DE LA LIQUIDACIÓN Y PROCEDIMIENTO CONCURSAL DE LIQUIDACIÓN DE LAS SOCIEDADES ADMINISTRADORAS
 TÍTULO VI Del préstamo de valores
 TÍTULO VII Disposiciones varias
