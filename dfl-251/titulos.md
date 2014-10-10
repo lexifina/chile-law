@@ -13,6 +13,6 @@ TITULO IV De la regularización de compañías de seguros
 3.- Por déficit de patrimonio y de inversiones o sobreendeudamiento conjuntamente.
 4.- Régimen Especial de Regularización
 5.- De la liquidación.
-6.- De los convenios y la quiebra.
+6.- De los acuerdos de reorganización y la liquidación.
 TITULO V De los Agentes Administradores de Mutuos Hipotecarios Endosables
 Artículos transitorios
