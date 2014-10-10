@@ -1,1 +1,1 @@
-ARTICULO 5° Los derechos y obligaciones de la Sindicatura Nacional de Quiebras, se traspasarán, por el ministerio de la ley, a la Superintendencia de Quiebras, transcurrido un año desde la vigencia de esta ley.
+Artículo 5°.- Derogado.

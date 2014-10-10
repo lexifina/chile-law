@@ -1,0 +1,2 @@
+ART. 464 bis.-
+El veedor o liquidador designado en un procedimiento concursal de reorganización o de liquidación que aplicare en beneficio propio o de un tercero bienes del deudor que sean objeto de un procedimiento concursal de reorganización o de liquidación será castigado con presidio menor en su grado medio a máximo y con la pena accesoria de inhabilidad especial perpetua para ejercer el cargo.

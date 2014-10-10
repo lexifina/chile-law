@@ -1,2 +1,2 @@
 TITULO II
-De la Superintendencia de Quiebras
+De la Superintendencia de Quiebras Derogado.
