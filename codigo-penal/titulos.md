@@ -100,7 +100,7 @@ TÍTULO NOVENO. CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD.
 § V. Disposiciones comunes a los cuatro Párrafos anteriores.
 § 5 bis. De la receptación
 § VI. De la usurpación.
-§ VII. De las defraudaciones.
+§ VII. De los delitos concursales y de las defraudaciones.
 § VIII. Estafas y otros engaños.
 § IX. Del incendio y otros estragos.
 § X. De los daños.
