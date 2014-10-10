@@ -1,5 +1,5 @@
-Artículo 32º bis.- Inmediatamente de pronunciada la sentencia que declare la quiebra de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
-Pronunciada la declaración de quiebra, el fallido quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
+Artículo 32º bis.- Inmediatamente de dictada la resolución de liquidación de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
+Pronunciada la resolución de liquidación, el deudor quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
 Notificado el Superintendente de la sentencia que declare la quiebra de una empresa concesionaria cuya concesión se encuentre en explotación, dispondrá la administración provisional del servicio, designando un administrador de entre aquellas personas naturales o jurídicas que se encuentren inscritas en el registro público a que se refiere el artículo 27º de esta ley.
-En el caso de quiebra de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el síndico.
+En el caso de dictación de la resolución de liquidación de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el liquidador.
 Los gastos en que se incurra con ocasión de la administración provisional quedarán incluidos dentro de los créditos señalados en el Nº 1 del artículo 2472 del Código Civil.

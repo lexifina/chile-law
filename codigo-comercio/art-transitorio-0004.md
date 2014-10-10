@@ -1,4 +1,1 @@
-ARTICULO 4° Declárase en extinción la Sindicatura Nacional de Quiebras, la que se entenderá subsistente para el solo efecto de lo preceptuado en los artículos 1°, 2° y 3° transitorios.
-Facúltase al Presidente de la República para que, dentro del plazo de un año, suprima los cargos que considere innecesarios en dicha Sindicatura.
-El personal en actual servicio que cese en sus funciones con motivo del ejercicio de la facultad a que se refiere el inciso precedente, y que no cumpla con los requisitos para acogerse a jubilación, gozará del beneficio establecido en la letra e) del artículo 29° del decreto ley 2.879, de 1979.
-Sin embargo, no tendrá derecho a los beneficios mencionados en el inciso anterior el personal que sea contratado en la Superintendencia de Quiebras, entendiéndose que dicha contratación será sin solución de continuidad.
+Artículo 4°.- Derogado.
