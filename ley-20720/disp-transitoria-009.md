@@ -1,0 +1,1 @@
+Artículo noveno.- Los procedimientos sancionatorios y de fiscalización iniciados con anterioridad a la entrada en vigencia de la presente ley seguirán sustanciándose conforme a las normas vigentes a la época de iniciarse dichos procedimientos, hasta su total terminación.
