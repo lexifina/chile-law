@@ -1,0 +1,1 @@
+Artículo primero.- Las medidas y procedimientos previstos en la presente ley aplicables a instituciones de educación superior serán complementarias y se integrarán a las facultades fiscalizadoras y sancionatorias que le sean conferidas a una Superintendencia que en conformidad a la ley se cree.
