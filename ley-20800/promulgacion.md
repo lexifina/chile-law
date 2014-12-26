@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 22 de diciembre de 2014.- MICHELLE BACHELET JERIA, Presidente de la República.- Alberto Arenas De Mesa, Ministro de Hacienda.- Ximena Rincón González, Ministra Secretaria General de la Presidencia.- Nicolá Eyzaguirre Guzmán, Ministro de Educación.
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Valentina Karina Quiroga Canahuate, Subsecretaría de Educación.
