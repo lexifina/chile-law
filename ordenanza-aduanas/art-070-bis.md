@@ -1,0 +1,1 @@
+Artículo 70 bis.- En el caso de exportaciones bajo una modalidad de venta distinta a firme, el valor definitivo de la exportación deberá informarse al Servicio Nacional de Aduanas en la forma, plazos y condiciones que dicho Servicio determine.
