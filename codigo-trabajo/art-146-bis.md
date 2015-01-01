@@ -1,0 +1,1 @@
+Artículo 146 bis.- Sin perjuicio de lo dispuesto en el número 3 del artículo 10, el contrato de los trabajadores de casa particular deberá indicar el tipo de labor a realizar y el domicilio específico donde deberán prestarse los servicios, así como también, en su caso, la obligación de asistencia a personas que requieran atención o cuidados especiales.
