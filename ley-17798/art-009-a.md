@@ -1,5 +1,6 @@
-Artículo 9º A.- Será sancionado con la pena de presidio menor en cualquiera de sus grados, el que, a sabiendas:
-1º No siendo poseedor, tenedor o portador de un arma de fuego inscrita, adquiriere las municiones o cartuchos a que se refiere la letra c) del artículo 2º.
-2º Siendo poseedor, tenedor o portador de un arma de fuego inscrita, adquiriere municiones o cartuchos que no correspondan al calibre de ésta.
-3º Vendiere municiones o cartuchos sin contar con la autorización respectiva.
-4º Estando autorizado para vender municiones o cartuchos, omitiere registrar la venta con la individualización completa del comprador y del arma respectiva.
+Artículo 9º A.- Será sancionada con una multa administrativa de 100 a 500 unidades tributarias mensuales, la persona autorizada que:
+1º Vendiere municiones o cartuchos a quien no fuere poseedor, tenedor o portador de un arma de fuego inscrita.
+2º Vendiere a quien fuere poseedor, tenedor o portador de un arma de fuego inscrita, municiones o cartuchos de un calibre distinto del autorizado para ésta.
+3º Vendiere municiones o cartuchos a quien fuere poseedor, tenedor o portador de un arma de fuego inscrita, sin dar cumplimiento a las obligaciones previstas en el inciso cuarto del artículo 4º.
+En caso de reincidencia, la multa será de 500 a 1.000 unidades tributarias mensuales.
+Si la infracción tuviere lugar por tercera vez, la sanción será la revocación de la autorización para vender armas. Si el vendedor fuere una sociedad de personas, la sanción establecida en este inciso afectará también a los socios de la misma. Si se tratare de una sociedad por acciones, la sanción establecida en este inciso afectará también a los accionistas que fueren dueños de más del 10% del interés social. En los dos casos anteriores, la sanción se aplicará asimismo a quienes administraren la respectiva sociedad.
