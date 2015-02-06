@@ -1,1 +1,2 @@
-Artículo 403 bis.- El que enviare cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o integridad corporal de las personas, será penado con presidio mayor en su grado mínimo.
+ART. 403 bis.-
+Derogado.
