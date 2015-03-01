@@ -1,0 +1,1 @@
+Artículo 43 bis.- Cada gobierno regional, en concordancia con su disponibilidad presupuestaria, deberá dotar al consejo de los medios físicos de apoyo suficientes para desarrollar, debida y oportunamente, las funciones y atribuciones que esta ley le confiere, atendido el número de consejeros existente en la región, lo que quedará consignado en el presupuesto regional.
