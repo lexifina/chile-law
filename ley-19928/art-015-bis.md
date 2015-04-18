@@ -1,0 +1,2 @@
+Artículo 15 bis.- La radioemisora que faltare a las normas sobre porcentajes mínimos de emisión de música nacional, estatuidas en el artículo anterior, será sancionada con multa de cinco a cincuenta unidades tributarias mensuales, la que se duplicará en caso de reincidencia.
+El juicio a que se procediere en aplicación del inciso precedente se tramitará según las reglas del Título XI del Libro III del Código de Procedimiento Civil.
