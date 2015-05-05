@@ -1,0 +1,1 @@
+Artículo quinto.- El mayor gasto fiscal que represente la aplicación de la presente ley durante el primer año de su aplicación se financiará con cargo al presupuesto del Ministerio de Educación y, en lo que faltare, con cargo a la partida Tesoro Público de la Ley de Presupuestos del Sector Público.
