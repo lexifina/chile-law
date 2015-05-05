@@ -14,3 +14,4 @@ Párrafo 3º De la presentación y control de la contabilidad electoral
 TITULO IV De la publicidad
 TITULO V Disposiciones Generales
 TITULO FINAL
+Disposiciones transitorias.

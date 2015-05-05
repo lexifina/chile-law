@@ -1,0 +1,1 @@
+Artículo tercero.- Para las elecciones parlamentarias de 2017, 2021, 2025 y 2029, las candidatas a senadoras y diputadas tendrán derecho a un reembolso adicional de sus gastos electorales, de cargo fiscal, de 0,0100 unidades de fomento por cada voto obtenido, en conformidad al procedimiento dispuesto en el artículo 15 de esta ley.
