@@ -1,0 +1,1 @@
+Artículo primero.- El cargo de Intendente de Educación Parvularia, que se crea en el artículo 9º de la presente ley, podrá ser provisto, transitoria y provisionalmente, con un funcionario que asumirá de inmediato sus funciones, en tanto se efectúe el proceso de selección pertinente de acuerdo con la ley Nº 19.882 .

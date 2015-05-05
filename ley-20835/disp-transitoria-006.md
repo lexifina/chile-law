@@ -1,0 +1,1 @@
+Artículo sexto.- Las referencias que las leyes, reglamentos y demás normativa vigente hagan a la Subsecretaría de Educación en materias de educación parvularia deberán entenderse hechas a la Subsecretaría de Educación Parvularia.".
