@@ -39,4 +39,4 @@ puertos de desembarque por éste
 autorizados, hará incurrir al
 infractor en las sanciones que al
 efecto se prevén en el artículo
-113 B de esta ley.
+113 D de esta ley.
