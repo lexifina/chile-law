@@ -1,0 +1,1 @@
+Artículo 133 C.- En caso de no verificarse el viaje, ya sea por causas imputables al transportador, al pasajero o por razones de seguridad o de fuerza mayor sobrevinientes, las tasas, cargas o derechos aeronáuticos que hubiere pagado el pasajero deberán restituirse a su solo requerimiento en cualquier oficina del transportador aéreo o a través de su sitio web.
