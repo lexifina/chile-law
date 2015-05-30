@@ -1,0 +1,1 @@
+Artículo 133 E.- En caso que el transportador acomode a un pasajero en una clase superior a la que había pagado, y esto se deba a cualquier causa ajena a la voluntad del pasajero, el transportador no podrá exigir pago suplementario alguno.
