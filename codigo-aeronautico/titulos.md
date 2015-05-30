@@ -33,7 +33,7 @@ CAPITULO II Del Fletamento de Aeronaves
 CAPITULO III Del Intercambio de Aeronaves
 CAPITULO IV De la Hipoteca y de los Privilegios
 CAPITULO V Del Contrato de Transporte Aéreo
-1.- Del transporte de pasajeros
+1.- Del transporte de pasajeros y sus derechos
 2.- Del transporte de equipaje
 3. Del transporte de mercaderías
 TITULO IX De la Responsabilidad Aeronáutica
