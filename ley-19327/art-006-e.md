@@ -1,1 +1,0 @@
-Artículo 6º E.- El que cometiere el delito previsto en el artículo 214 del Código Penal con la finalidad de acceder al recinto en el que se realizará un espectáculo de fútbol profesional será sancionado con la prohibición de asistir a cualquier espectáculo de fútbol profesional por un período de uno a dos años, sin perjuicio de las sanciones penales que correspondan.
