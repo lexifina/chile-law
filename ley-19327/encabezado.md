@@ -1,3 +1,4 @@
-FIJA NORMAS PARA PREVENCION Y SANCION DE HECHOS DE VIOLENCIA EN RECINTOS DEPORTIVOS CON OCASION DE ESPECTACULOS DE FUTBOL PROFESIONAL
+Ley Num. 19.327
+de derechos y deberes en los espectáculos de fútbol profesional
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 Proyecto de Ley:
