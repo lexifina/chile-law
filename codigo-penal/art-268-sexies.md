@@ -1,0 +1,4 @@
+ART. 268 sexies.-
+Los que mediante violencia o intimidación retuvieren o tomaren el control de un vehículo de transporte público de pasajeros serán sancionados con la pena de presidio mayor en su grado mínimo, sin perjuicio de las penas que correspondan por los otros delitos cometidos con ocasión del hecho. En este último caso, todas las penas se impondrán conjuntamente, en la forma prescrita por el artículo 74 de este Código.
+Si el hecho consistiere en la apropiación del vehículo no tendrá lugar lo previsto en el inciso precedente y, en su lugar, se impondrán las penas de los delitos establecidos en el artículo 433 y en el inciso primero del artículo 436, ambos de este Código, según correspondiere, con exclusión de su grado mínimo.
+Sin perjuicio de lo dispuesto en los incisos anteriores, si los hechos constituyeren algún delito o delitos de mayor gravedad, se estará a la pena señalada para ellos.
