@@ -1,0 +1,1 @@
+Artículo 56 bis.- Las acciones de la Superintendencia para imponer las sanciones a las que se refiere este Párrafo, prescribirán en el plazo de tres años desde la ocurrencia de las infracciones respectivas. Dicho plazo se interrumpirá con la notificación de la formulación de cargos por los hechos constitutivos de las mismas.
