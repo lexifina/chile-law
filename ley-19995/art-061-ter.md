@@ -1,0 +1,1 @@
+Artículo 61 ter.- Si el monto de la oferta económica comprometida por la sociedad operadora no se entera oportuna e íntegramente en las condiciones que establezca el reglamento, la Superintendencia procederá a hacer efectiva la garantía indicada en el artículo 20, letra k), sin perjuicio de lo dispuesto en el artículo 31, letra p), de la presente ley.
