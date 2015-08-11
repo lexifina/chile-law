@@ -1,0 +1,1 @@
+Artículo 53 bis.- Serán responsables del pago de la multa las sociedades operadoras y, subsidiariamente, sus directores, gerentes y apoderados siempre que tengan facultades generales de administración. En caso de reincidencia dentro de un período no superior a un año, las multas podrán duplicarse.
