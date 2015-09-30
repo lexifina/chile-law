@@ -30,6 +30,7 @@ TITULO III De los Procedimientos Especiales
 Párrafo 1°. Del procedimiento de reclamo de los avalúos de bienes raíces
 Párrafo 2°. Del procedimiento especial de reclamo por vulneración de derechos
 Párrafo 3° Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
+Párrafo 4° Del procedimiento de declaración judicial de la existencia de abuso o simulación y de la determinación de la responsabilidad respectiva
 TITULO IV Del Procedimiento para la Aplicación de Sanciones
 Párrafo 1°. Procedimiento general
 Párrafo 2°. Procedimientos especiales para la aplicación de ciertas multas
