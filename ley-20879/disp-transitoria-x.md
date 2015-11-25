@@ -1,0 +1,3 @@
+Artículo transitorio.- Las municipalidades tendrán el plazo de un año, contado desde la publicación de la presente ley, para dictar la ordenanza municipal a que se refiere el artículo 192 bis de la ley Nº 18.290, de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley Nº 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, promulgado el año 2007 y publicado el año 2009.
+La no dictación de la ordenanza municipal a que se refiere el inciso anterior no impedirá la plena aplicación inmediata de las sanciones contempladas en esta ley.
+La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial.".

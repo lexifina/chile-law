@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 16 de noviembre de 2015.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.- Javiera Blanco Suárez, Ministra de Justicia.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
+Lo que transcribo para su conocimiento.- Saluda a usted.- Alejandra Provoste Preisler, Subsecretaria de Transportes (S).
