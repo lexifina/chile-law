@@ -1,0 +1,2 @@
+Artículo 111 L.- La acción de reparación de los daños y perjuicios previstos en este Título prescribirá a los cinco años contados desde la manifestación del daño, ya sea por el defecto del producto o por el daño que dicho defecto le ocasionó. La acción de repetición del que hubiese satisfecho la indemnización contra todos los demás responsables del daño prescribirá en el plazo de dos años contado desde el día de su pago.
+La acción para el resarcimiento de los daños producidos con ocasión de un ensayo clínico prescribirá en el plazo establecido en el artículo 111 E.

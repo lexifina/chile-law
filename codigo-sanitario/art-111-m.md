@@ -1,0 +1,1 @@
+Artículo 111 M.- Los fabricantes e importadores de los productos sanitarios deberán contar con un seguro, aval o garantía financiera equivalente, para responder de los daños sobre la salud derivados de problemas de seguridad de los mismos, en los términos que establezca el reglamento.

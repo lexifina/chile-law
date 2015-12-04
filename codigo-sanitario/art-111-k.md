@@ -1,0 +1,1 @@
+Artículo 111 K.- El demandado no podrá eximirse de responsabilidad alegando que los daños ocasionados por un producto sanitario defectuoso se originan de hechos o circunstancias que no se previeron según el estado de los conocimientos científicos o técnicos existentes en el momento de su puesta en circulación o uso.

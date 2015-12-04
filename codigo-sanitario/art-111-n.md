@@ -1,0 +1,3 @@
+Artículo 111 N.- El ejercicio de las acciones jurisdiccionales para la reparación de los daños de que trata este Título se regirá por lo dispuesto en el Párrafo II del Título III de la ley Nº 19.966.
+Para estos efectos, forman parte de la Red Asistencial de la que trata el artículo 17 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, los prestadores que hayan celebrado un convenio con el Fondo Nacional de Salud para el otorgamiento de prestaciones cuya cobertura se encuentra a su cargo.
+Asimismo, las reclamaciones por productos defectuosos o daños causados con ocasión de un ensayo clínico se presentarán ante la entidad establecida en el artículo 44 de la ley Nº 19.966 y se regirán por el procedimiento establecido en dicha norma.

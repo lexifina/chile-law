@@ -1,0 +1,3 @@
+Artículo 50 bis.- El Fondo Nacional de Salud deberá informar a la Comisión Ciudadana de Vigilancia y Control del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de las materias y en las condiciones que establezca la ley.
+Será de responsabilidad del director del Fondo Nacional de Salud proporcionar la referida información.
+Asimismo, el Fondo Nacional de Salud deberá implementar y administrar el sistema de información para el otorgamiento de las prestaciones incorporadas al Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de acuerdo a la ley respectiva.
