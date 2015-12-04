@@ -1,0 +1,2 @@
+Artículo 111 F.- Será obligación de los titulares de las autorizaciones especiales para uso provisional para fines de investigación de productos farmacéuticos y,o elementos de uso médico contar con una póliza de seguro por responsabilidad civil, conforme al reglamento que se dicte a través del Ministerio de Salud.
+A través de un decreto supremo del Ministerio de Salud se establecerá la clase de los elementos de uso médico para cuya investigación será obligatoria la presentación de pólizas de seguro.

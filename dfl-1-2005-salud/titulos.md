@@ -41,7 +41,7 @@ Párrafo 2° De la organización y estructura
 TITULO II De las Atribuciones de la Superintendencia de Salud en relación con las Instituciones de Salud Previsional
 TITULO III De la Intendencia de Fondos y Seguros Previsionales de Salud
 Párrafo 1° De la supervigilancia y control de las instituciones de salud previsional y del Fondo Nacional de Salud
-Párrafo 2° De la supervigilancia y control de las Garantías Explícitas en Salud
+Párrafo 2° De la Supervigilancia y Control de las Garantías Explícitas en Salud y del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo
 Párrafo 3° De las controversias entre los beneficiarios y los seguros previsionales de salud
 TITULO IV De la Intendencia de Prestadores de Salud
 TITULO V De las normas comunes a ambas intendencias
