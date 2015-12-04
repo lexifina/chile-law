@@ -1,0 +1,4 @@
+LEY NÚM. 20.850
+CREA UN SISTEMA DE PROTECCIÓN FINANCIERA PARA DIAGNÓSTICOS Y TRATAMIENTOS DE ALTO COSTO Y RINDE HOMENAJE PÓSTUMO A DON LUIS RICARTE SOTO GALLEGOS
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
