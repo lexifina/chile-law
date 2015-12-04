@@ -1,0 +1,3 @@
+Artículo 111 E.- Los titulares de las autorizaciones para uso provisional con fines de investigación serán responsables por los daños que causen con ocasión de la investigación, aunque estos se deriven de hechos o circunstancias que no se hubieren podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica, existentes en el momento de producirse los daños.
+Asimismo, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
+La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño.

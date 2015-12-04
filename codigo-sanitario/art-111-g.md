@@ -1,0 +1,1 @@
+Artículo 111 G.- Las infracciones de lo dispuesto en el presente Título serán sancionadas conforme a las normas del Libro Décimo de este Código y a las contenidas en la ley Nº20.120, sobre la investigación científica en el ser humano, su genoma, y prohíbe la clonación humana.
