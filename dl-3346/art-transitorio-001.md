@@ -1,2 +1,1 @@
-Artículo 1°- Facúltase al Presidente de la República para fijar la planta del personal del Ministerio de Justicia, dentro del plazo de un año contado desde la publicación de este decreto ley, por decreto expedido a través del Ministerio de Justicia y suscrito por el Ministerio de Hacienda.
-Se le faculta también para que, en la forma y dentro del plazo señalados, modifique las plantas de los servicios dependientes del Ministerio de Justicia, con el objeto de incorporar en las plantas de este Ministerio o de tales servicios, en los términos indicados en el inciso final del artículo 16, a los funcionarios de la Oficina que en la citada disposición se suprime.
+Artículo 1°. Derogado.
