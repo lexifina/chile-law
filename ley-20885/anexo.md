@@ -1,0 +1,11 @@
+Tribunal Constitucional
+Proyecto de ley que crea la Subsecretaría de Derechos Humanos y establece adecuaciones en la Ley Orgánica del Ministerio de Justicia, correspondiente al boletín N° 8207-07
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control preventivo de constitucionalidad respecto del mismo, y por sentencia de 26 de noviembre de 2015, en los autos ROL N° 2910-15-CPR,
+Se resuelve:
+1°. Que las disposiciones contenidas en los nuevos artículos 10, 12 y 13 que se introducen al Decreto Ley N° 3.346, propuestos por el número 10) del artículo único del proyecto de ley sometido a control, no son contrarias a la Carta Fundamental.
+2°. Que las disposiciones contenidas en las letras a) y d) del nuevo artículo 14 bis que el proyecto de ley sometido a examen introduce al Decreto Ley N° 3.346, propuesto por el número 11) de su artículo único, no son contrarias a la Carta Fundamental.
+3°. Que no se emite pronunciamiento de constitucionalidad acerca de las disposiciones contenidas en la letra s) -originalmente o) en la iniciativa de ley- del artículo 2° del decreto ley N° 3.346, que se propone por la letra h) -original g)- del número 3) del artículo único del proyecto de ley sometido a control, por no versar sobre materias propias de ley orgánica constitucional.
+4°. Que no se emite pronunciamiento de constitucionalidad acerca de las disposiciones contenidas en el nuevo artículo 8° que se introduce al Decreto Ley N° 3.346, propuesto por el número 8) del artículo único del proyecto de ley sometido a control, por no versar sobre materias propias de ley orgánica constitucional.
+5°. Que no se emite pronunciamiento de constitucionalidad acerca de las disposiciones contenidas en el nuevo artículo 11 que se introduce al Decreto Ley N° 3.346, propuesto por el número 10) del artículo único del proyecto de ley sometido a control, por no versar sobre materias propias de ley orgánica constitucional.
+6°. Que no se emite pronunciamiento sobre las demás normas contenidas en el proyecto de ley, por no versar sobre materias propias de ley orgánica constitucional.
+Santiago, 26 de noviembre de 2015.- Rodrigo Pica Flores, Secretario.
