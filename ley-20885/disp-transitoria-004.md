@@ -1,0 +1,6 @@
+Artículo cuarto.- Para efectos del encasillamiento a que se refiere el artículo anterior, se aplicarán las normas previstas en el decreto con fuerza de ley a que se refiere su inciso primero, según lo dispuesto en el número 3 de la misma disposición.
+El ejercicio de las facultades señaladas en el artículo anterior quedará sujeto a las siguientes condiciones:
+a) No podrá tener como consecuencia ni podrá ser considerado como causal de término de servicios, supresión de cargos, cese de funciones o término de la relación laboral.
+b) No podrá significar pérdida del empleo, ni modificación de los derechos previsionales, como tampoco disminución de las remuneraciones respecto del personal traspasado.
+c) Cualquier diferencia de remuneraciones deberá ser pagada por planilla suplementaria. Dicha planilla se absorberá por los futuros mejoramientos de remuneraciones que correspondan a los funcionarios, excepto los derivados de reajustes generales que se otorguen a los trabajadores del sector público. Dicha planilla mantendrá la misma imponibilidad que aquella de las remuneraciones que compensa.
+d) Los funcionarios traspasados conservarán el número de bienios que estuvieren percibiendo, como asimismo, el tiempo de permanencia en el grado para la obtención de uno nuevo.
