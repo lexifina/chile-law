@@ -1,0 +1,1 @@
+Artículo octavo.- El primer Plan Nacional de Derechos Humanos deberá elaborarse en un plazo que no podrá exceder de doce meses contado desde la fecha de entrada en funcionamiento de la Subsecretaría de Derechos Humanos.

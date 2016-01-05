@@ -1,0 +1,1 @@
+Artículo sexto.- El Presidente de la República, por decreto expedido por intermedio del Ministerio de Hacienda, bajo la fórmula "Por orden del Presidente de la República", conformará el primer presupuesto de las Subsecretaría de Derechos Humanos pudiendo, al efecto, crear, suprimir o modificar los capítulos, asignaciones, ítem y glosas presupuestarias que sean pertinentes.

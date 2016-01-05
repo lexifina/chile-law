@@ -1,0 +1,1 @@
+Artículo noveno.- Mientras no entre en vigencia el articulado permanente de la ley N° 20.820, integrará el Comité Interministerial de Derechos Humanos a que se refiere el artículo 11, el Ministro Director del Servicio Nacional de la Mujer.".
