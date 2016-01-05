@@ -1,0 +1,1 @@
+Artículo primero.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la publicación de la presente ley, mediante un decreto con fuerza de ley, fije el texto refundido, coordinado y sistematizado del decreto ley N° 3.346, del Ministerio de Justicia, promulgado y publicado el año 1980.
