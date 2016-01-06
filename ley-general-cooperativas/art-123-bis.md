@@ -1,0 +1,1 @@
+Artículo 123 bis: Los libros y registros sociales de las cooperativas podrán llevarse por cualquier medio que ofrezca seguridad de que no podrá haber intercalaciones, supresiones u otra adulteración que pueda afectar su fidelidad.
