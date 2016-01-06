@@ -1,0 +1,1 @@
+Artículo 8º bis: La publicación de los extractos de los actos concernientes a la constitución, modificación y disolución de las cooperativas que esta ley establece se regirá por lo dispuesto en el artículo 4º de la ley Nº 20.494.
