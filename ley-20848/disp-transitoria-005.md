@@ -1,0 +1,1 @@
+Artículo quinto.- Mientras no sea dictada la resolución que fije las remuneraciones del personal de la Agencia de Promoción de la Inversión Extranjera, acorde a lo dispuesto en el artículo 18 de esta ley, mantendrá su vigencia aquella que se haya dictado en virtud de lo dispuesto en el artículo 9° del decreto ley N° 1.953, de 1977 para el Comité de Inversiones Extranjeras.

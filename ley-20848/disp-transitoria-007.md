@@ -1,0 +1,2 @@
+Artículo séptimo.- El mayor gasto fiscal que irrogue la aplicación de esta ley durante el año presupuestario de su entrada en vigencia se financiará con cargo al presupuesto del Comité de Inversiones Extranjeras y, en lo que faltare, con cargo a los recursos de la partida presupuestaria Tesoro Público de la ley de Presupuestos del Sector Público.
+Para los años posteriores, el mayor gasto se financiará con cargo a los recursos que se contemplen en las respectivas leyes de presupuestos para el sector público.".".
