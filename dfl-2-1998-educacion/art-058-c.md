@@ -1,0 +1,1 @@
+Artículo 58 C. La administración y dirección de la corporación educacional recaerá en uno o más miembros de ésta, quienes serán sus directores. Se deberá elegir entre los miembros del directorio a un presidente, quien será el representante judicial y extrajudicial de la corporación educacional y tendrá las demás atribuciones que fijen los estatutos.
