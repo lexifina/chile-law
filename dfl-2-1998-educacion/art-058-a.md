@@ -1,0 +1,2 @@
+Artículo 58 A. Son corporaciones educacionales las personas jurídicas de derecho privado sin fines de lucro constituidas por dos o más personas naturales, debidamente registradas ante la autoridad, cuyo objeto único sea la educación, y que se regirán por las disposiciones de esta ley y, de manera supletoria, por las disposiciones del Título XXXIII del Libro I del Código Civil.
+Estas corporaciones serán sostenedoras de establecimientos educacionales y podrán impetrar las subvenciones y aportes estatales con fines educativos de conformidad a la ley.

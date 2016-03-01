@@ -1,0 +1,4 @@
+Artículo 2º bis.- Para los efectos de la aplicación de la subvención escolar preferencial se entenderá por alumnos preferentes a aquellos estudiantes que no tengan calidad de alumno prioritario y cuyas familias pertenezcan al 80% más vulnerable del total nacional, según el instrumento de caracterización social vigente.
+La calidad de alumno preferente será determinada anualmente por el Ministerio de Educación, directamente o a través de los organismos de su dependencia que éste determine.
+La determinación de la calidad de alumno preferente, así como la pérdida de la misma, será informada anualmente por el Ministerio de Educación a la familia de dicho alumno y al sostenedor del establecimiento en que éste se encuentre matriculado.
+Un reglamento del Ministerio de Educación, que deberá ser firmado por el Ministro de Hacienda, determinará la metodología para la identificación de los alumnos a los que se refiere este artículo.

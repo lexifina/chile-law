@@ -1,0 +1,1 @@
+Artículo 14 bis.- La subvención escolar preferencial para los alumnos preferentes será equivalente a la mitad del valor unitario mensual para los alumnos prioritarios, expresado en unidades de subvención educacional, según lo señalado en el artículo 14.

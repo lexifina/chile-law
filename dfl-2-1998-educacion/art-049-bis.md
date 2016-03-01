@@ -1,0 +1,6 @@
+Artículo 49 bis. Créase un aporte por gratuidad, destinado a aquellos establecimientos educacionales gratuitos y sin fines de lucro, que se impetrará por los alumnos que estén cursando primer y segundo nivel de transición de educación parvularia, educación general básica y enseñanza media, incluida la educación especial y de adultos.
+Para los establecimientos regidos por la presente ley que impartan enseñanza regular diurna en el primer y segundo nivel de transición de educación parvularia, educación general básica y enseñanza media, será requisito para impetrar este aporte, estar adscrito al régimen de subvención escolar preferencial de la ley Nº20.248. Este requisito no será exigible para las modalidades de educación especial y de adultos.
+El aporte por gratuidad tendrá el valor unitario mensual por alumno de 0,45 unidades de subvención educacional.
+Su monto se determinará conforme a los artículos 13, 14 y 15 de esta ley.
+Tratándose de aquellos establecimientos educacionales regidos por el decreto ley Nº3.166, de 1980, del Ministerio de Educación, se estará a sus respectivos convenios para el pago del aporte por gratuidad.
+Este aporte estará afecto a los fines educativos de conformidad al artículo 3º de esta ley.

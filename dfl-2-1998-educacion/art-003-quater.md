@@ -1,0 +1,1 @@
+Artículo 3º quáter.- Los recursos de la subvención escolar y demás aportes que perciba el sostenedor en su calidad de tal podrán distribuirse entre los distintos establecimientos educacionales subvencionados de su dependencia, con el objeto de facilitar el funcionamiento en red de dichos establecimientos, sin perjuicio de lo dispuesto en leyes especiales.
