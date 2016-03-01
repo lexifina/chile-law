@@ -1,0 +1,1 @@
+Artículo 58 D. Los directores de la corporación educacional no serán remunerados, salvo en los casos establecidos en los numerales i) y ii) del inciso segundo del artículo 3º, debiendo aplicarse a estas remuneraciones lo señalado en los incisos tercero y siguientes del mismo artículo.
