@@ -1,0 +1,1 @@
+Artículo cuarto.- El mayor gasto fiscal que implique la aplicación de esta ley en su primer año de vigencia se financiará con cargo al presupuesto del Ministerio de Educación y, en lo que faltare, con cargo a los recursos de la Partida 50 Tesoro Público.
