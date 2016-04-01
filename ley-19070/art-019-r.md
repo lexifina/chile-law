@@ -1,0 +1,1 @@
+Artículo 19 R.- Los profesionales de la educación que hayan accedido a los tramos del desarrollo profesional docente de conformidad a las disposiciones de este Título tendrán derecho a la respectiva asignación de tramo establecida en el artículo 49, según lo dispuesto en el inciso segundo del artículo anterior, sin perjuicio de lo establecido en el artículo 19 P.
