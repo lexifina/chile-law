@@ -1,0 +1,2 @@
+Artículo 88 E.- Sin perjuicio de las causales de término de contrato establecidas en el Código del Trabajo, a los profesionales de la educación regulados por este Título se les aplicará lo dispuesto en el artículo 19 S y tendrán derecho a una bonificación, de cargo del empleador, en los mismos términos de la establecida en el artículo 73 bis.
+Los profesionales de la educación a que se refiere el inciso anterior podrán optar a la indemnización por años de servicio establecida en el Código del Trabajo, si procediere.

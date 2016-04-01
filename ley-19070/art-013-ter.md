@@ -1,0 +1,1 @@
+Artículo 13 ter.- Un reglamento dictado por el Ministerio de Educación desarrollará las materias establecidas en el presente párrafo.
