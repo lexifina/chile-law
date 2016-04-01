@@ -1,0 +1,1 @@
+Artículo 18 D.- Los directivos de los establecimientos, con consulta a su sostenedor, podrán establecer redes inter establecimientos para fomentar el trabajo colaborativo y la retroalimentación pedagógica, pudiendo contar para ello con la colaboración de los docentes mentores que se desempeñen en el ámbito local.

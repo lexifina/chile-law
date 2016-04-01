@@ -12,7 +12,7 @@ PARRAFO 2º De la Subvención Anual de Apoyo al Mantenimiento
 PARRAFO 3º De la Subvención para la Educación Fundamental de Capacitación Técnico- Profesional o de Enseñanza Práctica de cualquier rama de la Educación de Adultos
 PARRAFO 4º De la Subvención de Refuerzo Educativo
 PARRAFO 5º De la Subvención por Desempeño de Excelencia
-PARRAFO 6º De la Subvención Adicional Especial
+PARRAFO 6º De la Subvención Adicional Especial Derogado.
 PARRAFO 7º Subvención para establecimientos administrados conforme al D.L. 3.166, de 1980
 Párrafo 8º Subvención Educacional Pro- Retención de Alumnos en los Establecimientos Educacionales.
 PÁRRAFO 9º Aporte por Gratuidad

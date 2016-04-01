@@ -1,0 +1,1 @@
+Artículo 19 P.- El profesional de la educación que incumpla la obligación señalada en el inciso primero del artículo 19 Ñ perderá, mientras no dé cumplimiento a lo ordenado en dicho inciso, el derecho a percibir la Asignación por Tramo de Desarrollo Profesional establecida en el artículo 49.

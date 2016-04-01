@@ -1,0 +1,1 @@
+Artículo 19 N.- Podrán rendir los instrumentos señalados en el artículo 19 K aquellos profesionales de la educación que estén contratados o hayan ingresado a una dotación, según corresponda, para un establecimiento educacional cuyos docentes se rijan por el presente Título.

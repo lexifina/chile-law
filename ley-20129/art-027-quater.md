@@ -1,0 +1,1 @@
+Artículo 27 quáter.- La acreditación de las carreras de pedagogía solo podrá ser otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14 de la ley N° 20.129.

@@ -1,0 +1,1 @@
+Artículo 18 W.- En aquellas zonas del territorio nacional en que no sea posible asignar docentes mentores de conformidad a los artículos anteriores, el Centro deberá implementar programas y actividades especiales para apoyar la adecuada inmersión profesional de los docentes principiantes que lo soliciten.
