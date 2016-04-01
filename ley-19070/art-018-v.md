@@ -1,0 +1,6 @@
+Artículo 18 V.- En el caso de procesos de inducción administrados por el Centro, previa audiencia del interesado, la Subsecretaría de Educación, mediante resolución fundada del Centro, dispondrá el término del proceso de inducción y, asimismo, la pérdida del derecho a percibir las cuotas de los honorarios de mentoría. Son causales de incumplimiento:
+a) Incumplir gravemente a sus obligaciones establecidas en el convenio señalado en el artículo 18 S, de acuerdo a lo que en éste se señale.
+b) Ser evaluados insatisfactoriamente en su función, por el Centro o por el director y equipo directivo, según corresponda.
+c) Ser evaluados en un nivel insatisfactorio o básico, de conformidad a lo establecido en el artículo 70 de esta ley.
+Asimismo, se excluirá del registro público de mentores a los profesionales que incurran en alguna de las circunstancias establecidas en las letras a), b) o c), por segunda vez. El docente excluido podrá solicitar su reinscripción una vez transcurrido el plazo de tres años de notificada la resolución respectiva, siempre que cumpla con los requisitos legales para ello.
+De aplicarse dicha medida, el Centro deberá asignar un nuevo docente mentor al docente principiante respectivo, por el tiempo que falte para el término de su proceso de inducción, a quien le corresponderán las restantes cuotas de los honorarios de mentoría.
