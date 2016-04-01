@@ -1,0 +1,4 @@
+Artículo 18 Ñ.- La Subsecretaría de Educación, a través del Centro, mediante resolución fundada y, en el caso señalado en la letra b), previa audiencia del interesado y del director o equipo directivo si correspondiere, resolverá la pérdida de la asignación de inducción, poniéndose término al respectivo proceso, de aquellos docentes principiantes que:
+a) sean desvinculados del establecimiento en que se desempeñaban mientras desarrollaban su proceso de inducción, o
+b) incumplan gravemente sus obligaciones establecidas en el convenio regulado en el artículo 18 M, de acuerdo a lo que en éstos se señale.
+En caso que el sostenedor ponga término al proceso de inducción por incumplimientos del principiante o mentor, éste deberá restituir al Ministerio de Educación los recursos no utilizados en el proceso de inducción.

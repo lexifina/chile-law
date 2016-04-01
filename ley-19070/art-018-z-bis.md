@@ -1,0 +1,1 @@
+Artículo 18 Z bis.- La Agencia de la Calidad de la Educación, de conformidad a lo previsto en las letras d) y e) del artículo 10 de la ley N° 20.529, entregará al Ministerio de Educación los resultados de las evaluaciones que realice respecto de la implementación de acciones formativas y procesos de inducción, realizadas directamente en los establecimientos educacionales.

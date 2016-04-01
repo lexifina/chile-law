@@ -1,0 +1,3 @@
+Artículo 18 F.- La ejecución de los planes señalados en el presente párrafo, podrá realizarse con cargo a los recursos establecidos en la ley N° 20.248 en la medida que el sostenedor disponga de ellos y se entenderá que éstos constituyen por sí mismos una razón fundada para superar el porcentaje de gasto que dispone el inciso tercero del artículo 8° bis, del referido cuerpo legal.
+Sin perjuicio de lo establecido en el inciso anterior, el establecimiento educacional no podrá gastar más de un 5% por sobre el 50% señalado en dicho inciso tercero del referido artículo 8º bis.
+La Superintendencia de Educación fiscalizará el cumplimiento de lo dispuesto en el inciso anterior.

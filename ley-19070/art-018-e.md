@@ -1,0 +1,1 @@
+Artículo 18 E.- Los planes locales de formación para el desarrollo profesional, deberán formar parte de la rendición de cuentas que los directivos realizan sobre el desempeño del establecimiento educacional y sus planes de mejoramiento, según lo establece el Título III, Párrafo 3° de la ley N° 20.529.

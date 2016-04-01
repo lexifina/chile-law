@@ -1,0 +1,2 @@
+Artículo 88 D.- En los convenios de transferencia de recursos que los sostenedores suscriban para recibir aportes regulares del Estado para su operación y funcionamiento, se establecerá la obligación de pagar la asignación establecida en el presente Título.
+Un reglamento del Ministerio de Educación determinará la forma y oportunidad en que los sostenedores solicitarán, ejecutarán y rendirán los recursos para el financiamiento de las asignaciones establecidas en el presente artículo. Este reglamento se entenderá parte integrante de los convenios de transferencia citados.

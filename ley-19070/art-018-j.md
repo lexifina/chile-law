@@ -1,0 +1,1 @@
+Artículo 18 J.- Con el objeto de evaluar el proceso de inducción, el docente mentor deberá entregar al término de dicho proceso, un informe al director del establecimiento, en el que éste deberá dar cuenta de cómo el docente principiante ha cumplido con el plan de inducción. Dicho informe será público y deberá ser remitido al Centro.
