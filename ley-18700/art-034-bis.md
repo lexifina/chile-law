@@ -1,0 +1,2 @@
+Artículo 34 bis.- El candidato será subsidiariamente responsable de los daños dolosamente causados por actos delictuales de uno o más de sus brigadistas con motivo de los actos de propaganda electoral. La responsabilidad de los brigadistas se determinará según las reglas generales.
+El candidato podrá repetir en contra de los causantes del daño.

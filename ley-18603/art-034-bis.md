@@ -1,0 +1,1 @@
+Artículo 34 bis.- Para efectos de recibir el aporte fiscal, todo partido político beneficiario de este deberá presentar al Servicio Electoral la individualización de la cuenta corriente bancaria única y oficial del partido político en la cual se traspasarán los fondos y se supervisarán sus otros movimientos de conformidad a la ley.

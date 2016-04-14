@@ -1,0 +1,1 @@
+Artículo 27 ter.- El administrador electoral, el administrador general electoral o el administrador general de fondos de un partido político que, a sabiendas, en sus rendiciones de cuentas al Servicio Electoral proporcione antecedentes falsos o certifique hechos falsos, será sancionado con la pena de presidio menor en su grado máximo.
