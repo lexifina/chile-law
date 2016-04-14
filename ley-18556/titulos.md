@@ -18,6 +18,10 @@ TITULO VI Del Servicio Electoral
 Párrafo 1°: Del Servicio
 Párrafo 2° Del Consejo Directivo del Servicio Electoral
 Párrafo 3° Del Director del Servicio Electoral
-Párrafo 4° Del personal del Servicio Electoral
+Párrafo 4º De la Subdirección de Registro, Inscripciones y Acto Electoral
+Párrafo 5º De la Subdirección de Control del Gasto y Financiamiento Electoral
+Párrafo 6º De la Subdirección de Partidos Políticos
+Párrafo 7º Del procedimiento administrativo sancionador
+Párrafo 8° Del personal del Servicio Electoral
 TITULO VII Disposiciones Generales
 DISPOSICIONES TRANSITORIAS
