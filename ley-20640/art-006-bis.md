@@ -1,0 +1,1 @@
+Artículo 6° bis.- Tratándose de las elecciones primarias reguladas en esta ley, solo podrá efectuarse propaganda electoral desde el trigésimo hasta el tercer día anterior al de la elección primaria respectiva, ambos días inclusive.

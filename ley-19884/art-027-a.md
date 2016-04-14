@@ -5,4 +5,5 @@ c) El quíntuple del exceso en que hubiere incurrido, en la parte que supere el 
 Dicha multa se expresará en unidades de fomento.
 La multa será aplicada por el Director del Servicio Electoral.
 Las infracciones a las normas del Párrafo 2° que cometan los candidatos o partidos políticos, serán sancionadas con multa a beneficio fiscal equivalente al triple de las sumas indebidamente recibidas, sin perjuicio de las sanciones que les correspondan a ellos o a sus representantes por delitos en que hubieren incurrido.
-Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a cincuenta unidades tributarias mensuales.".
+Toda infracción o falta de cumplimiento a las disposiciones de esta ley que no tenga una pena especial, se sancionará con multa de cinco a cincuenta unidades tributarias mensuales.
+Tratándose de personas jurídicas, serán sancionadas con multa equivalente al triple del monto ilegalmente aportado.
