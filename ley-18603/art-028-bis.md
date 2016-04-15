@@ -1,0 +1,3 @@
+Artículo 28 bis.- En cada una de las regiones donde esté constituido el partido existirá un Tribunal Regional, el que estará conformado y tendrá las facultades que indiquen los respectivos estatutos.
+El Tribunal Regional conocerá en primera instancia y en relación al ámbito regional, de las materias contempladas en la normativa interna, y a lo menos las establecidas en las letras c), d), e), f) y g) del artículo precedente.
+Las sentencias de los tribunales regionales serán apelables para ante el Tribunal Supremo, en la forma y plazos que establezcan las normas internas del respectivo partido. Si la sentencia definitiva dispone la expulsión de un afiliado, y de ella no se reclamare, se elevará en consulta al Tribunal Supremo.
