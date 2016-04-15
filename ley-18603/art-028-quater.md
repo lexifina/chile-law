@@ -1,0 +1,6 @@
+Artículo 28 quáter.- Sin perjuicio de lo establecido en los estatutos de cada partido, se considerarán como infracciones a la disciplina interna las siguientes:
+a) Todo acto u omisión voluntaria imputable a un miembro del partido, que ofenda o amenace los derechos humanos establecidos en la Constitución, en los tratados internacionales ratificados y vigentes en Chile y en la ley, o atente contra ellos.
+b) Infringir los acuerdos adoptados por los organismos oficiales del partido.
+c) Incurrir en actos que importen ofensas, descrédito o maltrato contra miembros del partido.
+d) Faltar a los deberes del afiliado establecidos en la ley o en el estatuto.
+e) Incumplir pactos políticos, electorales o parlamentarios celebrados por el partido.
