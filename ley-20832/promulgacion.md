@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 28 de abril de 2015.- MICHELLE BACHELET JERIA, Presidenta de la República.- Alberto Arenas De Mesa, Ministro de Hacienda.- Nicolás Eyzaguirre Guzmán, Ministro de Educación.- Javiera Blanco Suárez, Ministra del Trabajo y Previsión Social.
+Lo que transcribo a Ud., para su conocimiento.- Atentamente.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.

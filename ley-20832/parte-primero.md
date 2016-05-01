@@ -1,0 +1,1 @@
+Artículo primero.- La presente ley entrará en vigencia a los seis meses de la fecha de inicio de funciones de la Subsecretaría de Educación Parvularia y de la Intendencia de Educación Parvularia de la Superintendencia de Educación, de conformidad con lo que dispongan el o los decretos con fuerza de ley respectivos.

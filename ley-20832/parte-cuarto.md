@@ -1,0 +1,2 @@
+Artículo cuarto.- Durante el transcurso del plazo dispuesto en el artículo anterior, la Superintendencia de Educación fiscalizará, en los mismos términos en que lo hace actualmente la Junta Nacional de Jardines Infantiles, a los establecimientos de educación parvularia que a la fecha de entrada en vigencia de esta ley se encuentren desarrollando las actividades señaladas en el artículo 1º.
+Durante el mismo lapso, las certificaciones otorgadas por la Junta Nacional de Jardines Infantiles mantendrán su validez.".
