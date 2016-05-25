@@ -1,0 +1,1 @@
+Artículo 49 quinquies.- Para todos los efectos legales, la participación de los funcionarios municipales en la determinación de la planta municipal no se entenderá como una vulneración al número 6 del artículo 62 de la ley N° 18.575 y al número 1 del artículo 12 de la ley N° 19.880.
