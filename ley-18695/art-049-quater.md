@@ -1,0 +1,4 @@
+Artículo 49 quáter.- La facultad conferida en el artículo 49 bis podrá ejercerse cada ocho años, y dentro de los dos años siguientes a contar del cumplimiento de dicho período, siempre que se cumplan los requisitos y límites que establece esta ley.
+En caso de corresponder hacer uso de la citada facultad en un año en el que se realicen elecciones municipales, dicho derecho podrá ejercerse sólo durante el año siguiente a éstas.
+El reglamento municipal que modifique o fije la nueva planta entrará en vigencia el 1 de enero del año siguiente al de su publicación en el Diario Oficial.
+La facultad establecida en el artículo 49 ter deberá ejercerse dentro de los ciento ochenta días siguientes a la entrada en vigencia del reglamento municipal que modifique o fije la planta respectiva. En el caso que procediere la realización de concursos públicos, éstos deberán efectuarse en el plazo de un año contado desde la citada fecha.
