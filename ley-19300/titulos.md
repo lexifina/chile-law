@@ -8,6 +8,7 @@ Párrafo 3º bis Del Acceso a la Información Ambiental
 Párrafo 4° De las Normas de Calidad Ambiental y de la Preservación de la Naturaleza y Conservación del Patrimonio Ambiental
 Párrafo 5° De las Normas de Emisión
 Párrafo 6° De los Planes de Manejo, Prevención o Descontaminación
+Párrafo 6° bis De la certificación, rotulación y etiquetado
 Párrafo 7° Del procedimiento de reclamo
 TITULO III De la Responsabilidad por Daño Ambiental
 Párrafo 1° Del Daño Ambiental
