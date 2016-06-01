@@ -1,0 +1,1 @@
+Artículo tercero.- Plazo para dictar reglamentos. Los reglamentos referidos en esta ley deberán dictarse o actualizarse, según corresponda, dentro del plazo de un año contado desde la publicación de la presente ley.
