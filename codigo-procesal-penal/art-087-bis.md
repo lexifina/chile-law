@@ -1,0 +1,1 @@
+Artículo 87 bis.- Se considerará falta contra el buen servicio de los funcionarios policiales el incumplimiento de las instrucciones impartidas por los fiscales a las policías, dando lugar a las responsabilidades administrativas que correspondan, conforme lo establecen los respectivos reglamentos.
