@@ -1,1 +1,4 @@
-Artículo 15 C.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando los delitos que estos preceptos establecen se cometan contra un funcionario de Gendarmería de Chile que se encontrare en el desempeño de sus funciones o en razón de ellas.
+Artículo 15 C.- Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un miembro de Gendarmería de Chile en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
