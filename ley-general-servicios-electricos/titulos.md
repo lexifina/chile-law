@@ -5,13 +5,20 @@ CAPITULO II De las concesiones de centrales hidráulicas productoras de energía
 CAPITULO III De los Permisos Municipales
 CAPITULO IV De la Caducidad, Transferencia y Extinción de las Concesiones
 CAPITULO V De las Servidumbres
-TITULO III De los Sistemas de Transporte de Energía Eléctrica
+Título II BIS: De la Coordinación y operación del Sistema Eléctrico Nacional
+Título III: De los Sistemas de Transmisión Eléctrica
+Capítulo I: Generalidades
+Capítulo II: De la Planificación Energética y de la Transmisión
+Capítulo III: De la Calificación de las Instalaciones de Transmisión
+Capítulo IV: De la Tarificación de la Transmisión
+Capítulo V: De La Remuneración de la Transmisión
 TITULO IV De la Explotación de los Servicios Eléctricos y del Suministro
 TITULO V De las Tarifas
 CAPITULO I Generalidades
 CAPITULO II De los precios máximos en sistemas eléctricos cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación
 CAPITULO III De los precios máximos en sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación.
 TITULO VI Del Panel de Expertos
+Título VI BIS Del Coordinador Independiente del Sistema Eléctrico Nacional
 TITULO VII Disposiciones Penales
 TITULO VIII Disposiciones Varias
 TITULO IX Disposiciones Transitorias
