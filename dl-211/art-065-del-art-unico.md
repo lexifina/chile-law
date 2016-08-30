@@ -1,0 +1,1 @@
+Artículo 65°.- La acción penal para la persecución del delito descrito en el artículo 62 prescribirá en el plazo de diez años, contado desde que se encuentre ejecutoriada la sentencia definitiva pronunciada por el Tribunal de Defensa de la Libre Competencia.
