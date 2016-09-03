@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 24 de diciembre de 2015.- MICHELLE BACHELET JERIA, Presidenta de la República.- Patricia Silva Meléndez, Ministra Secretaria General de la Presidencia (S).- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.- Alejandro Micco Aguayo, Ministro de Hacienda (S).
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., William García Machmar, Subsecretario General de la Presidencia (S).
