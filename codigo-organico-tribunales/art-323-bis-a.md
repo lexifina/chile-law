@@ -1,4 +1,1 @@
-Art. 323 bis A. Asimismo, las personas señaladas en el artículo anterior deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ante el Secretario de la Corte Suprema o de la Corte de Apelaciones respectiva, según sea el caso, quien la mantendrá para su consulta pública.
-En todo lo demás, la declaración de patrimonio se regirá por lo dispuesto en el artículo anterior.
-No obstante lo establecido en el inciso precedente, la no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
-El incumplimiento de la obligación de actualizar la declaración de patrimonio, se sancionará con multa de cinco a quince unidades tributarias mensuales.
+Art. 323 bis A. Derogado.
