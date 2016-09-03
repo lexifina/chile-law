@@ -1,0 +1,1 @@
+Artículo segundo.- Desde la entrada en vigencia de esta ley, la referencia efectuada en otras normas a la obligación de presentar una declaración de intereses y una declaración de patrimonio, se entenderá hecha a esta ley.".

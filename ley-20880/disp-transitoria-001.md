@@ -1,0 +1,5 @@
+Artículo primero.- El Presidente de la República dictará el reglamento de esta ley dentro del plazo de tres meses contado desde la publicación de la misma.
+Dentro del mismo plazo señalado en el inciso primero, la Superintendencia de Bancos e Instituciones Financieras y la Superintendencia de Valores y Seguros deberán dictar la o las normas de carácter general a que se refieren los artículos 28, 29 y 38.
+A su vez, el Servicio de Impuestos Internos deberá dictar la resolución señalada en el artículo 36 dentro del año calendario 2016.
+Sin perjuicio de lo anterior, los órganos señalados en el Capítulo 3º del Título II de esta ley podrán dictar las normas administrativas que sean convenientes en las materias que les conciernen específicamente.
+Esta ley comenzará a regir tres meses después de la publicación del reglamento señalado en el inciso primero respecto de los sujetos que se individualizan en el Capítulo 1º del Título II, y cinco meses después de la referida publicación, respecto de los sujetos individualizados en el Capítulo 3º del mencionado Título II.
