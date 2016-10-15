@@ -38,5 +38,11 @@ PARRAFO 6°.- De la Paralización de Obras
 PARRAFO 7°.- De las Demoliciones
 PARRAFO 8°.- De la seguridad, conservación y reparación de edificios
 TITULO IV De las Viviendas Económicas
+TÍTULO V De las mitigaciones y aportes al espacio público
+Capítulo I Principios aplicables a las mitigaciones y aportes
+Capítulo II De las mitigaciones directas
+Capítulo III De los aportes al espacio público
+Capítulo IV De la mitigación y los incentivos en los instrumentos de planificación territorial
+Capítulo V De los aportes urbanos reembolsables
 TITULO FINAL
 ARTICULOS TRANSITORIOS
