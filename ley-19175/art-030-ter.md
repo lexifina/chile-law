@@ -13,6 +13,7 @@ i) Oficializar la comunicación acerca de la adopción de acuerdos del consejo s
 3) Planes Reguladores Comunales.
 4) Planes Reguladores Intercomunales.
 4 bis) Planos de Detalle.
+4 ter) Planes de Inversiones en Infraestructura de Movilidad y Espacio Público.
 5) Convenios de Programación.
 6) Convenios Territoriales.
 7) Reglamentos Regionales.
