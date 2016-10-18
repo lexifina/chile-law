@@ -37,4 +37,13 @@ Párrafo 2° De las Publicaciones y de las Exenciones de Derechos e Impuestos
 TITULO X Disposiciones Generales
 TITULO XI DE LOS DISTRITOS ELECTORALES Y CIRCUNSCRIPCIONES SENATORIALES PARA LAS ELECCIONES DE DIPUTADOS Y SENADORES
 TÍTULO XII DE LAS JUNTAS ELECTORALES
+TÍTULO XIII De las votaciones en el extranjero
+Párrafo 1° Disposiciones generales
+Párrafo 2° De los actos preparatorios en el extranjero
+Párrafo 3° Juntas electorales en el extranjero
+Párrafo 4º El acto electoral en el extranjero
+Párrafo 5º El escrutinio local en el extranjero
+Párrafo 6º Reclamaciones electorales en el extranjero
+Párrafo 7º Orden público en el extranjero
+Párrafo 8º Sanciones y procedimientos judiciales en el extranjero
 DISPOSICIONES TRANSITORIAS
