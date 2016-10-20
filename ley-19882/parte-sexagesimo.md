@@ -1,1 +1,3 @@
-ARTÍCULO SEXAGÉSIMO.- La persona nombrada provisionalmente podrá postular al correspondiente proceso de selección que se convoque, no pudiendo en este caso considerarse como mérito el desempeño provisional del cargo que sirve.
+ARTÍCULO SEXAGÉSIMO.- Los nombramientos que se efectúen de conformidad con el artículo trigésimo sexto bis se extenderán hasta el término del respectivo periodo presidencial, sin perjuicio de lo dispuesto en el inciso primero del artículo quincuagésimo octavo.
+Los altos directivos públicos nombrados en conformidad con el artículo trigésimo sexto bis no podrán ser incorporados en el proceso de selección mediante el mecanismo dispuesto en la letra b) del inciso tercero del artículo quincuagésimo cuarto.
+En lo no previsto en los incisos anteriores, los jefes superiores de servicios afectos al artículo trigésimo sexto bis se regirán por las normas contenidas en los Párrafos 4°, 5°, 6° y 7° del Título VI de esta ley.
