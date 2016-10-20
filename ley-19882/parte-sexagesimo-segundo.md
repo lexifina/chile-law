@@ -1,1 +1,4 @@
 ARTÍCULO SEXAGÉSIMO SEGUNDO.- Los convenios, una vez suscritos, deberán ser comunicados a la Dirección Nacional del Servicio Civil para su conocimiento y registro.
+La autoridad respectiva deberá cumplir con la obligación señalada en el inciso anterior dentro del plazo máximo de noventa días, contado desde el nombramiento definitivo del alto directivo público o su renovación. En caso de incumplimiento, la Dirección Nacional del Servicio Civil deberá informar a la Contraloría General de la República para efectos de lo dispuesto en el inciso siguiente.
+La autoridad que no cumpla con la obligación señalada en el inciso primero será sancionada con una multa de 20 a 50 por ciento de su remuneración.
+Además, la Dirección Nacional del Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de la obligación señalada en el inciso primero.
