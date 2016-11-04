@@ -1,0 +1,6 @@
+Artículo 16 bis.- Existirá un director de seguridad pública en todas aquellas comunas donde lo decida el concejo municipal, a proposición del alcalde.
+Para estos efectos, el alcalde estará facultado para crear dicho cargo y para proveerlo en el momento que decida, de acuerdo a la disponibilidad del presupuesto municipal.
+Para desempeñar este cargo se requerirá estar en posesión de un título profesional o técnico de nivel superior otorgado por un establecimiento de educación superior del Estado o reconocidos por éste.
+El director de seguridad pública será designado por el alcalde y podrá ser removido por éste, sin perjuicio que rijan a su respecto, además, las causales de cesación de funciones aplicables al personal municipal.
+Dicho director será el colaborador directo del alcalde en las tareas de coordinación y gestión de las funciones de la letra j) del artículo 4, en el seguimiento del plan comunal de seguridad pública, y ejercerá las funciones que le delegue el alcalde, siempre que estén vinculadas con la naturaleza de su función.
+La designación y remoción del director de seguridad pública deberá ser informada a la Subsecretaría de Prevención del Delito y a la intendencia respectiva. Ambos órganos deberán llevar una nómina actualizada de los directores de seguridad pública a niveles nacional y regional, según corresponda.
