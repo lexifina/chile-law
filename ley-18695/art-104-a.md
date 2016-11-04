@@ -1,0 +1,1 @@
+Artículo 104 A.- En cada comuna existirá un consejo comunal de seguridad pública. Éste será un órgano consultivo del alcalde en materia de seguridad pública comunal y será, además, una instancia de coordinación interinstitucional a nivel local.
