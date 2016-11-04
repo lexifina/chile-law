@@ -14,6 +14,7 @@ TITULO IV DE LA PARTICIPACION CIUDADANA
 Párrafo 1º De las instancias de participación
 Párrafo 2º De las audiencias públicas y la oficina de reclamos
 Párrafo 3º De los plebiscitos comunales
+TÍTULO IV A DEL CONSEJO COMUNAL DE SEGURIDAD PÚBLICA Y EL PLAN COMUNAL DE SEGURIDAD PÚBLICA
 TITULO V DE LAS ELECCIONES MUNICIPALES
 Párrafo 1º De la presentación de candidaturas
 Párrafo 2º De las inscripciones de candidatos
