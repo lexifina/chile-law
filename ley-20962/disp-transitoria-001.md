@@ -1,0 +1,1 @@
+Artículo primero.- Los reglamentos referidos en los artículos 5 y 7 de esta ley deberán aprobarse a través de decreto supremo del Ministerio de Agricultura, el que deberá ser suscrito, además, por los ministros de Medio Ambiente y de Economía, Fomento y Turismo. Dichos decretos deberán dictarse en un plazo de noventa días siguientes a la publicación de la presente ley.
