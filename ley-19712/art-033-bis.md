@@ -1,0 +1,3 @@
+Artículo 33 bis.- El Comité Paralímpico de Chile será la máxima organización paralímpica del país. Esta entidad se regirá por sus estatutos y reglamentos, por las disposiciones de la Carta Paralímpica y por las directrices del Comité Paralímpico Internacional que les sean aplicables en conformidad con la legislación nacional y las convenciones internacionales.
+Su misión será fomentar la práctica del deporte paralímpico y del deporte adaptado de alto rendimiento, así como difundir sus ideales.
+Le corresponderá organizar la participación de los deportistas chilenos en los Juegos Paralímpicos, Parapanamericanos, Parasuramericanos y en otras competencias multideportivas internacionales patrocinadas por el Comité Paralímpico Internacional.
