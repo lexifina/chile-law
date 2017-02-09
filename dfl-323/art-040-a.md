@@ -1,0 +1,1 @@
+Artículo 40-A. Las tarifas del servicio de gas se obtendrán a partir de la suma del valor del gas al ingreso del sistema de distribución, en adelante e indistintamente "VGISD", y el valor agregado de distribución, en adelante e indistintamente "VAD".

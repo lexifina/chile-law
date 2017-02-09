@@ -1,0 +1,2 @@
+Artículo 40-E. Del valor de los costos de inversión de la empresa eficiente deberá descontarse finalmente la proporción del VNR correspondiente a las instalaciones aportadas por terceros en la respectiva zona de servicio. Dicho descuento deberá realizarse durante el tiempo de vida útil de las instalaciones aportadas por terceros que fije la Comisión, o hasta que la empresa concesionaria haya informado su total reposición en la forma y plazo que establezca la misma.
+El VNR será calculado conjuntamente con el estudio de costos indicado en el artículo 40-N.

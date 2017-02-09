@@ -1,0 +1,1 @@
+Artículo 40-R. El Ministro de Energía, dentro de los veinte días siguientes de recibido el informe técnico definitivo, fijará las nuevas fórmulas tarifarias, dictando el decreto supremo correspondiente.
