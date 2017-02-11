@@ -1,4 +1,4 @@
 Artículo 3º bis.- No podrán facilitarse ni divulgarse informaciones que permitan identificar al donante.
 Asimismo, los familiares del donante no podrán conocer la identidad del receptor, ni el receptor o sus familiares la del donante y, en general, queda prohibida cualquier difusión de información que pueda relacionar directamente la extracción con el ulterior injerto o implantación.
-Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas.
+Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas, a excepción del mecanismo de donación de órganos establecido en los artículos 4° bis y 4° ter.
 La información relativa a donantes y receptores de órganos humanos será recogida, tratada y custodiada en la más estricta confidencialidad y se considerará un dato sensible, conforme a lo dispuesto en la ley N° 19.628, sobre protección de la vida privada.

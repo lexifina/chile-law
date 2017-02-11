@@ -1,0 +1,1 @@
+Artículo 4° quinquies.- La información relativa a donantes y receptores de las modalidades establecidas en los artículos 4° bis y 4° ter será tratada y custodiada con estricta confidencialidad y será considerada como dato sensible conforme a lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada.
