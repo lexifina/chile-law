@@ -1,0 +1,1 @@
+Artículo 4° quáter.- El reglamento elaborado por el Ministerio de Salud establecerá las normas para la organización y funcionamiento del registro de parejas donante-receptor y del registro de donantes altruistas, el cual tendrá por objetivo facilitar la búsqueda de parejas biológicamente compatibles entre sí y aplicar criterios de priorización para los trasplantes.
