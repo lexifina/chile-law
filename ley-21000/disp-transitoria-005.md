@@ -1,0 +1,1 @@
+Artículo quinto transitorio.- Los procedimientos sancionatorios iniciados con anterioridad a la fecha del comienzo de actividades de la Comisión para el Mercado Financiero seguirán tramitándose conforme a las normas vigentes a la fecha de iniciación de los mismos.
