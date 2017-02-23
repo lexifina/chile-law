@@ -1,0 +1,1 @@
+Artículo segundo transitorio.- El consejo a que se refiere el artículo 8 contenido en el artículo primero de esta ley deberá dictar su normativa interna de funcionamiento en el plazo de sesenta días, contado desde la fecha de inicio de sus funciones.
