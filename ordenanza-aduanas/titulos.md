@@ -24,6 +24,7 @@ TITULO V Destinaciones aduaneras
 3.- Admisión temporal
 4. Admisión temporal para perfeccionamiento activo
 5. Almacén particular
+5 bis.- Depósito
 6. Exportación
 7. Salida temporal
 8. Salida temporal para perfeccionamiento pasivo
