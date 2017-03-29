@@ -1,0 +1,1 @@
+Artículo 411 bis.- Sanciones al fiscal que no asistiere o abandonare la audiencia injustificadamente. A la inasistencia o abandono injustificado del fiscal a la audiencia del procedimiento abreviado o a alguna de sus sesiones, si se desarrollare en varias, se aplicará lo previsto en el inciso segundo del artículo 269.
