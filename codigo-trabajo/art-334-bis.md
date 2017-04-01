@@ -1,2 +1,0 @@
-Art. 334 bis. No obstante lo dispuesto en el inciso segundo del artículo 303, el sindicato interempresa podrá presentar un proyecto de contrato colectivo de trabajo, en representación de sus afiliados y de los trabajadores que adhieran a él, a empleadores que ocupen trabajadores que sean socios de tal sindicato, el que estará, en su caso, facultado para suscribir los respectivos contratos colectivos.
-Para efectuar esta presentación, se requerirá que lo haga en representación de un mínimo de cuatro trabajadores de cada empresa.
