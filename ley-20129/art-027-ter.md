@@ -3,3 +3,4 @@ i. Procesos formativos, los que deberán ser coherentes con el perfil de egreso 
 ii. Convenios de colaboración con establecimientos educacionales para la realización de prácticas tempranas y progresivas de los estudiantes de pedagogías.
 iii. Cuerpo académico idóneo e infraestructura y equipamiento necesarios, para impartir la carrera de pedagogía.
 iv. Programas orientados a la mejora de resultados, en base a la información que entreguen las evaluaciones diagnósticas establecidas en el literal a) del artículo 27 bis.
+Con el propósito de promover la calidad de los programas de prosecución de estudios a que hace referencia el artículo 27 sexies, corresponderá a la Comisión Nacional de Acreditación adecuar los criterios de evaluación señalados en este artículo respecto de aquellos que se apliquen a dichos programas.
