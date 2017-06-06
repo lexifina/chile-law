@@ -86,6 +86,7 @@ TÍTULO OCTAVO. CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 § I. Del homicidio.
 § II. Del infanticidio.
 § III. Lesiones corporales.
+§ III. bis. Del maltrato a menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
 § IV. Del duelo.
 § V. Disposiciones comunes a los párrafos I, III y IV de este título.
 § V bis. De los delitos de tráfico ilícito de migrantes y trata de personas
