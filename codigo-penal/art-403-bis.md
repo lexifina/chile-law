@@ -1,2 +1,3 @@
 ART. 403 bis.-
-Derogado.
+El que, de manera relevante, maltratare corporalmente a un niño, niña o adolescente menor de dieciocho años, a una persona adulta mayor o a una persona en situación de discapacidad en los términos de la ley N° 20.422 será sancionado con prisión en cualquiera de sus grados o multa de una a cuatro unidades tributarias mensuales, salvo que el hecho sea constitutivo de un delito de mayor gravedad.
+El que teniendo un deber especial de cuidado o protección respecto de alguna de las personas referidas en el inciso primero, la maltratare corporalmente de manera relevante o no impidiere su maltrato debiendo hacerlo, será castigado con la pena de presidio menor en su grado mínimo, salvo que el hecho fuere constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
