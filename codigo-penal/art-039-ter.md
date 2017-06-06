@@ -1,0 +1,5 @@
+ART. 39 ter.
+La pena de inhabilitación absoluta perpetua o temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad, prevista en el artículo 403 quáter de este código, produce:
+1º. La privación de todos los cargos, empleos, oficios y profesiones que tenga el condenado, ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con las personas mencionadas en el inciso primero de este artículo.
+2º. La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
+La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
