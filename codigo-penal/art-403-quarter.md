@@ -1,0 +1,2 @@
+ART. 403 quáter.-
+El que cometiere cualquiera de los delitos contemplados en los párrafos 1, 3 y 3 bis del título VIII del libro II de este código, en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, además será condenado a la pena de inhabilitación absoluta temporal para ejercer los cargos contemplados en el artículo 39 ter, en cualquiera de sus grados. En caso de reincidencia en delitos de la misma especie, el juez podrá imponer la inhabilitación absoluta con el carácter de perpetua.
