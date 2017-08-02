@@ -1,2 +1,4 @@
 ART. 291 BIS.
 El que cometiere actos de maltrato o crueldad con animales será castigado con la pena de presidio menor en sus grados mínimo a medio y multa de dos a treinta unidades tributarias mensuales, o sólo con esta última.
+Si como resultado de una acción u omisión se causare al animal daño, la pena será presidio menor en sus grados mínimo a medio y multa de diez a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de cualquier tipo de animales.
+Si como resultado de las referidas acción u omisión se causaren lesiones que menoscaben gravemente la integridad física o provocaren la muerte del animal se impondrá la pena de presidio menor en su grado medio y multa de veinte a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de animales.
