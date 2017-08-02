@@ -1,0 +1,1 @@
+Artículo 291 ter.- Para los efectos del artículo anterior se entenderá por acto de maltrato o crueldad con animales toda acción u omisión, ocasional o reiterada, que injustificadamente causare daño, dolor o sufrimiento al animal.
