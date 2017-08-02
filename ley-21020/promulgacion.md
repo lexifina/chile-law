@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 19 de julio de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carmen Castillo Taucher, Ministra de Salud.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- Rodrigo Valdés Pulido, Ministro de Hacienda.
+Transcribo para su conocimiento Ley de la República Nº 21.020, de 19-07-2017.- Saluda atentamente a Ud., Jaime Burrows Oyarzún, Subsecretario de Salud Pública.

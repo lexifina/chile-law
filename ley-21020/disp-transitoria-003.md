@@ -1,0 +1,2 @@
+Artículo tercero.- Los registros señalados en el artículo 15 deberán estar disponibles para su utilización por los usuarios en el plazo de noventa días, contado desde la fecha de publicación de los reglamentos respectivos.
+Las personas naturales y jurídicas que deban inscribirse en ellos deberán hacerlo en el plazo de ciento ochenta días, contado desde la fecha en que los registros se encuentren disponibles para su utilización.
