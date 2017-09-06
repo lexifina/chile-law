@@ -1,1 +1,0 @@
-Artículo 24 bis.- Se prohíbe a los precandidatos y candidatos efectuar, con ocasión de la campaña electoral, y fuera de lo dispuesto en el artículo 2º, erogaciones o donaciones en dinero, o en especies, en favor de organizaciones o de personas jurídicas o de personas naturales distintas de su cónyuge o parientes.

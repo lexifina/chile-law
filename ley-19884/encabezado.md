@@ -1,3 +1,12 @@
-SOBRE TRANSPARENCIA, LIMITE Y CONTROL DEL GASTO ELECTORAL
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente:
-Proyecto de ley:
+FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N°19.884, ORGÁNICA CONSTITUCIONAL SOBRE TRANSPARENCIA, LÍMITE Y CONTROL DEL GASTO ELECTORAL
+DFL Núm. 3.- Santiago, 6 de abril de 2017.
+Visto:
+Lo dispuesto en el artículo 64 de la Constitución Política de la República y lo dispuesto en la ley N°19.963, D.O. 26.08.2004, que Modifica la ley Nº19.884, sobre transparencia, límite y control del gasto electoral, estableciendo sanciones y el procedimiento para su aplicación; la ley N°19.964, D.O. 26.08.2004, que Modifica la ley Nº19.884, sobre transparencia, límite y control del gasto electoral; la ley N°20.053, D.O. 06.09.2005, que Modifica la ley Nº19.884, sobre transparencia, límite y control del gasto electoral; la ley N°20.568, D.O 31.01.2012, que Regula la inscripción automática, modifica el servicio electoral y moderniza el sistema de votaciones; la ley N°20.640, D.O. 06.12.2012, que Establece el sistema de elecciones primarias para la nominación de candidatos a Presidente de la República, Parlamentarios y Alcaldes; la ley N°20.678, D.O. 19.06.2013, que Establece la elección directa de los Consejeros Regionales; la ley N°20.840, D.O. 05.05.2015, que Sustituye el sistema electoral binominal por uno de carácter proporcional inclusivo y fortalece la representatividad del Congreso Nacional; la ley N°20.900, D.O. 14.04.2016, para el Fortalecimiento y transparencia de la democracia, y la ley N°20.937, D.O. 27.07.2016, que Modifica límites de los aportes propios que efectúan los candidatos a concejal en sus campañas, y
+Considerando:
+1. Que, la dictación de la ley N°19.884, sobre transparencia, límite y control del gasto electoral en el año 2003 tuvo como objeto regular el financiamiento de las campañas electorales de candidatos, candidatas y partidos políticos.
+2. Que, desde su dictación, la referida ley ha sufrido diversas modificaciones, entre las cuales se destaca aquella efectuada por la ley N° 20.900, para el Fortalecimiento y transparencia de la democracia, debido a que alteró sustancialmente el contenido de la ley.
+3. Que, entre otras cosas, se introdujeron nuevas obligaciones a los candidatos, se redefinieron los sujetos que podrán donar aportes a campañas electorales, como su publicidad y límites. Además, se incorporaron sanciones penales para el cumplimiento de la nueva normativa.
+4. Que, por lo mismo, se hace necesario refundir, coordinar y sistematizar su texto, para una interpretación acorde a los nuevos principios y reglas que gobernarán la actividad política en nuestro país.
+5. Que, de conformidad a lo dispuesto en el artículo 64 de la Constitución Política de la República el Presidente de la República queda autorizado para fijar el texto refundido, coordinado y sistematizado de las leyes cuando sea conveniente para su mejor ejecución.
+Decreto con Fuerza de Ley:
+Fíjase el siguiente texto refundido, coordinado y sistematizado de la ley N°19.884 , sobre Transparencia, límite y control del gasto electoral:
