@@ -1,2 +1,0 @@
-Artículo 9°.- Mientras el Senado no entre en funciones el Director del Servicio Electoral será designado exclusivamente por el Presidente de la República.
-El Director del Servicio Electoral que se encontrare en funciones cuando se instale el Senado, continuará desempeñándolas, sin que se requiera para ello solicitar el consentimiento a que se refiere el artículo 49, N° 5°, de la Constitución Política.
