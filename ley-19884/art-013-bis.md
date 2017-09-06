@@ -1,3 +1,0 @@
-Artículo 13 bis.- Tratándose de candidaturas a Presidente de la República, el Fisco financiará, en los términos del artículo 15, los gastos de campaña electoral en que incurran los candidatos y los partidos políticos que presenten candidatos.
-El reembolso alcanzará a una suma que no excederá el equivalente, en pesos, a cuatro centésimos de unidad de fomento por voto obtenido por el candidato respectivo.
-En el caso de lo dispuesto en el artículo 26, inciso segundo, de la Constitución Política de la República, dicho reembolso será de un centésimo de unidad de fomento por voto obtenido por el candidato respectivo.
