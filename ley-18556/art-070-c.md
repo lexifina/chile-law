@@ -1,9 +1,0 @@
-Artículo 70 C.- Corresponderán a la Subdirección de Partidos Políticos las siguientes funciones y atribuciones:
-a) Fiscalizar y controlar el cumplimiento de la normativa sobre transparencia, elecciones internas, aportes y gastos de partidos políticos, y en general todas las obligaciones establecidas en la ley Nº 18.603.
-b) Supervisar el cumplimiento de lo establecido en los artículos 21 y 21 bis de la ley Nº19.884.
-c) Recibir las oposiciones a la formación de partidos políticos y sustanciar dicho procedimiento de oposición de conformidad a lo dispuesto en la ley Nº18.603.
-d) Llevar el Registro de Partidos Políticos actualizado correspondiente a cada región, según lo disponga el Director.
-e) Llevar el Registro general actualizado de los afiliados de los partidos políticos y recibir las renuncias de afiliación que le presenten.
-f) Recibir en custodia las declaraciones de intereses y patrimonio que deban efectuar aquellos miembros de las Directivas de los Partidos que señale la ley y velar por el cumplimiento de las normas que las regulan.
-g) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por los incumplimientos o infracciones a la normativa sobre partidos políticos.
-h) Ejercer las demás funciones que le encomienden esta u otras leyes.

@@ -1,1 +1,0 @@
-Artículo 6°.- El Presidente de la República podrá encasillar al personal de la Dirección del Registro Electoral que se desempeñe en cualquier calidad, a proposición del Director del Servicio, mediante decreto expedido por intermedio del Ministerio del Interior y suscrito además por el Ministro de Hacienda.
