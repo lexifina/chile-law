@@ -1,3 +1,0 @@
-Artículo 35 bis.- Los actos y contratos que celebren los partidos políticos se regirán por las reglas generales, sin perjuicio de las normas especiales que la presente ley establece.
-Los partidos políticos no podrán celebrar contratos a título oneroso en condiciones distintas de las de mercado o cuya contraprestación sea de un valor superior o inferior al de mercado.
-Los partidos políticos no podrán constituir ni participar en personas jurídicas, salvo las expresamente autorizadas por esta ley y por la ley N° 19.884. Tampoco podrán prestar servicios a título oneroso.
