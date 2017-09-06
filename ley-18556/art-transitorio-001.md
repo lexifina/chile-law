@@ -1,1 +1,0 @@
-Artículo 1°.- Las Juntas Inscriptoras se instalarán dentro del plazo de cinco meses contado desde la publicación de esta ley, en la fecha que señale el Director del Servicio Electoral por resolución que se publicará en el Diario Oficial.
