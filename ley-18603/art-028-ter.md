@@ -1,3 +1,0 @@
-Artículo 28 ter.- Todo proceso sancionatorio interno deberá contemplar garantías que aseguren el ejercicio del derecho a defensa de los afectados, tales como el derecho a formular descargos, presentar pruebas que acrediten sus pretensiones y reclamar de las decisiones dentro de plazos razonables.
-Los estatutos deberán contemplar circunstancias en las que los miembros del Tribunal Supremo deberán abstenerse de emitir pronunciamiento, a fin de prevenir conflictos de intereses.
-La disciplina interna de los partidos políticos no puede afectar el ejercicio de derechos, el cumplimiento de deberes prescritos en la Constitución y en la ley, ni el libre debate de las ideas en el interior del partido.
