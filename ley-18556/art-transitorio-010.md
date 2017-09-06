@@ -1,1 +1,0 @@
-Artículo 10°.- La votación y el escrutinio correspondientes a los electores de la Circunscripción Electoral de Chaitén, en las elecciones municipales del 26 de octubre del año 2008, se realizarán de conformidad a lo dispuesto en los artículos siguientes.

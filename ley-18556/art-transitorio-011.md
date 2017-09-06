@@ -1,1 +1,0 @@
-Artículo 11°.- El Director del Servicio Electoral determinará la sede en que deba sesionar la Junta Electoral de la Provincia de Palena, mientras no pueda hacerlo en la localidad de Chaitén; asimismo, en el caso que algunos de sus miembros se encuentren imposibilitados de sesionar en la sede que transitoriamente designe, procederá a nombrar a sus reemplazantes.
