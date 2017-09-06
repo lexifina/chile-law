@@ -1,1 +1,0 @@
-Artículo 101 bis.- El Servicio Electoral deberá poner a disposición del Tribunal los resultados de los Colegios Escrutadores, en formato digital, que sirvieron para generar los cuadros de resultados conforme al inciso primero del artículo 89, los que en todo caso deberán ser concordantes con los cuadros remitidos al Tribunal en virtud de lo señalado en el artículo 91.
