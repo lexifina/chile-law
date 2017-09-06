@@ -1,3 +1,0 @@
-Artículo 6°.- En el plebiscito a que se refiere el artículo 4° transitorio, la cédula oficial confeccionada por el Servicio Electoral se encabezará con las palabras "Plebiscito - Presidente de la República".
-Se imprimirá, al centro de la cédula el nombre de la persona designada, y bajo éste dos rayas horizontales, una al lado de la otra. La primera de ellas tendrá en su parte inferior la expresión "sí" y la segunda la palabra "no", a fin de que el elector pueda marcar su voluntad completando una cruz con una raya vertical, sobre una de las dos alternativas.
-En cuanto a las dimensiones de las cédulas, calidad del papel, sello, indicaciones de sus pliegues y demás características, se estará a lo dispuesto en los incisos primero y tercero del artículo 22.

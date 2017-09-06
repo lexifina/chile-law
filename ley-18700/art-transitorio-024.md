@@ -1,2 +1,0 @@
-Artículo 24.- Para los efectos de completar la nueva integración del Senado de la República, en las elecciones parlamentarias que deben celebrarse en noviembre de 2017 corresponderá que se renueven completamente las circunscripciones que corresponden a regiones impares.
-En el caso de las circunscripciones que corresponden a las regiones pares y Metropolitana, los parlamentarios elegidos en 2013 seguirán en sus funciones hasta completar su período de ocho años. En las elecciones de 2021, estas circunscripciones elegirán al total de los senadores que les corresponde.
