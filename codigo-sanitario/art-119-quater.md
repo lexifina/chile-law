@@ -1,0 +1,2 @@
+Artículo 119 quáter. Queda estrictamente prohibida la publicidad sobre la oferta de centros, establecimientos o servicios, o de medios, prestaciones técnicas o procedimientos para la práctica de la interrupción del embarazo en las causales del inciso primero del artículo 119.
+Lo anterior no obsta al cumplimiento de los deberes de información por parte del Estado ni a lo dispuesto en el párrafo 4º del título II de la ley N° 20.584.
