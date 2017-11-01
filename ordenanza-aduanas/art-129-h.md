@@ -1,1 +1,1 @@
-Artículo 129 H.- Los fallos pronunciados por el Tribunal Tributario y Aduanero deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso décimoquinto del artículo 128, será corregida de conformidad con lo dispuesto en el artículo 129 E.
+Artículo 129 H.- Los fallos pronunciados por el Tribunal Tributario y Aduanero deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso decimosexto del artículo 128, será corregida de conformidad con lo dispuesto en el artículo 129 E.
