@@ -1,0 +1,1 @@
+Artículo tercero.- Entrada en vigencia de la calidad de sostenedor de los Servicios Locales. La calidad de sostenedor de los Servicios Locales, respecto de los establecimientos de su dependencia, entrará en vigencia respecto de cada Servicio Local en la fecha del traspaso del servicio educacional.
