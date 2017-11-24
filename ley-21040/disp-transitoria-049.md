@@ -1,0 +1,2 @@
+Artículo cuadragésimo noveno.- Estatuto de los asistentes de la educación. El Presidente de la República enviará, durante el segundo semestre de 2017, un proyecto de ley que establezca un estatuto para los asistentes de la educación.
+Dicho estatuto deberá establecer que los asistentes de la educación ingresarán a la dotación de los Servicios Locales mediante mecanismos públicos y transparentes, que deberán considerar criterios objetivos de ingreso.
