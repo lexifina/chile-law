@@ -1,0 +1,1 @@
+Artículo decimonoveno.- Del procedimiento de traspaso. Los traspasos dispuestos en los párrafos anteriores se efectuarán de conformidad al procedimiento de traspaso regulado en este párrafo, el que deberá resguardar siempre la continuidad del servicio educacional y el derecho a la educación de los estudiantes.
