@@ -1,0 +1,6 @@
+Artículo vigésimo noveno.- Del incumplimiento de los convenios. En caso que una municipalidad incumpla gravemente los convenios de ejecución señalados en el artículo vigésimo quinto transitorio, el Ministerio de Educación podrá ponerles término, mediante resolución fundada, sobre la base de un informe emanado de la Superintendencia de Educación.
+Se entenderá por incumplimiento grave de los convenios de ejecución:
+a) Incumplimiento de la obligación establecida en el literal b) del artículo vigésimo quinto transitorio.
+b) Uso de los recursos transferidos de acuerdo a lo dispuesto en el literal k) del artículo vigésimo quinto transitorio para actividades distintas de las acordadas en los convenios.
+c) Incumplimiento de las observaciones que el Ministerio de Educación realice respecto del Plan Anual de Desarrollo Educativo Municipal, regulado en el artículo 4 de la ley N° 19.410.
+En caso de término de un convenio, de conformidad a lo señalado en el presente artículo, no se podrán celebrar los restantes convenios referentes a la transferencia de recursos por parte del Ministerio de Educación para contribuir al cumplimiento de los objetivos financieros del Plan de Transición que se hubiere suscrito.
