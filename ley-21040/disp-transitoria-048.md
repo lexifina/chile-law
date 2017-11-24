@@ -1,0 +1,1 @@
+Artículo cuadragésimo octavo.- Inicio de funciones del Comité Directivo Local. Será obligación de la Dirección de Educación Pública asegurar la constitución de cada Comité Directivo Local, para efectos de que participen del nombramiento del primer Director Ejecutivo de cada Servicio Local de Educación Pública, de acuerdo a lo dispuesto en los artículos 21 y 30 de la presente ley.

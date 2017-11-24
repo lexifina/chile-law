@@ -1,0 +1,1 @@
+Artículo primero.- Entrada en vigencia general. La presente ley entrará en vigencia a la fecha de su publicación, sin perjuicio de las excepciones establecidas en los siguientes artículos transitorios.

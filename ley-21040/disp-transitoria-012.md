@@ -1,0 +1,6 @@
+Artículo duodécimo.- Bienes muebles afectos al servicio educacional. Se entenderán afectos a la prestación del servicio educacional los bienes muebles que, perteneciendo a los órganos señalados en el artículo precedente, se encuentren en alguno de los siguientes casos:
+a) Bienes muebles que guarnecen los inmuebles señalados en el artículo anterior.
+b) Bienes muebles no comprendidos en la letra anterior que resultan necesarios para la prestación del servicio educacional de conformidad a la ley.
+c) Bienes muebles que hayan sido adquiridos con transferencias de recursos fiscales, para la prestación del servicio educacional.
+Desde la entrada en vigencia de esta ley y hasta el traspaso del servicio educacional, dichos órganos de la Administración del Estado, así como los órganos que dependan de éstos, destinarán los bienes señalados en este artículo y en el artículo precedente exclusivamente a la prestación del servicio educacional, no pudiendo, en todo o en parte, destinarlos a una finalidad distinta.
+Los bienes señalados en el presente artículo y en el artículo precedente se traspasarán, por el solo ministerio de la ley, al Servicio Local con competencia en la comuna en la cual se encuentren emplazados, en la forma y oportunidad señalada en el artículo noveno transitorio.
