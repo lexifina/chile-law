@@ -1,0 +1,1 @@
+Artículo quincuagésimo.- Reglamentos. Uno o más reglamentos dictados por el Ministerio de Educación, que deberán ser firmados, además, por el Ministro de Hacienda, desarrollarán las materias establecidas en las presentes disposiciones transitorias.
