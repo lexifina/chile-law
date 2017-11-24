@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 16 de noviembre de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Adriana Delpiano Puelma, Ministra de Educación.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Gabriel de la Fuente Acuña, Ministro Secretario General de la Presidencia.
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
