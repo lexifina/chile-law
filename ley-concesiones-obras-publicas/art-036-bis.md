@@ -15,5 +15,5 @@ La sentencia definitiva no será susceptible de recurso alguno.
 La sentencia definitiva y todos los escritos, documentos y actuaciones de cualquier especie que se presenten o verifiquen en el curso del procedimiento, serán publicados en la forma que establezca el reglamento.
 En caso que se optare por recurrir ante la Corte de Apelaciones, según lo dispuesto en el inciso primero de este artículo, se aplicará el procedimiento establecido en los artículos 69 a 71 de la ley N° 18.840, Orgánica Constitucional del Banco Central de Chile, y se estará a las siguientes disposiciones:
 1.- No será exigible boleta de consignación.
-2.- El traslado del recurso se dará al Director General de Obras Públicas.
+2.- El traslado del recurso se dará al Director General de Concesiones de Obras Públicas.
 Lo dispuesto en este artículo es sin perjuicio de las atribuciones del Poder Judicial y de la Contraloría General de la República.
