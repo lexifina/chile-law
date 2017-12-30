@@ -1,0 +1,1 @@
+Artículo décimo.- La cotización indicada en la letra a) del artículo 24, contemplado en el artículo primero de la presente ley, será implementada en la forma establecida en el artículo segundo transitorio de la ley N° 21.010.
