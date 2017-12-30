@@ -1,0 +1,4 @@
+LEY NÚM. 21.063
+CREA UN SEGURO PARA EL ACOMPAÑAMIENTO DE NIÑOS Y NIÑAS QUE PADEZCAN LAS ENFERMEDADES QUE INDICA, Y MODIFICA EL CÓDIGO DEL TRABAJO PARA ESTOS EFECTOS
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
