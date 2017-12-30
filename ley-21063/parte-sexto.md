@@ -1,0 +1,1 @@
+Artículo sexto.- Si para el cumplimiento de los requisitos establecidos en los artículos 5° y 6°, ambos establecidos en el artículo primero de esta ley, se requiere considerar meses anteriores a abril de 2017, se entenderán cumplidos para cada mes, si el trabajador o trabajadora registra pago de cotizaciones previsionales a las que haya estado obligado, según corresponda.
