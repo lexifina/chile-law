@@ -1,0 +1,1 @@
+Artículo octavo.- La regla contenida en el artículo 40, establecido en el artículo primero de la presente ley, será aplicable veinticuatro meses después del inicio de la primera contingencia cubierta por el Seguro que crea esta ley.

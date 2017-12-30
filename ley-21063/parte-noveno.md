@@ -1,0 +1,1 @@
+Artículo noveno.- El primer estudio actuarial señalado en el artículo 41, establecido en el artículo primero de la presente ley, deberá ser publicado dentro de los veinticuatro meses siguientes a la entrada en vigencia de esta ley.
