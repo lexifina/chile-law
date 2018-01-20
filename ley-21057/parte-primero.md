@@ -1,0 +1,4 @@
+Artículo primero.- La presente ley comenzará a regir en forma gradual, de conformidad con el inciso final del artículo 77 de la Constitución Política de la República, de acuerdo al cronograma que a continuación se indica:
+Primera etapa: entrará en vigencia transcurridos seis meses después de publicado en el Diario Oficial el reglamento a que alude el artículo 29, y comprenderá las regiones XV, I, II, VII, XI y XII.
+Segunda etapa: entrará en vigencia transcurridos dieciocho meses después de publicado en el Diario Oficial el reglamento a que alude el artículo 29, y comprenderá las regiones III, IV, VIII, IX y XIV.
+Tercera etapa: entrará en vigencia transcurridos treinta meses después de publicado en el Diario Oficial el reglamento a que alude el artículo 29, y comprenderá las regiones V, VI, X y Metropolitana.
