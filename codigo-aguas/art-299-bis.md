@@ -1,0 +1,1 @@
+ARTICULO 299 bis.- Los funcionarios de la Dirección General de Aguas que ejecuten labores de fiscalización tendrán la calidad de ministros de fe y sus declaraciones sobre los hechos que se constaten en las respectivas actas de inspección tendrán el carácter de presunción legal.
