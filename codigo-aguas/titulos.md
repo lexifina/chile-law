@@ -43,7 +43,8 @@ c. Del cambio de fuente de abastecimiento
 d. Del traslado del ejercicio de los derechos de aprovechamiento
 e. De la formación de roles provisionales de usuarios por la Dirección General de Aguas
 f. De las modificaciones en cauces naturales o artificiales
-3. De las Multas
+g. De la fiscalización
+3. De las sanciones
 Título II DE LOS PROCEDIMIENTOS JUDICIALES EN LOS JUICIOS SOBRE AGUAS EN GENERAL
 1. Normas Generales
 2. Del amparo judicial
