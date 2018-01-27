@@ -1,0 +1,1 @@
+Artículo 460 bis.- El que a sabiendas duplique la inscripción de su derecho en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces sufrirá las penas de presidio menor en su grado mínimo, multa de once a veinte unidades tributarias mensuales, la revocación del título duplicado y la cancelación de la inscripción duplicada.
