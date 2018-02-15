@@ -7,7 +7,7 @@ TITULO II De la Planificación Urbana
 CAPITULO I Definiciones
 CAPITULO II De la Planificación Urbana en particular
 PARRAFO 1°.- De la Planificación Urbana Nacional
-PARRAFO 2°.- De la Planificación Urbana Regional
+PARRAFO 2°.- De la Planificación Urbana Regional Derogado.
 PARRAFO 3°.- De la Planificación Urbana Intercomunal
 Párrafo 4°.- De la Planificación Urbana Comunal
 CAPITULO III De los límites urbanos
