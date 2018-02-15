@@ -1,0 +1,1 @@
+Artículo transitorio.- Las modificaciones a la Ordenanza General de Urbanismo y Construcciones a que se refiere esta ley deberán hacerse en el plazo de un año contado desde su publicación en el Diario Oficial y no podrá exceptuarse a las unidades no habitacionales de cinco mil metros cuadrados o más.".
