@@ -5,12 +5,18 @@ CAPITULO III Disposiciones Comunes a Intendentes y Gobernadores
 TITULO SEGUNDO DE LA ADMINISTRACIÓN DE LA REGIÓN
 CAPITULO I Naturaleza y Objetivos del Gobierno Regional
 CAPITULO II Funciones y Atribuciones del Gobierno Regional
+Párrafo 1° De las Competencias
+Párrafo 2° De la Transferencia de Competencias
 CAPITULO III Órganos del Gobierno Regional
 Párrafo 1° Del Intendente
 Párrafo 2° Del Consejo Regional
 Párrafo 3° Del Gobernador
-Párrafo 4° Del Consejo Económico y Social Provincial
-CAPITULO IV De la Estructura Administrativa del Gobierno Regional y de Otros Órganos de la Administración Pública en las Regiones
+Párrafo 4° Del Consejo Económico y Social Provincial Derogado.
+Capítulo IV De otros órganos de la Administración del Estado en las Regiones y de la Organización Administrativa del Gobierno Regional
+Párrafo 1° De los otros órganos de la Administración del Estado en las Regiones
+Párrafo 2° De las Divisiones del Gobierno Regional
+Párrafo 3º Del Administrador Regional
+Párrafo 4º De la Unidad de Control
 CAPITULO V Del Patrimonio y del Sistema Presupuestario Regionales
 Capítulo VI DE LA ELECCIÓN DEL CONSEJO REGIONAL
 Párrafo 1º De la presentación de candidaturas

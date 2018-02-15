@@ -1,0 +1,1 @@
+Artículo 36 ter.- Cualquier consejero regional podrá requerir del gobernador regional o delegado presidencial regional la información necesaria al efecto, quienes deberán contestar fundadamente dentro del plazo de treinta días.
