@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 2 de febrero de 2018.- MICHELLE BACHELET JERIA, Presidenta de la República.- Natalia Piergentili Domenech, Ministra de Economía, Fomento y Turismo (S).- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- Macarena Lobos Palacios, Ministra de Hacienda (S).- Alberto Undurraga Vicuña, Ministro de Obras Públicas.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Natalia Piergentili Domenech, Subsecretaria de Economía y Empresas de Menor Tamaño.
