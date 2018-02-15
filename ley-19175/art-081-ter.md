@@ -1,0 +1,1 @@
+Artículo 81 ter.- En el caso que el gobierno regional recurra a algún organismo del Estado para que actúe en calidad de unidad técnica, suscribiendo convenios mandatos en los términos que indica el artículo 16 de la ley N° 18.091, la responsabilidad de fiscalización de las materias objeto de la asistencia técnica será de la unidad técnica mandatada.
