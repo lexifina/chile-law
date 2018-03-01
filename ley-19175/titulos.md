@@ -1,14 +1,14 @@
 TITULO PRIMERO DEL GOBIERNO DE LA REGIÓN
-CAPITULO I Del Intendente
-CAPITULO II Del Gobernador
-CAPITULO III Disposiciones Comunes a Intendentes y Gobernadores
+CAPITULO I Del Delegado Presidencial Regional
+CAPITULO II Del Delegado Presidencial Provincial
+CAPITULO III Disposiciones Comunes a Delegados Presidenciales Regionales y Delegados Presidenciales Provinciales
 TITULO SEGUNDO DE LA ADMINISTRACIÓN DE LA REGIÓN
 CAPITULO I Naturaleza y Objetivos del Gobierno Regional
 CAPITULO II Funciones y Atribuciones del Gobierno Regional
 Párrafo 1° De las Competencias
 Párrafo 2° De la Transferencia de Competencias
 CAPITULO III Órganos del Gobierno Regional
-Párrafo 1° Del Intendente
+Párrafo 1° Del Gobernador Regional
 Párrafo 2° Del Consejo Regional
 Párrafo 3° Del Gobernador
 Párrafo 4° Del Consejo Económico y Social Provincial Derogado.
@@ -18,7 +18,7 @@ Párrafo 2° De las Divisiones del Gobierno Regional
 Párrafo 3º Del Administrador Regional
 Párrafo 4º De la Unidad de Control
 CAPITULO V Del Patrimonio y del Sistema Presupuestario Regionales
-Capítulo VI DE LA ELECCIÓN DEL CONSEJO REGIONAL
+Capítulo VI De la elección del Gobernador Regional y del Consejo Regional
 Párrafo 1º De la presentación de candidaturas
 Párrafo 2º De la aceptación, rechazo e inscripción de candidaturas
 Párrafo 3º Del escrutinio en las mesas receptoras de sufragios

@@ -66,7 +66,7 @@ Título II Procedimiento por delito de acción privada
 Título III Procedimiento abreviado
 Título IV Procedimiento relativo a personas que gozan de fuero constitucional
 Párrafo 1º Personas que tienen el fuero del artículo 58 de la Constitución Política
-Párrafo 2º Gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales
+Párrafo 2º Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y Gobernadores Regionales
 Título V Querella de capítulos
 Título VI Extradición
 Párrafo 1º Extradición activa
