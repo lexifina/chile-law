@@ -1,7 +1,7 @@
 Artículo 104 C.- En los casos de aquellas comunas cuyo número de habitantes no supere los 5.000, dos o más de ellas podrán constituir un consejo intercomunal de seguridad pública, o bien alguna de ellas participar del consejo comunal de una comuna colindante de mayor número de habitantes.
 Los consejos intercomunales estarán integrados de la siguiente forma:
 a) El presidente del consejo, que será uno de los alcaldes de las comunas participantes, elegido entre éstos.
-b) Los intendentes de las respectivas comunas que conforman el consejo, o el funcionario que éstos designen para representarlos.
+b) Los delegados presidenciales regionales de las respectivas comunas que conforman el consejo, o el funcionario que éstos designen para representarlos.
 c) Los alcaldes de las demás comunas que conforman el consejo intercomunal.
 d) Dos concejales designados por cada uno de los concejos municipales correspondientes a las comunas participantes.
 e) Un funcionario municipal designado de común acuerdo por los alcaldes participantes como secretario ejecutivo del consejo.
