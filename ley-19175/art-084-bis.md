@@ -1,0 +1,2 @@
+Artículo 84 bis.- Las candidaturas a gobernador regional podrán ser declaradas por un partido político, por un pacto de partidos, por un pacto entre un partido político e independientes, por un pacto de partidos e independientes, y por independientes.
+Las candidaturas a gobernador regional declaradas sólo por independientes se sujetarán a los porcentajes y formalidades establecidos en los artículos 89 y 90.
