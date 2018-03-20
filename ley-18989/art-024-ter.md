@@ -1,0 +1,1 @@
+Artículo 24 ter.- El personal a contrata de la Agencia podrá desempeñar funciones de carácter directivo, las que serán asignadas, en cada caso, por resolución del Director Ejecutivo, según lo disponga anualmente la Ley de Presupuestos.
