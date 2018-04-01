@@ -1,0 +1,1 @@
+Artículo quinto.- Las empresas de 100 y hasta 199 trabajadores estarán sujetas a la obligación establecida en el inciso primero del artículo 157 bis del Código del Trabajo, introducido por el artículo 3 de esta ley, a partir del término del primer año contado desde la entrada en vigencia de la presente ley.
