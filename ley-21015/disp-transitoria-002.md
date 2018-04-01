@@ -1,0 +1,1 @@
+Artículo segundo.- Dentro de los seis meses siguientes a la fecha de la publicación de esta ley deberán dictarse los reglamentos referidos en los artículos 1 y 3, así como las normas necesarias de las instituciones singularizadas en su artículo 1.
