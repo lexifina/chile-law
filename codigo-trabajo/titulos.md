@@ -31,7 +31,9 @@ Párrafo 4º Cesiones temporales y definitivas
 Párrafo 5º Del derecho de información y pago por subrogación
 Párrafo 6º Del reglamento interno de orden, higiene y seguridad
 Capítulo VII Del Contrato de Tripulantes de Vuelo y de Tripulantes de Cabina de Aeronaves Comerciales de Pasajeros y Carga
-Título III DEL REGLAMENTO INTERNO
+Título III Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad
+Capítulo I Del Reglamento Interno
+Capítulo II De la Inclusión Laboral de Personas con Discapacidad
 Título IV DEL SERVICIO MILITAR OBLIGATORIO
 Título V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO
 Título VI DE LA CAPACITACION OCUPACIONAL
