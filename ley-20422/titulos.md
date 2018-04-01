@@ -9,7 +9,7 @@ Párrafo 2° Rehabilitación
 TÍTULO IV Medidas para la Igualdad de Oportunidades
 Párrafo 1º Medidas de Accesibilidad
 Párrafo 2° De la educación y de la inclusión escolar
-Párrafo 3° De la capacitación e inserción laboral
+Párrafo 3° De la inclusión laboral y de la capacitación
 Párrafo 4° De las exenciones arancelarias
 TÍTULO V Del Registro Nacional de la Discapacidad
 Título VI Acciones Especiales
