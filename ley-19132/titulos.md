@@ -14,5 +14,6 @@ Párrafo 1° Del patrimonio.
 Párrafo 2° Del régimen económico
 Título IV Del personal
 Título V De la fiscalización
-Título VI Disposiciones varias
+Título VI De la transmisión de contenidos educativos, culturales, tecnológicos, científicos e infantile
+Título VII Disposiciones varias
 Artículos transitorios
