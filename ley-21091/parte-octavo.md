@@ -1,0 +1,1 @@
+Artículo octavo.- El Presidente de la República, mediante decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Subsecretaría de Educación Superior, pudiendo, al efecto, crear, suprimir o modificar los capítulos, programas, ítems, asignaciones y glosas presupuestarias que sean pertinentes.
