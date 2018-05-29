@@ -1,0 +1,4 @@
+Artículo 17 bis.- Para efectos de lo establecido en esta ley, se entenderá por:
+a) Dimensión de evaluación: área en que las instituciones de educación superior son evaluadas en la acreditación institucional, conforme a criterios y estándares de calidad.
+b) Criterio: elementos o aspectos específicos vinculados a una dimensión que enuncian principios generales de calidad aplicables a las instituciones en función de su misión. La definición de estos criterios deberá considerar las particularidades del subsistema universitario y del técnico profesional.
+c) Estándar: descriptor que expresa el nivel de desempeño o de logro progresivo de un criterio. Dicho nivel será determinado de manera objetiva para cada institución en base a evidencia obtenida en las distintas etapas del proceso de acreditación institucional.
