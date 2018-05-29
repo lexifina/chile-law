@@ -1,0 +1,2 @@
+Artículo vigésimo.- El Comité de Coordinación a que se refiere el artículo 3 de la ley N° 20.129, deberá constituirse dentro del plazo de dos meses contado desde la fecha de inicio de actividades de la última de las instituciones que componen el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
+A más tardar dentro de seis meses de constituido el Comité, deberá establecerse el primer Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior del que trata la letra d) del artículo 4 de la ley N° 20.129.

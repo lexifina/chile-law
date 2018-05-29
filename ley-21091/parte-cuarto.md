@@ -1,0 +1,1 @@
+Artículo cuarto.- El Sistema de Acceso a las Instituciones de Educación Superior establecido en el párrafo 3° del título I de esta ley entrará en funcionamiento a partir del año 2020 para los procesos de admisión del año 2021.
