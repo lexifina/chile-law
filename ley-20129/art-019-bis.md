@@ -1,0 +1,1 @@
+Artículo 19 bis.- En el caso que la Comisión rechazare el informe presentado por los pares evaluadores, la institución podrá solicitar, dentro del plazo de 30 días contado desde la fecha de notificación del primer informe, la realización de una nueva evaluación por pares evaluadores distintos, designados en conformidad con lo establecido en el artículo anterior.

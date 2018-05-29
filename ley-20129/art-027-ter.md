@@ -1,6 +1,7 @@
-Artículo 27 ter.- Para efectos de otorgar la acreditación de las carreras de pedagogía, la Comisión Nacional de Acreditación deberá establecer criterios y orientaciones relativos, a lo menos, a:
+Artículo 27 ter.- Para efectos de otorgar la acreditación de las carreras y programas referidos en el artículo 27, la Comisión Nacional de Acreditación deberá establecer criterios y estándares de calidad, de conformidad a lo establecido en el artículo 18 de esta ley.
+Para efectos de otorgar la acreditación de las carreras de pedagogía, la Comisión Nacional de Acreditación deberá establecer criterios y estándares de calidad relativos, a lo menos, a:
 i. Procesos formativos, los que deberán ser coherentes con el perfil de egreso definido por la universidad y los estándares pedagógicos y disciplinarios definidos por el Ministerio de Educación y aprobados por el Consejo Nacional de Educación.
 ii. Convenios de colaboración con establecimientos educacionales para la realización de prácticas tempranas y progresivas de los estudiantes de pedagogías.
 iii. Cuerpo académico idóneo e infraestructura y equipamiento necesarios, para impartir la carrera de pedagogía.
 iv. Programas orientados a la mejora de resultados, en base a la información que entreguen las evaluaciones diagnósticas establecidas en el literal a) del artículo 27 bis.
-Con el propósito de promover la calidad de los programas de prosecución de estudios a que hace referencia el artículo 27 sexies, corresponderá a la Comisión Nacional de Acreditación adecuar los criterios de evaluación señalados en este artículo respecto de aquellos que se apliquen a dichos programas.
+Con el propósito de promover la calidad de los programas de prosecución de estudios a que hace referencia el artículo 27 sexies, corresponderá a la Comisión Nacional de Acreditación adecuar los criterios y estándares de calidad señalados en este artículo respecto de aquellos que se apliquen a dichos programas.

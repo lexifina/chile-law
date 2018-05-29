@@ -12,7 +12,7 @@ Párrafo 1º Normas generales
 Párrafo 2º Del Reconocimiento Oficial de las universidades
 Párrafo 3º Del Reconocimiento Oficial de los institutos profesionales
 Párrafo 4º Del reconocimiento oficial de los centros de formación técnica
-Párrafo 5º Del Reconocimiento Oficial de los títulos y grados que otorgan los establecimientos de educación superior de las Fuerzas dependientes del Ministerio de Defensa Nacional
+Párrafo 5° Del Reconocimiento Oficial de los títulos que otorgan los establecimientos de educación superior dependientes de Ministerios".
 TÍTULO IV Del Consejo Nacional de Educación
 TÍTULO V Normas finales
 Artículos transitorios

@@ -7,4 +7,4 @@ e) Proponer y evaluar las políticas relativas a la formación inicial y continu
 f) Determinar, en coordinación con la Agencia de Calidad de la Educación, el plan de mediciones nacionales e internacionales de los niveles de aprendizaje de los alumnos.
 g) Desarrollar estadísticas, indicadores y estudios del sistema educativo, en el ámbito de su competencia, y poner a disposición del público la información que con motivo del ejercicio de sus funciones recopile. Esta información será pública y de libre acceso para todo el que tenga interés en consultarla. Los resguardos de confidencialidad de los resultados individuales se garantizarán de conformidad a la ley.
 h) Establecer y administrar los registros públicos que determine la ley.
-i) Ejecutar las sanciones que disponga la Superintendencia de Educación o, en su caso, aplicar las sanciones en los ámbitos que determinen las leyes.
+i) Ejecutar las sanciones que disponga la Superintendencia de Educación o la Superintendencia de Educación Superior, en su caso, aplicar las sanciones en los ámbitos que determinen las leyes.
