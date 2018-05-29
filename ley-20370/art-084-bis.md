@@ -1,0 +1,3 @@
+Artículo 84 bis.- La Escuela de Gendarmería de Chile desarrolla actividades docentes, de investigación y extensión de nivel superior, cuyo objetivo fundamental es formar profesionales y técnicos con los conocimientos necesarios para el cumplimiento de las funciones institucionales que les encomienda la ley.
+En ese sentido, podrá otorgar títulos profesionales y técnicos de nivel superior propios de su quehacer, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
+Los títulos técnicos de nivel superior y profesionales referidos en el inciso anterior serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
