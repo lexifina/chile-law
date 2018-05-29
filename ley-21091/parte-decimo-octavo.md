@@ -1,0 +1,1 @@
+Artículo décimo octavo.- Las instituciones de educación superior, reconocidas oficialmente por el Estado al momento de la publicación de la presente ley, deberán dar cumplimiento a lo dispuesto en los artículos 64, 66, 67, 68, 69 y 70 de esta ley dentro del plazo de dos años contado desde su publicación.
