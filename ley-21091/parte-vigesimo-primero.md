@@ -1,0 +1,2 @@
+Artículo vigésimo primero.- Los numerales 15, 16, 17, 18, 21, 23, 24 y 27 del artículo 81 de la presente ley, que modifica la ley N° 20.129 entrarán en vigencia a contar del 1 de enero del 2020.
+Por su parte, las disposiciones del artículo 81 de la presente ley que modifican el capítulo III de la ley N° 20.129 entrarán en vigencia una vez que inicie su funcionamiento la Subsecretaría de Educación Superior de conformidad con el artículo sexto transitorio.

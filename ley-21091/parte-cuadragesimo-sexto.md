@@ -1,0 +1,1 @@
+Artículo cuadragésimo sexto.- En el plazo de tres años contados desde la publicación de la presente ley, la Subsecretaría de Educación Superior presentará una propuesta de actualización de la estructura de títulos y grados del sistema de educación superior chilena contenida en el artículo 54 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación.".

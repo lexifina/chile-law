@@ -1,0 +1,1 @@
+Artículo cuadragésimo primero.- Para el ingreso de las instituciones al financiamiento institucional para la gratuidad para el año siguiente a la publicación de la presente ley, el plazo señalado en el inciso primero del artículo 84, se extenderá hasta el 15 de octubre del año de publicación.

@@ -1,0 +1,1 @@
+Artículo décimo quinto.- Las modificaciones establecidas en el artículo 120 entrarán en vigencia desde la fecha de entrada en funcionamiento de la Superintendencia de Educación Superior, de acuerdo a lo establecido en el número 6) del artículo décimo primero transitorio, a excepción de las indicadas en los números 5) y 7) letra a) del señalado artículo 120.

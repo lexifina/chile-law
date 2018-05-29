@@ -1,0 +1,1 @@
+Artículo vigésimo octavo.- Las carreras y programas conducentes al título profesional de médico cirujano y cirujano dentista que a la fecha de entrada en vigencia de esta ley se encontraren en proceso de acreditación ante agencias de acreditación continuarán con dicho proceso hasta su finalización. Dichos procesos no podrán extenderse más allá del 31 de diciembre de 2019.
