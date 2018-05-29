@@ -1,0 +1,1 @@
+Artículo décimo noveno.- Las instituciones de educación superior tendrán un plazo de un año contado desde la publicación de esta ley para cumplir con las regulaciones y prohibiciones establecidas en los artículos 73 a 80.
