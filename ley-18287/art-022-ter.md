@@ -1,0 +1,1 @@
+Artículo 22 ter.- Las resoluciones posteriores que acrediten el pago, modifiquen la cuantía de la multa o absuelvan de ella serán comunicadas al Registro para que la anotación que se hubiera practicado sea eliminada o modificada, según corresponda.
