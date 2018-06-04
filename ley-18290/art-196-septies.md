@@ -1,0 +1,7 @@
+Artículo 196 septies.- Será sancionado con la pena de presidio menor en su grado mínimo a medio y con multa de diez a cincuenta unidades tributarias mensuales, según las circunstancias:
+a) El que indebidamente se apodere, comercialice, encargue, exporte, transmita, importe o distribuya la información contenida en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros.
+b) El que indebidamente y de cualquier modo altere, modifique, dañe o destruya los datos contenidos en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros en perjuicio del Sistema de Transporte Público remunerado de pasajeros.
+Para los efectos de este artículo, se entenderá por medios tecnológicos de acceso a los servicios de transporte público remunerado de pasajeros, aquellos elementos o dispositivos tecnológicos autorizados por el Ministerio de Transportes y Telecomunicaciones o la autoridad competente, que permitan acceder a los servicios de transporte público remunerado de pasajeros y pagar la tarifa correspondiente.
+Las penas establecidas en este artículo se aumentarán en un grado si quien incurre en las conductas:
+1° Las realiza maliciosamente, siendo responsable de la información con ocasión del ejercicio de su oficio.
+2° Las realiza sobre datos del sistema de información relativos a medios de acceso a los servicios de transporte público remunerado de pasajeros y pago de la tarifa correspondiente, contenidos en el sistema de tratamiento de información de dichos servicios.
