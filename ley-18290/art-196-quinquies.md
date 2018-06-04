@@ -1,0 +1,1 @@
+Artículo 196 quinquies.- Se entenderá que comete falsificación el que maliciosamente hiciere uso de un instrumento o dispositivo falsificado para acceder a los servicios de transporte público remunerado de pasajeros. El que incurra en esta conducta será sancionado con la pena establecida en el artículo precedente.
