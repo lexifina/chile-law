@@ -1,0 +1,1 @@
+Artículo sexto.- En tanto no entren en vigencia las normas estatutarias y reglamentos internos que deban dictarse en virtud de esta ley, las universidades del Estado seguirán rigiéndose por las respectivas normas estatutarias y reglamentos internos que actualmente les son aplicables.
