@@ -1,0 +1,1 @@
+Artículo séptimo.- Las universidades del Estado estarán adscritas a la política de gratuidad universal, de conformidad a las reglas transitorias de progresión para los deciles de más altos ingresos que se establecen en la Ley sobre Educación Superior o en la Ley de Presupuestos, según corresponda.".

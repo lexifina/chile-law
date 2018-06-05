@@ -1,0 +1,1 @@
+Artículo tercero.- Se considerará como primer período del cargo, para la aplicación del artículo 21 de esta ley, aquel que haya asumido el rector bajo la vigencia de la presente ley. A su vez, a partir de la entrada en vigencia de esta ley serán aplicables las disposiciones de dicho artículo.

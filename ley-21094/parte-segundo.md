@@ -1,0 +1,2 @@
+Artículo segundo.- Las universidades del Estado deberán adoptar procesos públicos y participativos, en que intervengan los distintos estamentos de la comunidad universitaria, para el cumplimiento de lo dispuesto en el artículo primero transitorio, según corresponda.
+Con todo, la propuesta de modificación de estatutos que efectúen dichas instituciones al Presidente de la República deberá realizarse a través de sus órganos competentes, según lo dispuesto en sus estatutos vigentes.
