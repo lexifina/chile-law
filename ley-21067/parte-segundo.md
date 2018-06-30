@@ -1,0 +1,1 @@
+Artículo segundo.- El mayor gasto fiscal que represente la aplicación de esta ley durante el primer año presupuestario de su vigencia se financiará mediante transferencias de la Asignación 50-01-03-24-03-104 de la Partida Presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público del año respectivo.".
