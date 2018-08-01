@@ -1,0 +1,1 @@
+Artículo sexto.- Mientras no asuman los Gobernadores Regionales electos, conforme a la disposición vigésimo octava transitoria de la Constitución Política de la República, las normas que establece la ley referidas a los delegados presidenciales regionales y a los delegados presidenciales provinciales serán aplicables a los intendentes y gobernadores, respectivamente.
