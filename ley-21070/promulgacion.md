@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 7 de marzo de 2018.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Marcos Barraza Gómez, Ministro de Desarrollo Social.- Jorge Canals de la Puente, Ministro del Medio Ambiente (S).
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Mahmud Aleuy Peña y Lillo, Subsecretario del Interior.
