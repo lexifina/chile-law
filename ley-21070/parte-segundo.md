@@ -1,0 +1,1 @@
+Artículo segundo.- El primer plan de gestión de carga demográfica para el territorio especial de Isla de Pascua deberá ser elaborado en el término de noventa días, contado desde la entrada en vigencia de esta ley. Para efectos de lo dispuesto en el artículo 14 se considerarán los resultados del estudio de gestión de la capacidad de carga demográfica vigente a esa fecha.
