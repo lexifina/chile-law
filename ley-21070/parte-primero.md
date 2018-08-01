@@ -1,0 +1,2 @@
+Artículo primero.- El primer decreto que establezca la capacidad de carga demográfica para el territorio especial de Isla de Pascua deberá dictarse dentro de los ciento veinte días contados desde la publicación de la presente ley. Este decreto podrá fundarse en estudios que hubieren sido realizados con anterioridad a la entrada en vigencia de esta ley y que el Ministerio del Interior y Seguridad Pública considere pertinentes.
+La presente ley entrará en vigencia el primer día del quinto mes siguiente al de su publicación.
