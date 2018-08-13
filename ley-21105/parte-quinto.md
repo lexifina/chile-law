@@ -1,0 +1,2 @@
+Artículo quinto.- El Presidente o Presidenta de la República adecuará a la normativa introducida por la presente ley los reglamentos y decretos que considere necesarios, pudiendo modificarlos, eliminarlos, reemplazarlos o dictar otros nuevos, según lo estime pertinente.
+Lo mismo se aplicará respecto de los reglamentos y decretos que regulen el funcionamiento orgánico de los institutos tecnológicos y de investigación públicos a que se refiere el literal k) del artículo 4º de esta ley.
