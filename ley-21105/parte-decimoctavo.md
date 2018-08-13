@@ -1,0 +1,1 @@
+Artículo decimoctavo.- Mientras no entre en funcionamiento la Agencia Nacional de Investigación y Desarrollo, lo establecido en el artículo 14 de esta ley será aplicable por la Comisión Nacional de Investigación Científica y Tecnológica (CONICYT) para los programas e instrumentos que administre.
