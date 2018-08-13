@@ -1,0 +1,1 @@
+Artículo octavo.- El decreto supremo que apruebe la primera Política Nacional de Ciencia, Tecnología, Conocimiento e Innovación deberá ser dictado dentro de los seis meses siguientes desde la entrada en funcionamiento del Ministerio, según lo establecido en el numeral 1) del artículo noveno transitorio.

@@ -1,0 +1,1 @@
+Artículo decimocuarto.- Los artículos 23, 24 y 25 producirán sus efectos una vez que entre en funcionamiento la Agencia Nacional de Investigación y Desarrollo, en el plazo que se determine conforme al numeral 1) del artículo noveno transitorio.
