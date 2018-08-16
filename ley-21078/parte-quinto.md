@@ -1,0 +1,2 @@
+Artículo quinto.- Declárase, interpretando los artículos 183 y 184 del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, que son válidos los incentivos o condiciones que hubieran contemplado los Planes Reguladores Intercomunales o Comunales con anterioridad a la vigencia de la ley N° 20.958, que establece un sistema de aportes al espacio público.
+Con todo, no se aplicará en estos casos la limitación contenida en el inciso tercero del artículo 184 de la Ley General de Urbanismo y Construcciones.
