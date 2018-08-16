@@ -6,6 +6,7 @@ CAPITULO IV De las sanciones
 TITULO II De la Planificación Urbana
 CAPITULO I Definiciones
 CAPITULO II De la Planificación Urbana en particular
+PÁRRAFO PRELIMINAR.- Ámbitos de competencia y medidas de transparencia en la Planificación Urbana
 PARRAFO 1°.- De la Planificación Urbana Nacional
 PARRAFO 2°.- De la Planificación Urbana Regional Derogado.
 PARRAFO 3°.- De la Planificación Urbana Intercomunal
