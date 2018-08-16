@@ -1,0 +1,1 @@
+Artículo 28 sexies.- Actualización de los instrumentos de planificación territorial. Los instrumentos de planificación territorial deberán actualizarse periódicamente en un plazo no mayor a diez años, conforme a las normas que disponga la Ordenanza General.

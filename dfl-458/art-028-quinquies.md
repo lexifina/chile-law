@@ -1,0 +1,8 @@
+Artículo 28 quinquies.- Normas urbanísticas supletorias para territorios sin planificación comunal o seccional. Las construcciones que se levanten en zonas urbanas que no estén normadas por un Plan Regulador Comunal o un Plan Seccional deberán ajustarse, mientras mantengan esta situación, a las siguientes disposiciones:
+a) No podrán superar la altura promedio de los edificios ya construidos en las manzanas edificadas, con un máximo de diez pisos. En caso de no haber edificación no podrán exceder de dos pisos, salvo que se trate de conjuntos habitacionales de viviendas sociales, los que podrán alcanzar cuatro pisos.
+b) No podrán superar la densidad promedio de la manzana en que se emplacen y, de no ser aplicable esta norma, la del promedio de las zonas contiguas que ya estén edificadas, salvo que se trate de conjuntos habitacionales de viviendas sociales.
+c) No podrán alterar el sistema de agrupamiento de las edificaciones, sus características arquitectónicas y volumétricas ni las líneas oficiales y de edificación del sector, debiendo adaptarse al entorno urbano en que se emplacen.
+d) Deberán dar continuidad a la trama vial existente.
+e) Deberán cumplir las demás normas urbanísticas supletorias que, para estos efectos y reconociendo las condiciones locales y de diversidad territorial, señale la Ordenanza General.
+Las normas precedentes se aplicarán también cuando se declare la nulidad total o parcial de un Plan Regulador Comunal o Seccional.
+Lo dispuesto en este artículo regirá sin perjuicio de las normas que respecto de las áreas de extensión urbana establezcan los Planes Reguladores Intercomunales.
