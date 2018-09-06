@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 19 de agosto de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Jaime Campos Quiroga, Ministro de Justicia y Derechos Humanos.
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Mahmud Aleuy Peña y Lillo, Subsecretario del Interior.
