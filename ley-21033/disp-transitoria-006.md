@@ -1,0 +1,1 @@
+Artículo sexto.- El Presidente de la República, a contar de la publicación de la presente ley, podrá designar en comisión de servicio en el Gobierno Regional de Ñuble a un funcionario público de la Administración Centralizada o Descentralizada, por un plazo máximo de un año, con el objeto de apoyar la instalación y gestión del mismo.
