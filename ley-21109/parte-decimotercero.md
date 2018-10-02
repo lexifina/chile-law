@@ -1,0 +1,1 @@
+Artículo decimotercero.- Norma de protección a trabajadores contratados sin contar con licencia de enseñanza media. La exigencia establecida en el inciso segundo del artículo 9 de esta ley, para el ejercicio de la función auxiliar, no se aplicará a los asistentes de la educación que desempeñen dicha función al 31 de diciembre de 2017.

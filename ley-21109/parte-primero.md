@@ -1,0 +1,1 @@
+Artículo primero.- Vigencia de la ley. La presente ley entrará en vigencia en la fecha de su publicación respecto de los servicios locales que se encuentren prestando el servicio educacional, sin perjuicio de lo establecido en los artículos transitorios siguientes.
