@@ -1,0 +1,1 @@
+Artículo decimocuarto.- Mientras no opere el traspaso del servicio educacional, las organizaciones sindicales de asistentes de la educación que integrarán una dotación pública mantendrán su vigencia y podrán seguir funcionando en los términos de los artículos 212 y siguientes del Código del Trabajo.
