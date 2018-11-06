@@ -3,3 +3,10 @@ a) El que opere o explote servicios o instalaciones de telecomunicaciones de lib
 b) El que maliciosamente interfiera, intercepte o interrumpa un servicio de telecomunicaciones, sufrirá la pena de presidio menor en cualquiera de sus grados y el comiso de los equipos e instalaciones.
 c) El que intercepte o capte maliciosamente o grabe sin la debida autorización, cualquier tipo de señal que se emita a través de un servicio público de telecomunicaciones, será sancionado con la pena de presidio menor en su grado medio y multa de 50 a 5.000 UTM.
 d) La difusión pública o privada de cualquier comunicación obtenida con infracción a lo establecido en la letra precedente, será sancionada con la pena de presidio menor en su grado máximo y multa de 100 a 5.000 UTM.
+e) El que sin la autorización del distribuidor legal, comercialice o distribuya una señal de servicios limitados de televisión adecuadamente protegida, o quien, de igual forma, importe, distribuya o comercialice dispositivos tangibles o intangibles destinados a la decodificación de tales señales, será sancionado con pena de multa de 10 a 1.000 unidades tributarias mensuales y el comiso de tales dispositivos. En caso de reincidencia, se sancionará con una multa de 20 a 2.000 unidades tributarias mensuales y, asimismo, el comiso de dichos instrumentos.
+El que con ánimo de lucro preste servicios de instalación de los dispositivos señalados en el inciso anterior será sancionado con pena de multa de 1 a 100 unidades tributarias mensuales, o de 2 a 200 unidades tributarias mensuales si fuese reincidente.
+Para determinar la cuantía de las multas señaladas en los incisos anteriores, deberán considerarse las siguientes circunstancias:
+i) El eventual beneficio económico obtenido con motivo de la infracción.
+ii) Capacidad económica del infractor.
+iii) La conducta anterior del infractor, salvo en caso de reincidencia.
+Se considerará, para estos efectos, que la señal satelital se encuentra adecuadamente protegida si es que el permisionario del servicio ha adoptado, oportunamente, medidas tecnológicas suficientes para el resguardo de sus servicios.
