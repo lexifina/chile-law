@@ -1,0 +1,1 @@
+Artículo 37 bis.- Todo establecimiento en que se comercialicen dispositivos de señales de servicios limitados de televisión deberá exhibir, en lugar destacado y claramente visible al público, un cartel en el cual se indiquen de manera didáctica las prohibiciones y sanciones relacionadas a la decodificación de las referidas señales.
