@@ -1,0 +1,2 @@
+ART. 287 ter.
+El que diere, ofreciere o consintiere en dar a un empleado o mandatario un beneficio económico o de otra naturaleza, para sí o un tercero, para que favorezca o por haber favorecido la contratación con un oferente por sobre otro será castigado con la pena de reclusión menor en su grado medio, en el caso del beneficio dado u ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido. Además, se le sancionará con las penas de multa señaladas en el artículo precedente.

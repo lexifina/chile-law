@@ -47,6 +47,7 @@ TÍTULO QUINTO. DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBL
 § VIII. Violación de secretos.
 § IX. Cohecho.
 § 9 bis. Cohecho a Funcionarios Públicos Extranjeros
+§9 ter. Normas comunes a los Párrafos anteriores
 § X. Resistencia y desobediencia.
 § XI. Denegación de auxilio y abandono de destino.
 § XII. Abusos contra particulares.
@@ -62,6 +63,7 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 § V. Crímenes y simples delitos de los proveedores.
 § VI. De las infracciones de las leyes y reglamentos referentes a loterías, casas de juego y de préstamo sobre prendas.
 § VII. Crímenes y simples delitos relativos a la industria, al comercio y a las subastas públicas.
+§7° bis. De la corrupción entre particulares
 § VIII. De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
 § IX. Delitos relativos a la salud animal y vegetal.
 § X. De las asociaciones ilícitas.
