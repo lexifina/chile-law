@@ -1,0 +1,2 @@
+ART. 251 quáter.
+El que cometiere cualquiera de los delitos previstos en los dos Párrafos anteriores será condenado, además, a la pena de inhabilitación absoluta, perpetua o temporal, en cualquiera de sus grados, para ejercer cargos, empleos, oficios o profesiones en empresas que contraten con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; o en empresas que participen en concesiones otorgadas por el Estado o cuyo objeto sea la provisión de servicios de utilidad pública.

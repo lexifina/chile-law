@@ -1,4 +1,4 @@
 ART. 240 bis.
 Las penas establecidas en el artículo precedente serán también aplicadas al empleado público que, interesándose directa o indirectamente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en éste para obtener una decisión favorable a sus intereses.
-Las mismas penas se impondrán al empleado público que, para dar interés a cualquiera de las personas expresadas en los incisos tercero y final del artículo precedente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en él para obtener una decisión favorable a esos intereses.
+Las mismas penas se impondrán al empleado público que, para dar interés a cualquiera de las personas expresadas en los incisos segundo y final del artículo precedente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en él para obtener una decisión favorable a esos intereses.
 En los casos a que se refiere este artículo el juez podrá imponer la pena de inhabilitación absoluta perpetua para cargos u oficios públicos.

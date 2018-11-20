@@ -1,0 +1,2 @@
+ART. 260 bis.
+En los delitos contemplados en los Párrafos 5, 6, 9 y 9 bis de este Título el plazo de prescripción de la acción penal empezará a correr desde que el empleado público que intervino en ellos cesare en su cargo o función. Sin embargo, si el empleado, dentro de los seis meses que siguen al cese de su cargo o función, asumiere uno nuevo con facultades de dirección, supervigilancia o control respecto del anterior, el plazo de prescripción empezará a correr desde que cesare en este último.
