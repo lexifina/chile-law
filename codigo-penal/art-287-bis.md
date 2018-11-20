@@ -1,0 +1,2 @@
+ART. 287 bis.
+El empleado o mandatario que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o un tercero, para favorecer o por haber favorecido en el ejercicio de sus labores la contratación con un oferente sobre otro será sancionado con la pena de reclusión menor en su grado medio y multa del tanto al duplo del beneficio solicitado o aceptado. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de cincuenta a quinientas unidades tributarias mensuales.
