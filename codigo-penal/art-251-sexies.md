@@ -1,0 +1,3 @@
+ART. 251 sexies.
+No será constitutivo de los delitos contemplados en los artículos 248, 250, incisos segundo y tercero, y 251 bis aceptar, dar u ofrecer donativos oficiales o protocolares, o aquellos de escaso valor económico que autoriza la costumbre como manifestaciones de cortesía y buena educación.
+Lo dispuesto en el inciso anterior no se aplicará respecto del delito contemplado en el artículo 251 bis cuando se ofreciere, prometiere, diere o consintiere en dar a un funcionario público extranjero un beneficio, para que omita o ejecute, o por haber omitido o ejecutado un acto con infracción a los deberes de su cargo.
