@@ -1,1 +1,1 @@
-Artículo 18 bis.- Con el objeto de velar por el cumplimiento de sus respectivos deberes de fiscalización, los Superintendentes de Bancos e Instituciones Financieras, de Valores y Seguros y de Administradoras de Fondos de Pensiones podrán compartir cualquier información, excepto aquella sujeta a secreto bancario. Cuando la información compartida sea reservada, deberá mantenerse en este carácter por quienes la reciban.
+Artículo 18 bis.- Derogado.
