@@ -1,6 +1,2 @@
-Artículo 156 bis.- Las cuentas de ahorros
-para menores de edad, ofrecidas
-por los bancos regidos por esta ley,
-podrán ser abiertas por el padre o la
-madre, con independencia de quien tenga
-la patria potestad del menor de edad.
+Artículo 156 bis.- Las cuentas de ahorros para niños y niñas, ofrecidas por los bancos, cooperativas u otras instituciones financieras regidas por esta ley, podrán ser abiertas por los ascendientes en línea recta hasta en el segundo grado de consanguinidad o por quien tuviere el cuidado personal del niño o niña por resolución judicial, con independencia de quien tenga la patria potestad de éste.
+Asimismo, la administración de dichas cuentas recaerá en aquel de los mencionados en el inciso anterior que haya firmado el contrato de apertura respectivo y en su titular, cuando se tratare de un menor adulto, pudiendo el contratante limitar la administración de la cuenta a su titular hasta la fecha en que éste alcance la mayoría de edad.
