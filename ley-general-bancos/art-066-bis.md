@@ -1,0 +1,2 @@
+Artículo 66 bis.- Los bancos deberán mantener un capital básico adicional equivalente al 2,5% de sus activos ponderados por riesgo, netos de provisiones exigidas, por sobre el patrimonio efectivo mínimo que le sea exigible de acuerdo con lo establecido en el artículo 66.
+En caso de incumplir lo anterior, el banco deberá sujetarse a lo dispuesto en el inciso final del artículo 56, en tanto no se subsane dicho déficit, sin perjuicio de las demás facultades que, al respecto, pueda ejercer la Comisión.
