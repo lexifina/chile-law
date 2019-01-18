@@ -1,0 +1,2 @@
+Artículo 3° ter.- En caso de los delitos señalados en los incisos tercero y quinto del artículo 3°, se podrá conceder la libertad condicional una vez cumplida la mitad de la pena privativa de libertad de forma efectiva a las mujeres condenadas en estado de embarazo o maternidad de hijo menor de 3 años.
+Para los efectos de lo dispuesto en este artículo, el informe de Gendarmería de Chile señalado en el artículo 2° deberá contener la indicación del estado de embarazo o maternidad de hijo menor de 3 años de la mujer que postula al beneficio.
