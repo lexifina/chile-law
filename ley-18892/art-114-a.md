@@ -1,0 +1,1 @@
+Artículo 114 A.- El que procese, elabore o comercialice recursos hidrobiológicos o productos derivados de ellos, sin estar inscrito en el registro que lleva el Servicio en los casos que corresponda, será sancionado con multa de 2 a 100 unidades tributarias mensuales. El Servicio dispondrá el cierre transitorio del establecimiento mientras se regulariza la inscripción.
