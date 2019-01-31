@@ -1,20 +1,6 @@
-Artículo 64 F.- La habilitación
-y control de los sistemas de pesaje
-utilizados para la certificación del
-desembarque a que se refiere el
-artículo anterior, corresponderá al
-Servicio, así como la verificación de
-los parámetros metrológicos e
-inspección de su funcionamiento y uso.
-El Servicio establecerá un
-procedimiento de habilitación y
-control de los sistemas de pesaje y
-un período de calibración y
-verificación de los parámetros
-metrológicos de operación del
-sistema. El Servicio podrá
-suspender o caducar la habilitación
-del sistema de pesaje cuando los
-parámetros metrológicos están
-fuera de los márgenes establecidos
-o hayan sido adulterados.
+Artículo 64 F.- La forma, requisitos y condiciones de la certificación y acreditación de las entidades auditoras, y la periodicidad, lugar, forma de pago y demás aspectos operativos del sistema serán establecidos por el Servicio mediante resolución. La contratación de la empresa autorizada para operar en cada zona se regirá por lo dispuesto en la ley Nº 19.886 y su reglamento. Se deberá adjudicar el contrato del proceso de certificación en una zona determinada a la empresa que, cumpliendo con los requerimientos exigidos en las bases de licitación, ofrezca las mejores condiciones para el ejercicio de las labores de certificación objeto de la respectiva licitación.
+Las tarifas máximas por los servicios de certificación que deberán ser pagadas por los armadores o, en su caso, por los titulares de las embarcaciones transportadoras o por los titulares de las plantas de procesamiento, según corresponda, dependiendo del tipo de pesquería y área, de conformidad con el artículo 64 E, serán establecidas en moneda de curso legal por tonelada de recurso, materia prima o producto desembarcado, según corresponda, pudiendo contemplarse aranceles diferenciados en consideración a la especie, cantidad, horario y ubicación geográfica del desembarque, y serán fijadas en la resolución del Servicio que resuelva la contratación de la certificación. Las tarifas referidas serán pagadas a la entidad auditora a través del Servicio. Para estos efectos, la Dirección Regional del Servicio correspondiente al lugar en el cual se presten los servicios de certificación recibirá los fondos que se perciban por el pago que efectúen los titulares y armadores de estos servicios. Dichos fondos serán administrados en forma extrapresupuestaria utilizando las cuentas complementarias abiertas para dicho efecto.
+En caso de no pago, la entidad certificadora podrá, previa autorización del Servicio, suspender la certificación. En tales casos procederá la suspensión del zarpe de la embarcación, la suspensión de los derechos derivados de cuotas asignadas o la suspensión de las actividades de la planta de procesamiento, según corresponda. Para tales efectos el Servicio incluirá en la resolución de que trata el inciso anterior las deudas originadas en la certificación de la información de desembarque realizada por entidades auditoras.
+El plazo que tendrán quienes deban pagar por los servicios de certificación será el fijado en la resolución del Servicio que resuelva la contratación de la certificación. Asimismo, para los efectos de lo dispuesto en la letra b) del artículo 5 de ley Nº 19.983, el Servicio, a solicitud de la entidad certificadora, certificará el hecho de haber transcurrido el respectivo plazo sin que se haya consignado en la cuenta dispuesta para dicho efecto los fondos necesarios para cubrir el pago de que se trate. El Servicio no tendrá responsabilidad alguna respecto de los pagos adeudados por parte de los titulares y armadores a las entidades auditoras.
+El que certifique un hecho falso o inexistente o haga una utilización maliciosa de la certificación de desembarques será sancionado con la pena de presidio menor en su grado máximo.
+Las entidades certificadoras serán auditadas por el Servicio, el que deberá efectuar, directamente o a través de terceros, auditorías para evaluar su desempeño. Los resultados de estas auditorías deberán publicarse en el sitio electrónico del Servicio o hayan sido adulterados.
