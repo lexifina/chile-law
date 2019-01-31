@@ -1,0 +1,1 @@
+Artículo 138 bis.- La destrucción, inutilización o alteración del sistema de pesaje habilitado por el Servicio, así como de la información contenida en el mismo, el acceso a ella, su uso o apoderamiento indebidos, su destrucción o alteración, serán sancionados con presidio menor en sus grados mínimo a medio.
