@@ -1,0 +1,1 @@
+Artículo 114 F.- En todo caso las multas aplicables a las infracciones previstas en los artículos 114 B, 114 C y 114 E no podrán exceder en conjunto de la multa mayor que la ley asigne al autor de dichas infracciones.
