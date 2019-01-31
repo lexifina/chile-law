@@ -1,20 +1,3 @@
-Artículo 139 bis.- El que
-extrajere o capturare por cualquier
-medio recursos hidrobiológicos
-provenientes de un área de manejo
-y de explotación de recursos
-bentónicos, sin ser titular de los
-derechos a que se refiere el inciso
-final del artículo 55 B de esta ley,
-será sancionado con las multas y
-penas establecidas para el delito de
-hurto, de conformidad con el artículo
-446 del Código Penal, según el valor
-de los recursos extraídos y, si
-tuviere la calidad de pescador
-artesanal, se suspenderá la
-inscripción artesanal por dos años.
-El tribunal ordenará el comiso
-de los equipos de buceo y de las
-embarcaciones utilizadas en la
-perpetración del delito.
+Artículo 139 bis.- El que realice actividades extractivas en áreas de manejo y explotación de recursos bentónicos, sin ser titular de los derechos a que se refiere el inciso final del artículo 55 B, será sancionado con la pena de presidio menor en su grado mínimo a máximo. En caso que hubiere capturas, se impondrá el grado superior de la pena.
+El tribunal ordenará el comiso de los equipos de buceo, de las embarcaciones y de los vehículos utilizados en la perpetración del delito.
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las sanciones administrativas que correspondan.
