@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 20 de julio de 2018.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Marcela Cubillos Sigall, Ministra del Medio Ambiente.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.- Felipe Larraín Bascuñán, Ministro de Hacienda.- Gonzalo Blumel Mac-Iver, Ministro Secretario General de la Presidencia.
+Lo que transcribo a Ud. para los fines que estime pertinentes.- Felipe Riesco Eyzaguirre, Subsecretario del Medio Ambiente.
