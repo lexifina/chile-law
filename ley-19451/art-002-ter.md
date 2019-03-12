@@ -1,0 +1,1 @@
+Artículo 2° ter.- En todo caso, siempre se deberá respetar la voluntad de la persona, tanto de la inscrita en el Registro Nacional de No Donantes, como de la no inscrita, que de conformidad a la ley, se considera como donante.
