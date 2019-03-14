@@ -1,0 +1,1 @@
+Artículo 54 I.- La resolución que dé inicio al procedimiento, cuando haya sido dictada en virtud de una denuncia fundada de una asociación de consumidores, ordenará su participación, salvo manifestación en contrario de ésta en la misma denuncia.
