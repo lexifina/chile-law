@@ -1,0 +1,1 @@
+Artículo 12 B.- Los proveedores de servicios de telecomunicaciones que realicen ofertas conjuntas deberán ofrecer individualmente cada uno de los servicios y planes que componen las mismas. De esta forma, no podrán atar, ligar o supeditar, bajo ningún modo o condición, la contratación de un servicio cualquiera a la contratación de otro.
