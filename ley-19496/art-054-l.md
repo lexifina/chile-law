@@ -1,0 +1,1 @@
+Artículo 54 L.- La manifestación por la que el proveedor acepte someterse al procedimiento será informada en el sitio web del Servicio en el plazo de cinco días contado desde que ella hubiere tenido lugar. A través del mismo medio se informará el estado en que se encuentra el procedimiento y se publicará la solución ofrecida por el proveedor.
