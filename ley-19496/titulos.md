@@ -11,10 +11,10 @@ Párrafo 2º Promociones y ofertas
 Párrafo 3º Del crédito al consumidor
 Párrafo 4º Normas especiales en materia de prestación de servicios
 Párrafo 5º Disposiciones relativas a la seguridad de los productos y servicios
-T I T U L O IV Del procedimiento a que da lugar la aplicación de esta ley
-TITULO IV Del procedimiento a que da lugar la aplicación de esta ley y del procedimiento para la defensa del interés colectivo o difuso
+TITULO IV De los procedimientos a que da lugar la aplicación de esta ley
 Párrafo 1º Normas generales
-Párrafo 2º Del Procedimiento Especial para Protección del Interés Colectivo o Difuso de los Consumidores
+Párrafo 3º Del Procedimiento Especial para Protección del Interés Colectivo o Difuso de los Consumidores
+Párrafo 4° Del procedimiento voluntario para la protección del interés colectivo o difuso de los consumidores
 Título V Del sello SERNAC, del servicio de atención al cliente y del Sistema de Solución de Controversias
 T I T U L O VI Del Servicio Nacional del Consumidor
 Titulo final
