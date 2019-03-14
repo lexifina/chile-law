@@ -1,0 +1,1 @@
+Artículo 54 S.- Un reglamento dictado por el Ministerio de Economía, Fomento y Turismo establecerá las normas que sean necesarias para la adecuada aplicación del procedimiento a que se refiere este párrafo.
