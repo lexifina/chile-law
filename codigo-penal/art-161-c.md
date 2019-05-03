@@ -1,0 +1,4 @@
+ART. 161-C.
+Se castigará con la pena de presidio menor en su grado mínimo y multa de cinco a diez unidades tributarias mensuales, al que en lugares públicos o de libre acceso público y que por cualquier medio capte, grabe, filme o fotografíe imágenes, videos o cualquier registro audiovisual, de los genitales u otra parte íntima del cuerpo de otra persona con fines de significación sexual y sin su consentimiento.
+Se impondrá la misma pena de presidio menor en su grado mínimo y multa de diez a veinte unidades tributarias mensuales, al que difunda dichas imágenes, videos o registro audiovisual a que se refiere el inciso anterior.
+En caso de ser una misma la persona que los haya obtenido y divulgado, se aplicarán a ésta, la pena de presidio menor en su grado mínimo a medio y multa de veinte a treinta unidades tributarias mensuales.
