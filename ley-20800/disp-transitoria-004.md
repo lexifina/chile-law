@@ -1,0 +1,1 @@
+Artículo cuarto.- Para efectos de lo dispuesto en los artículos 13 letra g) y 24 de la presente ley, también podrán suscribirse convenios con instituciones de educación superior que cuenten con al menos cuatro años de acreditación conforme a lo previsto en la ley Nº 20.129 y sus modificaciones.
