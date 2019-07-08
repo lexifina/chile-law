@@ -1,4 +1,4 @@
-Art. 27 ter. En los juzgados de competencia común con dos jueces, habrá un juez presidente del tribunal, cuyo cargo se radicará anualmente en cada uno de los jueces que lo integran comenzando por el más antiguo.
+Art. 27 ter. En los juzgados de competencia común con dos o tres jueces, habrá un juez presidente del tribunal, cuyo cargo se radicará anualmente en cada uno de los jueces que lo integran comenzando por el más antiguo.
 Sus atribuciones y deberes son los siguientes:
 a) Velar por el adecuado funcionamiento del juzgado;
 b) Designar al personal del juzgado, a propuesta en terna del administrador;
