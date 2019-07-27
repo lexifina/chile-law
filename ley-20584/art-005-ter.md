@@ -1,0 +1,1 @@
+Artículo 5° ter.- El prestador de acciones de salud deberá consignar con caracteres legibles, en un lugar visible y de fácil acceso del recinto en que se desempeña, el texto de este derecho a la atención preferente y oportuna.
