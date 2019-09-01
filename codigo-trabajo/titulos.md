@@ -31,6 +31,7 @@ Párrafo 4º Cesiones temporales y definitivas
 Párrafo 5º Del derecho de información y pago por subrogación
 Párrafo 6º Del reglamento interno de orden, higiene y seguridad
 Capítulo VII Del Contrato de Tripulantes de Vuelo y de Tripulantes de Cabina de Aeronaves Comerciales de Pasajeros y Carga
+Capítulo VIII Del contrato de los teleoperadores
 Título III Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad
 Capítulo I Del Reglamento Interno
 Capítulo II De la Inclusión Laboral de Personas con Discapacidad
