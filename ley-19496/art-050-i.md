@@ -1,0 +1,1 @@
+Artículo 50 I.- El mismo procedimiento señalado en el artículo precedente se aplicará en caso de que el consumidor escoja perseguir la responsabilidad contravencional del proveedor ante el juzgado de policía local competente, de conformidad a lo dispuesto en el inciso primero del artículo 50 A.
