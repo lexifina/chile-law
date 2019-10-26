@@ -1,0 +1,4 @@
+Artículo tercero.- La integración del Comité de Prevención contra la Tortura, señalada en el inciso primero del artículo 5 de la presente ley, se realizará de manera progresiva en conformidad a las siguientes reglas:
+a) Dentro de los seis meses siguientes a la entrada en vigencia de esta ley, el Consejo del Instituto Nacional de Derechos Humanos designará a los cuatro primeros expertos que integrarán el Comité de Prevención contra la Tortura.
+b) A partir del decimoctavo mes de la entrada en vigencia de esta ley, el Consejo del Instituto Nacional de Derechos Humanos designará a tres expertos más que integrarán el Comité de Prevención contra la Tortura.
+Los concursos mediante los cuales se seleccionen a los expertos señalados en las letras a) y b) anteriores deberán desarrollarse con la debida antelación.
