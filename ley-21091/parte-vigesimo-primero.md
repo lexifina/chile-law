@@ -1,2 +1,3 @@
-Artículo vigésimo primero.- Los numerales 15, 16, 17, 18, 21, 23, 24 y 27 del artículo 81 de la presente ley, que modifica la ley N° 20.129 entrarán en vigencia a contar del 1 de enero del 2020.
+Artículo vigésimo primero.- Los numerales 15, en lo relativo a la obligatoriedad de la acreditación, 17, 21, 23, en cuanto a la acreditación basada en niveles, 24 y 27 del artículo 81 de esta ley, que modifica la ley Nº 20.129, entrarán en vigencia a contar del 1 de enero de 2020.
+Los numerales 15, en cuanto a la integralidad y muestra intencionada, 16 y 18 entrarán en vigencia junto con los nuevos criterios y estándares, según lo dispuesto en el inciso cuarto del artículo vigésimo segundo transitorio.
 Por su parte, las disposiciones del artículo 81 de la presente ley que modifican el capítulo III de la ley N° 20.129 entrarán en vigencia una vez que inicie su funcionamiento la Subsecretaría de Educación Superior de conformidad con el artículo sexto transitorio.
