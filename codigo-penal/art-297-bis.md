@@ -1,0 +1,2 @@
+ART. 297. BIS
+Cuando las amenazas se hicieren contra los profesionales y funcionarios de los establecimientos de salud, públicos o privados, o contra los profesionales, funcionarios y manipuladores de alimentos de establecimientos educacionales, públicos o privados, al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas, se impondrá el grado máximo o el máximum de las penas previstas en los dos artículos anteriores en sus respectivos casos.
