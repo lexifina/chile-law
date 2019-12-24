@@ -29,5 +29,7 @@ Gobierno y Administración Provincial
 Administración Comunal
 Disposiciones Generales
 Disposiciones Especiales
-Capítulo XV REFORMA DE LA CONSTITUCIÓN
+Capítulo XV REFORMA DE LA CONSTITUCIÓN Y DEL PROCEDIMIENTO PARA ELABORAR UNA NUEVA CONSTITUCIÓN DE LA REPÚBLICA
+Reforma de la Constitución
+Del procedimiento para elaborar una Nueva Constitución Política de la República
 DISPOSICIONES TRANSITORIAS
