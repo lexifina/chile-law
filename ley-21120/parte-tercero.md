@@ -1,0 +1,1 @@
+Artículo tercero.- La presente ley entrará en vigencia transcurridos ciento veinte días después de la última publicación en el Diario Oficial de los reglamentos a que hace referencia el artículo 26.".
