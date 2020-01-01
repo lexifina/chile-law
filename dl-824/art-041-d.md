@@ -146,8 +146,7 @@ normas que la ley dispone para los accionistas de
 sociedades anónimas constituidas fuera del país, y
 además, con derecho a un crédito con la tasa de impuesto
 del artículo 58º, número 2), aplicado en la forma
-dispuesta en los números 2.-, 3.- y 4.- de la letra A.-
-del artículo 41 A de esta ley.
+dispuesta en el artículo 41 A de esta ley.
 Las sociedades acogidas a este artículo, que
 invirtieron en sociedades constituidas en Chile
 deberán distribuir sus utilidades comenzando por las

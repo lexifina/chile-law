@@ -1,4 +1,4 @@
-Artículo 64 bis.- Establécese un impuesto específico a la renta operacional de la actividad minera obtenida por un explotador minero.
+ARTICULO 64° BIS.- Establécese un impuesto específico a la renta operacional de la actividad minera obtenida por un explotador minero.
 Para los efectos de lo dispuesto en el presente título se entenderá por:
 1. Explotador minero, toda persona natural o jurídica que extraiga sustancias minerales de carácter concesible y las venda en cualquier estado productivo en que se encuentren.
 2. Producto minero, la sustancia mineral de carácter concesible ya extraída, haya o no sido objeto de beneficio, en cualquier estado productivo en que se encuentre.
@@ -30,5 +30,5 @@ x) Sobre la parte del margen operacional minero que exceda de 75 y no sobrepase 
 xi) Sobre la parte del margen operacional minero que exceda de 80 y no sobrepase de 85 la tasa aplicable ascenderá a 34,5%, y
 xii) Si el margen operacional minero excede de 85 la tasa aplicable será de 14%.
 d) Para los efectos de determinar el régimen tributario aplicable, se deberá considerar el valor total de venta de los productos mineros del conjunto de personas relacionadas con el explotador minero, que puedan ser considerados explotadores mineros de acuerdo al numeral 1), del inciso segundo, del presente artículo y que realicen dichas ventas.
-Se entenderá por personas relacionadas aquéllas a que se refiere el numeral 2), del artículo 34 de esta ley. Para estos efectos, lo dispuesto en el inciso cuarto de dicha norma se aplicará incluso en el caso que la persona relacionada sea un establecimiento permanente, un fondo y, en general, cualquier contribuyente.
+Se entenderá por personas relacionadas aquéllas a que se refiere el número 17 del artículo 8° del Código Tributario. Para estos efectos, lo dispuesto en el inciso cuarto de dicha norma se aplicará incluso en el caso que la persona relacionada sea un establecimiento permanente, un fondo y, en general, cualquier contribuyente.
 El valor de una tonelada métrica de cobre fino se determinará de acuerdo al valor promedio del precio contado que el cobre Grado A, haya presentado durante el ejercicio respectivo en la Bolsa de Metales de Londres, el cual será publicado, en moneda nacional, por la Comisión Chilena del Cobre dentro de los primeros 30 días de cada año.
