@@ -13,5 +13,8 @@ PARRAFO 2°: De las Prestaciones de Salud
 PARRAFO 3°: De la Pensión de Retiro
 PARRAFO 4°: De la Pensión de Montepío
 PARRAFO 5°: Del Desahucio
-TITULO VI Del Régimen Presupuestario
+TÍTULO VI Del Financiamiento
+PÁRRAFO 1° Financiamiento de las Actividades Generales de las Fuerzas Armadas
+PÁRRAFO 2° Financiamiento de las Capacidades Estratégicas de la Defensa
+PÁRRAFO 3° Otras Disposiciones
 ARTICULOS TRANSITORIOS
