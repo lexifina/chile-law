@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 16 de enero de 2020.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.- Alfredo Moreno Charme, Ministro de Obras Públicas.- Cristián Monckeberg Brüner, Ministro de Vivienda y Urbanismo.
+Lo que transcribo para Ud. para los fines que estime pertinentes.- Felipe Riesco Eyzaguirre, Subsecretario del Medio Ambiente.
