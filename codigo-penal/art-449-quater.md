@@ -1,0 +1,3 @@
+ART. 449 quáter.
+Se aplicará en todo caso la regla 2ª del artículo 449, aun cuando el responsable no sea reincidente, si los delitos señalados en dicho artículo se cometen en circunstancias tales que contribuyan a la sustracción o destrucción de todo o la mayor parte de aquello que había o se guardaba en algún establecimiento de comercio o industrial o del propio establecimiento. En estos casos el hecho se denominará saqueo.
+Si el responsable fuere reincidente en los términos de las circunstancias agravantes de los numerales 15 y 16 del artículo 12, el juez podrá considerar suficiente fundamento esta circunstancia para la imposición del máximo de la pena resultante.
