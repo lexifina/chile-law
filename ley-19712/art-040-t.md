@@ -1,1 +1,1 @@
-Artículo 40 T.- Las normas de este Párrafo no se aplicarán a la Federación de Fútbol de Chile ni a las organizaciones que la integran.
+Artículo 40 T.- Las normas de este Párrafo no se aplicarán a la Federación de Fútbol de Chile ni a las organizaciones que la integran, salvo en lo relacionado con las funciones y atribuciones del Comité Nacional de Arbitraje Deportivo contenidas en el numeral 5 del artículo 40 P. Lo dispuesto precedentemente incluye a las organizaciones deportivas profesionales regidas por la ley N° 20.019.
