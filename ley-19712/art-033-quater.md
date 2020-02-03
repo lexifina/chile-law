@@ -1,0 +1,1 @@
+Artículo 33 quáter.- El Comité Olímpico de Chile y el Comité Paralímpico de Chile tienen el deber de promover el cumplimiento del protocolo elaborado por el Ministerio del Deporte para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato.
