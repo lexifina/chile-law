@@ -1,1 +1,2 @@
-Artículo 46 bis.- Los bienes respecto de los cuales esta ley no establece regla de valoración, serán considerados en su valor corriente en plaza. Para el ejercicio de la facultad establecida en el artículo 64 del Código Tributario, el Servicio de Impuestos Internos deberá citar al contribuyente dentro de los sesenta días siguientes a la presentación de la declaración del impuesto o de la exención del mismo.
+Artículo 46 bis.- Los bienes respecto de los cuales esta ley no establece regla de valoración, serán considerados en su valor corriente en plaza.
+En los casos en que los bienes se valoricen conforme con este artículo, el Servicio deberá proceder al giro inmediato del impuesto, con el sólo mérito de los antecedentes aportados en la declaración del mismo.
