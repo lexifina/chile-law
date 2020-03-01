@@ -11,3 +11,4 @@ Los vicios de procedimiento o de forma sólo afectarán la validez del acto admi
 9º. Conocer de las demás materias que señale la ley.
 Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
 La autoridad legalmente requerida deberá prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar.
+Las sentencias definitivas de primera instancia deberán ser publicadas por la Unidad Administradora del Tribunal y mantenerse a disposición permanente del público en el sitio electrónico de los Tribunales Tributarios y Aduaneros.
