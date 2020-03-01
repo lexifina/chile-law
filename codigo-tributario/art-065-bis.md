@@ -1,0 +1,1 @@
+Artículo 65 bis.- La unidad del Servicio que realice un requerimiento de acuerdo a lo dispuesto en el artículo 59, o una citación según lo dispuesto en el artículo 63, será competente para conocer de todas las actuaciones de fiscalización posteriores, relacionadas con dicho requerimiento o citación.

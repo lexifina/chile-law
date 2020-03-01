@@ -25,5 +25,6 @@ PARRAFO 2° De las facturas y otros comprobantes de ventas y servicios
 PARRAFO 3° De los libros y registros.
 PARRAFO 4° De la declaración y pago del impuesto
 Párrafo 5° Otras disposiciones
+PÁRRAFO 6° Procedimiento general para solicitar la devolución o recuperación de los impuestos de esta ley
 Titulo VI Normas derogatorias
 ARTICULOS TRANSITORIOS
