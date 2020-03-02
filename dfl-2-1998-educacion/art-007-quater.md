@@ -1,0 +1,1 @@
+Artículo 7º quáter.- Los establecimientos educacionales siempre podrán implementar entrevistas con los padres y apoderados de los estudiantes ya matriculados, con la finalidad de entregar operatividad real a la adhesión y compromiso con el proyecto educativo prescrito en el inciso sexto del artículo 7º bis.
