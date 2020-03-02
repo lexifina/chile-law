@@ -1,0 +1,1 @@
+Artículo 7º sexies.- La infracción de lo establecido en los artículos 7º bis, 7º ter y 7º quinquies, será sancionada con multa de 50 UTM. En caso de reincidencia, el establecimiento deberá dar aplicación, en lo sucesivo, al mecanismo de admisión aleatorio y transparente que, al efecto, le proporcione el Ministerio de Educación.
