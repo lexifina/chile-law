@@ -1,0 +1,2 @@
+Artículo 390 bis.- El hombre que matare a una mujer que es o ha sido su cónyuge o conviviente, o con quien tiene o ha tenido un hijo en común, será sancionado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+La misma pena se impondrá al hombre que matare a una mujer en razón de tener o haber tenido con ella una relación de pareja de carácter sentimental o sexual sin convivencia.
