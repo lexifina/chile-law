@@ -1,0 +1,2 @@
+Artículo 152 quáter I.- En caso de que la modalidad de trabajo a distancia o teletrabajo se acuerde con posterioridad al inicio de la relación laboral, cualquiera de las partes podrá unilateralmente volver a las condiciones originalmente pactadas en el contrato de trabajo, previo aviso por escrito a la otra con una anticipación mínima de treinta días.
+Si la relación laboral se inició conforme a las normas de este Capítulo, será siempre necesario el acuerdo de ambas partes para adoptar la modalidad de trabajo presencial.
