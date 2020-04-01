@@ -1,0 +1,1 @@
+Artículo 152 quáter Ñ.- El trabajador sujeto a las normas de este Capítulo siempre podrá acceder a las instalaciones de la empresa y, en cualquier caso, el empleador deberá garantizar que pueda participar en las actividades colectivas que se realicen, siendo de cargo del empleador los gastos de traslado de los trabajadores.

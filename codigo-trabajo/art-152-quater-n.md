@@ -1,0 +1,6 @@
+Artículo 152 quáter N.- Conforme al deber de protección que tiene el empleador, siempre deberá informar por escrito al trabajador a distancia o teletrabajador acerca de los riesgos que entrañan sus labores, de las medidas preventivas y de los medios de trabajo correctos según cada caso en particular,
+de conformidad a la normativa vigente.
+Adicionalmente, en forma previa al inicio de las labores a distancia o teletrabajo, el empleador deberá efectuar una capacitación al trabajador acerca de las principales medidas de seguridad y
+salud que debe tener presente para desempeñar dichas labores. Esta capacitación podrá realizarla directamente el empleador o a través del organismo administrador del seguro de la ley N°
+16.744, según estime conveniente.
+El empleador deberá, además, informar por escrito al trabajador de la existencia o no de indicatos legalmente constituidos en la empresa en el momento del inicio de las labores. Asimismo, en caso de que se constituya un sindicato con posterioridad al inicio de las labores, el empleador deberá informar ste hecho a los trabajadores sometidos a este contrato dentro de los diez días siguientes de recibida la comunicación establecida en el artículo 225.
