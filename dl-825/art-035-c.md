@@ -1,0 +1,1 @@
+Artículo 35 C.- Los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis no tendrán derecho a crédito fiscal y se encontrarán liberados de la obligación de emitir documentos tributarios por sus operaciones.
