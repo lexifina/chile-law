@@ -1,0 +1,2 @@
+Artículo 35 E.- Los contribuyentes sujetos a lo establecido en el régimen de este Párrafo 7° bis deberán declarar en forma simplificada y pagar los impuestos devengados en un período tributario, hasta el día 20 del primer mes siguiente.
+La declaración y pago del impuesto se realizará electrónicamente, a través del portal o mecanismo digital que el Servicio de Impuestos Internos habilite al efecto, estando facultado con ese objeto para disponer y requerir información en idiomas distintos al español.
