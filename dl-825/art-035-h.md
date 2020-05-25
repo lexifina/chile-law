@@ -1,0 +1,1 @@
+Artículo 35 H.- No será aplicable lo dispuesto en el Párrafo 3º del Título IV, ni las demás disposiciones de esta ley en lo que no sean compatibles con la naturaleza del régimen establecido en el presente párrafo.
