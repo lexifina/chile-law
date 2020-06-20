@@ -1,0 +1,2 @@
+ART. 318 ter.
+El que, a sabiendas y teniendo autoridad para disponer el trabajo de un subordinado, le ordene concurrir al lugar de desempeño de sus labores cuando éste sea distinto de su domicilio o residencia, y el trabajador se encuentre en cuarentena o aislamiento sanitario obligatorio decretado por la autoridad sanitaria, será castigado con presidio menor en sus grados mínimo a medio y una multa de diez a doscientas unidades tributarias mensuales por cada trabajador al que se le hubiere ordenado concurrir.
