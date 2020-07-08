@@ -1,0 +1,1 @@
+Artículo 125 bis. Para determinar el límite a la reelección que se aplica a los gobernadores regionales, consejeros regionales, alcaldes y concejales, se considerará que han ejercido su cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
