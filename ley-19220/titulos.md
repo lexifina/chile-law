@@ -1,4 +1,4 @@
-"TITULO I De las bolsas de productos agropecuarios y definiciones
+"TITULO I De las bolsas de productos y definiciones
 TITULO II De los corredores de bolsas de productos
 TITULO III Normas generales
 TITULO IV Derogado.- De la cámara de compensación
