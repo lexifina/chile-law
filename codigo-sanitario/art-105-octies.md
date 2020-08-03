@@ -1,0 +1,2 @@
+Artículo 105 octies.- Las plantas elaboradoras de leche reconstituida o mezcla de leche reconstituida, leche recombinada y leche natural, así como sus correspondientes procesos de elaboración, deberán ser aprobados por la autoridad sanitaria, debiendo contar con la dirección técnica de un profesional universitario y un laboratorio especializado.
+En el caso de las mezclas de leche natural y leche en polvo reconstituida o recombinada, se deberán archivar en la planta elaboradora las constancias analíticas de las materias primas utilizadas en cada partida.
