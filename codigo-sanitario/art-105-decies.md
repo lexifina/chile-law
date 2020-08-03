@@ -1,0 +1,1 @@
+Artículo 105 decies.- Los casos que no estén expresamente regulados en este párrafo, se regirán por las normas del presente Código y por las contenidas en el Reglamento Sanitario de los Alimentos, en cuanto fuere procedente.
