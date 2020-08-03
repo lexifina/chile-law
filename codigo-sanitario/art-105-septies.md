@@ -1,0 +1,1 @@
+Artículo 105 septies.- Los procesadores de leche deberán contar con un registro del origen y cantidad de leche reconstituida, recombinada, procesada y comercializada, y de la cantidad de producto lácteo utilizado para su producción.
