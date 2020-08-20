@@ -1,0 +1,1 @@
+CUADRAGÉSIMA. La reforma constitucional al artículo 109 empezará a regir una vez que entre en vigencia la ley que introduce modificaciones a la ley N° 18.840, Orgánica Constitucional del Banco Central de Chile, que regulará el ejercicio de la nueva facultad que se le otorga al Banco Central.
