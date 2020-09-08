@@ -1,0 +1,1 @@
+Artículo tercero.- Con excepción de los numerales 3) y 4) del artículo 31, esta ley se aplicará tanto a los productos y servicios financieros que se encuentren vigentes a la fecha señalada en el artículo anterior, como a los que se contraten con posterioridad a ésta.".
