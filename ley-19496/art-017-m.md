@@ -1,0 +1,1 @@
+Artículo 17 M.- Los proveedores de productos o servicios financieros pactados por contrato de adhesión garantizados por cualquier tipo de garantía estarán obligados a conservar, a lo menos de manera digital, y durante el tiempo de existencia de la garantía en su favor, todos los documentos en que consten dichas garantías.
