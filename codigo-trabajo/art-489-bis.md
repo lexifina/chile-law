@@ -1,0 +1,1 @@
+Artículo 489 bis. El despido de un trabajador, declarado como discriminatorio por basarse en el padecimiento de cáncer, será siempre considerado grave para los efectos de lo señalado en el inciso cuarto del artículo anterior.
