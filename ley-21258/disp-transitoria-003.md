@@ -1,0 +1,1 @@
+Artículo Tercero Transitorio.- El mayor gasto fiscal que irrogue la aplicación de esta ley durante el primer año presupuestario de su entrada en vigencia se financiará con cargo a los recursos contemplados en la partida presupuestaria del Ministerio de Salud.
