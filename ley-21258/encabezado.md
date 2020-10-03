@@ -1,0 +1,5 @@
+LEY NÚM. 21.258
+CREA LA LEY NACIONAL DEL CÁNCER, QUE RINDE HOMENAJE PÓSTUMO AL DOCTOR CLAUDIO MORA
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
+LEY NACIONAL DEL CÁNCER, QUE RINDE HOMENAJE PÓSTUMO AL DOCTOR CLAUDIO MORA
