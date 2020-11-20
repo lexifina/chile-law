@@ -12,7 +12,7 @@ TITULO I De las Cooperativas de Trabajo
 TITULO II De las Cooperativas Agrícolas, Campesinas y Pesqueras
 TITULO III De las Cooperativas de Servicios
 1) De las Cooperativas Escolares
-2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Agua Potable
+2) De las Cooperativas de Abastecimiento y Distribución de Energía Eléctrica y de Servicios Sanitarios Rurales
 3) De las Cooperativas de Vivienda
 a) Disposiciones Generales
 b) De las Cooperativas Cerradas de Vivienda
