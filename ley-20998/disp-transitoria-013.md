@@ -1,0 +1,1 @@
+Artículo decimotercero.- Los actuales operadores que adquieran las licencias indefinidas, por el solo ministerio de la ley asumirán la calidad de titulares de las respectivas Resoluciones de Calificación Ambiental y permisos sectoriales ambientales que correspondan.
