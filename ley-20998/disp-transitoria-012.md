@@ -1,0 +1,1 @@
+Artículo duodécimo.- Para la aplicación a servicios sanitarios rurales de recursos provenientes del Banco Mundial o del Banco Interamericano de Desarrollo, en virtud de convenios suscritos con el Estado de Chile, vigentes a la fecha de publicación de esta ley, la Subdirección de Servicios Sanitarios Rurales ejercerá la función de visar técnicamente los proyectos.

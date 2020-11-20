@@ -1,0 +1,2 @@
+Artículo séptimo.- En el mismo plazo indicado en el artículo segundo transitorio, la Subdirección de Servicios Sanitarios Rurales implementará un programa de regularización de obras y derechos de agua, de asistencia para la obtención de licencias, y de valoración técnica de los activos de los comités y cooperativas.
+En igual plazo, la Subdirección podrá asistir a los comités en el proceso de transferencia de los bienes y derechos que les traspasen las concesionarias de servicios sanitarios, en cumplimiento de los compromisos y acuerdos anteriores.
