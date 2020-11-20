@@ -1,0 +1,1 @@
+Artículo tercero .- Los municipios que al momento de entrar en vigencia esta ley operen servicios de agua potable o saneamiento, podrán traspasarlos a un comité o cooperativa. En caso de que un comité o cooperativa le requiera el traspaso del servicio sanitario rural, el municipio respectivo deberá pronunciarse dentro del plazo de noventa días, contado desde el requerimiento.
