@@ -1,0 +1,1 @@
+CUADRAGÉSIMA CUARTA. Con el objeto de asegurar la votación informada de los pueblos indígenas, existirá una franja electoral indígena que tendrá una duración total equivalente al trece por ciento del tiempo de duración establecido para la franja de Convencionales Constituyentes pertenecientes a la elección general, distribuido en forma proporcional entre los diversos pueblos.
