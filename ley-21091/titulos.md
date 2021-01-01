@@ -16,6 +16,7 @@ TÍTULO V DEL FINANCIAMIENTO INSTITUCIONAL PARA LA GRATUIDAD
 Párrafo 1° Del financiamiento institucional para la gratuidad
 Párrafo 2° De los valores regulados de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación
 Párrafo 3° De la Comisión de Expertos para la regulación de aranceles
+Párrafo 4° Regulación de las vacantes de las instituciones de educación superior
 Párrafo 5° Del deber de otorgar estudios gratuitos y cobros regulados
 Párrafo 6° Infracciones y sanciones a este título
 TÍTULO VI DISPOSICIONES FINALES
