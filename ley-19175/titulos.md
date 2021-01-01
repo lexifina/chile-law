@@ -24,6 +24,7 @@ Párrafo 2º De la aceptación, rechazo e inscripción de candidaturas
 Párrafo 3º Del escrutinio en las mesas receptoras de sufragios
 Párrafo 4º Del escrutinio general y de la calificación de las elecciones
 CAPITULO VII Del Asociativismo Regional
+Capítulo VIII De la Administración de las Áreas Metropolitanas
 TITULO FINAL
 DISPOSICIÓN TRANSITORIA
 ARTÍCULOS TRANSITORIOS DE LA LEY Nº 20.035.-
