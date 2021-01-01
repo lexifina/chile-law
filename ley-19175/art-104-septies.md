@@ -1,0 +1,1 @@
+Artículo 104 septies.- A solicitud del gobierno regional, la Dirección de Presupuestos deberá crear un programa presupuestario denominado Fondo de Inversión Metropolitana cuyo financiamiento provendrá del programa presupuestario de Inversión Regional.

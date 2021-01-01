@@ -1,0 +1,1 @@
+Artículo 104 sexies.- En forma previa a la aprobación de los planes de prevención o de descontaminación que involucren un área metropolitana, el Ministerio del Medio Ambiente deberá requerir la opinión del gobierno regional.
