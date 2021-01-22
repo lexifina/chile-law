@@ -1,0 +1,1 @@
+Artículo 26 bis.- La enseñanza de la lengua de señas será realizada preferentemente por personas sordas calificadas. Un reglamento dictado por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia regulará las condiciones, requisitos y calificaciones necesarias para la enseñanza de la lengua de señas.
