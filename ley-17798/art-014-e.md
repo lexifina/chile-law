@@ -1,0 +1,2 @@
+Artículo 14 E.- El que, sin la competente autorización, accionare, activare o disparare alguno de los elementos señalados en la letra f) del artículo 2 será sancionado con la pena de presidio menor en sus grados mínimo a medio y multa de 10 a 20 unidades tributarias mensuales.
+La pena privativa de libertad dispuesta en el inciso anterior se impondrá en su máximo cuando las conductas ahí señaladas turbaren gravemente la tranquilidad pública o infundieren temor en la población.
