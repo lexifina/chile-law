@@ -1,0 +1,4 @@
+Artículo octavo transitorio.- Desde la entrada en vigencia de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y hasta el término de su vigencia, agrégase en este decreto ley, el siguiente artículo 12, nuevo:
+"Artículo 12.- El Fondo podrá garantizar créditos hipotecarios y otros créditos que se utilicen para pagar créditos hipotecarios, de conformidad con la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas, y su respectivo reglamento.
+No serán aplicables a esta garantía los artículos 3 y 4, ni el inciso cuarto del artículo 5 de este decreto ley.
+Las garantías señaladas en este artículo se regirán por las normas de este decreto ley y el reglamento de la ley que permite la postergación de cuotas de créditos hipotecarios y crea la garantía estatal para caucionar cuotas postergadas.
