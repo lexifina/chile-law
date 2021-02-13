@@ -1,0 +1,4 @@
+Artículo segundo.- El Ministro de Energía deberá dictar el decreto supremo al que se refiere el inciso primero del artículo 2° dentro del plazo de seis meses, contado desde la publicación de esta ley.
+Dentro del plazo de doce meses, contado desde la publicación de la presente ley, el Ministerio de Energía deberá dictar el reglamento relativo a lo dispuesto en el artículo 2º.
+Las empresas deberán cumplir la obligación señalada en el inciso primero del artículo 2° dentro del plazo de tres meses, desde la publicación del reglamento señalado en dicho artículo.
+Respecto de la primera fijación de consumidores catalogados como CCGE, las empresas con consumos de energía entre 50 y 100 tera-calorías anuales en el año anterior informado podrán diferir en doce meses el plazo indicado en el inciso quinto del artículo 2º.

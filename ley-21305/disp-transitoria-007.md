@@ -1,0 +1,1 @@
+Artículo séptimo.- La resolución a que se refiere el artículo 7º será dictada en el plazo de doce meses para vehículos livianos, treinta y seis meses para vehículos medianos y sesenta meses para vehículos pesados, contado desde la publicación de esta ley.

@@ -1,0 +1,3 @@
+Artículo primero.- El Ministerio de Energía deberá someter al Consejo de Ministros para la Sustentabilidad el primer Plan Nacional de Eficiencia Energética, en un plazo no superior a dieciocho meses, contado desde la publicación de esta ley.
+El Plan referido en el inciso precedente, sin perjuicio de lo dispuesto en el artículo 1° de la presente ley, deberá establecer una meta de reducción de la intensidad energética para el país de, al menos, 10% al año 2030, respecto del año 2019.
+Además, dicho Plan deberá contemplar una meta para los Consumidores con Capacidad de Gestión de Energía consistente en la reducción de su intensidad energética de, al menos, 4% promedio para su periodo de vigencia.
