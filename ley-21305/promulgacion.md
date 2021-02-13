@@ -1,0 +1,3 @@
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 8 de febrero de 2021.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Juan Carlos Jobet Eluchans, Ministro de Energía.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.- Rodrigo Cerda Norambuena, Ministro de Hacienda.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.- Juan Carlos Jobet Eluchans, Ministro de Minería.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.- Javier Naranjo Solano, Ministro del Medio Ambiente (S).
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Francisco López Díaz, Subsecretario de Energía.
