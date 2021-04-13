@@ -1,0 +1,1 @@
+Artículo 92 bis.- El directorio de la sociedad matriz de una sociedad fiscalizada por la Comisión deberá establecer y difundir una política general de elección de directores en sus sociedades filiales, la que deberá contener las menciones mínimas que al efecto establezca la Comisión, mediante norma de carácter general.
