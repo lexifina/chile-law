@@ -1,0 +1,5 @@
+LEY NÚM. 21.331
+DEL RECONOCIMIENTO Y PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS EN LA ATENCIÓN DE SALUD MENTAL
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley, iniciado en las siguientes mociones refundidas: la primera, correspondiente al boletín N° 10.563-11, de las diputadas Marcela Hernando Pérez, Cristina Girardi Lavín y Karol Cariola Oliva, de los diputados Iván Flores García, Fernando Meza Moncada y Víctor Torres Jeldes, de la exdiputada Loreto Carvajal Ambiado y de los exdiputados Marcos Espinosa Monardes, Enrique Jaramillo Becker y Alberto Robles Pantoja; y, la segunda, correspondiente al boletín N° 10.755-11, del exdiputado Sergio Espejo Yaksic, de la diputada Marcela Hernando Pérez, de los diputados Juan Luis Castro González, Javier Macaya Danús y Víctor Torres Jeldes, de la exdiputada Karla Rubilar Barahona y de los exdiputados Miguel Ángel Alvarado Ramírez, Jaime Pilowsky Greene y Nicolás Monckeberg Díaz,
+Proyecto de ley:
+"DEL RECONOCIMIENTO Y PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS EN LA ATENCIÓN DE SALUD MENTAL
