@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 5 de mayo de 2021.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Enrique Paris Mancilla, Ministro de Salud.- Karla Rubilar Barahona, Ministra de Desarrollo Social y Familia.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+Transcribo para su conocimiento ley Nº 21.331.- Por orden de la Subsecretaria de Salud Pública.- Saluda atentamente a Ud., Jorge Hübner Garretón, Jefe División Jurídica, Ministerio de Salud.
