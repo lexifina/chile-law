@@ -1,1 +1,1 @@
-Artículo 2º.- Derógase la ley Nº 18.223 , con excepción de sus artículos 5º y 13, así como toda otra disposición legal contraria a lo preceptuado por la presente ley, a contar de su fecha de vigencia.".
+Artículo 2º.- Derógase la ley N° 18.223, con excepción de sus artículos 5º y 13, así como toda otra disposición legal contraria a lo preceptuado por la presente ley, a contar de su fecha de vigencia.
