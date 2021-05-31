@@ -1,2 +1,2 @@
-Artículo 50 G.- Las causas cuya cuantía, de acuerdo al monto de lo pedido, no exceda de diez unidades tributarias mensuales, se tramitarán conforme a las normas de este Párrafo, como procedimiento de única instancia, por lo que todas las resoluciones que se dicten en él serán inapelables.
+Artículo 50 G.- Las causas cuya cuantía, de acuerdo al monto de lo pedido, no exceda de diez unidades tributarias mensuales, se tramitarán conforme a las normas de este párrafo, como procedimiento de única instancia, por lo que todas las resoluciones que se dicten en él serán inapelables.
 En las causas que se sustancien de acuerdo a este procedimiento de única instancia, la multa impuesta por el juez no podrá superar el monto de lo otorgado por la sentencia definitiva.
