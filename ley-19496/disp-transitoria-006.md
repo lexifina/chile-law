@@ -1,0 +1,1 @@
+Artículo sexto. - El mayor gasto fiscal que irrogue la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Servicio Nacional del Consumidor y, en lo que faltare, con cargo a los recursos de la partida presupuestaria Tesoro Público, de la ley de Presupuestos del Sector Público.
