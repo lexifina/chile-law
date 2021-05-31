@@ -4,6 +4,5 @@ Con todo, el mediador y el árbitro financiero no podrán intervenir en los sigu
 1.- Los que deban someterse exclusivamente a un tribunal ordinario o especial en virtud de otra ley.
 2.- Los que han sido previamente sometidos al conocimiento del Servicio o de un juez competente por el consumidor o por alguna asociación de consumidores.
 3.- Los que han sido previamente sometidos al conocimiento de un juez competente en una acción de interés colectivo o difuso en la cual haya comparecido como parte el consumidor.
-Inciso Derogado.
 El mediador y el árbitro financiero, según corresponda, deberán inhabilitarse en caso que tomen conocimiento que les afecta una causal de implicancia o recusación de las previstas en el párrafo 11 del Título VII del Código Orgánico de Tribunales.
-El mediador y el árbitro financiero, según corresponda, deberán asumir sus funciones dentro de los tres días hábiles siguientes al requerimiento o, en su caso, comunicar en el mismo plazo la razón legal que les impide hacerlo.
+El mediador y el árbitro financiero según corresponda, deberán asumir sus funciones dentro de los tres días hábiles siguientes al requerimiento o, en su caso, comunicar en el mismo plazo la razón legal que les impide hacerlo.

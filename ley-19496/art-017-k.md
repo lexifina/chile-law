@@ -1,1 +1,1 @@
-Artículo 17 K.- El incumplimiento por parte de un proveedor de lo dispuesto en los artículos 17 B a 17 J, en el artículo 17 M, y en los reglamentos dictados para la ejecución de estas normas, será sancionado con una multa de hasta mil quinientas unidades tributarias mensuales.
+Artículo 17 K.- El incumplimiento por parte de un proveedor de lo dispuesto en los artículos 17 B a 17 J y de los reglamentos dictados para la ejecución de estas normas, será sancionado con una multa de hasta mil quinientas unidades tributarias mensuales.
