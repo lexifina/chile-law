@@ -1,1 +1,1 @@
-Artículo 16 B. El procedimiento a que se sujetará la tramitación de las acciones tendientes a obtener la declaración de nulidad de cláusulas contenidas en contratos de adhesión, será el contemplado en el Título IV de la presente ley.
+Artículo 16 B.- El procedimiento a que se sujetará la tramitación de las acciones tendientes a obtener la declaración de nulidad de cláusulas contenidas en contratos de adhesión, será el contemplado en el Título IV de la presente ley.
