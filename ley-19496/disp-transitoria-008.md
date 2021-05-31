@@ -1,0 +1,1 @@
+Artículo octavo. - Quienes se encuentren desempeñando el cargo de director regional a la época de entrada en vigencia de la nueva planta de personal del Servicio Nacional del Consumidor a que se refiere el artículo tercero transitorio, continuarán rigiéndose por las normas vigentes a la época de su designación.
