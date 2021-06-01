@@ -1,0 +1,1 @@
+Artículo transitorio.- El mayor gasto fiscal que represente la aplicación de la presente ley durante el primer año presupuestario de su entrada en vigencia se financiará con cargo al presupuesto vigente del Fondo Nacional de Salud y, en lo que faltare, con cargo a la Partida Presupuestaria del Tesoro Público.".
