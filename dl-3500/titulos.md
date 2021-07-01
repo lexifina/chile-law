@@ -37,7 +37,7 @@ TITULO XV De la Licitación para la Administración de Cuentas de Capitalizació
 Título XVI Del Consejo Técnico de Inversiones
 TITULO XVII De la Asesoría Previsional
 1. Del Objeto de la Asesoría Previsional.
-2. De las Entidades de Asesoría Previsional y de los Asesores Previsionales.
+2. De las Entidades de Asesoría Previsional, los Asesores Previsionales, las Entidades de Asesoría Financiera Previsional y de los Asesores Financieros Previsionales.
 3. De la contratación de la Asesoría Previsional.
 4. Otras Disposiciones.
 TITULO XVIII DISPOSICIONES TRANSITORIAS
