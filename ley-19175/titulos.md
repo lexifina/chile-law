@@ -10,7 +10,7 @@ Párrafo 2° De la Transferencia de Competencias
 CAPITULO III Órganos del Gobierno Regional
 Párrafo 1° Del Gobernador Regional
 Párrafo 2° Del Consejo Regional
-Párrafo 3° Del Gobernador
+Párrafo 3° Del Gobernador Derogado
 Párrafo 4° Del Consejo Económico y Social Provincial Derogado.
 Capítulo IV De otros órganos de la Administración del Estado en las Regiones y de la Organización Administrativa del Gobierno Regional
 Párrafo 1° De los otros órganos de la Administración del Estado en las Regiones
