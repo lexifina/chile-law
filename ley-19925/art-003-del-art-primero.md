@@ -23,14 +23,16 @@ El espacio destinado al área de bebidas alcohólicas no podrá ocupar un espaci
 Lo dispuesto en el inciso anterior se hará exigible a todos los establecimientos que tengan esta categoría de patente dentro de 30 días posteriores a la publicación de esta ley.
 Para efectos de esta ley, se entenderá por Minimercados aquellos establecimientos que tengan una superficie menor a 100 metros cuadrados y que cumplan con lo dispuesto en las normas impartidas por la autoridad sanitaria correspondiente.
 Valor Patente: 1.5 UTM.
-I) HOTELES, HOSTERÍAS, MOTELES O RESTAURANTES DE TURISMO:
+I) HOTELES, APART HOTELES, HOSTERÍAS, MOTELES O RESTAURANTES DE TURISMO:
 a) Hotel de turismo, en que se presta al turista servicio de hospedaje, sin perjuicio de otros servicios complementarios, y que comprende las patentes de hotel, restaurante, cantina y cabaré.
 Valor Patente: 5 UTM.
-b) Hostería de turismo, en la que se presta al turista servicio de hospedaje y alimentación, con expendio de bebidas alcohólicas.
+b) Apart hotel, en el que se presta al turista servicio de hospedaje, sin perjuicio de otros servicios, con expendio de bebidas alcohólicas.
+Valor Patente: 5 UTM.
+c) Hostería de turismo, en la que se presta al turista servicio de hospedaje y alimentación, con expendio de bebidas alcohólicas.
 Valor Patente: 3 UTM.
-c) Motel de turismo, en el que se proporciona servicio de hospedaje en unidades habitacionales independientes o aisladas entre sí, dotadas de elementos que permitan la preparación de comidas.
+d) Motel de turismo, en el que se proporciona servicio de hospedaje en unidades habitacionales independientes o aisladas entre sí, dotadas de elementos que permitan la preparación de comidas.
 Valor Patente: 2 UTM.
-d) Restaurante de turismo, que comprende las patentes de restaurante, cantina y cabaré.
+e) Restaurante de turismo, que comprende las patentes de restaurante, cantina y cabaré.
 Valor Patente: 4 UTM.
 J) BODEGAS ELABORADORAS O DISTRIBUIDORAS DE VINOS, LICORES O CERVEZA que expendan al por mayor.
 Valor Patente: 1,5 UTM.

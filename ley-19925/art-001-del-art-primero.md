@@ -1,1 +1,1 @@
-Artículo 1º.- Esta ley regula el expendio de bebidas alcohólicas; las medidas de prevención y rehabilitación del alcoholismo, y las sanciones y los procedimientos aplicables a quienes infrinjan las disposiciones pertinentes.
+Artículo 1º.- Esta ley regula el expendio de bebidas alcohólicas, su etiquetado y normas sobre publicidad; las medidas de prevención y rehabilitación del alcoholismo, y las sanciones y los procedimientos aplicables a quienes infrinjan las disposiciones pertinentes.
