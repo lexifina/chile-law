@@ -1,2 +1,2 @@
-Artículo 56.- Para los efectos de determinar el equivalente en pesos de las multas que establece esta ley, se estará al valor de la unidad tributaria mensual a la fecha de su pago efectivo.
+Artículo 56.- Para los efectos de determinar el equivalente en pesos de las multas que establece esta ley, se estará al valor de la unidad tributaria mensual o anual, según corresponda, a la fecha de su pago efectivo.
 El juez, cumpliéndose los requisitos previstos en el artículo 20 bis de la ley Nº 18.287, podrá conmutar la multa impuesta por la realización de trabajos en beneficio de la comunidad, sin perjuicio de lo dispuesto en el artículo 23 de dicho cuerpo legal.
