@@ -1,0 +1,1 @@
+Artículo quinto.- Los Instrumentos de Gestión del Riesgo de Desastres establecidos en el Párrafo 1° del Título II de esta ley, que no se hubiesen dictado o no estuviesen vigentes a la fecha de publicación de esta ley, deberán ser dictados dentro de los dos años siguientes a su publicación.
