@@ -1,0 +1,6 @@
+Artículo 26 bis.- En general, corresponderá a la Unidad de Gestión del Riesgo de Desastres:
+a) Prestar apoyo al alcalde en todas las materias referentes al Sistema Nacional de Prevención y Respuesta ante Desastres.
+b) Elaborar el Plan Comunal para la Reducción del Riesgo de Desastres y el Plan Comunal de Emergencia, en conformidad con lo dispuesto en la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres y su reglamento.
+c) Confeccionar los informes en aquellas materias de su competencia, referidas a los artículos 28 y 32 de la ley indicada en la letra anterior, cuando las unidades señaladas en dichos artículos soliciten su pronunciamiento.
+d) Aportar al funcionario que designe el Director Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, la información referente a su comuna para la elaboración del mapa de riesgo que contempla la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres.
+e) Coordinar con la Dirección Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, y con los organismos o entidades públicas correspondientes, en el marco de sus competencias, las acciones en materia de Gestión del Riesgo de Desastres en su comuna.
