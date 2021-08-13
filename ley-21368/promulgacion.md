@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 6 de agosto de 2021.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.- Rodrigo Delgado Mocarquer, Ministro del Interior y Seguridad Pública.- Lucas Palacios Covarrubias, Ministro de Economía, Fomento y Turismo.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+Lo que transcribo para Ud. para los fines que estime pertinentes.- Javier Naranjo Solano, Subsecretario del Medio Ambiente.
