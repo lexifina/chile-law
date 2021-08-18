@@ -1,0 +1,2 @@
+Artículo 9 bis.- Los establecimientos de comercio que vendan alimentos envasados secos, que serán definidos por el Reglamento Sanitario de los Alimentos, y etiquetados como "libre de gluten", deberán disponerlos para su comercialización en góndolas, estantes o vitrinas exclusivas para dichos productos.
+Se exceptúa de la obligación establecida en el inciso anterior a las micro y pequeñas empresas definidas por la ley Nº 20.416, que fija normas especiales para las empresas de menor tamaño.
