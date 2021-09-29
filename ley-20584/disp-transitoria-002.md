@@ -1,0 +1,1 @@
+Artículo segundo.- El Ministerio de Salud deberá elaborar la normativa técnica a que hace referencia la letra b) del inciso segundo del artículo 5°, en un plazo de seis meses desde la publicación de la ley que lo establece.

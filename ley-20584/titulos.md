@@ -17,4 +17,4 @@ Párrafo 11º De los medicamentos e insumos
 TÍTULO III De los deberes de las personas en su atención de salud
 TÍTULO IV Del cumplimiento de la ley
 TÍTULO V Disposiciones varias
-Disposición transitoria
+Disposiciones Transitorias
