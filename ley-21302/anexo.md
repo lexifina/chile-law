@@ -1,0 +1,6 @@
+Tribunal Constitucional
+Proyecto de ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, y modifica normas legales que indica, correspondiente al Boletín Nº 12.027-07
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la H. Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin que este Tribunal ejerciera el control de constitucionalidad respecto del inciso cuarto del artículo 4, de los artículos 9, 10, 11 y 12, del inciso tercero del artículo 24, del inciso segundo del artículo 45, del inciso sexto del artículo 49, y de la segunda oración de la letra c) del inciso segundo del artículo 30 propuesto por el número 22 del artículo 59, del proyecto de ley; y, por sentencia de fecha 16 de diciembre de 2020, en los autos Rol Nº 9673-20-CPR.
+Se declara:
+Que, las disposiciones consultadas, correspondientes a los artículos 4º, inciso cuarto, 9; 10; 11; 12; 24, inciso tercero; 45, inciso segundo; 49, inciso sexto y artículo 30, letra c), segunda oración, propuesto por el artículo 59, número 22, del proyecto de ley, son conformes con la Constitución.
+Santiago, 16 de diciembre de 2020.- María Angélica Barriga Meza, Secretaria.
