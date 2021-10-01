@@ -1,0 +1,4 @@
+Artículo 27 bis.- El Director Regional del Servicio tendrá la facultad de gestionar la oferta de sobrecupo de los programas de su región en base al promedio de sobrecupo regional de los tres años anteriores, atendiendo a las necesidades reales de cobertura de atención de su región. En este sentido, el colaborador acreditado deberá acordar de antemano con el Director Regional respectivo el número de plazas adicionales que podrá cubrir.
+Se recurrirá a las plazas adicionales una vez que se encuentren cubiertas todas las plazas regulares de los programas que se encuentren en comunas accesibles para el niño, niña o adolescente, dentro de la región en la que reside.
+Se podrá recurrir al uso de las plazas adicionales por el plazo máximo de un año, debiendo el Director Regional encargarse de generar la oferta programática necesaria para el año siguiente.
+El uso de las plazas adicionales será siempre excepcional y no deberá impedir el normal funcionamiento de los programas.
