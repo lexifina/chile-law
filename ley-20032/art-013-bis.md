@@ -1,8 +1,1 @@
-Artículo 13 bis.- Los colaboradores acreditados que estén recibiendo subvención en virtud de la presente ley deberán remitir anualmente al SENAME y publicar y mantener actualizada en sus respectivas páginas web a lo menos la siguiente información:
-1) Identificación de la entidad.
-2) Información general y de contexto considerando lo siguiente: estructura de gobierno corporativo y su nómina, que incluya la información actualizada relativa a los miembros de su directorio, representantes legales, gerentes o administradores; estructura operacional, valores y principios, principales actividades y proyectos, identificación e involucramiento con grupos de interés, prácticas relacionadas con la evaluación o medición de satisfacción de los usuarios y resultados, participación en redes y procesos de coordinación con otros actores, y reclamos o incidentes.
-3) Información de desempeño, considerando lo siguiente: objetivos e indicadores de gestión; indicadores financieros, incluyendo los ingresos operacionales y su origen y otros indicadores relevantes; donación acogida a beneficios tributarios; gastos administrativos y remuneraciones de sus principales ejecutivos.
-4) Balance tributario o cuadro de ingresos y gastos. 5) Información general y de contexto relativa a las competencias técnicas y profesionales de su personal, considerando especialmente a quienes ejercen sus funciones en centros residenciales.
-6) Responsable de la veracidad de la información.
-El detalle del contenido de cada uno de los numerales anteriores se establecerá en el respectivo reglamento.
-Además de lo anterior, la información a que se hace referencia deberá ser sistematizada por cada organismo colaborador de forma tal que permita a las personas su fácil comprensión.
+Artículo 13 bis.- Suprimido.
