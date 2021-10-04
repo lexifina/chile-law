@@ -1,0 +1,1 @@
+Artículo 20 sexies.- Efectos de la supervisión por monitoreo telemático. La supervisión por monitoreo telemático de las medidas accesorias a que hace referencia el artículo 20 quáter, se aplicará sin perjuicio de la supervisión por monitoreo telemático de las penas sustitutivas dispuestas en la ley Nº 18.216.
