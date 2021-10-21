@@ -1,0 +1,1 @@
+Artículo 5° quáter.- Para efectos de lo dispuesto en esta ley, se entenderá por cuidador o cuidadora a toda persona que, de forma gratuita o remunerada, proporcione asistencia o cuidado, temporal o permanente, para la realización de actividades de la vida diaria, a personas con discapacidad o dependencia, estén o no unidas por vínculos de parentesco.

@@ -1,4 +1,4 @@
-Artículo 5° bis.- Toda persona mayor de 60 años, como también toda persona en situación de discapacidad, tendrá derecho a ser atendida preferente y oportunamente por cualquier prestador de acciones de salud, con el fin de facilitar su acceso a dichas acciones, sin perjuicio de la priorización que corresponda aplicar según la condición de salud de emergencia o urgencia de los pacientes, de acuerdo al protocolo respectivo.
+Artículo 5° bis.- Las personas mayores de 60 años y las personas con discapacidad, así como los cuidadores o cuidadoras, tendrán derecho a ser atendidos preferente y oportunamente por cualquier prestador de acciones de salud, con el fin de facilitar su acceso a dichas acciones, sin perjuicio de la priorización que corresponda aplicar según la condición de salud de emergencia o urgencia de los pacientes, de acuerdo al protocolo respectivo.
 Esta atención preferente y oportuna consistirá, al momento del ingreso del paciente, en la adopción por el prestador de las siguientes medidas:
 I. Si se tratare de una consulta de salud:
 a) En la entrega de número para la solicitud de día y hora de atención.
