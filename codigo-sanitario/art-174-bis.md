@@ -1,0 +1,4 @@
+Artículo 174 bis.- Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República, en los términos previstos en el inciso segundo del artículo 35 del decreto ley N° 1.263, de 1975, orgánico de Administración Financiera del Estado.
+El retardo en el pago de estas multas devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario.
+La Tesorería General de la República hará uso del mecanismo contemplado en el artículo 6 del Estatuto Orgánico del Servicio de Tesorerías, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado por el decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda.
+Sin perjuicio de lo dispuesto en los incisos anteriores, en el pago de estas multas se podrá aplicar lo dispuesto en el artículo 192 del Código Tributario, en lo que corresponda.
