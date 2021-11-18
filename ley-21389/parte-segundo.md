@@ -1,0 +1,1 @@
+Artículo segundo.- El reglamento cuya dictación dispone el inciso segundo del artículo 21 de la ley N° 14.908, incorporado por esta ley, deberá dictarse dentro del plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial.
