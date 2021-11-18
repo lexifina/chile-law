@@ -1,0 +1,2 @@
+Art. 11 bis.- El empleador del alimentante, quien lo contrate a honorarios o la entidad que pague la pensión respectiva, que esté obligado a practicar la retención judicial, deberá descontar el monto correspondiente a los alimentos decretados o aprobados judicialmente, a continuación de los descuentos obligatorios por concepto de impuestos y cotizaciones obligatorias de seguridad social.
+En caso de que haya más de un empleador, el tribunal ordenará el pago en los términos más convenientes para el alimentario.
