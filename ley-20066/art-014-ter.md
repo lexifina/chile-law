@@ -1,0 +1,1 @@
+Artículo 14 ter.- En los delitos constitutivos de violencia intrafamiliar, el juez, para efectos de evaluar la irreprochable conducta anterior del imputado, deberá considerar las anotaciones que consten en el registro a que se refiere el artículo 12 de esta ley.
