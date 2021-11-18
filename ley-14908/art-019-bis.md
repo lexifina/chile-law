@@ -1,0 +1,1 @@
+Art. 19 bis.- El plazo de prescripción para las acciones ejecutivas de cobro por deudas de pensión alimenticia será de tres años y se convertirá en ordinaria por dos años más, y se comenzará a computar desde el momento en que el alimentario o alimentaria cumpla 18 años.
