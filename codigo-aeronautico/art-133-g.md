@@ -1,0 +1,4 @@
+Artículo 133 G.- El que, en inobservancia de lo dispuesto en el inciso séptimo del artículo 131 bis, ceda su derecho a ser transportado en un vuelo de cabotaje, o facilite dicha cesión, será sancionado con multa de once a veinte unidades tributarias mensuales.
+Con la misma pena se sancionará al cesionario del aludido derecho que, en inobservancia de lo establecido en el inciso quinto del artículo 131 bis, lo transfiera nuevamente, a cualquier título, o al que facilite dicha operación.
+En caso de reiteración de las conductas consideradas en los incisos anteriores, se aplicará la pena de presidio menor en su grado medio y multa de veintiuna a treinta unidades tributarias mensuales.
+A los delitos consagrados en los incisos anteriores no les será aplicable lo dispuesto en el artículo 201 de este Código.
