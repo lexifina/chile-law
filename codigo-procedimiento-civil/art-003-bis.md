@@ -1,0 +1,1 @@
+Artículo 3º bis.- Es deber de los abogados, de los funcionarios de la administración de justicia y de los jueces, promover el empleo de métodos autocompositivos de resolución de conflictos, como la conciliación, la mediación, entre otros. Estos métodos no podrán restringir, sustituir o impedir la garantía de tutela jurisdiccional.
