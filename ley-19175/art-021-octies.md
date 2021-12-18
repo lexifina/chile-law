@@ -1,4 +1,5 @@
-Artículo 21 octies.- Toda transferencia temporal de competencias podrá ser revocada de oficio y fundadamente, si se constata la concurrencia de alguna de las siguientes causales:
+Artículo 21 octies.- Las competencias transferidas de forma definitiva sólo podrán ser revocadas mediante una ley dictada al efecto.
+Toda transferencia temporal de competencias podrá ser revocada de oficio y fundadamente, si se constata la concurrencia de alguna de las siguientes causales:
 a) Incumplimiento de las condiciones que se hayan establecido para el ejercicio de la competencia transferida;
 b) Deficiente prestación del servicio a la comunidad; y
 c) Ejercicio incompatible con las políticas públicas nacionales cuando éstas hayan sido dictadas en forma posterior a la transferencia, sin que se realizaren los ajustes necesarios.
