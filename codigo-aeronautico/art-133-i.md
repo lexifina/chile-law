@@ -1,0 +1,1 @@
+Artículo 133 I.- El transportador deberá tomar las medidas necesarias para que los niños menores de 14 años viajen en asientos contiguos a los de al menos un adulto de su familia o de algún adulto incluido en la misma reserva.
