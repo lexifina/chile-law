@@ -1,0 +1,1 @@
+Artículo 133 H.- En los casos de servicios de transporte aéreo nacional o cabotaje que se encuentren fraccionados por tramos y/o por trayectos de ida y vuelta, el no uso de alguna de las fracciones no podrá motivar la denegación o condicionar el uso del resto de las fracciones, si el pasajero se presenta oportunamente al chequeo y embarque.

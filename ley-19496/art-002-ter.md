@@ -1,0 +1,1 @@
+Artículo 2 ter.- Las normas contenidas en esta ley se interpretarán siempre en favor de los consumidores, de acuerdo con el principio pro consumidor, y, de manera complementaria, según las reglas contenidas en el párrafo 4° del Título Preliminar del Código Civil.
