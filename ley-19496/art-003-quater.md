@@ -1,0 +1,3 @@
+Artículo 3 quáter.- Los establecimientos de educación superior, institutos profesionales y de formación técnica deberán otorgar gratuitamente los certificados de estudios, de notas, de estado de deuda u otros análogos, a solicitud del alumno, exalumno o de aquel que haya suspendido sus estudios o se encuentre moroso en la respectiva institución educacional.
+Dichos certificados podrán ser solicitados hasta por dos veces en un año y deberán ser emitidos dentro del plazo de diez días hábiles contado desde la presentación de la respectiva solicitud.
+La emisión de los mencionados certificados podrá ser realizada a través de medios electrónicos y deberá serlo en papel en los casos en que el establecimiento no cuente con medios electrónicos o así sea solicitado expresamente.
