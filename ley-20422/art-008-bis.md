@@ -1,0 +1,1 @@
+Artículo 8 bis.- Las instituciones públicas y privadas establecerán las condiciones para que las personas con discapacidad puedan acceder, concurrir y comparecer ante ellas con intérpretes de lengua de señas o guías intérpretes, según sea el caso y corresponda, previa acreditación de esta condición.
