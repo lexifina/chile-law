@@ -1,0 +1,1 @@
+Artículo 8 ter.- El Estado promoverá, dentro del ámbito de sus competencias, de acuerdo con sus atribuciones, medios y presupuestos, la formación y capacitación continua de guías intérpretes, conforme a los estándares que determine el reglamento dictado para tal efecto por el Ministerio de Desarrollo Social y Familia.
