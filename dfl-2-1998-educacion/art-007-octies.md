@@ -1,0 +1,2 @@
+Artículo 7° octies.- Los establecimientos que tengan el servicio de internado deberán considerar cupos especiales dentro del total de la matrícula disponible, para la postulación de las y los estudiantes de dentro y fuera de la comuna en que dichos internados se encuentren.
+Para acogerse a este servicio, cada establecimiento escolar con internado deberá indicar al Ministerio de Educación la cantidad de cupos especiales respecto del total de cupos, con al menos dos meses antes de la fecha de postulación.
