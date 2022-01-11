@@ -1,0 +1,1 @@
+Artículo 58 bis.- Nombre es el conjunto de palabras que sirve legalmente para identificar a una persona. Está formado por el o los nombres propios, y por el o los apellidos con que se encuentre individualizada en su respectiva inscripción de nacimiento.
