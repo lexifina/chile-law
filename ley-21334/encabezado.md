@@ -1,0 +1,4 @@
+LEY NÚM. 21.334
+SOBRE DETERMINACIÓN DEL ORDEN DE LOS APELLIDOS POR ACUERDO DE LOS PADRES
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley iniciado en mociones refundidas; la primera, correspondiente al boletín Nº 3.810-18, de los exdiputados Iván Moreira Barros y Felipe Salaberry Soto, de los diputados Ramón Barros Montero, Iván Norambuena Farías, Ignacio Urrutia Bonilla, Pablo Prieto Lorca y Gastón Von Mühlenbrock Zamora, y de los exdiputados Claudio Alvarado Andrade, Eugenio Bauer Jouanne y Mario Varela Herrera; la segunda, correspondiente al boletín Nº 4.149-18, de la exdiputada María Antonieta Saa Díaz, de los diputados René Manuel García García y Tucapel Jiménez Fuentes, de las exdiputadas Marta Isasi Barbieri, Adriana Muñoz D'Albora y Ximena Vidal Lázaro, y de los exdiputados Sergio Aguiló Melo, Juan Bustos Ramírez y Álvaro Escobar Rufatt,
+Proyecto de ley:
