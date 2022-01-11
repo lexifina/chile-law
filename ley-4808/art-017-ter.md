@@ -1,0 +1,24 @@
+Artículo 17 ter.- Acogida la solicitud del requirente, el Servicio de Registro Civil e Identificación procederá a practicar las modificaciones y subinscripciones pertinentes, tras lo cual se emitirán los nuevos documentos identificatorios.
+Para tales efectos, se citará a la persona interesada para que concurra de manera personal a retirar los nuevos documentos de identidad, los que reemplazarán, para todos los efectos legales, a los documentos de identidad anteriores.
+Los documentos de identidad originales no podrán ser usados, solicitados o exhibidos bajo ninguna circunstancia y en ninguna entidad pública o privada, sin perjuicio de lo dispuesto en la ley N° 19.628, sobre protección de la vida privada.
+La rectificación de la partida de nacimiento y de los documentos de identificación no afectará el número del rol único nacional del solicitante, el cual se mantendrá para todos los efectos legales.
+El cambio del orden de los apellidos sólo operará respecto del solicitante, sin que resulte extensivo a los ascendientes, y no alterará la filiación. Por su parte, el cambio del orden de los apellidos del solicitante provocará el cambio del respectivo apellido de transmisión a los hijos menores de edad, debiendo procederse por igual respecto de todos ellos. Sin perjuicio de lo anterior, si el solicitante tuviere uno o más hijos mayores de 14 y menores de 18 años de edad, éstos deberán manifestar su consentimiento, mediante declaración escrita extendida ante el Oficial del Servicio de Registro Civil e Identificación, caso en el cual también se deberá proceder por igual respecto de todos los hijos menores de edad. Cuando en tales términos corresponda proceder con el cambio del respectivo apellido de transmisión a los hijos menores de edad, el Director Nacional del Servicio de Registro Civil e Identificación, en la orden de servicio por la que acoja la solicitud de cambio del orden de los apellidos del solicitante, además deberá ordenar las correspondientes rectificaciones en las partidas de nacimiento de todos los hijos menores de edad, procediéndose con las modificaciones, subinscripciones pertinentes, emisión de nuevos documentos identificatorios e informes a instituciones, de conformidad con las reglas del presente artículo.
+Los hijos mayores de edad de quien obtenga el cambio del orden de sus apellidos por el procedimiento de esta ley o mediante el procedimiento de la ley N° 17.344, que autoriza el cambio de nombres y apellidos, podrán solicitar ante el Servicio de Registro Civil e Identificación el cambio del respectivo apellido de transmisión, caso en el cual se procederá con la rectificación en la partida de nacimiento; modificaciones, subinscripciones pertinentes, emisión de nuevos documentos identificatorios e informes a instituciones, de conformidad con las reglas del presente artículo.
+El Servicio de Registro Civil e Identificación informará de la rectificación de la partida de nacimiento y de la emisión de nuevos documentos, especialmente, a las siguientes instituciones, cuando corresponda:
+a) Al Servicio Electoral.
+b) Al Servicio de Impuestos Internos.
+c) A la Tesorería General de la República.
+d) A la Policía de Investigaciones de Chile.
+e) A Carabineros de Chile.
+f) A Gendarmería de Chile.
+g) A la Superintendencia de Salud, a fin de que ésta informe a la Institución de Salud Previsional en la cual cotice el o la solicitante, la que deberá consignar el nuevo orden de los apellidos del cotizante registrado por dicha institución.
+h) A la Superintendencia de Pensiones, a fin de que ésta informe a la respectiva Administradora de Fondos de Pensiones o al Instituto de Previsión Social, según donde cotice el o la solicitante, del cambio de orden de sus apellidos, el que deberá ser registrado por la respectiva institución previsional.
+i) Al Fondo Nacional de Salud, a fin de que éste registre el cambio de orden de los apellidos de la persona solicitante.
+j) Al Ministerio de Educación.
+k) Al Consejo de Rectores de las Universidades Chilenas (CRUCH).
+l) A la Corporación de Universidades Privadas (CUP).
+m) Al Consejo de Instituciones Privadas de Formación Superior (CONIFOS).
+n) A las asociaciones de notarios, conservadores y archiveros judiciales, para que éstas informen a sus asociados del cambio de orden de los apellidos de la persona solicitante.
+ñ) A los municipios.
+La persona interesada podrá solicitar fundadamente al Servicio de Registro Civil e Identificación que se informe de la rectificación de la partida de nacimiento y de la emisión de nuevos documentos a otra institución pública o privada, indicando las razones que justifican dicha comunicación.
+Toda información o comunicación entre instituciones, sean públicas o privadas, deberá ser tratada conforme a la ley N° 19.628, sobre protección de la vida privada.

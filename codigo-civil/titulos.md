@@ -6,10 +6,11 @@ TITULO PRELIMINAR
 § 5. Definición de varias palabras de uso frecuente en las leyes
 § 6. Derogación de las leyes
 LIBRO PRIMERO DE LAS PERSONAS
-Título I DE LAS PERSONAS EN CUANTO A SU NACIONALIDAD Y DOMICILIO
+Título I DE LAS PERSONAS, EN CUANTO A SU NOMBRE, NACIONALIDAD Y DOMICILIO
 § 1. División de las personas
-§ 2. Del domicilio en cuanto depende de la residencia y del ánimo de permanecer en ella
-§ 3. Del domicilio en cuanto depende de la condición o estado civil de la persona
+2. Nombre de las personas
+§ 3. Del domicilio en cuanto depende de la residencia y del ánimo de permanecer en ella
+§ 4. Del domicilio en cuanto depende de la condición o estado civil de la persona
 Título II DEL PRINCIPIO Y FIN DE LA EXISTENCIA DE LAS PERSONAS
 DE LAS PERSONAS
 § 2. Del fin de la existencia de las personas
