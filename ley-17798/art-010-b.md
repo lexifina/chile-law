@@ -1,0 +1,1 @@
+Artículo 10 B.- El que adultere, altere, borre o destruya el sistema de trazabilidad complementario de un arma de fuego o de municiones al que alude el inciso final del artículo 4 A, será sancionado con la pena de presidio menor en su grado medio.
