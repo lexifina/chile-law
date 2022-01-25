@@ -1,0 +1,1 @@
+Artículo 5 D.- Corresponderá a la Dirección General de Movilización Nacional velar por la regularidad de las inscripciones a que se refiere el artículo 5, y representará a las autoridades ejecutoras y contraloras cualquier situación ilegal o antirreglamentaria en las inscripciones autorizadas, para su inmediata corrección.
