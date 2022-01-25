@@ -1,1 +1,2 @@
 Artículo 14 B.- Constituye circunstancia agravante de los delitos de que trata esta ley dotar las armas o municiones, que se posean o tengan, de dispositivos, implementos o características que tengan por finalidad hacerlas más eficaces, ocasionar más daño o facilitar la impunidad del causante.
+Si los implementos a que se refiere el inciso anterior fueren de aquellos señalados en las letras h), i) y j) del artículo 3, no se impondrá al delito el grado mínimo o el mínimum de la pena que correspondería sin esa circunstancia.
