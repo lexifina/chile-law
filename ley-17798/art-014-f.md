@@ -1,0 +1,2 @@
+Artículo 14 F.- Serán solidariamente responsables de los efectos civiles de aquellos ilícitos en que se hubieren utilizado sus armas de fuego, quienes las hubieren abandonado, no hubieren comunicado o denunciado oportunamente su extravío, robo o hurto, y quienes no hubieren realizado las declaraciones a las que hace referencia el inciso tercero del artículo 5.
+En el caso de las personas jurídicas, la responsabilidad solidaria se extenderá tanto a aquella como a su representante legal.
