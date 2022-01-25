@@ -1,0 +1,1 @@
+Artículo 19 B.- Para la investigación de los delitos previstos en esta ley serán aplicables las técnicas especiales del Título II de la ley N° 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, así como las medidas de protección que establece el Párrafo 2° de su Título III.
