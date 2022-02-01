@@ -1,0 +1,1 @@
+Artículo decimotercero.- Lo dispuesto en el numeral 16 del artículo 1 entrará en vigencia al primer día del séptimo mes desde la entrada en vigencia de la presente ley y el reglamento a que se refiere el mencionado numeral deberá dictarse dentro del mismo plazo.".
