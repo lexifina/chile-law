@@ -1,0 +1,3 @@
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 26 de enero de 2022.- RODRIGO DELGADO MOCARQUER, Vicepresidente de la República.- Patricio Melero Abaroa, Ministro del Trabajo y Previsión Social.- Rodrigo Cerda Norambuena, Ministro de Hacienda.- Lucas Palacios Covarrubias, Ministro de Economía, Fomento y Turismo.- Karla Rubilar Barahona, Ministra de Desarrollo Social y Familia.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.- Enrique Paris Mancilla, Ministro de Salud.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Pedro Pizarro Cañas, Subsecretario de Previsión Social.
