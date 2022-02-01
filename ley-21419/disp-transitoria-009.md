@@ -1,0 +1,1 @@
+Artículo noveno.- Las personas que a la entrada en vigencia de la ley sean beneficiarias de pensiones básicas solidarias de vejez y de aporte previsional solidario de vejez, seguirán estando exentas de la cotización legal del artículo 85 del decreto ley Nº 3.500, de 1980.

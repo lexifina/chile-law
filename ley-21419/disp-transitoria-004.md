@@ -1,0 +1,1 @@
+Artículo cuarto.- Para las personas que a la fecha de entrada en vigencia de la presente ley se encuentren pensionadas, la pensión base y la pensión autofinanciada de referencia serán aquellas determinadas conforme a lo establecido en la ley N° 20.255, según corresponda.
