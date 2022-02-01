@@ -1,0 +1,1 @@
+Artículo octavo.- Durante el primer año de vigencia de esta ley, el Ministerio de Hacienda deberá encargar el estudio actuarial a que se refiere el artículo 7 de la ley N° 20.128. A partir de dicho año, se comenzará a computar el plazo de tres años a que se refiere dicha norma.
