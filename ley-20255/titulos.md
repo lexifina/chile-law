@@ -4,7 +4,7 @@ Párrafo segundo Pensión Básica Solidaria de Vejez
 Párrafo tercero Aporte Previsional Solidario de Vejez
 Párrafo cuarto Pensión Básica Solidaria de Invalidez
 Párrafo quinto Aporte Previsional Solidario de Invalidez
-Párrafo sexto De las normas comunes del Sistema Solidario de Vejez e Invalidez y otras disposiciones
+Párrafo sexto Otras disposiciones
 Párrafo séptimo Modificaciones en el decreto ley N° 3.500, de 1980, en materia de beneficios garantizados por el Estado
 TÍTULO II Sobre Institucionalidad Pública para el Sistema de Previsión Social
 Previsión Social Párrafo primero
