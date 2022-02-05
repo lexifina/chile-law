@@ -1,5 +1,4 @@
 ART. 39 bis.
-Las penas de inhabilitación absoluta perpetua o temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372 de este Código, produce:
+La pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372, produce:
 1º La privación de todos los cargos, empleos, oficios y profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad que tenga el condenado.
-2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguna de las penas de la ley Nº 18.216 como sustitutiva de la pena principal.
-La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados perpetuamente.
