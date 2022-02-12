@@ -1,0 +1,1 @@
+Artículo séptimo.- No afectación de derechos adquiridos. Los cambios en las categorías migratorias originados por esta ley y definidos en el artículo anterior, en ningún caso afectarán derechos adquiridos por los ciudadanos extranjeros residentes en el país.
