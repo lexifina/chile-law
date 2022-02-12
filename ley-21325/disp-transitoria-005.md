@@ -1,0 +1,1 @@
+Artículo quinto.- Hasta que se dicte el decreto supremo que defina las subcategorías migratorias, regirán las categorías migratorias establecidas en el decreto ley Nº 1.094, de 1975, que establece normas sobre extranjeros en Chile.
