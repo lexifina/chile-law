@@ -1,1 +1,0 @@
-Artículo 77 bis.- Para la aplicación de las multas contempladas en este párrafo, se considerará como atenuante el hecho de que el infractor se haya autodenunciado o concurrido ante la autoridad a requerir la regulación de su situación.
