@@ -1,1 +1,0 @@
-Artículo 5°- En los lugares en donde no existan Intendentes Regionales o Gobernadores provinciales, las funciones y atribuciones que este decreto ley les otorgue, serán ejercidas provisoriamente por los respectivos Intendentes o Gobernadores.
