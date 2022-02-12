@@ -1,0 +1,1 @@
+Artículo noveno.- En tanto no se publiquen los reglamentos de esta ley, el director del Servicio como su jefe superior, tendrá la representación legal, judicial y extrajudicial del mismo, pudiendo ejecutar los actos y celebrar los contratos que sean necesarios o convenientes para el cumplimiento de sus fines.
