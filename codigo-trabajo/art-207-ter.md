@@ -1,0 +1,1 @@
+Artículo 207 ter.- Los derechos que correspondan a la madre trabajadora referidos a la protección a la maternidad regulados en este Título, serán aplicables a la madre o persona gestante, con independencia de su sexo registral por identidad de género. A su vez, los derechos que se otorgan al padre en el presente Título, también serán aplicables al progenitor no gestante.
