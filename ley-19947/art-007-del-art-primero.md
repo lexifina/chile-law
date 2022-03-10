@@ -1,1 +1,1 @@
-Artículo 7º.- El cónyuge sobreviviente no podrá contraer matrimonio con el imputado contra quien se hubiere formalizado investigación por el homicidio de su marido o mujer, o con quien hubiere sido condenado como autor, cómplice o encubridor de ese delito.
+Artículo 7º.- El cónyuge sobreviviente no podrá contraer matrimonio con el imputado contra quien se hubiere formalizado investigación por el homicidio de su cónyuge, o con quien hubiere sido condenado como autor, cómplice o encubridor de ese delito.
