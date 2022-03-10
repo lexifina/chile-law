@@ -2,7 +2,7 @@ Artículo 40 bis.- El acta a que se refiere el artículo 20 de la Ley de Matrimo
 1º La individualización de la entidad religiosa ante la que se celebró el matrimonio, con expresa mención del número del decreto en virtud de la cual goza de personalidad jurídica de derecho público.
 En el caso de las entidades religiosas reconocidas por el artículo 20 de la ley 19.638, deberán citar esta norma jurídica;
 2º La fecha y el lugar de la celebración del matrimonio;
-3º El nombre y los apellidos paterno y materno de los contrayentes, así como sus números de cédula de identidad;
+3º El nombre y los apellidos de los contrayentes, así como sus números de cédula de identidad;
 4º La fecha y el lugar de nacimiento de los contrayentes;
 5º Su estado de soltero, divorciado o viudo y, en estos dos últimos casos, el nombre del cónyuge fallecido o de aquél con quien contrajo matrimonio anterior, y el lugar y la fecha de la muerte o sentencia de divorcio, respectivamente;
 6º Su profesión u oficio;
