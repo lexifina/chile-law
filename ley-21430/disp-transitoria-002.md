@@ -1,0 +1,1 @@
+Artículo segundo.- La Política Nacional de la Niñez y Adolescencia y su Plan de Acción deberá adecuarse a los principios, objetivos, deberes, derechos y garantías establecidos en la presente ley dentro del plazo de dos años contado desde su publicación, aun cuando su plazo de vigencia no haya concluido.
