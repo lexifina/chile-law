@@ -1,0 +1,1 @@
+Artículo cuarto.- Dentro del plazo de dieciocho meses contado desde la publicación de esta ley, el Presidente de la República deberá enviar al Congreso Nacional un proyecto de ley para adecuar las normas de la ley N° 19.968 , que crea los Tribunales de Familia, considerando las adecuaciones que surjan para la aplicación de esta ley.

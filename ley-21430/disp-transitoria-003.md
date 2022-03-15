@@ -1,0 +1,1 @@
+Artículo tercero.- Los reglamentos a los que se refiere la presente ley se dictarán dentro del plazo de seis meses contado desde la publicación de ésta en el Diario Oficial, con excepción del referido en la letra g) del artículo 66.
