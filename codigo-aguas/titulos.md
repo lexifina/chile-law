@@ -1,7 +1,7 @@
 LIBRO PRIMERO DE LAS AGUAS Y DEL DERECHO DE APROVECHAMIENTO
 Título I DISPOSICIONES GENERALES
-Título II DEL DOMINIO Y APROVECHAMIENTO DE LAS AGUAS
-Título III DE LA ADQUISICIÓN DEL DERECHO DE APROVECHAMIENTO
+Título II DEL APROVECHAMIENTO DE LAS AGUAS Y SUS FUNCIONES
+Título III DE LA CONSTITUCIÓN DEL DERECHO DE APROVECHAMIENTO
 Título IV DE LOS CAUCES DE LAS AGUAS
 1.- De los álveos o cauces naturales
 2.- De los álveos de aguas detenidas
@@ -55,6 +55,7 @@ Título III DE LAS ORGANIZACIONES DE USUARIOS
 3. De las Asociaciones de Canalistas y otras Organizaciones de Usuarios
 4. De las Juntas de Vigilancia
 5. Normas comunes para las organizaciones
+6. Planes Estratégicos de Recursos Hídricos en Cuencas
 LIBRO TERCERO
 Título I DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
 Título II DE LAS DIRECCIÓN GENERAL DE AGUAS
