@@ -1,0 +1,8 @@
+ARTICULO 129 bis 12 A.- El deudor podrá oponerse a la ejecución dentro del plazo de quince días hábiles, contado desde la fecha de la notificación señalada en el artículo 129 bis 12.
+La oposición sólo será admisible cuando se funde en alguna de las siguientes excepciones:
+1. Pago de la deuda, siempre que conste por escrito.
+2. Prescripción de la deuda.
+3. Que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. En este caso, y mientras se encuentre pendiente la resolución de dichos recursos, se suspenderá el procedimiento.
+4. Que el pago de la patente se encuentre suspendido por aplicación de lo dispuesto en el inciso final del artículo 129 bis 7.
+La oposición se tramitará en forma incidental, pero si las excepciones no reúnen los requisitos exigidos en el inciso anterior se rechazarán de plano. El recurso de apelación que se interponga en contra de la resolución que rechace las excepciones se concederá en el solo efecto devolutivo. El tribunal de segunda instancia sólo podrá ordenar la suspensión de la ejecución cuando la oposición se funde en el pago de la deuda que conste en un antecedente escrito o en que se encuentren pendientes de resolución algunos de los recursos a que se refiere el artículo 129 bis 10. La apelación que se interponga en contra de la resolución que acoja las excepciones se concederá en ambos efectos.
+Si se acogieren parcialmente las excepciones, proseguirá la ejecución por el monto que determine el tribunal. Si los recursos a los que alude el número 3 del presente artículo son acogidos, el tribunal dispondrá el archivo de los antecedentes. En caso contrario, continuará con la tramitación del procedimiento de remate.

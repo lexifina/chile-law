@@ -1,7 +1,7 @@
 ARTICULO 173 bis.- Para las sanciones dispuestas en los artículos 172 y 173, el monto de la multa podrá incrementarse en los siguientes casos:
 1. Hasta el 100%, cuando la infracción afecte la disponibilidad de las aguas utilizadas para satisfacer el consumo humano, uso doméstico de subsistencia o el saneamiento.
 2. Hasta el 75%:
-a) Si las infracciones se cometen en las zonas establecidas en los artículos 63, 65, 282 y 314 del presente Código.
+a) Si las infracciones se cometen en las zonas declaradas como área de restricción o zona de prohibición, en acuíferos o sectores hidrogeológicos de aprovechamiento común sujetos a una reducción temporal del ejercicio, en ríos declarados agotados, o en cauces intervenidos producto de una declaración de escasez.
 b) Si la infracción cometida perjudica gravemente el cauce, y siempre que no sea constitutiva de los hechos sancionados en el artículo 172.
 c) Cuando, a consecuencia de la contravención, se produzca un descenso sostenido o abrupto de los niveles freáticos del acuífero.
 d) Cuando se realicen actos u obras, sin permiso de la autoridad competente, que menoscaben o deterioren la calidad del agua en contravención a la normativa vigente, cuando dicha alteración no cuente con una sanción específica.
