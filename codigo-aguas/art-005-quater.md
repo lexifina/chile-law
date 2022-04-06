@@ -1,0 +1,1 @@
+ARTÍCULO 5 quáter.- La solicitud y el otorgamiento de derechos de aprovechamiento sobre aguas reservadas, para los usos de la función de subsistencia, se sujetarán, en lo que sea compatible con su objeto, al procedimiento contenido en el Párrafo I del Título I del Libro Segundo.
