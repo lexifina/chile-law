@@ -1,1 +1,0 @@
-ARTICULO 11°- La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Riego, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado y total o parcialmente terminadas.
