@@ -1,0 +1,1 @@
+ARTICULO 66° ter- Si el proyecto de recarga artificial utiliza aguas provenientes desde una fuente ajena a la cuenca o tiene por objeto aumentar la disponibilidad para constituir nuevos derechos, deberá contar con la aprobación de la Dirección General de Aguas. La solicitud deberá tramitarse en los términos que establecen los artículos 130 y siguientes.
