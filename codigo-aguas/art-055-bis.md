@@ -1,0 +1,3 @@
+ARTICULO 55° bis- Acuífero es una formación geológica que contiene o ha contenido agua bajo la superficie de la tierra y posee la capacidad de almacenar y transmitir agua.
+Sin perjuicio de la titularidad del dominio de este subsuelo, las aguas subterráneas contenidas en él son bienes nacionales de uso público a las que se tiene acceso en conformidad a las disposiciones del presente Código.
+Se entenderá por Sector Hidrogeológico de Aprovechamiento Común, un acuífero o parte de un acuífero cuyas características hidrológicas espaciales y temporales permiten una delimitación para efectos de su evaluación hidrogeológica o gestión en forma independiente.

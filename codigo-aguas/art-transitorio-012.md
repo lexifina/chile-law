@@ -1,1 +1,0 @@
-ARTICULO 12°- Toda solicitud que, de conformidad con el Código de Aguas, cuyo texto sistematizado se aprobó por decreto con fuerza de ley N° 162, de 1969, del Ministerio de Justicia, tuviere un procedimiento judicial o administrativo especial, continuará rigiéndose hasta su término por dichas normas, pero los derechos que ella origine se regirán por el presente código.

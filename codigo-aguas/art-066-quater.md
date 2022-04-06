@@ -1,0 +1,2 @@
+ARTICULO 66° quáter- No se podrá operar obra alguna de recarga artificial con perjuicio de terceros. El responsable será obligado a la indemnización de perjuicios.
+Las obras urgentes que sea necesario construir o modificar para evitar los daños a que se refiere el inciso anterior serán de cargo de quien se encuentre operando el proyecto de recarga, sin perjuicio de sus acciones para repetir en contra del causante del perjuicio.

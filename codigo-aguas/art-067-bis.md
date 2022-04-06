@@ -1,0 +1,1 @@
+ARTICULO 67 bis- La declaración o el alzamiento de las zonas de restricción y de prohibición, se publicarán en el sitio web institucional y en el Diario Oficial, los días primero o quince de cada mes o el primer día hábil siguiente, si aquéllos fueren feriados.
