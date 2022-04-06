@@ -1,0 +1,1 @@
+ARTÍCULO 299 quáter.- La Dirección General de Aguas deberá publicar periódicamente la información que recabe en el ejercicio de sus funciones, de manera de facilitar el acceso a ésta y su comprensión.
