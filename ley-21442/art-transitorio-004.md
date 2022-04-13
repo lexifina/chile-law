@@ -1,0 +1,1 @@
+Artículo 4°.- Los planes de emergencia, incluidos en éstos los planes de evacuación, señalados en el artículo 40 de esta ley y en el artículo 144 de la Ley General de Urbanismo y Construcciones, deberán ser elaborados y actualizados conforme a la Norma Técnica que para dicho efecto oficialice el Ministerio de Vivienda y Urbanismo.
