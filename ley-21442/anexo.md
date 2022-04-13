@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de ley que establece una nueva ley de copropiedad inmobiliaria, correspondiente al Boletín N° 11.540-14
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado de la República envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de los artículos 6, inciso final; 10, inciso cuarto; 44; 46; 47; 64, incisos cuarto y sexto; 68; 76; y 77, contenidos en el Artículo Primero del Proyecto de Ley; y por sentencia de 18 de marzo de 2022, en los autos Rol 12874-22-CPR.
+Se declara:
+1°. Que los artículos 6, inciso final; 10, inciso cuarto; 44; 46 en la expresión "Sin perjuicio de lo dispuesto en el artículo 44, las contiendas a que se refiere dicho precepto podrán someterse a la resolución de un Juez Árbitro, en cualquiera de las calidades a que se refiere el artículo 223 del Código Orgánico de Tribunales"; 47; 64, incisos cuarto y sexto; 68; 76; y 77, contenidos en el artículo primero del proyecto de ley que establece una nueva Ley de Copropiedad Inmobiliaria, correspondiente al Boletín N° 11.540-14, son conformes con la Constitución Política.
+2°. Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, de las restantes disposiciones del proyecto de ley, por no versar sobre materias reguladas en Ley Orgánica Constitucional.
+Santiago, 18 de marzo de 2022.- María Angélica Barriga Meza, Secretaria.
