@@ -1,0 +1,1 @@
+Artículo 7°.- El mayor gasto fiscal que represente la aplicación de esta ley, durante el primer año presupuestario de vigencia, se financiará con cargo al presupuesto del Ministerio de Vivienda y Urbanismo y, en lo que faltare, con cargo a los recursos de la partida presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público.

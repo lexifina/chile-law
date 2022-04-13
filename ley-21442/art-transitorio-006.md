@@ -1,0 +1,1 @@
+Artículo 6°.- El reglamento de la ley y el del Registro Nacional de Administradores de Condominios deberán dictarse dentro del plazo de doce meses, contado desde la publicación de la presente ley y deberán ser sometidos a consulta pública, por un plazo no inferior a treinta días.

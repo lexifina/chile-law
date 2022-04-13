@@ -1,0 +1,1 @@
+Artículo 10.- Los condominios que incluyan unidades con destino habitacional existentes a la fecha de publicación de esta ley, deberán incorporarse en el registro señalado en el artículo 98 en el plazo de dos años contados desde la referida publicación.".
