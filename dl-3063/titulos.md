@@ -6,6 +6,7 @@ TITULO V Del aporte fiscal
 TITULO VI
 TITULO VII De los Recursos Municipales por Concesiones, Permisos o Pagos de Servicios.
 TITULO VIII De las Rentas Varias
+TÍTULO VIII BIS De las donaciones a entidades sin fines de lucro
 TITULO IX Del Cobro Judicial
 TITULO X Sanciones
 TITULO XI Disposiciones Generales
