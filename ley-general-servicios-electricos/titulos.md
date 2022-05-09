@@ -17,6 +17,7 @@ TITULO V De las Tarifas
 CAPITULO I Generalidades
 CAPITULO II De los precios máximos en sistemas eléctricos cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación
 CAPITULO III De los precios máximos en sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación.
+Capítulo IV Del suministro eléctrico a personas electrodependientes
 TITULO VI Del Panel de Expertos
 Título VI BIS Del Coordinador Independiente del Sistema Eléctrico Nacional
 TITULO VII Disposiciones Penales
