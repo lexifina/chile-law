@@ -1,0 +1,1 @@
+Artículo 67 bis E.- Una vez emitido el certificado de depósito del dibujo o diseño industrial se publicará un extracto de la solicitud correspondiente en el Diario Oficial, en la forma y plazos que determine el reglamento.
