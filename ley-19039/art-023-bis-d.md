@@ -1,0 +1,1 @@
+Artículo 23 bis D.- Para los efectos del pago de derechos, la solicitud o inscripción de una marca para productos y servicios se tendrá como una solicitud o registro distinto por cada clase, cualquiera sea el número de productos o servicios específicos incluidos en cada una. Dicho principio será extensivo tanto a los registros nuevos como a las renovaciones de los registros.

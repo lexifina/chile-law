@@ -1,2 +1,3 @@
-Artículo 23 bis B.- Los registros de marcas que distinguen productos, servicios y establecimientos industriales tendrán validez para todo el territorio de la República.
-Los registros de marcas que protejan establecimientos comerciales servirán sólo para la región en que estuviera ubicado el establecimiento. Si el interesado quisiera hacer extensiva a otras regiones la propiedad de la misma marca, lo indicará en su solicitud de registro, debiendo pagar el derecho correspondiente a una solicitud y a una inscripción por cada región.
+Artículo 23 bis B.- Bajo la denominación marca de certificación se comprende todo signo o combinación de signos capaz de distinguir en el mercado los productos o servicios de terceros, garantizando que éstos cumplen con requisitos y características comunes.
+No podrán ser titulares de marcas de certificación quienes fabriquen o comercialicen productos o servicios idénticos o similares a aquéllos a los que fuere a aplicarse la citada marca.
+El titular de una marca de certificación deberá autorizar su uso a toda persona cuyo producto o servicio cumpla las condiciones establecidas en el reglamento de uso de la marca.

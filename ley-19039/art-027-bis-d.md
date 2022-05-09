@@ -1,0 +1,2 @@
+Artículo 27 bis D.- La caducidad producirá sus efectos desde que se practique la cancelación total o parcial del registro correspondiente ordenada por sentencia firme.
+Si la causal de caducidad sólo se configurara para una parte de los productos o servicios para los cuales esté registrada la marca, su declaración sólo se extenderá a los productos y/o servicios afectados. El registro de la marca subsistirá respecto de los demás productos y/o servicios.

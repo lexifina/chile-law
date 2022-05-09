@@ -1,2 +1,3 @@
-Artículo 18 bis E.- Los derechos establecidos en los artículos anteriores, serán a beneficio fiscal, debiendo acreditarse su pago dentro de los 60 días contados desde la fecha en que quede ejecutoriada la resolución que autoriza la inscripción en el registro respectivo, sin lo cual se tendrá por abandonada la solicitud, procediéndose a su archivo.
-Dicha resolución deberá notificarse por carta certificada en la forma y condiciones que establezca el reglamento.
+Artículo 18 bis E.- Los derechos establecidos en los artículos anteriores serán a beneficio fiscal.
+Para completar el pago de los derechos correspondientes a la aceptación de un registro de propiedad industrial, éste deberá acreditarse dentro de los sesenta días contados desde la fecha en que quede ejecutoriada la resolución que autoriza la inscripción en el registro respectivo, sin lo cual se tendrá por abandonada la solicitud, procediéndose a su archivo, sin perjuicio de lo establecido en el inciso segundo del artículo 45.
+La resolución señalada en el inciso anterior deberá notificarse por medio electrónico en la forma y condiciones que establezca el reglamento.
