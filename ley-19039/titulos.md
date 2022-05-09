@@ -10,10 +10,12 @@ Párrafo I. de las Invenciones en general
 Párrafo II. De la Protección Suplementaria
 TITULO IV De los modelos de utilidad
 TITULO V De los dibujos y diseños industriales
+Párrafo 1° Del registro de los dibujos y diseños industriales
+Párrafo 2° Certificado de Depósito de Dibujos y Diseños Industriales
 TITULO VI De las invenciones en servicio
 TITULO VII De los esquemas de trazado o topografías de los circuitos integrados
-TITULO VIII De los secretos empresariales y de la información presentada a la autoridad para la obtención de registros o autorizaciones sanitarios
-De los secretos empresariales
+TITULO VIII De los secretos comerciales y de la información presentada a la autoridad para la obtención de registros o autorizaciones sanitarios
+Párrafo 1° De los secretos comerciales
 Párrafo 2º De la información presentada a la autoridad para la obtención de registros o autorizaciones sanitarios
 TITULO IX De las indicaciones geográficas y denominaciones de origen
 TITULO X De la observancia de los Derechos de Propiedad Industrial
