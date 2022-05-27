@@ -19,11 +19,7 @@ PARRAFO 1°.- De las Zonas de Remodelación
 PARRAFO 2°.- De las Zonas de Construcción Obligatoria
 PARRAFO 3°.- Del Saneamiento de Poblaciones
 CAPITULO VII De las expropiaciones
-PARRAFO 1°.- Disposiciones Generales
-PARRAFO 2°.- De la Expropiación Parcial
-Párrafo 3°.- Del Pago de la Expropiación
-PARRAFO 4°.- De los fondos para el pago de las expropiaciones
-PARRAFO 5°.- Del pago de las expropiaciones en Viviendas Económicas
+CAPÍTULO VIII De la regeneración de barrios o conjuntos habitacionales de viviendas sociales altamente segregados o deteriorados
 TITULO III De la construcción
 CAPITULO I Normas de diseño
 PARRAFO 1°.- Del diseño de obras de urbanización y edificación
