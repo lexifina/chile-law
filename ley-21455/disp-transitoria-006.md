@@ -1,0 +1,1 @@
+Artículo sexto.- El primer informe de inversión climática deberá elaborarse conforme a lo establecido en el artículo 38, y será presentado durante el primer mes de septiembre siguiente a la entrada en vigencia de la ley, o al subsiguiente si hubieran transcurrido menos de seis meses desde su entrada en vigencia.".
