@@ -1,0 +1,5 @@
+Artículo primero.- Los hechos perpetrados con anterioridad a la entrada en vigor de la presente ley, así como las penas y las demás consecuencias que correspondiere imponer por ellos, serán determinados conforme a la ley vigente en el momento de su perpetración.
+Si la presente ley entrare en vigor durante la perpetración del hecho se estará a lo dispuesto en ella, siempre que en la fase de perpetración posterior se realizare íntegramente la nueva descripción legal del hecho.
+Si la aplicación de la presente ley resultare más favorable al imputado o acusado por un hecho perpetrado con anterioridad a su entrada en vigor, se estará a lo dispuesto en ella.
+Para determinar si la aplicación de esta ley resulta más favorable, se deberá tomar en consideración todas las normas en ella previstas que fueren pertinentes al juzgamiento del hecho.
+Para efectos de lo dispuesto en los incisos primero y segundo precedentes, el delito se entiende perpetrado en el momento o durante el lapso en el cual se ejecuta la acción punible o se incurre en la omisión punible.
