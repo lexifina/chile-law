@@ -10,3 +10,4 @@ i) El eventual beneficio económico obtenido con motivo de la infracción.
 ii) Capacidad económica del infractor.
 iii) La conducta anterior del infractor, salvo en caso de reincidencia.
 Se considerará, para estos efectos, que la señal satelital se encuentra adecuadamente protegida si es que el permisionario del servicio ha adoptado, oportunamente, medidas tecnológicas suficientes para el resguardo de sus servicios.
+f) Los que vulneren el deber de reserva o secreto previsto en los artículos 218 bis, 219 y 222 del Código Procesal Penal, mediante el acceso, almacenamiento o difusión de los antecedentes o la información señalados en dichas normas, serán sancionados con la pena de presidio menor en su grado máximo.
