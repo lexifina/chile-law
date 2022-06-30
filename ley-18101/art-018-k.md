@@ -1,0 +1,1 @@
+Artículo 18-K.- Las normas de este Título serán aplicables, en lo pertinente, a las acciones de comodato precario que persigan la restitución del inmueble y a la acción de precario establecida en el artículo 2.195 del Código Civil.
