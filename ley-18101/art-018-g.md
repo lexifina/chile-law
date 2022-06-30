@@ -1,0 +1,3 @@
+Artículo 18-G.- Si el deudor opusiere únicamente alguna excepción dilatoria de las contempladas en el artículo 303 del Código de Procedimiento Civil, se conferirá traslado de ella al demandante y se tramitará como incidente, que se deberá resolver dentro de tercero día de concluida dicha tramitación.
+En caso de ser acogida alguna de las excepciones dilatorias opuestas, el tribunal ordenará subsanar los defectos si es posible. Si la excepción acogida no admite ser subsanada, se pondrá término al procedimiento monitorio.
+Rechazadas las excepciones, se le tendrá por condenado al pago de la obligación, el procedimiento continuará como si no se hubiese formulado la oposición y regirá lo previsto en el artículo 18-C.
