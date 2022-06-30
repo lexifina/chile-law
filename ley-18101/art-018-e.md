@@ -1,0 +1,1 @@
+Artículo 18-E.- El procedimiento monitorio de cobro de rentas de arrendamiento terminará si, antes del vencimiento del plazo previsto para la oposición, el deudor procediere al pago requerido dando satisfacción total a la deuda, incluidos intereses y costas. Si el pago fuere parcial, se seguirá adelante el procedimiento monitorio por la parte de la deuda no solucionada.
