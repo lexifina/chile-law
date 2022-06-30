@@ -1,0 +1,5 @@
+Artículo 18-A.- La demanda monitoria de cobro de rentas de arrendamiento y restitución consecuencial del inmueble arrendado deberá señalar:
+1. El nombre, profesión u oficio y domicilio del arrendador y del arrendatario.
+2. El inmueble arrendado, la o las rentas de arrendamiento y las cuentas por gastos comunes y de consumo adeudadas; una relación precisa de los antecedentes y las razones que explican tales deudas; y la forma, fecha y lugar en que hubiesen sido contraídas.
+3. La solicitud de que se requiera al deudor para que, dentro del plazo de diez días corridos, pague las rentas y las cuentas de gastos comunes y de consumo adeudadas, y las que se devenguen con posterioridad a la presentación de la demanda, más los intereses y costas que correspondan, y, para el caso de que el deudor no pagare o no compareciere o no formulare oposición, que se le tenga por condenado al pago de la obligación reclamada, bajo el apercibimiento previsto en el artículo 18-C, y se materialice el lanzamiento en la forma prevista en la ley.
+El demandante deberá acompañar a la demanda todos los antecedentes que le sirvan de fundamento.
