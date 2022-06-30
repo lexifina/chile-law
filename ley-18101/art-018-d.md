@@ -1,0 +1,2 @@
+Artículo 18-D.- La demanda monitoria y la resolución que sobre ella recaiga podrán notificarse al deudor en la forma prevista en el número 2 del artículo 8.
+Se tendrá por formulado el primer requerimiento de pago una vez practicada la notificación. El segundo requerimiento se entenderá efectuado transcurridos cinco días desde la notificación de la demanda. Se entenderá que ambos requerimientos se han verificado por el solo ministerio de la ley.
