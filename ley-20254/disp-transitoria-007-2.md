@@ -1,0 +1,1 @@
+Artículo séptimo.- El Presidente de la República reglamentará esta ley en el plazo de seis meses contado desde su publicación, mediante decreto supremo expedido por el Ministerio de Economía, Fomento y Turismo.
