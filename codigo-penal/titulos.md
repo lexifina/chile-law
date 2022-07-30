@@ -72,6 +72,7 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 § XIII. De la vagancia y mendicidad. Derogado.-
 § XIV. Crímenes y Simples Delitos contra la Salud Pública.
 § XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
+§ XV bis. Del ultraje de cadáver y sepultura.
 § XVI. Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia.
 TÍTULO SÉPTIMO CRÍMENES Y DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, CONTRA LA MORALIDAD PÚBLICA Y CONTRA LA INTEGRIDAD SEXUAL.
 § I. Aborto.
