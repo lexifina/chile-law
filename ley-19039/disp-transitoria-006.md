@@ -1,0 +1,1 @@
+Artículo sexto.- Los solicitantes de dibujos y diseños industriales en cuyo expediente aún no se hubiere designado un perito a la entrada en vigencia de la presente ley, podrán requerir al Instituto que sus solicitudes se sujeten al procedimiento abreviado de obtención de certificado de depósito al que se refiere el numeral 35 del artículo 1 de esta ley.

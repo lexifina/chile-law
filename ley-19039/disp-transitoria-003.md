@@ -1,0 +1,1 @@
+Artículo tercero.- Las solicitudes de protección suplementaria que no estuvieren resueltas por el Tribunal de Propiedad Industrial a la entrada en vigencia de la presente ley quedarán afectas a lo dispuesto en los numerales 30 y 32 del artículo 1 de esta ley.
