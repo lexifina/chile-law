@@ -1,0 +1,1 @@
+Artículo segundo.- Tratándose de patentes de invención, modelos de utilidad, dibujos y diseños industriales y esquemas de trazado o topografías de circuitos integrados otorgados, que aún deban pagar las tasas correspondientes al próximo quinquenio o decenio, según corresponda, podrán optar a la opción de pago señalada en el numeral 2 del artículo 1 de esta ley.

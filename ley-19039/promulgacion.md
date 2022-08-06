@@ -1,2 +1,2 @@
-Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Carlos Alvarez Voullième, Subsecretario de Economía, Fomento y Reconstrucción.
+Anótese, tómese razón y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Nicolás Grau Veloso, Ministro de Economía, Fomento y Turismo.
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Javiera Petersen Muga, Subsecretaria de Economía y Empresas de Menor Tamaño.
