@@ -1,0 +1,1 @@
+Artículo noveno.- Dentro del plazo de un año contado desde la fecha de publicación de esta ley, el Presidente de la República, mediante uno o más decretos con fuerza de ley, establecerá los textos refundidos, coordinados y sistematizados de las leyes N° 19.039 y N° 20.254.
