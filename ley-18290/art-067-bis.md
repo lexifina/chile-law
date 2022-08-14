@@ -1,0 +1,2 @@
+Artículo 67 bis.- El transporte de concentrados minerales deberá realizarse siempre por medios herméticos y con los grados de humedad necesarios para evitar su volatilidad.
+Se entenderá que el transporte se realiza de la manera antes indicada, cuando se haga por medios estancos a pulverulentos, que impidan el paso de líquidos y sólidos, desde y hacia la carga que se transporta, a fin de evitar cualquier derrame eventual o accidental durante el traslado.
