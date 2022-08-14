@@ -1,0 +1,2 @@
+Artículo 67 ter.- Un reglamento expedido por los ministerios de Transportes y Telecomunicaciones, de Minería y del Medio Ambiente determinará la forma en que se realizará la carga, transporte y descarga de minerales y de concentrados de minerales como también las obligaciones del generador de la carga en tal procedimiento. Lo anterior, con el objetivo de impedir la emisión de partículas al aire libre en el transporte de dichos elementos.
+El referido reglamento se deberá dictar dentro del plazo de ciento veinte días desde la fecha de publicación de la presente ley.
