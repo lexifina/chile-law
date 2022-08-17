@@ -1,0 +1,2 @@
+Artículo 32 bis.- El superior a cargo de un procedimiento policial, que conforme a la planificación, sea calificado de alta complejidad, deberá poner en conocimiento a sus subalternos respecto de sus riesgos, características y particularidades, con el fin de promover su desarrollo eficaz y el debido resguardo de los derechos de las personas.
+La forma de dar cumplimiento a lo prescrito en este artículo será reglamentado por la Institución, con la conformidad del Ministerio del Interior y Seguridad Pública.
