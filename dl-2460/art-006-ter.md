@@ -1,0 +1,3 @@
+Artículo 6° ter.- La Policía de Investigaciones de Chile deberá archivar o eliminar, según corresponda, la documentación que posea o esté bajo su control, responsabilidad o competencia, de acuerdo al reglamento que regule esta materia y que será expedido por el Ministerio del Interior y Seguridad Pública.
+Asimismo, propenderá a digitalizar la información que obre en su poder, de conformidad a la ley N° 18.845, que establece sistemas de microcopia o micrograbación de documentos, en lo que resulte aplicable.
+La documentación que se encuentre en poder de la Policía de Investigaciones de Chile no podrá ser eliminada cuando forme parte de los antecedentes de una causa judicial, y deberá ser conservada, al menos, durante todo el tiempo que ésta dure.
