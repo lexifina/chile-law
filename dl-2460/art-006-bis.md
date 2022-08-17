@@ -1,0 +1,2 @@
+Artículo 6º bis.- La Policía de Investigaciones de Chile deberá informar al Ministerio del Interior y Seguridad Pública y, por intermedio de éste, a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados, al menos semestralmente, la cantidad de personal de la institución, dando cuenta de su desagregación y cobertura, tanto a nivel regional como comunal.
+La información a que se refiere el inciso primero tendrá el carácter de reservada.

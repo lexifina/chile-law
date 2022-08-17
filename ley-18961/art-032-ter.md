@@ -1,0 +1,1 @@
+Artículo 32 ter.- Los informes que se levanten durante el proceso de toma de denuncia y en otros procedimientos policiales darán cuenta de las gestiones realizadas por los funcionarios policiales durante aquéllos.

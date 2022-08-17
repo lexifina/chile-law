@@ -1,0 +1,3 @@
+Artículo 2° bis.- Carabineros de Chile, como parte de la Administración del Estado, está al servicio de la comunidad y sus acciones se orientarán a la prevención de delitos, al control y restablecimiento del orden público y a la seguridad pública, así como a otras que le asignen las leyes.
+En el ejercicio de sus funciones, el personal de Carabineros de Chile deberá respetar, proteger y garantizar, sin discriminaciones arbitrarias, los derechos humanos y libertades reconocidos por la Constitución Política de la República, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+El personal de Carabineros de Chile velará por la integridad de las personas bajo su custodia.
