@@ -1,0 +1,2 @@
+Artículo 2° quáter.- Carabineros de Chile, como institución integrante de las Fuerzas de Orden y Seguridad Pública, se encuentra autorizado para hacer uso de la fuerza, cuando sea estrictamente necesaria y en la proporción o medida requerida para el desempeño de las funciones policiales.
+Con todo, siempre en la medida de lo posible, se preferirá la utilización de medios no violentos antes de recurrir al uso de la fuerza.
