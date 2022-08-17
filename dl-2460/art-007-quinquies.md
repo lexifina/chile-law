@@ -1,0 +1,2 @@
+Artículo 7° quinquies.- Si los hechos puestos en conocimiento de la Policía de Investigaciones en virtud de los artículos 7° bis y 7° ter fueren constitutivos de delito, el personal policial deberá remitir sin más demora la respectiva denuncia al Ministerio Público.
+Lo dispuesto en este artículo no obsta el inicio, tramitación y posterior resolución del procedimiento disciplinario que pudiere corresponder al caso.
