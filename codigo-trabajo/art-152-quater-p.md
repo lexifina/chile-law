@@ -1,0 +1,1 @@
+Artículo 152 quáter P.- Ámbito de aplicación. El presente Capítulo regula las relaciones entre trabajadores de plataformas digitales, dependientes e independientes, y empresas de plataformas digitales de servicios prestados en el territorio.
