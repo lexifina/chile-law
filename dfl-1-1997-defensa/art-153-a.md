@@ -1,0 +1,7 @@
+Artículo 153-A.- Se consideran hechos o conductas que contravienen el principio de probidad administrativa aquellos a que se refiere el artículo 62 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia.
+Las denuncias que se formulen deberán ser fundadas, presentarse a través del medio y la forma establecida por la respectiva institución, y deberán contener:
+1. La individualización del denunciante.
+2. Una relación circunstanciada de los hechos que se denuncian y la identificación de la o las personas involucradas y de los testigos que pudieren existir.
+3. Todo otro antecedente que pudiere servir de fundamento a la denuncia y se estime útil para la investigación.
+Las denuncias que se formulen en cumplimiento de la obligación establecida en el artículo 138 del presente Estatuto podrán estar sujetas a reserva de identidad, si así lo solicita el denunciante.
+Las denuncias respecto de las cuales constare su falsedad, fueren evidentemente infundadas o tuvieren el ánimo deliberado de perjudicar al denunciado, serán consideradas como constitutivas de falta grave a la disciplina, y el denunciante deberá ser sancionado conforme al reglamento de disciplina correspondiente. Lo anterior se entiende sin perjuicio de las responsabilidades penales que pudieren proceder.
