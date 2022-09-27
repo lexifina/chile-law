@@ -1,0 +1,1 @@
+Artículo segundo.- El reglamento a que se refiere el artículo 1 deberá dictarse en el plazo de nueve meses a contar de la publicación de esta ley en el Diario Oficial y será suscrito por el Ministro de Agricultura.
