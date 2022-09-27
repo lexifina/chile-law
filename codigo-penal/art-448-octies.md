@@ -1,0 +1,3 @@
+ART. 448 octies.
+Se castigará como autor de sustracción de madera, con las penas previstas en el artículo 446, a quien en cuyo poder se encuentren troncos o trozas de madera, cuando no pueda justificar su adquisición, su legítima tenencia o su labor en dichas faenas o actividades conexas destinadas a la tala de árboles y, del mismo modo, al que sea habido en predio ajeno, en idénticas faenas o actividades, sin consentimiento de su propietario ni autorización de tala.
+Asimismo, será sancionado con la pena de presidio menor en sus grados medio a máximo quien falsifique o maliciosamente haga uso de documentos falsos para obtener guías o formularios con miras a trasladar o comercializar madera de manera ilícita.
