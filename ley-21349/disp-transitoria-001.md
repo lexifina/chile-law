@@ -1,0 +1,1 @@
+Artículo primero.- Esta ley entrará en vigencia transcurridos quince meses desde su publicación en el Diario Oficial. Los plazos a que se refiere el artículo 4 comenzarán a correr una vez que entre en vigencia esta ley.
