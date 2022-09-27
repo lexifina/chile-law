@@ -5,8 +5,8 @@ Párrafo 2°- De los criaderos y depósitos de plantas
 Párrafo 3°-
 Párrafo 4°- De las exportaciones
 Párrafo 5°- Del tránsito por territorio nacional de mercaderías peligrosas para los vegetales
-TITULO III Fabricación, Comercialización y Aplicación de Plaguicidas y Fertilizantes
+TITULO III Fabricación, Comercialización y Aplicación de Plaguicidas
 Párrafo 1°- De los plaguicidas
-Párrafo 2°- De los fertilizantes
+Párrafo 2°- Derogado.
 TITULO IV Del Procedimiento y Sanciones
 TITULO V Disposiciones varias
