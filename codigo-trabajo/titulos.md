@@ -23,7 +23,7 @@ Párrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves
 Párrafo 2º Del contrato de los trabajadores portuarios eventuales
 Capítulo IV Del contrato de los trabajadores de artes y espectáculos
 Capítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR
-Capítulo VI Del contrato de los deportistas profesionales y trabajadores que desempeñan actividades conexas
+Capítulo VI Del contrato de los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas
 Párrafo 1º Definiciones
 Párrafo 2º Forma, contenido y duración del contrato de trabajo
 Párrafo 3º De la periodicidad en el pago de las remuneraciones
