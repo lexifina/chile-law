@@ -1,0 +1,3 @@
+ART. 304 bis.
+El que sin estar legal o reglamentariamente autorizado al efecto ingresare, intentare o permitiere ingresar por cualquier medio a un establecimiento penitenciario intercomunicadores, teléfonos, partes de ellos, chips telefónicos u otros elementos tecnológicos que permitan comunicarse con el exterior, será sancionado con la pena de presidio menor en su grado mínimo a medio.
+Si las conductas a que se refiere el inciso anterior fueren perpetradas por un abogado, procurador o empleado público, la pena no se aplicará en su grado mínimo y, además, conllevará desde suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio de la profesión y del cargo u oficio, respectivamente.
