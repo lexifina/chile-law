@@ -14,6 +14,7 @@ TITULO V Las Cortes de Apelaciones
 TITULO VI La Corte Suprema
 § 1. Su organización y atribuciones
 § 2. El Presidente de la Corte Suprema
+TITULO VI bis De la realización de audiencias bajo la modalidad semipresencial o vía remota en los procedimientos penales en trámite ante los juzgados de garantía, los tribunales de juicio oral en lo penal, las Cortes de Apelaciones y la Corte Suprema.
 TITULO VII La Competencia
 § 1. Reglas generales
 § 2. Reglas que determinan la cuantía de las materias judiciales
