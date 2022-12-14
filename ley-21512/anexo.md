@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de ley que regula la disposición final de elementos de protección personal de carácter sanitario, prohíbe y sanciona su eliminación en lugares públicos, correspondiente al boletín N° 13.598-11
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Cámara de Diputadas y Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto del inciso segundo del artículo 1 del proyecto de ley; y por sentencia de 16 de noviembre de 2022, en los autos Rol 13681-22-CPR.
+Se resuelve:
+1) Que la disposición contenida en el inciso segundo del artículo 1 del proyecto, en su primera parte que dispone que "La sanción dispuesta en el inciso anterior será aplicada por el Juzgado de Policía Local de la comuna donde se verifique la infracción,", es propia de Ley Orgánica Constitucional y se encuentra ajustada a la Constitución Política de la República.
+2) Que este Tribunal no emite pronunciamiento, en examen preventivo de constitucionalidad, respecto de la disposición contenida en la segunda parte del inciso segundo del artículo 1 del proyecto que dispone: "De conformidad a lo dispuesto en la ley N° 18.287, que establece procedimiento ante los Juzgados de Policía Local.", por no versar sobre materias propias de Ley Orgánica Constitucional.
+Santiago, 18 de noviembre de 2022.- María Angélica Barriga Meza, Secretaria.
