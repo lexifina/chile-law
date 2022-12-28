@@ -1,5 +1,5 @@
 Artículo 48.- La acción de nulidad de matrimonio no prescribe por tiempo, salvo las siguientes excepciones:
-a) Tratándose de la nulidad fundada en la causal establecida en el número 3º del artículo 5º, la acción prescribirá en un año, contado desde la fecha en que el cónyuge inhábil para contraer matrimonio hubiere adquirido la mayoría de edad;
+a) Suprimido.
 b) En los casos previstos en el artículo 8º, la acción de nulidad prescribe en el término de tres años, contados desde que hubiere desaparecido el hecho que origina el vicio de error o fuerza;
 c) Cuando se tratare de un matrimonio celebrado en artículo de muerte, la acción de nulidad prescribirá en un año, contado desde la fecha del fallecimiento del cónyuge enfermo;
 d) Cuando la causal invocada sea la existencia de un vínculo matrimonial no disuelto, la acción podrá intentarse dentro del año siguiente al fallecimiento de uno de los cónyuges, y
