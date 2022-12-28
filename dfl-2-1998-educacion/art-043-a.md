@@ -1,0 +1,2 @@
+Artículo 43-A.- Con cargo a la subvención educacional regulada en este párrafo los sostenedores podrán desarrollar actividades destinadas a asegurar la continuidad y trayectoria educativa integral de los y las estudiantes que tengan un riesgo de abandono educativo, tales como planes y acciones de retención y continuidad educativa, y la mantención de un equipo escolar de acompañamiento para dichos fines, entre otras.
+El Ministerio de Educación deberá entregar lineamientos respecto a las acciones que se podrán desarrollar con cargo a estos recursos y para los fines descritos.
