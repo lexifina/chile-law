@@ -1,0 +1,5 @@
+ART. 367 quáter.
+El que comercializare, importare, exportare, distribuyere, difundiere o exhibiere material pornográfico o de explotación sexual, cualquiera sea su soporte, en cuya elaboración hayan sido utilizadas personas menores de dieciocho años, será sancionado con la pena de presidio menor en su grado máximo.
+Con la misma pena señalada en el inciso anterior será sancionado el que participare en la producción de dicho material pornográfico o de explotación sexual.
+El que maliciosamente almacenare o adquiriere material pornográfico o de explotación sexual, cualquiera sea su soporte, en cuya elaboración hayan sido utilizadas personas menores de dieciocho años, será castigado con presidio menor en su grado medio.
+Para los efectos de este artículo, se entenderá por material pornográfico o de explotación sexual en cuya elaboración hubieren sido utilizadas personas menores de dieciocho años, toda representación de éstos dedicados a actividades sexuales explícitas, reales o simuladas, o toda representación de sus partes genitales con fines primordialmente sexuales, o toda representación de dichos menores en que se emplee su voz o imagen, con los mismos fines.
