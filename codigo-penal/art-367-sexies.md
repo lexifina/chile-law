@@ -1,0 +1,2 @@
+ART. 367 sexies.
+Lo dispuesto en este párrafo no será aplicable si el hecho fuere constitutivo de un delito sancionado con igual o mayor pena por alguna disposición de los párrafos 5 o 6 del Título VII del Libro Segundo, en cuyo caso el ánimo de lucro, la entrega o promesa de entrega de dinero o especies susceptibles de valoración pecuniaria serán considerados como una sola circunstancia agravante.
