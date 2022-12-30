@@ -81,7 +81,8 @@ TÍTULO SÉPTIMO CRÍMENES Y DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, CONTRA LA 
 § IV. Del rapto. Derogado.
 § V. De la violación.
 § VI. Del estupro y otros delitos sexuales.
-§ VII. Disposiciones comunes a los dos párrafos anteriores.
+§ 6 bis. Explotación sexual comercial y material pornográfico de niños, niñas y adolescentes.
+§ VII. Disposiciones comunes a los tres párrafos anteriores.
 § VIII. De los ultrajes públicos a las buenas costumbres.
 § IX. Del incesto.
 § X. Celebración de matrimonios ilegales.
