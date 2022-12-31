@@ -1,0 +1,2 @@
+ART. 368 bis A.
+La circunstancia atenuante señalada en el N° 7 del artículo 11 no podrá aplicarse tratándose de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo, 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual, y 433, número 1, en relación con la violación.

@@ -1,2 +1,3 @@
 ART. 94 bis.
 No prescribirá la acción penal respecto de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter, 367 septies; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, cuando al momento de la perpetración del hecho la víctima fuere menor de edad.
+En caso de que el delito previsto en el inciso primero del artículo 366 se cometiere contra mayores de edad, la prescripción de la acción penal será de diez años.
