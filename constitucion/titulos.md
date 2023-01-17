@@ -32,4 +32,13 @@ Disposiciones Especiales
 Capítulo XV REFORMA DE LA CONSTITUCIÓN Y DEL PROCEDIMIENTO PARA ELABORAR UNA NUEVA CONSTITUCIÓN DE LA REPÚBLICA
 Reforma de la Constitución
 Del procedimiento para elaborar una Nueva Constitución Política de la República
+DEL NUEVO PROCEDIMIENTO PARA ELABORAR UNA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA
+Del Consejo Constitucional
+De la Comisión Experta
+Del Comité Técnico de Admisibilidad
+Reglas aplicables a los integrantes del Consejo Constitucional, Comisión Experta y Comité Técnico de Admisibilidad
+Del procedimiento
+Del requerimiento ante el Comité Técnico de Admisibilidad
+Del funcionamiento y disolución del Consejo Constitucional, la Comisión Experta y el Comité Técnico de Admisibilidad
+Del plebiscito constitucional
 DISPOSICIONES TRANSITORIAS
