@@ -1,0 +1,1 @@
+Artículo 69 ter.- Los módulos de cultivo y fondeo deberán presentar condiciones de seguridad apropiadas a las características geográficas y oceanográficas del sitio concesionado, para evitar el escape de ejemplares de salmónidos, conforme lo exige el reglamento.

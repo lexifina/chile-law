@@ -1,0 +1,1 @@
+Artículo 70 ter.- Los armadores artesanales que en sus faenas de pesca capturen accidentalmente especies salmonídeas que sean objeto de cultivo en la región de su inscripción en el registro pesquero artesanal, deberán informarlo en sus declaraciones de desembarque conforme al artículo 63 y cumplir los demás requisitos que señale el reglamento.
