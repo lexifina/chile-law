@@ -1,1 +1,1 @@
-Artículo 118 quáter.- Sin perjuicio de lo señalado en el inciso séptimo del artículo anterior, en caso de escape o pérdida masiva de recursos en sistemas de cultivo intensivo o el desprendimiento o pérdida de recursos hidrobiológicos exóticos en sistemas extensivos, se presumirá que existe daño ambiental de conformidad con la ley Nº 19.300 si el titular del centro no recaptura como mínimo el 10% de los ejemplares en el plazo de 30 días contado desde el evento, prorrogables por una vez en los mismos términos.
+Artículo 118 quáter.- Derogado.
