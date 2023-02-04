@@ -1,0 +1,4 @@
+LEY NÚM. 21.521
+PROMUEVE LA COMPETENCIA E INCLUSIÓN FINANCIERA A TRAVÉS DE LA INNOVACIÓN Y TECNOLOGÍA EN LA PRESTACIÓN DE SERVICIOS FINANCIEROS, LEY FINTEC
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
