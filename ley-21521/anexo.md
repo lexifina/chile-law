@@ -1,0 +1,6 @@
+Tribunal Constitucional
+Proyecto de ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec, correspondiente al boletín N° 14.570-05
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados y Diputadas envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto del inciso cuarto del artículo 20; el número 1 del artículo 30; y los números 1 y 2 del artículo 31 del proyecto; y por sentencia de 6 de diciembre de 2022, en los autos Rol N° 13.753-22-CPR.
+Se declara:
+Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, respecto del inciso cuarto del artículo 20, del número 1 del artículo 30 y de los números 1 y 2 del artículo 31 del proyecto de ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec, correspondiente al boletín N° 14.570-05, por no regular materias reservadas a la Ley Orgánica Constitucional.
+Santiago, 9 de diciembre de 2022.- María Angélica Barriga Meza, Secretaria.
