@@ -1,0 +1,1 @@
+Artículo octavo.- Increméntase en 17 cupos la dotación máxima de personal de la Partida 08, Capítulo 31, Programa 01, Comisión para el Mercado Financiero, de la Ley de Presupuestos del Sector Público.
