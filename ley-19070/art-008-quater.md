@@ -1,0 +1,3 @@
+Artículo 8 quáter.- El sostenedor respectivo deberá conceder a los dirigentes nacionales del Colegio de Profesores los permisos necesarios para ausentarse de sus labores, con el objeto de cumplir sus funciones gremiales fuera del lugar de trabajo, los que no podrán ser inferiores a 22 horas semanales por cada dirigente de carácter nacional, ni a 11 horas por cada dirigente de una directiva de carácter regional, provincial o comunal.
+El tiempo de los permisos semanales será acumulable por cada dirigente dentro del mes calendario correspondiente.
+El tiempo que abarcaren los permisos otorgados a los directores de asociaciones se entenderá trabajado para todos los efectos, manteniendo el derecho a remuneración.
