@@ -1,1 +1,1 @@
-Artículo 37 bis.- Las normas de este Párrafo deberán aplicarse a los contratos de arrendamiento con opción de compra de bienes que impliquen una operación de financiamiento o leasing financieros, considerando la existencia de dicho financiamiento, según su tratamiento financiero contable establecido por el Servicio de Impuestos Internos, mediante resolución, de acuerdo a las normas internacionales de información financiera.
+ARTICULO 37° BIS.- Derogado.
