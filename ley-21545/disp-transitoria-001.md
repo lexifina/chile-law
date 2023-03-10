@@ -1,0 +1,1 @@
+Artículo primero.- Entrada en vigencia diferida de las disposiciones que señala. El inciso primero del artículo 6, el artículo 7, excepto su literal b), y los artículos 9, 13 y 14 entrarán en vigencia a contar del décimo segundo mes desde la publicación de la presente ley en el Diario Oficial.

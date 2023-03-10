@@ -1,0 +1,4 @@
+LEY NÚM. 21.545
+ESTABLECE LA PROMOCIÓN DE LA INCLUSIÓN, LA ATENCIÓN INTEGRAL, Y LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA EN EL ÁMBITO SOCIAL, DE SALUD Y EDUCACIÓN
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley iniciado dos mociones refundidas; la primera, correspondiente al boletín N°14.310-35, de las diputadas Carolina Marzán Pinto, Catalina Del Real Mihovilovic, Claudia Mix Jiménez y Francesca Muñoz González, de los diputados Sergio Bobadilla Muñoz y Eduardo Durán Salinas, de las exdiputadas Sandra Amar Mancilla y Nora Cuevas Contreras y del exdiputado Luis Rocafull López; la segunda, correspondiente al boletín N°14.549-35, del exdiputado Sergio Gahona Salazar, de las diputadas Karol Cariola Oliva y Ximena Ossandón Irarrázaval; del diputado Renzo Trisotti Martínez; de la exdiputada Maya Fernández Allende y del exdiputado Jorge Sabag Villalobos,
+Proyecto de ley:
