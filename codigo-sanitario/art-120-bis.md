@@ -1,0 +1,1 @@
+Artículo 120 bis.- Los profesionales a que se refiere este Libro podrán otorgar prestaciones a distancia mediante tecnologías de la información y comunicaciones, dentro del ámbito de sus competencias, en las condiciones y con los requisitos que establezcan el reglamento y las demás normativas que al efecto dicte el Ministerio de Salud.
