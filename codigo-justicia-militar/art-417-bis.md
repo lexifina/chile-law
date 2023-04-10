@@ -1,0 +1,1 @@
+Artículo 417 bis.- Lo dispuesto en los artículos 416, 416 bis, 416 ter y 417 precedentes será también aplicable cuando las conductas tipificadas en dichas normas afecten a funcionarios de las Fuerzas Armadas o de los servicios de su dependencia que se encuentren desempeñando labores de control o restablecimiento del orden público interior.
