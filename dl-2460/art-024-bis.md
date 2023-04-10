@@ -1,0 +1,1 @@
+Artículo 24 bis.- En el ejercicio de sus funciones, el personal de la Policía de Investigaciones de Chile será provisto de capacitación, equipo y armamento adecuado para resguardar su vida e integridad personal, la de terceros y para cumplir con ellas.
