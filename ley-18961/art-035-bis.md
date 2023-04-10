@@ -1,0 +1,1 @@
+Artículo 35 bis.- En el ejercicio de sus funciones preventivas, el personal de Carabineros de Chile será provisto de capacitación, equipo y armamento adecuado para su cumplimiento, y para el resguardo de su vida e integridad personal, la de terceros y para cumplir con ellas.
