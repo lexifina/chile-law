@@ -1,0 +1,2 @@
+Artículo primero.- Los reglamentos establecidos en los artículos 3 y 7 se dictarán en el plazo de seis meses contado desde la fecha de publicación en el Diario Oficial de la presente ley.
+En el reglamento del artículo 7 se regulará la forma y las condiciones en las que se otorgarán las pensiones a las hijas e hijos de las víctimas de femicidio o de suicidio femicida que, a la fecha de entrada en vigencia de esta ley, sean menores de 18 años, y cumplan con los requisitos para recibir la pensión de acuerdo a lo prescrito en el artículo 5.
