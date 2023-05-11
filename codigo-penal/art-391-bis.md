@@ -1,0 +1,3 @@
+ART. 391 bis.-
+El que conspire para cometer el delito de homicidio calificado previsto en los términos del artículo 391 N° 1°, circunstancia segunda, será castigado con la pena de presidio menor en su grado máximo.
+Si la conducta descrita en el inciso precedente se comete en contra de un juez con competencia en lo penal, de un fiscal del Ministerio Público, de un defensor penal público, de un funcionario de Carabineros de Chile, de la Policía de Investigaciones de Chile o de Gendarmería de Chile, en razón del ejercicio de sus funciones, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
