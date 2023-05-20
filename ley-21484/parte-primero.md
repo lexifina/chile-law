@@ -1,0 +1,1 @@
+Artículo primero.- La presente ley entrará en vigencia seis meses después de la completa entrada en vigencia de la ley N° 21.389, que regula el Registro Nacional de Deudores de Pensiones de Alimentos.
