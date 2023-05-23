@@ -1,0 +1,2 @@
+Artículo 5 bis.- El que suministre a menores de dieciocho años de edad, a cualquier título, productos que contengan solventes o gases inhalantes capaces de provocar daños a la salud o dependencia física o psíquica, tales como benceno, tolueno, u otras sustancias similares, incurrirá en la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de ochenta a cuatrocientas unidades tributarias mensuales.
+Atendidas las circunstancias del delito, podrá imponerse, además, la clausura a que hace referencia el artículo 7.
