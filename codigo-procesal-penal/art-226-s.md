@@ -1,0 +1,4 @@
+Artículo 226 S.- Cambio de identidad. El tribunal podrá autorizar a los agentes encubiertos, reveladores e informantes a cambiar de identidad, con posterioridad al juicio, en caso de ser necesario para su seguridad.
+La Dirección Nacional del Servicio de Registro Civil e Identificación adoptará todos los resguardos necesarios para asegurar el carácter secreto de estas medidas.
+Todas las actuaciones judiciales y administrativas a que dé lugar esta medida serán secretas. El funcionario del Estado que viole este sigilo será sancionado con la pena de presidio menor en sus grados medio a máximo.
+Quienes hayan sido autorizados para cambiar de identidad sólo podrán usar sus nuevos nombres y apellidos en el futuro. El uso malicioso de su anterior identidad será sancionado con la pena de presidio menor en su grado mínimo.
