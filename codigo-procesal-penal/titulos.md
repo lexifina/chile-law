@@ -36,6 +36,14 @@ Título I Etapa de investigación
 Párrafo 1º Persecución penal pública
 Párrafo 2º Inicio del procedimiento
 Párrafo 3º Actuaciones de la investigación
+I. Interceptación de comunicaciones
+Párrafo 3° bis Diligencias especiales de investigación aplicables para casos de criminalidad organizada.
+I. Medidas intrusivas referidas a las comunicaciones, imágenes y sonidos, y al registro de equipos informáticos".
+II. Agentes encubiertos, agentes reveladores e informantes
+III. Entregas vigiladas
+IV. Disposiciones comunes
+V. De las medidas de protección para agentes encubiertos, reveladores e informantes
+VI. Regla común al presente Párrafo
 Párrafo 4º Registros de la investigación
 Párrafo 5º Formalización de la investigación
 Párrafo 6º Suspensión condicional del procedimiento y acuerdos reparatorios
@@ -64,6 +72,7 @@ Libro Cuarto Procedimientos especiales y ejecución
 Título I Procedimiento simplificado
 Título II Procedimiento por delito de acción privada
 Título III Procedimiento abreviado
+Título III bis Procedimiento relativo a la imposición de comiso sin condena previa
 Título IV Procedimiento relativo a personas que gozan de fuero constitucional
 Párrafo 1º Personas que tienen el fuero del artículo 58 de la Constitución Política
 Párrafo 2º Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y Gobernadores Regionales

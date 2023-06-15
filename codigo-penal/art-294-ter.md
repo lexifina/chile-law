@@ -1,0 +1,4 @@
+ART. 294 TER.
+Cuando la cosa usada como instrumento por una organización delictiva o criminal o que resulte de dichos delitos sea dinero o haya sido enajenada, perdida u ocultada, el juez deberá imponer comiso sustitutivo por un valor equivalente.
+El comiso por valor equivalente sólo procederá como consecuencia adicional a la pena. En la determinación del valor equivalente de la cosa a ser decomisada no podrán descontarse los gastos que han sido necesarios para perpetrar el hecho. El valor equivalente se extenderá, asimismo, a los frutos o utilidades de los efectos del hecho.
+El Ministerio Público deberá solicitar la aplicación del comiso por valor equivalente en la oportunidad procesal prevista para solicitar el comiso de ganancias, y la discusión sobre el monto del valor equivalente tendrá lugar en la oportunidad procesal prevista para la determinación de la magnitud del comiso de ganancias.

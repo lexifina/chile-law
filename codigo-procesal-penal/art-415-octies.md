@@ -1,0 +1,3 @@
+Artículo 415 octies.- Recursos. Contra la sentencia definitiva podrá interponerse el recurso de nulidad previsto en el Título IV del Libro III, en cuanto se pretenda la impugnación de la imposición o denegación del comiso. Si lo impugnado fuere el monto procederá el recurso de apelación, el cual podrá en su caso interponerse en subsidio del recurso de nulidad.
+El fiscal requirente y el querellante, en su caso, sólo podrán recurrir si concurrieron al juicio.
+El tribunal que conozca del recurso podrá decretar la nulidad de la audiencia prevista en el artículo 415 sexies o, de tratarse exclusivamente de un error de derecho, anulará la sentencia y dictará sentencia de reemplazo.
