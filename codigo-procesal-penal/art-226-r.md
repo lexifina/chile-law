@@ -1,0 +1,1 @@
+Artículo 226 R.- Medidas de protección complementarias. Las medidas de protección antes descritas podrán ir acompañadas de otras medidas complementarias que se estimen idóneas en función del caso, si fuere necesario.

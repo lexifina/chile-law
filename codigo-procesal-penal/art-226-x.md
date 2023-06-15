@@ -1,0 +1,1 @@
+Artículo 226 X.- Regla especial referida a delitos terroristas. Cuando se hayan cometido o preparado la comisión de los delitos sancionados en la ley Nº 18.314, las diligencias especiales de investigación previstas en este Párrafo podrán ser utilizadas por el fiscal, sea que se trate de una persona, de una agrupación de dos o más personas o de una asociación delictiva o criminal.

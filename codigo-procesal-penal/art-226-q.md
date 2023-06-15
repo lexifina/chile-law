@@ -1,0 +1,1 @@
+Artículo 226 Q.- Protección policial. De oficio o a petición del interesado, durante el desarrollo del juicio o incluso una vez que éste ha finalizado, si las circunstancias de peligro se mantienen el fiscal o el tribunal otorgarán protección policial a quien la necesite, de conformidad con lo prevenido en el artículo 308.

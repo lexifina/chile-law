@@ -1,0 +1,2 @@
+Artículo 225 quáter.- Ampliación del registro. Cuando al ejecutarse el acceso remoto surjan motivos para creer que los contenidos buscados están almacenados en otro sistema informático o en una parte de él, el juez de garantía, a petición fundada del Ministerio Público, podrá autorizar la ampliación de los términos del acceso remoto.
+La resolución judicial que autorice la ampliación del registro deberá especificar los antecedentes señalados en el artículo anterior, que resulten pertinentes para el desarrollo de la ampliación.
