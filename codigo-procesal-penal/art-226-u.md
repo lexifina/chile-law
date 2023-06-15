@@ -1,0 +1,2 @@
+Artículo 226 U.- Valoración de la prueba y condena. El tribunal valorará el testimonio de agentes encubiertos, agentes reveladores e informantes conforme a las reglas de la sana crítica.
+En ningún caso el tribunal podrá fundar la condena únicamente en declaraciones realizadas por agentes encubiertos, agentes reveladores, informantes y testigos protegidos respecto de los cuales se haya decretado la prohibición de revelación de su identidad.
