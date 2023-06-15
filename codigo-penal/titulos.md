@@ -66,7 +66,7 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 §7° bis. De la corrupción entre particulares
 § VIII. De las infracciones de las leyes y reglamentos relativos a las armas prohibidas.
 § IX. Delitos relativos a la salud animal y vegetal.
-§ X. De las asociaciones ilícitas.
+§ 10. De las asociaciones delictivas y criminales
 § XI. De las amenazas de atentado contra las personas y propiedades.
 § XII. De la evasión de los detenidos y el ingreso de los elementos que se señalan a los recintos penitenciarios.
 § XIII. De la vagancia y mendicidad. Derogado.-

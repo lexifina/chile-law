@@ -1,0 +1,1 @@
+Artículo 226 T.- Violación del secreto de la investigación y de la identidad. La violación del secreto de la investigación y de la identidad de las personas a que se refieren los artículos precedentes será castigada con presidio menor en su grado máximo e inhabilitación absoluta perpetua para cargos u oficios públicos.
