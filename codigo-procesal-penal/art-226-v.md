@@ -1,0 +1,1 @@
+Artículo 226 V.- Protección de las víctimas. Es deber del Ministerio Público y de las policías otorgar protección a las víctimas de delitos o de amenazas emanadas de asociaciones delictivas o criminales. El fiscal podrá utilizar o solicitar, según sea el caso, la aplicación de las medidas previstas en este Párrafo, aun cuando la víctima no intervenga como testigo o informante.
