@@ -1,3 +1,0 @@
-ART. 295 BIS.
-Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
-Quedará exento de las penas a que se refiere este artículo el cónyuge, el conviviente civil, los parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, y el padre, hijo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.

@@ -1,0 +1,2 @@
+Artículo 415 bis.- Ámbito de aplicación. Las reglas de este Título son aplicables en los casos en que la ley dispone el comiso de bienes o activos obtenidos a través de la comisión del hecho ilícito o utilizados en su perpetración sin sujetar su procedencia a la dictación de una sentencia condenatoria relativa al hecho.
+Es competente para conocer del procedimiento relativo al comiso sin condena el tribunal que haya dictado la resolución que ponga término a la investigación o juicio respectivo.
