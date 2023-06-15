@@ -1,0 +1,1 @@
+Artículo 226 I.- Prohibición de la inducción a la perpetración de delitos. El agente encubierto, el agente revelador y los funcionarios que participen en una entrega vigilada o en otra medida dispuesta de conformidad a este Párrafo, no podrán inducir a la perpetración de delitos que, de otro modo, no habrían sido cometidos por éste.
