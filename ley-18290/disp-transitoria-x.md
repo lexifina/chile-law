@@ -1,1 +1,0 @@
-Artículo transitorio.- Durante el primer año de vigencia de la presente ley, no será exigible a los conductores de los vehículos empleados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, el contar con la licencia especial Clase F.
