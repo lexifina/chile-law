@@ -1,0 +1,1 @@
+Artículo 11.- Los solicitantes de perfeccionamiento del título de derechos de aprovechamiento de aguas que hayan presentado su requerimiento previo a la vigencia del artículo 170 bis podrán voluntariamente someterse al nuevo procedimiento dispuesto en ese artículo, y harán constar el desistimiento o renuncia en sede judicial.
