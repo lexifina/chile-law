@@ -1,0 +1,2 @@
+Artículo vigésimo tercero.- Para efectos de lo dispuesto en el artículo 64 bis, mientras esté pendiente el plazo establecido en el inciso segundo del artículo segundo transitorio no será exigible que los operadores deban estar inscritos o incorporados en el Registro de operadores de servicios sanitarios rurales.
+Asimismo, lo dispuesto en el inciso cuarto del artículo 64 bis será aplicable después de transcurrido el plazo contenido en el inciso segundo del artículo segundo transitorio.
