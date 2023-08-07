@@ -1,0 +1,1 @@
+Los fabricantes, productores, distribuidores e importadores de bebidas alcohólicas deberán informar en los envases o etiquetas de éstas, la cantidad de energía presente en ellas. Dicha obligación no obsta al cumplimiento de la normativa específica en materia de producción, elaboración, rotulación y comercialización de bebidas alcohólicas.
