@@ -1,0 +1,2 @@
+Artículo 286 N.- Votación sobre la propuesta de Acuerdo. Los acreedores reconocidos en el procedimiento podrán pronunciarse sobre la propuesta de Acuerdo mediante una presentación al tribunal, en que conste el voto de los acreedores.
+Los acreedores podrán votar desde la publicación del informe del Veedor sobre la propuesta de Acuerdo en el Boletín Concursal o desde el plazo establecido para ello, en caso de que no la presente y hasta el término del día fijado para la votación del Acuerdo de Reorganización Judicial.
