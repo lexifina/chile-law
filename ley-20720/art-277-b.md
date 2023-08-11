@@ -1,0 +1,1 @@
+Artículo 277 B.- Término del periodo de verificación ordinaria de créditos. Vencido el plazo de quince días señalado en el artículo 277, se entenderá cerrado de pleno derecho el período ordinario de verificación de créditos.

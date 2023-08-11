@@ -1,0 +1,1 @@
+Artículo 277 A.- Acreedores prestadores de Servicios de Utilidad Pública. Lo preceptuado en el artículo precedente también será aplicable a los acreedores que presten Servicios de Utilidad Pública conforme al artículo 171.

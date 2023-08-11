@@ -21,7 +21,7 @@ Párrafo 3. De la aprobación y vigencia del Acuerdo de Reorganización Judicial
 Párrafo 4. De los efectos del Acuerdo de Reorganización Judicial
 Párrafo 5. Del rechazo del Acuerdo de Reorganización Judicial
 Párrafo 6. De la nulidad y declaración de incumplimiento del Acuerdo de Reorganización Judicial
-Título 3. Del Acuerdo de Reorganización Extrajudicial o Simplificado
+Título 3. Del Acuerdo de Reorganización Extrajudicial
 CAPÍTULO IV DEL PROCEDIMIENTO CONCURSAL DE LIQUIDACIÓN
 Título 1. Del Procedimiento Concursal propiamente tal
 Párrafo 1. De la Liquidación Voluntaria
@@ -48,11 +48,12 @@ Párrafo 2. De los pagos administrativos
 Párrafo 3. De los repartos de fondos
 Párrafo 4. Del término del Procedimiento Concursal de Liquidación
 Párrafo 5. Del término del Procedimiento Concursal de Liquidación por Acuerdo de Reorganización Judicial
-CAPÍTULO V DE LOS PROCEDIMIENTOS CONCURSALES DE LA PERSONA DEUDORA
+CAPÍTULO V DE LOS PROCEDIMIENTOS CONCURSALES ESPECIALES
 Título 1. Del Procedimiento Concursal de Renegociación de la Persona Deudora.
-Título 2. Del Procedimiento Concursal de Liquidación de los Bienes de la Persona Deudora
-Párrafo 1. De la Liquidación Voluntaria de los Bienes de la Persona Deudora
-Párrafo 2. De la Liquidación Forzosa de los Bienes de la Persona Deudora
+Título 2. Del Procedimiento Concursal de Liquidación Simplificada
+Párrafo 1. Del Procedimiento Concursal de Liquidación Voluntaria Simplificada
+Párrafo 2. Del Procedimiento Concursal de Liquidación Forzosa Simplificada
+Título 3 Del Procedimiento Concursal de Reorganización Simplificada.
 CAPÍTULO VI DE LAS ACCIONES REVOCATORIAS CONCURSALES
 Título 1. De los actos ejecutados o contratos suscritos por Empresas Deudoras
 Título 2. De la revocación de los actos ejecutados o contratos celebrados por una Persona Deudora
