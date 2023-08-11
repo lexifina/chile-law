@@ -1,0 +1,1 @@
+Artículo 96 A.- Término del Procedimiento Concursal de Reorganización. Se entenderá terminado el Procedimiento Concursal de Reorganización una vez publicada en el Boletín Concursal la resolución que aprueba la cuenta final de gestión del procedimiento, la que deberá presentarse de conformidad al artículo 29.
