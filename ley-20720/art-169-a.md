@@ -1,0 +1,10 @@
+Artículo 169 A.- Declaración de mala fe. En cualquier etapa del procedimiento y mientras no se encontrare firme o ejecutoriada la resolución de término, el Liquidador deberá solicitar al tribunal que declare la mala fe del Deudor. Cualquier acreedor podrá efectuar la misma solicitud. Para ello debe concurrir alguna de las siguientes circunstancias:
+1. Cuando los antecedentes documentales o la indicación de los activos del Deudor informados de conformidad a los artículos 115 o 273 A, fueren incompletos o falsos.
+2. Cuando el Deudor, dentro de los dos años anteriores o durante el Procedimiento Concursal, hubiere destruido u ocultado información o antecedentes documentales.
+3. Cuando el Deudor, dentro de los dos años anteriores o durante el Procedimiento Concursal, hubiere realizado actos que impliquen la distracción u ocultación de bienes o derechos de su patrimonio.
+4. Cuando el tribunal hubiere acogido por medio de una sentencia firme o ejecutoriada una acción prevista en el Capítulo VI.
+5. Cuando el Deudor hubiere sido condenado, en el marco del mismo Procedimiento Concursal, por cualquiera de los delitos concursales previstos en el Párrafo 7 del Título IX del Libro Segundo del Código Penal.
+La solicitud a que se refiere el presente artículo se tramitará en cuaderno separado como incidente. La prueba se valorará de conformidad con las reglas de la sana crítica. En todo lo demás regirán las normas del Título IX del Libro Primero del Código de Procedimiento Civil.
+Tratándose de la circunstancia descrita en los numerales 4) y 5) del inciso primero, el tribunal resolverá la solicitud de plano.
+La resolución que acoja la solicitud y determine la mala fe del Deudor, deberá, valorando la gravedad de los hechos, determinar que, al término del procedimiento, no se extinguirán los saldos insolutos o sólo se extinguirá un porcentaje a prorrata respecto de todos los acreedores. Esta resolución sólo producirá los efectos señalados en este inciso.
+La resolución que falle este incidente será apelable en el solo efecto devolutivo.
