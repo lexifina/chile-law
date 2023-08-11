@@ -1,0 +1,1 @@
+Artículo 286 D.- Nueva fecha de votación. En caso de proceder la prórroga de la Protección Financiera Concursal de acuerdo con el artículo anterior, el tribunal competente deberá fijar en su resolución la nueva fecha para la votación de la propuesta de Acuerdo de Reorganización Judicial.
