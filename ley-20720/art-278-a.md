@@ -1,0 +1,4 @@
+Artículo 278 A.- De las formalidades de la Junta Extraordinaria. La Junta contará con la presencia del Liquidador, y actuará como ministro de fe el secretario del tribunal.
+El tribunal, antes de dar inicio a esta Junta, deberá dar cumplimiento a lo establecido en el artículo 190.
+De los puntos tratados, los acuerdos adoptados y demás materias que el tribunal estime pertinentes deberá dejarse constancia en un acta que será firmada por el secretario del tribunal y los acreedores que lo soliciten. Una copia autorizada de dicha acta será agregada al expediente por el tribunal y publicada en el Boletín Concursal por el Liquidador.
+Para efectos de los quórum para sesionar y para adoptar decisiones en estas Juntas Extraordinarias se estará a lo dispuesto en el Párrafo 7 del Título 1 del Capítulo IV.
