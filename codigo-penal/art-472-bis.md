@@ -1,0 +1,2 @@
+ART. 472 bis.-
+El que con abuso grave de una situación de necesidad, de la inexperiencia o de la incapacidad de discernimiento de otra persona, le pagare una remuneración manifiestamente desproporcionada e inferior al ingreso mínimo mensual previsto por la ley o le diere en arrendamiento un inmueble como morada recibiendo una contraprestación manifiestamente desproporcionada, será castigado con la pena de presidio o reclusión menor en cualquiera de sus grados.
