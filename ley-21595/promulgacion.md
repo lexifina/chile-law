@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
+Santiago, 7 de agosto de 2023.- GABRIEL BORIC FONT, Presidente de la República.- Luis Cordero Vega, Ministro de Justicia y Derechos Humanos.- Carolina Tohá Morales, Ministra del Interior y Seguridad Pública.- Mario Marcel Cullell, Ministro de Hacienda.- Nicolás Grau Veloso, Ministro de Economía, Fomento y Turismo.- María Heloísa Rojas Corradi, Ministra del Medio Ambiente.
+Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Jaime Gajardo Falcón, Subsecretario de Justicia.
