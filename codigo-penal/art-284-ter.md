@@ -1,0 +1,2 @@
+ART. 284 ter.-
+El que sin el consentimiento de su legítimo poseedor se aprovechare económicamente de un secreto comercial que hubiere conocido en alguna de las circunstancias previstas en los incisos primero o segundo del artículo 284 o en el artículo 284 bis, o sabiendo que su conocimiento del secreto proviene de alguno de esos hechos, será sancionado con presidio o reclusión menor en su grado máximo.
