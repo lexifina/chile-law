@@ -1,0 +1,9 @@
+TRIBUNAL CONSTITUCIONAL
+Proyecto de ley que modifica diversos cuerpos legales para ampliar la responsabilidad penal de las personas jurídicas, y regular el ejercicio de la acción penal, respecto de los delitos contra el orden socioeconómico que indica, correspondiente a los Boletines N° 13.204-07 y 13.205-07, refundidos
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados y Diputadas envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control preventivo de constitucionalidad respecto de los artículos 42; 47, inciso quinto; 49, número 1; 50, números 22 y 29; 59, número 2, letra a), y 64, inciso tercero, del Proyecto de Ley; y por sentencia de 1 de agosto de 2023, en los autos Rol Nº 14.455-23-CPR.
+Se declara:
+1°. Que los artículos 50, N° 2, y 64, inciso tercero, del proyecto de ley que sistematiza los delitos económicos y atentados contra el Medio Ambiente, modifica diversos cuerpos legales que tipifican delitos contra el orden socioeconómico, y adecua las penas aplicables a todos ellos, correspondiente a los Boletines N°s. 13.204-07 y 13.205-07, refundidos, son conformes con la constitución política de la República.
+2°. Que el artículo 47, inciso quinto, del Proyecto de Ley es constitucional en el entendido de lo señalado en el considerando trigésimo quinto.
+3°. Que el artículo 50 Nº 9 del Proyecto de Ley es constitucional en el entendido de lo señalado en el considerando trigésimo sexto.
+4°. Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, de las restantes disposiciones del Proyecto de Ley, por no versar sobre materias que inciden en ley orgánica constitucional.
+Santiago, 2 de agosto de 2023.- María Angélica Barriga Meza, Secretaria.
