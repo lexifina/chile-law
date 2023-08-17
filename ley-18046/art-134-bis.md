@@ -1,0 +1,2 @@
+Art. 134 bis.- Los que prevaliéndose de su posición mayoritaria en el directorio de una sociedad anónima adoptaren un acuerdo abusivo, para beneficiarse o beneficiar económicamente a otro, en perjuicio de los demás socios y sin que el acuerdo reporte un beneficio a la sociedad, serán sancionados con la pena de presidio o reclusión menores en cualquiera de sus grados.
+La misma pena se impondrá a los que prevaliéndose de su condición de controlador de la sociedad indujeren el acuerdo abusivo del directorio, o con su acuerdo o decisión concurrieren a su ejecución.
