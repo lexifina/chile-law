@@ -1,2 +1,3 @@
 ART. 247 bis.
 El empleado público que, haciendo uso de un secreto o información concreta reservada, de que tenga conocimiento en razón de su cargo, obtuviere un beneficio económico para sí o para un tercero, será castigado con la pena privativa de libertad del artículo anterior y multa del tanto al triplo del beneficio obtenido.
+Con las mismas penas serán castigados los que, ejerciendo alguna de las profesiones que requieren título, obtuvieren un beneficio económico para sí o para un tercero haciendo uso de los secretos que por razón de su profesión se les hubiere confiado. Tratándose de un abogado, si el hecho perjudicare a su cliente, se impondrán además las penas privativas de derechos señaladas en el artículo 231.
