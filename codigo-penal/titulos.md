@@ -69,7 +69,7 @@ TÍTULO SEXTO. DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD
 § 10. De las asociaciones delictivas y criminales
 § XI. De las amenazas de atentado contra las personas y propiedades.
 § XII. De la evasión de los detenidos y el ingreso de los elementos que se señalan a los recintos penitenciarios.
-§ XIII. De la vagancia y mendicidad. Derogado.-
+§ 13. Atentados contra el medio ambiente
 § XIV. Crímenes y Simples Delitos contra la Salud Pública.
 § XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones.
 § XV bis. Del ultraje de cadáver y sepultura.
