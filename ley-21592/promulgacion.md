@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
+Santiago, 10 de agosto de 2023.- GABRIEL BORIC FONT, Presidente de la República.- Álvaro Elizalde Soto, Ministro Secretario General de la Presidencia.- Carolina Tohá Morales, Ministra del Interior y Seguridad Pública.- Mario Marcel Cullell, Ministro de Hacienda.- Luis Cordero Vega, Ministro de Justicia y Derechos Humanos.
+Lo que transcribo a Ud., para su conocimiento.- Saluda Atte. a Ud., Macarena Lobos Palacios, Subsecretaria General de la Presidencia.
