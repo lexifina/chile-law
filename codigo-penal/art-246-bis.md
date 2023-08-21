@@ -1,0 +1,3 @@
+ART. 246 BIS.
+El funcionario público que revelare o consintiere que otro tomare conocimiento de uno o más hechos ventilados en un procedimiento judicial o administrativo sancionatorio o disciplinario en el cual le hubiere correspondido intervenir bajo un deber de reserva será sancionado con la pena de reclusión menor en cualquiera de sus grados y multa de diez a treinta unidades tributarias mensuales.
+Si la información a que se refiere el inciso anterior fuere la de la identidad del denunciante, la pena será de reclusión menor en sus grados medio a máximo y multa de veinte a treinta unidades tributarias mensuales.
