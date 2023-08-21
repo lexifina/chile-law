@@ -1,0 +1,2 @@
+ART. 211 BIS.
+Para efectos de lo dispuesto en el artículo precedente se entenderá que constituyen infracción administrativa los hechos por los que la administración o los tribunales que no ejercen jurisdicción en lo penal pueden imponer multas u otras sanciones privativas o restrictivas de derechos patrimoniales o civiles, e infracción disciplinaria los hechos por los que se imponen sanciones por la contravención de las normas que regulan el correcto ejercicio de los cargos y funciones públicos.
