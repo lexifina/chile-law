@@ -1,0 +1,1 @@
+Artículo 88 C.- No serán aplicables los artículos 88 A y 88 B respecto del funcionario que realice su denuncia a través del Canal de Denuncias de la Contraloría General de la República establecido en la ley que establece un estatuto de protección en favor del denunciante. En dicho caso, serán aplicables las disposiciones contenidas en los títulos II, III y IV de dicha ley.
