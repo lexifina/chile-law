@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de ley que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, correspondiente al Boletín N° 9404-12
+La Secretaria Abogada del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de sus artículos 9; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 30 incisos segundo y final; 55 inciso final; 65 inciso final; 66; 81; 82; 125; 134; 135; 139; y 144 N° 8; del proyecto de ley; y por sentencia de 10 de agosto de 2023, en los autos Rol Nº 14.480-23-CPR.
+Se declara:
+1°. Que los artículos 11; 13; 14 incisos primero, segundo y tercero; 17 inciso segundo; 20 inciso final; 21; 125 incisos cuarto, primera parte, y final; 134 inciso primero; 135; 139; y 144, N° 8, literal a), del proyecto de ley que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, correspondiente al Boletín N° 9404-12, son conformes con la Constitución Política de la República.
+2°. Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, de las restantes disposiciones del proyecto de ley, por no versar sobre materias que inciden en Ley Orgánica Constitucional.
+Santiago, 11 de agosto de 2023.- María Angélica Barriga Meza, Secretaria Abogada del Tribunal Constitucional.

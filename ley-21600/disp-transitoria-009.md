@@ -1,0 +1,1 @@
+Artículo noveno.- Las funciones y atribuciones del Servicio establecidas en la letra b) del artículo 5° entrarán en vigencia al tercer año, contado desde la entrada en funcionamiento del Servicio, cuando recaigan en áreas protegidas del Estado de las categorías Parque Nacional, Reserva Nacional y Monumento Natural.

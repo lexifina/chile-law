@@ -1,0 +1,1 @@
+Artículo undécimo.- Estarán exentos del requisito establecido en la letra a) del inciso segundo del artículo 77 los guardaparques que hubieren sido traspasados desde la Corporación Nacional Forestal, o de su sucesor legal, al Servicio de Biodiversidad y Áreas Protegidas.
