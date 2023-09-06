@@ -1,1 +1,1 @@
-Artículo 28.- Corresponderá al Servicio Agrícola y Ganadero fiscalizar el cumplimiento de esta ley y su reglamento.
+Artículo 28.- Corresponderá al Servicio Agrícola y Ganadero fiscalizar el cumplimiento de esta ley y su reglamento, sin perjuicio de las atribuciones de fiscalización del Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, en las áreas que forman parte del Sistema Nacional de Áreas Protegidas, así como en sitios prioritarios, ecosistemas amenazados y áreas degradadas.
