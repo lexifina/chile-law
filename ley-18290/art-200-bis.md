@@ -1,0 +1,3 @@
+Artículo 200 bis.- Se prohíbe la venta y carga al público de combustible a los vehículos motorizados que no cuenten con su placa patente delantera o trasera.
+Las estaciones de servicio y de autoservicio deberán exhibir carteles visibles que indiquen expresamente la prohibición de venta y carga de combustible a los vehículos que no cuenten con su placa patente señalados en el inciso anterior.
+La contravención a lo dispuesto en este artículo será castigada con multa de 10 a 100 unidades tributarias mensuales y se aplicará al concesionario o dueño de la estación de servicio. Al que reiterare la conducta se le aplicará siempre el máximo de la multa.
