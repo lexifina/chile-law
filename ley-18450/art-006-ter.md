@@ -1,0 +1,3 @@
+Artículo 6 ter.- Para proyectos extraprediales, la Comisión podrá solicitar, en los respectivos concursos, que los postulantes implementen medidas de difusión del proyecto y del alcance de las inversiones previstas en él, dirigidas a las personas que residan en las comunas donde se emplace el proyecto.
+Asimismo, la Comisión podrá requerir en los respectivos concursos que los proyectos extraprediales contemplen medidas para mitigar los impactos ambientales que éstos puedan producir, tales como abrevaderos para fauna, sistemas para recarga de acuíferos, u otras de similar naturaleza, así como obras de captación para el control de incendios.
+Todas las medidas señaladas en este artículo formarán parte del costo del proyecto y serán susceptibles de bonificación.

@@ -1,0 +1,2 @@
+Artículo 3 bis.- La Comisión Nacional de Riego podrá gestionar programas especiales en conjunto con el Instituto de Desarrollo Agropecuario, destinados a los potenciales beneficiarios a que se refiere la letra a) del artículo 1.
+La Comisión y el Instituto de Desarrollo Agropecuario deberán suscribir los convenios que sean necesarios para coordinar los mencionados programas especiales, incluyendo el aporte financiero de cada institución.
