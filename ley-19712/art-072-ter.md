@@ -1,0 +1,9 @@
+Artículo 72 ter.- La Sala Revisora deberá conocer y resolver los recursos impetrados en contra de las decisiones y demás resoluciones dictadas por la Sala de Audiencias y la Sala de AUT, conforme a las normas de procedimiento establecidas en el acuerdo de funcionamiento del Panel de Expertos en Dopaje.
+La Sala Revisora estará conformada por cinco miembros, los que durarán cuatro años en el ejercicio de sus cargos, pudiendo ser reelegidos por un período consecutivo.
+Los miembros de la Sala Revisora serán designados de la siguiente manera:
+a) Tres miembros serán abogados, con experiencia profesional mínima de tres años, en el ámbito del derecho público, derecho deportivo o ejercicio de la función jurisdiccional, los cuales serán nombrados por el Colegio de Abogados con mayor número de afiliados del país.
+b) Un miembro será médico, con experiencia profesional mínima de tres años, preferentemente en especialidades relacionadas con el deporte y el antidopaje, designado por la Sociedad Chilena de Medicina del Deporte.
+c) Un integrante será químico farmacéutico o bioquímico, designado por el Colegio de Químicos Farmacéuticos y Bioquímicos de Chile con mayor número de afiliados del país.
+La Sala Revisora elegirá, de entre sus miembros abogados, a un presidente y un secretario. Corresponderá al presidente la programación de las audiencias, la integración de la Sala y toda otra función que expresamente le encomiende el acuerdo de funcionamiento que se dicte conforme a las normas de la presente ley.
+Corresponderá al secretario actuar como ministro de fe de las actuaciones de la misma, la recepción y registro de todas las causas que ingresen para el conocimiento de ella y toda otra función que expresamente le encomiende el acuerdo de funcionamiento que se dicte conforme a las normas de la presente ley.
+Desempeñará el cargo de presidente del Panel el abogado que haya sido electo en el cargo de presidente de la Sala Revisora.
