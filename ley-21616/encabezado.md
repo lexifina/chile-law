@@ -1,0 +1,4 @@
+LEY NÚM. 21.616
+CREA CONVENIOS DE PAGO PARA ALIVIANAR LA DEUDA ASOCIADA A LOS PRÉSTAMOS SOLIDARIOS PARA TRANSPORTISTAS CONTEMPLADOS EN LAS LEYES Nº 21.256 Y Nº 21.323
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+Proyecto de ley:
