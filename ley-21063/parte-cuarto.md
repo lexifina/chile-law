@@ -1,1 +1,1 @@
-Artículo cuarto.- La primera licitación para la adjudicación del servicio de la entidad administradora del Fondo será convocada por la Superintendencia de Seguridad Social dentro de los seis meses siguientes a la entrada en vigencia de la presente ley.
+Artículo cuarto.- Derogado.
