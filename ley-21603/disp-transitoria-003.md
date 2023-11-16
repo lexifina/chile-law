@@ -1,0 +1,1 @@
+Artículo tercero.- Dentro del plazo de treinta días desde la entrada en vigencia de la presente ley, la Comisión podrá determinar el reajuste de las remuneraciones que hayan sido fijadas en virtud de lo señalado en la disposición trigésimo octava transitoria de la Constitución Política de la República.
