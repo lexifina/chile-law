@@ -1,0 +1,4 @@
+Artículo 40 U.- Si las conductas descritas en los artículos 287 bis, 287 ter, 463, 463 bis, 463 ter, 463 quáter, 470, números 1 y 11, y 473 del Código Penal son realizadas por quien desempeñe algún tipo de función en una organización deportiva de aquellas contempladas en esta ley o en la ley N°20.019, que regula las sociedades anónimas deportivas profesionales, cualquiera que sea su denominación, la pena asignada al delito respectivo deberá imponerse conjuntamente con la pena accesoria de inhabilitación absoluta y perpetua para ejercer cargos, empleos, oficios o profesiones en organizaciones deportivas. Esta pena produce:
+1. La privación de todos los cargos, empleos, oficios y profesiones ejercidos en organizaciones deportivas.
+2. La incapacidad perpetua para obtener cargos, empleos, oficios y profesiones en organizaciones deportivas.
+En este caso, una vez que esté ejecutoriada la sentencia definitiva, el tribunal la comunicará al Instituto Nacional del Deporte.
