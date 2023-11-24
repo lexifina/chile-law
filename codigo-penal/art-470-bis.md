@@ -1,0 +1,2 @@
+ART. 470 BIS.
+Se impondrán respectivamente las penas señaladas en el artículo 467, aumentadas en un grado, al que mediante engaño dispusiera a otro a celebrar cualquiera clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio o la concesión del uso y goce de un sitio, lote o terreno sin tener título legítimo de dominio o posesión, ni autorización del que lo detenta legítimamente para celebrar actos o contratos, siempre que le ocasione un perjuicio patrimonial a la víctima.
