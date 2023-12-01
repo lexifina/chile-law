@@ -10,4 +10,5 @@ Párrafo 8º De la Comisión de Usuarios
 Párrafo 9° De la Inversión de los Fondos de Cesantía y de Cesantía Solidario
 TITULO II Disposiciones Generales
 Título III Del Sistema de Información Laboral y la Bolsa Nacional de Empleo
+TÍTULO IV De las prestaciones en caso de estado de catástrofe por calamidad pública, zona afectada por catástrofe o alerta sanitaria
 Disposiciones Transitorias
