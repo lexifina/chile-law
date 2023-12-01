@@ -1,0 +1,1 @@
+Artículo sexto.- El Servicio Nacional de Capacitación y Empleo deberá elaborar el primer reporte anual a que se refiere el inciso final del artículo 25 bis, durante el primer trimestre del año 2024, y el reporte adicional que debe emitirse cada tres años, regulado en el mismo inciso, deberá ser elaborado por primera vez en el primer trimestre del año 2027.
