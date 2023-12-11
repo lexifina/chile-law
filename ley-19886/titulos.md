@@ -9,4 +9,5 @@ PARRAFO 5 Del registro de contratistas
 CAPITULO IV De las compras y contrataciones por medios electrónicos y del sistema de información de las compras y contrataciones de los organismos públicos
 CAPITULO V Del Tribunal de Contratación Pública
 CAPITULO VI De la Dirección de Compras y Contratación Pública
+CAPITULO VII De la probidad administrativa y transparencia en la contratación pública
 Artículos Transitorios
