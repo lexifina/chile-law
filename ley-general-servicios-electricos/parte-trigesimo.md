@@ -1,0 +1,1 @@
+Artículo trigésimo.- Lo dispuesto en el inciso quinto del artículo 193 se aplicará al proceso de fijación de fórmulas tarifarias aplicables a los suministros sujetos a precios regulados efectuados por las empresas concesionarias de distribución correspondientes al cuadrienio noviembre 2024 - noviembre 2028.
