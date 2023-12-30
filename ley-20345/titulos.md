@@ -13,3 +13,4 @@ Capítulo II De los fondos de garantía
 TÍTULO V DE LA LIQUIDACIÓN Y PROCEDIMIENTO CONCURSAL DE LIQUIDACIÓN DE LAS SOCIEDADES ADMINISTRADORAS
 TÍTULO VI Del préstamo de valores
 TÍTULO VII Disposiciones varias
+Título VIII Reconocimiento de entidades de contraparte central extranjeras
