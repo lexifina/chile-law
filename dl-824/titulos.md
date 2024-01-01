@@ -17,7 +17,7 @@ TITULO III Del Impuesto Global Complementario
 Párrafo 1° De la materia y tasa del impuesto
 Párrafo 2° De la base imponible
 TITULO IV Del impuesto adicional
-TITULO IV BIS Impuesto específico a la actividad minera
+TITULO IV BIS Impuesto específico a la actividad minera Derogado.
 TITULO V De la administración del impuesto
 Párrafo 1° De la declaración y pago anual
 Párrafo 2° De la retención del impuesto
