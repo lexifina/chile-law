@@ -9,8 +9,10 @@ TITULO II Procedimiento
 Párrafo 1º Disposiciones generales
 Párrafo 2º Sistema de justicia especializada
 Párrafo 3º De las medidas cautelares personales
-Párrafo 4º Inicio de la persecución de la responsabilidad por la infracción a la ley penal por parte de un adolescente
-Párrafo 5º Juicio oral y sentencia
+Párrafo 4° De las salidas alternativas al procedimiento
+Párrafo 5º De la mediación
+Párrafo 6º Inicio de la persecución de la responsabilidad por la infracción a la ley penal por parte de un adolescente
+Párrafo 7º Juicio oral y sentencia
 TITULO III De la ejecución de las sanciones y medidas
 Párrafo 1º Administración
 Párrafo 2º Derechos y garantías de la ejecución

@@ -1,0 +1,1 @@
+Art. 16 ter.- La Corte Suprema, con informe favorable de la Comisión de Coordinación del Sistema de Justicia Penal establecida en el artículo 12 ter de la ley N° 19.665, podrá ampliar el número de salas especializadas de que trata el artículo precedente, con sujeción a la planta de personal.

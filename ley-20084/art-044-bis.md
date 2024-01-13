@@ -1,0 +1,3 @@
+Artículo 44 bis.- Régimen en internación provisoria. La internación provisoria se ejecutará en términos compatibles con la presunción de inocencia de la que goza el adolescente imputado.
+Lo dispuesto en el inciso precedente considerará actividades que favorezcan el desarrollo de hábitos que posibiliten una convivencia respetuosa de los derechos de los demás; la atención en problemas de salud; la participación en actividades educativas, de nivelación o reforzamiento escolar, deportivas o de apresto laboral, y el contacto permanente con la familia.
+Se deberán considerar, además, acciones que orienten o preparen al adolescente para el cumplimiento de las obligaciones que les impone el proceso y su preparación para el egreso, cuando corresponda.

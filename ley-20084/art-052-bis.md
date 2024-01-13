@@ -1,0 +1,1 @@
+Artículo 52 bis.- Incumplimiento. Si el condenado no se presentare a la ejecución de la condena o no concurriere a las citaciones que se le comuniquen para la determinación del plan de intervención se despachará orden de arresto, suspendiéndose el plazo señalado en el inciso primero del artículo 40 bis. La renuencia reiterada será tratada como quebrantamiento de condena.
