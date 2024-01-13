@@ -1,0 +1,2 @@
+Artículo 32 ter.- Cautelares previstas en leyes especiales. Las medidas accesorias previstas en el artículo 6° podrán ser impuestas como cautelares conforme a las reglas generales, debiendo en cualquier caso tener lugar lo dispuesto en el inciso segundo del artículo 25 bis de la presente ley.
+Asimismo, la prohibición de asistir a cualquier espectáculo de fútbol profesional y a sus inmediaciones también se podrá imponer como medida cautelar de conformidad con lo dispuesto en el artículo 15 de la ley Nº 19.327, de derechos y deberes en los espectáculos de fútbol profesional.
