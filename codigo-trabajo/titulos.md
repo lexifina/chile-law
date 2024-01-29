@@ -33,6 +33,7 @@ Párrafo 6º Del reglamento interno de orden, higiene y seguridad
 Capítulo VII Del Contrato de Tripulantes de Vuelo y de Tripulantes de Cabina de Aeronaves Comerciales de Pasajeros y Carga
 Capítulo VIII Del contrato de los teleoperadores
 Capítulo IX DEL TRABAJO A DISTANCIA Y TELETRABAJO
+Del derecho al trabajo a distancia o teletrabajo de las personas trabajadoras que desempeñan labores de cuidado no remunerado
 Capítulo X Del trabajo mediante plataformas digitales de servicios
 Párrafo I Definiciones
 Párrafo II Del Contrato de Trabajo de los trabajadores de plataformas digitales dependientes
@@ -53,7 +54,7 @@ Del contrato de trabajo de servicios transitorios
 Normas Generales
 LIBRO II DE LA PROTECCION A LOS TRABAJADORES
 Título I NORMAS GENERALES
-TITULO II DE LA PROTECCIÓN A LA MATERNIDAD, LA PATERNIDAD Y LA VIDA FAMILIAR
+TITULO II De la protección a la maternidad y la paternidad y la conciliación de la vida personal, familiar y laboral
 TITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES
 Título IV DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL
 Título V DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL
