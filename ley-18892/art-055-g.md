@@ -1,4 +1,4 @@
-Artículo 55 G.- Las organizaciones de pescadores
-artesanales titulares de un área de manejo podrán renunciar a ella en favor de otras organizaciones de pescadores artesanales inscritas de conformidad con el artículo 55 A.
-Para estos efectos, en el instrumento en el cual se efectúe la renuncia y cesión del área de manejo deberá constar la manifestación de voluntad de la mayoría absoluta de los integrantes de la respectiva organización de pescadores artesanales, debiendo, en todo caso, ser suscrito ante notario público.
-Asimismo la organización de pescadores artesanales que continúe explotando el área de manejo deberá estar constituida por, a lo menos, el 80% de los integrantes de la organización de pescadores artesanales renunciante.
+Artículo 55 G.- Las organizaciones de pescadores y/o pescadoras artesanales titulares de un área de manejo que modifiquen su personalidad jurídica, podrán mantener la titularidad del área y continuar las actividades del plan de manejo a partir de la etapa en que éstas se encuentren autorizadas, de conformidad con lo dispuesto en el artículo 55 A.
+Para estos efectos, el instrumento en el que se efectúe el reemplazo de titularidad deberá ser suscrito en asamblea ante un ministro de fe, con acuerdo de la mayoría absoluta de los socios inscritos a la fecha.
+La organización de pescadores y/o pescadoras artesanales reemplazante que continúe explotando el área de manejo deberá estar constituida por, a lo menos, el 80% de los integrantes de la organización de pescadores y/o pescadoras artesanales reemplazada.
+El reemplazo de la titularidad del área de manejo deberá ser aprobado por resolución de la Subsecretaría, e incorporado por el Servicio al respectivo Convenio de Uso.
