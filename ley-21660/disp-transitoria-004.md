@@ -1,0 +1,1 @@
+Artículo cuarto.- El Ministerio del Medio Ambiente, en conjunto con el Ministerio de Economía, Fomento y Turismo, el Ministerio de Agricultura y el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, podrán destinar fondos a la búsqueda de un sustituto del musgo Sphagnum magellanicum como producto vegetal.
