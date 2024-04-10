@@ -1,0 +1,1 @@
+Artículo segundo.- El reglamento establecido en el artículo 5º deberá ser dictado dentro del plazo de dos años contado desde la publicación de la presente ley. Para la elaboración del reglamento se considerará la opinión de los diferentes actores de la cadena productiva.
