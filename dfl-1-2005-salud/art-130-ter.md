@@ -1,0 +1,4 @@
+Artículo 130 ter.- El Consejo estará constituido por cinco personas, de vasta experiencia profesional y/o académica comprobada, en materias de salud pública, economía de salud o derecho sanitario.
+Los consejeros durarán en su cargo el tiempo que requieran para su cometido en virtud de lo establecido en el artículo 130 bis.
+Los integrantes del Consejo tendrán derecho a percibir una dieta equivalente a quince unidades de fomento por cada sesión a la que asistan, con un máximo de sesenta unidades de fomento por cada mes calendario. Esta dieta será compatible con otros ingresos que perciba cada consejero.
+Les corresponderá a los consejeros designar a uno de ellos como presidente del Consejo, quien presidirá las sesiones. Asimismo, deberán elegir a uno de ellos como subrogante del presidente del Consejo.
