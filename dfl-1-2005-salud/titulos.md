@@ -46,6 +46,7 @@ Párrafo 3° De las controversias entre los beneficiarios y los seguros previsio
 TITULO IV De la Intendencia de Prestadores de Salud
 TITULO V De las normas comunes a ambas intendencias
 TITULO VI Disposiciones Finales
+CAPÍTULO VIII Del Consejo Consultivo sobre Seguros Previsionales de Salud
 LIBRO II REGULA EL EJERCICIO DEL DERECHO CONSTITUCIONAL A LA PROTECCIÓN DE LA SALUD Y CREA UN RÉGIMEN DE PRESTACIONES DE SALUD
 TITULO PRELIMINAR Normas Generales
 TITULO I De los Afiliados y Beneficiarios
