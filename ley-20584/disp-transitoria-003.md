@@ -1,0 +1,1 @@
+Artículo tercero.- El Ministerio de Salud deberá actualizar el reglamento contemplado en el artículo 13, en el plazo de dieciocho meses contado desde la entrada en vigencia de la modificación a dicho artículo, la que establece el deber de adoptar medidas tendientes a la interoperabilidad de las fichas clínicas.
