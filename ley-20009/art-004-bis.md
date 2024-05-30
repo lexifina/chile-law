@@ -1,0 +1,2 @@
+Artículo 4 bis.- Los usuarios deberán informarse y adoptar todas las medidas necesarias para prevenir el uso indebido, el fraude u otros riesgos afines a la utilización de los medios de pago a que se refiere esta ley y los mecanismos de autenticación asociados.
+Para estos efectos, las entidades reguladas por esta ley deberán proporcionar, de manera periódica, clara, accesible y actualizada, toda la información necesaria sobre las medidas de seguridad y las instrucciones de uso seguro a sus usuarios, promoviendo las prácticas responsables en el manejo de los medios de pago.
