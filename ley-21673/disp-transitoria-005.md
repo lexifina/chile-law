@@ -1,0 +1,1 @@
+Artículo quinto.- Los procedimientos consagrados en la ley N° 20.009 , iniciados con anterioridad a la entrada en vigencia de la presente ley, se llevarán a cabo de conformidad con las normas vigentes al momento en que dicho procedimiento inició su tramitación.

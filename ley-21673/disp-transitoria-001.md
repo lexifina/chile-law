@@ -1,0 +1,1 @@
+Artículo primero.- La modificación introducida por el literal b del numeral 3 del artículo 1° de esta ley comenzará a regir al momento de la publicación de la modificación al reglamento que materialice dicha modificación, la que deberá ser dictada dentro de los seis meses siguientes a la publicación de la presente ley.
