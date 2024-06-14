@@ -1,0 +1,1 @@
+Artículo tercero.- La Comisión de Articulación Interinstitucional para Abordar la Violencia de Género establecida en el artículo 23 comenzará a funcionar seis meses después de la dictación de su reglamento. Esta Comisión será para todo efecto la continuadora de las tareas que actualmente ejecuta el Circuito Intersectorial del Femicidio.
