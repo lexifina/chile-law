@@ -1,0 +1,1 @@
+Artículo quinto.- El Ministerio de la Mujer y la Equidad de Género, en el mes de marzo de los cuatro años siguientes a la publicación de esta ley, entregará un informe anual acerca del estado de avance de su implementación. Este se presentará en una sesión conjunta de las comisiones que tratan los asuntos relativos a las mujeres en la Cámara de Diputados y en el Senado.".
