@@ -1,0 +1,7 @@
+Tribunal Constitucional
+Proyecto de ley que estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres, en razón de su género, correspondiente al Boletín N° 11077-07
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputadas y Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerza el control de constitucionalidad respecto de sus artículos 9 N° 1, en la oración: "Estas medidas incluirán, al menos, los contenidos normativos existentes en materia de género y niñez, y se considerarán en la elaboración de los planes educacionales para contemplar una perspectiva de género", 12 y 41, inciso primero, y que esta Magistratura, por sentencia de 23 de mayo de 2024, en el proceso Rol Nº 15.368-24-CPR.
+Se declara:
+1º Que los artículos 9 N° 1 en la oración "Y se considerarán en la elaboración de los planes educacionales para contemplar una perspectiva de género" y 12, incisos segundo y tercero, del proyecto de ley que estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres, en razón de su género, contenido en el Boletín N° 11.077-07, son conformes con la Constitución Política.
+2º Que no se emite pronunciamiento, en examen preventivo de constitucionalidad, de las restantes disposiciones del proyecto de ley, por no versar sobre materias que inciden en Ley Orgánica Constitucional.
+Santiago, 24 de mayo de 2024.- María Angélica Barriga Meza, Secretaria Abogado.

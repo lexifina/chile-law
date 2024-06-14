@@ -1,0 +1,1 @@
+Artículo cuarto.- El Plan Nacional de Acción contra la Violencia de Género, al que alude el artículo 25, deberá aprobarse dentro de los seis meses siguientes a la primera sesión ordinaria de la Comisión de Articulación Interinstitucional para Abordar la Violencia de Género.
