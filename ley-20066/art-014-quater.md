@@ -1,0 +1,1 @@
+Artículo 14 quáter.- Circunstancia agravante del delito de maltrato habitual. Se considerará circunstancia agravante del delito contemplado en el artículo 14 el que sea cometido en presencia de niñas, niños o adolescentes.
