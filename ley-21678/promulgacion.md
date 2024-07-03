@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 18 de junio de 2024.- GABRIEL BORIC FONT, Presidente de la República.- Juan Carlos Muñoz Abogabir, Ministro de Transportes y Telecomunicaciones.- Nicolás Grau Veloso, Ministro de Economía, Fomento y Turismo.- Javiera Toro Cáceres, Ministra de Desarrollo Social y Familia.- Marcela Sandoval Osorio, Ministra de Bienes Nacionales.
+Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Claudio Araya San Martín, Subsecretario de Telecomunicaciones.
