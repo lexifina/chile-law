@@ -1,0 +1,1 @@
+Artículo cuarto.- La obligación establecida en el inciso final del artículo 28 C , incorporado por el número 17) del artículo único de esta ley, comenzará a regir transcurridos veinticuatro meses desde la publicación en el Diario Oficial de la presente ley.".
