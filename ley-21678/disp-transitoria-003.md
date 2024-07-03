@@ -1,0 +1,1 @@
+Artículo tercero.- El reglamento al que se refiere el artículo 26 ter deberá dictarse por el Ministerio de Transportes y Telecomunicaciones en el plazo de doce meses contado desde la publicación en el Diario Oficial de los reglamentos establecidos en la ley N° 21.663 , Ley Marco de Ciberseguridad.
