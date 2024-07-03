@@ -1,0 +1,1 @@
+Artículo primero.- A contar de la publicación de la presente ley, el derecho a que se refiere el inciso primero del artículo 18 de la ley N° 18.168 , General de Telecomunicaciones, no podrá ser ejercido para el despliegue de líneas aéreas sobre plazas públicas.
