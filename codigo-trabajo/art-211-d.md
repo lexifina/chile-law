@@ -1,1 +1,2 @@
 Artículo 211-D.- Las conclusiones de la investigación realizada por la Inspección del Trabajo o las observaciones de ésta a aquélla practicada en forma interna, serán puestas en conocimiento del empleador, el denunciante y el denunciado.
+Con todo, si la Inspección del Trabajo competente en el ejercicio de sus facultades toma conocimiento de una vulneración de derechos fundamentales deberá dar cumplimiento a lo dispuesto en el artículo 486, con excepción de lo consagrado en el inciso sexto respecto a las conductas establecidas en la letra a) del artículo 2.
