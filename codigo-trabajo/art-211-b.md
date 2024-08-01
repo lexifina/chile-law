@@ -1,2 +1,2 @@
-Artículo 211-B.- Recibida la denuncia, el empleador deberá adoptar las medidas de resguardo necesarias respecto de los involucrados, tales como la separación de los espacios físicos o la redistribución del tiempo de jornada, considerando la gravedad de los hechos imputados y las posibilidades derivadas de las condiciones de trabajo.
-En caso que la denuncia sea realizada ante la Inspección del Trabajo, ésta sugerirá a la brevedad la adopción de aquellas medidas al empleador.
+Art. 211-B.- Los procedimientos de investigación regulados en este párrafo deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
+Un Reglamento dictado por el Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, establecerá las directrices a las que deberán ajustarse las investigaciones.
