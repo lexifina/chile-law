@@ -56,7 +56,9 @@ LIBRO II DE LA PROTECCION A LOS TRABAJADORES
 Título I NORMAS GENERALES
 TITULO II De la protección a la maternidad y la paternidad y la conciliación de la vida personal, familiar y laboral
 TITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES
-Título IV DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL
+Título IV DE LA PREVENCIÓN, INVESTIGACIÓN Y SANCIÓN DEL ACOSO SEXUAL, LABORAL Y LA VIOLENCIA EN EL TRABAJO
+Párrafo 1° De la prevención del acoso sexual, laboral y la violencia en el trabajo
+Párrafo 2° De la investigación y sanción del acoso sexual, laboral y la violencia en el trabajo
 Título V DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL
 LIBRO III DE LAS ORGANIZACIONES SINDICALES
 Título I De las organizaciones sindicales
