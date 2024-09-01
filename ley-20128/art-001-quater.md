@@ -1,0 +1,4 @@
+Artículo 1 quáter.- Sin perjuicio de las obligaciones establecidas en los artículos 1 a 1 ter y en otras disposiciones legales, la Dirección de Presupuestos del Ministerio de Hacienda deberá informar anualmente a las Comisiones de Hacienda de la Cámara de Diputados y del Senado sobre las siguientes materias referidas a la eficiencia del gasto público:
+a) Resultados de las evaluaciones de programas terminadas en el período, de acuerdo con lo establecido en el artículo 52 del decreto ley Nº 1.263, de 1975, del Ministerio de Hacienda, orgánico de Administración Financiera del Estado y al reglamento correspondiente.
+b) Antecedentes relativos a la planificación estratégica de los organismos de la Administración del Estado.
+Dichos informes deberán, además, ser publicados en su página web institucional.
