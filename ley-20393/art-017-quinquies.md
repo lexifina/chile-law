@@ -1,0 +1,2 @@
+Artículo 17 quinquies.- Ejecución de la multa. La multa será ejecutada conforme a las reglas generales previstas por el Código Penal.
+Excepcionalmente, cuando su pago inmediato pueda poner en riesgo la continuidad del giro de la persona jurídica condenada o cuando así lo aconseje el interés social, el tribunal podrá autorizar que el pago de la multa se efectúe por parcialidades, dentro de un plazo que no exceda de veinticuatro meses.
