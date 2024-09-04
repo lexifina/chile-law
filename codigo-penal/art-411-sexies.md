@@ -1,5 +1,1 @@
-ART. 411 sexies.-
-El tribunal podrá reducir la pena en dos grados al imputado o acusado que prestare cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables, o que sirva para prevenir o impedir la perpetración o consumación de igual o mayor gravedad.
-Se entiende por cooperación eficaz el suministro de datos o informaciones precisas, verídicas y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
-Si con ocasión de la investigación de otro hecho constitutivo de delito, el fiscal correspondiente necesita tomar conocimiento de los antecedentes proporcionados por el cooperador eficaz, deberá solicitarlos fundadamente. El fiscal requirente, para los efectos de efectuar la diligencia, deberá realizarla en presencia del fiscal ante quien se prestó la cooperación, debiendo este último previamente calificar su conveniencia. El superior jerárquico común dirimirá cualquier dificultad que surja con ocasión de dicha petición y de su cumplimiento.
-La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
+ART. 411 sexies.- Derogado.
