@@ -1,0 +1,6 @@
+ART. 68 ter.-
+Si concurre una de las circunstancias agravantes previstas en el artículo 12, numerales 14º, 15º o 16º, el tribunal excluirá el grado mínimo si es compuesta o el mínimum si consta de un solo grado, salvo que reconozca la circunstancia prevista en el artículo 11, numeral 1° o numeral 9º, en cuyo caso podrá recorrer la pena en toda su extensión.
+La pena será determinada del mismo modo cuando, tratándose de delitos contra las personas, concurra la circunstancia prevista en el numeral 22º del artículo 12, siempre que no concurriere alguna de las atenuantes indicadas en el inciso primero.
+En el caso del inciso primero, a partir de la segunda condena en la que se reconozca al autor alguna de las agravantes previstas en el artículo 12, numerales 14º, 15º o 16º, la pena se aumentará en un grado, a menos que concurriere alguna de las atenuantes indicadas en el inciso primero.
+En los casos previstos en el inciso tercero, cuando la ley señalare al delito pena alternativa de multa, el tribunal aplicará la pena privativa de libertad determinada conforme a lo que en él se dispone.
+Sin perjuicio de lo dispuesto en este artículo, en caso de concurrir una cooperación eficaz, simple o calificada, la pena a imponerse al condenado podrá rebajarse conforme se dispone para ese tipo de colaboración.
