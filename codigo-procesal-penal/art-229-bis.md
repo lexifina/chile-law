@@ -1,0 +1,1 @@
+Artículo 229 bis.- Reformalización. Después de formalizada la investigación y hasta antes del vencimiento del plazo para el cierre de ésta, el fiscal podrá solicitar al juez de garantía la realización de una audiencia en fecha próxima para reformalizar la investigación, modificando, complementando o precisando los hechos y delitos que la integran.
