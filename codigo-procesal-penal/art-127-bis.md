@@ -1,0 +1,3 @@
+Artículo 127 bis.- El tribunal, a solicitud del Ministerio Público, decretará la detención respecto de quien tenga vigente una notificación roja de la Organización Internacional de Policía Criminal, para que sea conducido ante el juez dentro del plazo máximo de veinticuatro horas.
+En la audiencia el Ministerio Público podrá solicitar una ampliación del plazo de detención hasta por cinco días, con el fin de que pueda solicitarse la detención previa del imputado o iniciarse el proceso de extradición.
+Si ha transcurrido el plazo de la ampliación, sin que se haya solicitado la detención previa o iniciado el proceso de extradición, el juez de garantía deberá decretar la libertad inmediata del imputado.
