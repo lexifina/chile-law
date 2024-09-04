@@ -45,6 +45,7 @@ IV. Disposiciones comunes
 V. De las medidas de protección para agentes encubiertos, reveladores e informantes
 VI. Regla común al presente Párrafo
 Párrafo 4º Registros de la investigación
+Párrafo 4° bis De la cooperación eficaz con la investigación
 Párrafo 5º Formalización de la investigación
 Párrafo 6º Suspensión condicional del procedimiento y acuerdos reparatorios
 Párrafo 7º Conclusión de la investigación
