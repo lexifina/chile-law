@@ -1,1 +1,1 @@
-Artículo 129 E.- En contra de la sentencia de primera instancia no procederá el recurso de casación en la forma ni su anulación de oficio. Los vicios en que se hubiere incurrido deberán ser corregidos por la Corte de Apelaciones que corresponda.
+Artículo 129 E.- Derogado.
