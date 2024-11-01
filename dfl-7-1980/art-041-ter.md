@@ -1,0 +1,1 @@
+Artículo 41 ter.- La institución tendrá acceso, en todo caso, a la comunicaciones llevadas a cabo a través de cuentas de correo electrónico institucionales u otros mecanismos de intercambio de información que sean provistos por el Servicio a sus funcionarios, las que podrán ser revisadas por la institución en todo caso.
