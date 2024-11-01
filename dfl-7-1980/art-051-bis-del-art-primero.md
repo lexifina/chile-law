@@ -1,0 +1,1 @@
+Artículo 51 bis.- Cuando un funcionario del Servicio, en el ejercicio de sus labores, deba sostener una entrevista con el contribuyente o sus representantes, deberá estar acompañado por otro funcionario.
