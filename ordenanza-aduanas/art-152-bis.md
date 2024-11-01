@@ -1,0 +1,1 @@
+Artículo 152 bis.- Las mercancías que sean objeto de una investigación penal por más de un año, podrán ser declaradas susceptibles de destrucción. Antes de ello, se dejará una muestra representativa y se informará al Ministerio Público o al tribunal respectivo. El Ministerio Público tendrá un plazo de 5 días hábiles para oponerse, contado desde la recepción de dicha información.
