@@ -27,7 +27,7 @@ LIBRO TERCERO De la competencia para conocer de los asuntos contenciosos tributa
 TITULO I De la competencia para conocer de los asuntos contenciosos tributarios
 TITULO II Del procedimiento general de las reclamaciones
 TITULO III De los Procedimientos Especiales
-Párrafo 1°. Del procedimiento de reclamo de los avalúos de bienes raíces
+Párrafo 1°. Del procedimiento de reclamo de los avalúos de bienes raíces Eliminado.
 Párrafo 2°. Del procedimiento especial de reclamo por vulneración de derechos
 Párrafo 3° Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
 Párrafo 4° Del procedimiento de declaración judicial de la existencia de abuso o simulación y de la determinación de la responsabilidad respectiva
