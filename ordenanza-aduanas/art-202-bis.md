@@ -1,0 +1,1 @@
+Artículo 202 bis.- La responsabilidad disciplinaria prescribe en el plazo de 3 años contados desde el incumplimiento de la obligación y se interrumpe con la notificación del inicio del procedimiento al afectado. La comisión de un nuevo incumplimiento, dentro del mismo ejercicio comercial, hará perder el tiempo de prescripción transcurrido.
