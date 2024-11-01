@@ -1,0 +1,2 @@
+Artículo 88 bis.- Los vendedores habituales de bienes muebles usados, y otros casos análogos que el Director determine mediante resolución, deberán emitir un documento tributario que identifique a su proveedor, los bienes adquiridos y su cantidad. Estarán eximidos de esta obligación cuando el proveedor emita la respectiva factura que dé cuenta de la venta realizada.
+El incumplimiento de esta obligación será sancionado según el número 10 del artículo 97.
