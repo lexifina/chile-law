@@ -1,4 +1,4 @@
-Artículo 19.- Corresponderá a la Unidad Administradora la gestión administrativa de los Tribunales Tributarios y Aduaneros. Respecto de ellos tendrá las siguientes funciones:
+Artículo 19.- Corresponderá a la Unidad Administradora la gestión administrativa de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública. Respecto de los primeros tendrá las siguientes funciones:
 1º. Pago de servicios y de las remuneraciones del personal de los Tribunales Tributarios y Aduaneros;
 2º. Provisión de inmuebles;
 3º. Abastecimiento de materiales de trabajo y mobiliario;
