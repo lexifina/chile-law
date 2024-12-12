@@ -1,0 +1,1 @@
+Artículo 20 bis.- En el sistema de información y gestión señalado se deberán clasificar y codificar los bienes y servicios transados a través de él, y permitir el acceso público a la información que señale el reglamento, respecto de la adquisición de cada tipo de bien o servicio, en formato de datos abiertos.
