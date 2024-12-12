@@ -1,0 +1,2 @@
+Artículo 26 quáter.- La sentencia definitiva deberá dictarse en el plazo de diez días hábiles, contado desde la fecha de la resolución que cita a las partes a oír sentencia.
+En la sentencia definitiva, el tribunal se pronunciará fundadamente sobre la legalidad o arbitrariedad del acto u omisión respecto del cual se dedujo la acción de impugnación o del vicio en que se fundó la nulidad y ordenará, en su caso, las medidas que sean necesarias para restablecer el imperio del derecho.
