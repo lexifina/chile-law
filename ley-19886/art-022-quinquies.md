@@ -1,0 +1,2 @@
+Artículo 22 quinquies.- La remuneración mensual de los y las integrantes titulares del tribunal será la suma equivalente a la remuneración bruta mensualizada de carácter permanente de la renta del Grado VI del Escalafón Superior del Poder Judicial.
+Los y las integrantes suplentes, en su caso, recibirán la suma equivalente a un treintavo de la renta del Grado IV, correspondiente a Ministros de Corte de Apelaciones, por cada sesión a la que asistan.
