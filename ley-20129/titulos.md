@@ -10,8 +10,7 @@ Párrafo 3º Del patrimonio
 TITULO II De la acreditación institucional
 TITULO III De la acreditación de carreras y programas de pregrado
 Párrafo 1º De la acreditación obligatoria de carreras y programas de pregrado
-Párrafo 2º De la autorización y supervisión de las agencias de acreditación. Derogado
-Párrafo 3º De las obligaciones y sanciones. Derogado
+Párrafo 2° De la acreditación voluntaria de carreras y programas de pregrado
 TITULO IV De la acreditación de programas de postgrado
 TITULO V De las medidas de publicidad de las decisiones
 CAPITULO III Del Sistema Nacional de Información de la Educación Superior
