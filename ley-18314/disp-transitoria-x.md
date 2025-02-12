@@ -1,1 +1,0 @@
-Artículo transitorio.- Los procesos que actualmente se tramitan en conformidad a las disposiciones del decreto ley N° 3.627, de 1981, cuyo texto fue modificado por el decreto ley N° 3.655, de ese mismo año, continuarán siendo de conocimiento de los Tribunales que dicho texto legal establece.
