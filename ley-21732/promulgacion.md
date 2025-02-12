@@ -1,0 +1,2 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 4 de febrero de 2025.- GABRIEL BORIC FONT, Presidente de la República.- Carolina Tohá Morales, Ministra del Interior y Seguridad Pública.- Ernesto Muñoz Lamartine, Ministro de Justicia y Derechos Humanos (S). Lo que transcribo a Ud. para su conocimiento.- Atentamente, Luis Cordero Vega, Subsecretario del Interior.
