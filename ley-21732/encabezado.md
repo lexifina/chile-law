@@ -1,0 +1,5 @@
+LEY NÚM. 21.732
+DETERMINA CONDUCTAS TERRORISTAS, FIJA SU PENALIDAD Y DEROGA LA LEY Nº 18.314
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley que tuvo su origen en una moción de los Honorables Senadores señoras Paulina Vodanovic Rojas y Carmen Gloria Aravena Acuña, y señores Karim Bianchi Retamales, Javier Macaya Danús y Manuel José Ossandón Irarrázabal; en moción de los Honorables Senadores señor Jaime Quintana Leal, señora Paulina Vodanovic Rojas, y señores Pedro Araya Guerrero y Alfonso De Urresti Longton; en moción de los Honorables Senadores señores Iván Flores García, Fidel Espinoza Sandoval, Felipe Kast Sommerhoff, Sebastián Keitel Bianchi y Manuel José Ossandón Irarrázabal; en moción de los Honorables Senadores señores Francisco Chahuán Chahuán, José Manuel Rojo Edwards Silva y Rodrigo Galilea Vial, y en Mensaje de Su Excelencia el Presidente de la República,
+Proyecto de ley:
+"Ley que determina conductas terroristas y fija su penalidad, y deroga la ley Nº 18.314
