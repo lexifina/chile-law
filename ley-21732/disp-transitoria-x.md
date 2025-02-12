@@ -1,0 +1,5 @@
+Artículo transitorio.- Los hechos perpetrados con anterioridad a la entrada en vigencia de esta ley, así como las penas y las demás consecuencias que corresponda imponer por ellos, serán determinados conforme a la ley vigente al momento de su perpetración.
+Si esta ley entra en vigencia durante la perpetración del hecho se estará a lo dispuesto en ella, siempre que en la fase de perpetración posterior se realice íntegramente la nueva descripción legal del hecho.
+Si la aplicación de esta ley resulta más favorable al imputado o acusado por un hecho perpetrado con anterioridad a su entrada en vigencia, se estará a lo dispuesto en ella.
+Para determinar si la aplicación de esta ley resulta más favorable se deberán tomar en consideración todas las normas sustantivas en ella previstas que sean pertinentes al juzgamiento del hecho.
+Para efectos de lo dispuesto en los incisos primero y segundo precedentes, el delito se entiende perpetrado en el momento o durante el lapso en el cual se ejecuta la acción punible o se incurre en la omisión punible.".
