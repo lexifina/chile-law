@@ -11,6 +11,7 @@ Párrafo 5° Equipo Nacional de Respuesta a Incidentes de Seguridad Informática
 TÍTULO IV Coordinación regulatoria y otras disposiciones
 TÍTULO V Del Equipo de Respuesta a Incidentes de Seguridad Informática de la Defensa Nacional
 TÍTULO VI De la reserva de información en el sector público en materia de ciberseguridad
+TÍTULO VII De las infracciones y sanciones
 TÍTULO VIII Del Comité Interministerial sobre Ciberseguridad
 TÍTULO IX Órganos autónomos constitucionales
 TÍTULO X De las modificaciones a diversos cuerpos legales
