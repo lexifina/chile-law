@@ -1,0 +1,1 @@
+Artículo tercero.- Los reglamentos y decretos que establece esta ley deberán dictarse a más tardar dentro de los primeros doce meses contados desde la fecha de su publicación, sin perjuicio de lo dispuesto en los artículos siguientes.

@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el N° 1 del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+Santiago, 20 de marzo de 2025.- GABRIEL BORIC FONT, Presidente de la República.- Jeannette Jara Román, Ministra del Trabajo y Previsión Social.- Mario Marcel Cullell, Ministro de Hacienda.- Macarena Lobos Palacios, Ministra Secretaria General de la Presidencia.- Antonia Orellana Guarello, Ministra de la Mujer y la Equidad de Género.
+Lo que transcribo a usted, para su conocimiento.- Claudio Reyes Barrientos, Subsecretario de Previsión Social.

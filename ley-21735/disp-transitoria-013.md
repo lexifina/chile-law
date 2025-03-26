@@ -1,0 +1,1 @@
+Artículo decimotercero.- La Superintendencia de Pensiones deberá dictar, a más tardar el primer día del décimo quinto mes siguiente a la publicación de esta ley, el régimen de inversiones del Fondo Autónomo de Protección Previsional que señala la presente ley.

@@ -1,0 +1,1 @@
+Artículo primero.- Las normas de la presente ley entrarán en vigencia el primer día del vigésimo quinto mes siguiente a su publicación en el Diario Oficial. Lo anterior es sin perjuicio de lo dispuesto en los artículos siguientes.

@@ -1,0 +1,1 @@
+Artículo cuadragésimo cuarto.- Las modificaciones introducidas en las leyes N° 20.730 y N° 20.880, por esta ley, entrarán en vigor a partir de la fecha de inicio de actividades del administrador del Fondo Autónomo de Protección Previsional y del de cuentas de capitalización individual.

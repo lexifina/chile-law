@@ -1,0 +1,3 @@
+Artículo trigésimo noveno.- Las modificaciones introducidas por esta ley en los artículos 10 y 11 de la ley N° 19.728 entrarán en vigencia a contar del primer día hábil del décimo quinto mes siguiente a su publicación.
+Con todo, las modificaciones introducidas en los incisos primero, segundo, tercero y cuarto del citado artículo 11 entrarán en vigor a partir del primer día hábil del sexto mes siguiente a la publicación de esta ley. Asimismo, a contar de esta última fecha, las deudas de cotizaciones existentes y aquellas que se generen posteriormente devengarán los intereses y reajustes a que se refieren dichos incisos.
+Por su parte, lo dispuesto en el nuevo inciso décimo del artículo 11 de la ley N° 19.728 entrará en vigencia desde la publicación de la presente ley.
