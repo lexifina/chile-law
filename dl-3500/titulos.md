@@ -33,7 +33,7 @@ TITULO XIV De la Regulación de Conflicto de Intereses
 3.- De la votación de las Administradoras en la elección de directores en las sociedades cuyas acciones hayan sido adquiridas con recursos de los Fondos de Pensiones.
 4.- De la Elección de Directores en las Administradoras. De los Directores
 5.- Sanciones y Procedimientos.
-TITULO XV De la Licitación para la Administración de Cuentas de Capitalización Individual
+TITULO XV De la Licitación para la Gestión de las Inversiones y Administración de Cuentas de Capitalización Individual
 Título XVI Del Consejo Técnico de Inversiones
 TITULO XVII De la Asesoría Previsional
 1. Del Objeto de la Asesoría Previsional.
