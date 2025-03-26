@@ -1,0 +1,2 @@
+Artículo vigesimoctavo.- Las modificaciones introducidas por esta ley en los artículos 59 y 59 bis del decreto ley N° 3.500, de 1980, entrarán en vigencia a contar de su publicación.
+Las modificaciones introducidas por esta ley en los incisos tercero del artículo 62, primero del artículo 62 bis, cuarto, quinto y sexto del artículo 64 y cuarto del artículo 65, todos del decreto ley N° 3.500, de 1980, entrarán en vigencia a partir del primer día del sexto mes siguiente a su publicación.

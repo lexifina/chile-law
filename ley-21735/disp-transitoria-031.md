@@ -1,0 +1,1 @@
+Artículo trigésimo primero.- Las referencias que leyes, decretos, reglamentos, resoluciones, estatutos o cualquier otro cuerpo normativo efectúen a los Tipos de Fondos de Pensiones se entenderán hechas a los Fondos Generacionales, según la equivalencia que defina la Superintendencia de Pensiones mediante norma de carácter general.

@@ -1,0 +1,1 @@
+Artículo decimoséptimo.- Las modificaciones que la presente ley introduce en el decreto ley N° 3.500, de 1980, entrarán en vigencia el primer día del vigesimoquinto mes siguiente a su publicación en el Diario Oficial. Lo anterior es sin perjuicio de lo dispuesto en los artículos siguientes.

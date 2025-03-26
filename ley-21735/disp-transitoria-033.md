@@ -1,0 +1,2 @@
+Artículo trigésimo tercero.- A partir de la publicación de esta ley, la Superintendencia de Pensiones tendrá amplias facultades para interpretar la presente ley, emitir instrucciones de carácter obligatorio y aplicar sanciones, tendientes a su correcta y oportuna implementación.
+El Instituto de Previsión Social podrá prestar a las Administradoras de Fondos de Pensiones las funciones a las que se refiere el artículo 23 del decreto ley N° 3.500, de 1980, a contar de la publicación de la presente ley.

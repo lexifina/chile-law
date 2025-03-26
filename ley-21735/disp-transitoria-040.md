@@ -1,0 +1,2 @@
+Artículo cuadragésimo.- La modificación introducida en la ley N° 19.728 por la presente ley, que reemplaza su artículo 25 ter, entrará en vigencia a partir del mes subsiguiente a su publicación.
+La tasa del aporte a la cuenta de capitalización individual obligatoria para pensiones se ajustará a la gradualidad con que se incremente la tasa de la cotización establecida para dicha cuenta, de conformidad con la presente ley.

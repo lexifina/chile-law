@@ -1,0 +1,1 @@
+Artículo vigesimosexto.- Las modificaciones introducidas por esta ley en los incisos tercero y séptimo del artículo 61 bis del decreto ley N° 3.500, de 1980, entrarán en vigencia a partir del primer día del sexto mes siguiente a su publicación.

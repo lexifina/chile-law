@@ -1,0 +1,1 @@
+Artículo segundo.- A partir de la publicación de esta ley, la Superintendencia de Pensiones tendrá amplias facultades para interpretarla, emitir instrucciones de carácter obligatorio y aplicar sanciones, tendientes a su correcta y oportuna implementación.
