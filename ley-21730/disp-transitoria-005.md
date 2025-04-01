@@ -1,0 +1,1 @@
+Artículo quinto.- En tanto no se constituya el Servicio de Bienestar del Ministerio de Seguridad Pública, todos sus funcionarios y funcionarias podrán afiliarse o continuar afiliados al Servicio de Bienestar del Ministerio del Interior.
