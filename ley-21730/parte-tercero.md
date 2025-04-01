@@ -1,0 +1,16 @@
+Artículo tercero.- Modifícase el decreto con fuerza de ley N° 7.912, de 1927, del Ministerio del Interior , que organiza las Secretarías del Estado, de la siguiente manera:
+1. Incorpóranse las siguientes modificaciones en el inciso primero del artículo 1° :
+a) Elimínase, en el numeral 1°, la expresión "y Seguridad Pública".
+b) Intercálase el siguiente numeral 5°, nuevo, pasando el actual numeral 5° a ser numeral 6° y así sucesivamente hasta llegar al numeral 25°:
+"5° Seguridad Pública;".
+2. Incorpóranse, en el artículo 3° , las siguientes modificaciones:
+a) Suprímese, en su encabezamiento, la expresión "y Seguridad Pública".
+b) Reemplázase el literal a) por el siguiente:
+"a) Todo lo relativo al Gobierno Político y Local del territorio.
+Para los efectos señalados en el párrafo anterior, y sin perjuicio de lo dispuesto por el artículo 111 del Código Procesal Penal, el Ministro o la Ministra del Interior y los delegados o las delegadas presidenciales regionales podrán deducir querella respecto de los delitos establecidos en la ley N° 12.927, sobre Seguridad del Estado, cuyo texto actualizado y refundido fue fijado por el decreto N° 890, de 1975, del Ministerio del Interior;".
+3. Incorpórase el siguiente artículo 7° , nuevo:
+"Artículo 7°.- Corresponde al Ministerio de Seguridad Pública colaborar con el Presidente o Presidenta de la República en lo relativo al mantenimiento de la seguridad, tranquilidad y orden público.
+Para lo anterior, y sin perjuicio de lo dispuesto por el artículo 111 del Código Procesal Penal y de las demás facultades otorgadas por leyes especiales al Ministerio, el Ministro o Ministra de Seguridad Pública y la autoridad competente, previa delegación de facultades, podrán deducir querella ante hechos que revistan caracteres de delito y que:
+a) Han alterado el orden público, impidiendo o perturbando gravemente la regularidad de las actividades empresariales, laborales, educacionales o sociales o el funcionamiento de los servicios públicos o esenciales para la comunidad, o bien han impedido o limitado severamente a un grupo de personas el legítimo goce o ejercicio de uno o más derechos, libertades o garantías reconocidos por la Constitución Política de la República.
+b) Considerados en conjunto con otros similares y próximos en el tiempo, han afectado la seguridad pública, generando en toda la población o en un sector de ella el temor de ser víctimas de delitos de la misma especie. En caso alguno podrán considerarse comprendidos en esta letra las faltas, los cuasidelitos, los delitos de acción privada, ni los incluidos en los Párrafos 2 y 5 del Título III; Párrafos 5, 7 y 8 del Título IV; Párrafos 2 bis, 3, 5 y 7 del Título VI; todos los del Título VII, salvo los de los Párrafos 5 y 6; los de los Párrafos 2, 4, 6 y 7 del Título VIII; los de los Párrafos 7 y 8 del Título IX, y los del Título X, todos del Libro Segundo del Código Penal.
+c) Se trate de los delitos contemplados en las leyes N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional; N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, y N° 20.507, que tipifica los delitos de tráfico ilícito de migrantes y trata de personas y establece normas para su prevención y más efectiva persecución criminal.".
