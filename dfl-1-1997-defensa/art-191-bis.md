@@ -1,0 +1,5 @@
+Artículo 191 bis.- Asignación de estímulo al servicio militar. El contingente del servicio militar obligatorio recibirá, con independencia de lo dispuesto en el artículo anterior, una asignación de estímulo al servicio militar, la cual ascenderá a los montos que a continuación se indican:
+1. Cincuenta por ciento del sueldo base del grado 32 de la escala de sueldos de las Fuerzas Armadas, durante los doce primeros meses de conscripción.
+2. Cincuenta por ciento del sueldo base del grado 31 de la escala de sueldos de las Fuerzas Armadas, desde el décimo tercer mes y hasta el vigésimo cuarto mes de conscripción.
+La asignación referida en el inciso anterior no será imponible ni tributable, no se considerará para el cálculo de la asignación de zona o la gratificación de embarcado y de submarino, ni servirá como base de cálculo para el otorgamiento de ningún otro beneficio pecuniario que pudiera corresponder al contingente del servicio militar.
+Además, esta asignación no podrá ser objeto de ningún descuento interno por parte de las instituciones de las Fuerzas Armadas.
