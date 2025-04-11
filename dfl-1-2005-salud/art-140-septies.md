@@ -1,0 +1,1 @@
+Artículo 140 septies.- El Fondo Nacional de Salud velará por el correcto funcionamiento del Sistema de Acceso Priorizado. Corresponderá a la Superintendencia de Salud el conocimiento de los reclamos que las personas beneficiarias interpongan en contra del Fondo Nacional de Salud por el acceso al referido sistema y sus beneficios, en conformidad al artículo 117 y siguientes.
