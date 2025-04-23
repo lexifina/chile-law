@@ -44,7 +44,7 @@ d. Del traslado del ejercicio de los derechos de aprovechamiento
 e. De la formación de roles provisionales de usuarios por la Dirección General de Aguas
 f. Del perfeccionamiento del derecho de aprovechamiento
 g. De las modificaciones en cauces naturales o artificiales
-h. De la fiscalización
+h. De la fiscalización y la vigilancia
 3. De las sanciones
 Título II DE LOS PROCEDIMIENTOS JUDICIALES EN LOS JUICIOS SOBRE AGUAS EN GENERAL
 1. Normas Generales
