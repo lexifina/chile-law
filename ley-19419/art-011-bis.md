@@ -1,0 +1,1 @@
+Artículo 11 bis.- Se exceptuarán los SESN terapéuticos de las normas contenidas en los artículos 10 y 11, siempre que sean utilizados ante una necesidad médica imperativa, y el usuario porte la receta médica que indique su uso.
