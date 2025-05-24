@@ -1,0 +1,2 @@
+Artículo 9º sexies.- La Superintendencia de Seguridad Social y las Comisiones de Medicina Preventiva e Invalidez no podrán investigar, solicitar antecedentes médicos complementarios o citar a profesionales emisores por licencias médicas emitidas con una antigüedad superior a cinco años.
+Tampoco se podrá aplicar ninguna de las sanciones establecidas en esta ley luego de transcurridos cinco años contados desde la fecha en que se notificó el inicio del respectivo procedimiento administrativo sancionatorio o se efectuó la solicitud de antecedentes médicos complementarios.
