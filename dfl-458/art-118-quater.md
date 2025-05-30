@@ -1,0 +1,1 @@
+Artículo 118 quáter.- Interpuesto reclamo contra una resolución de acuerdo con el artículo 118 bis, la Dirección de Obras Municipales deberá inhibirse de conocer cualquier reclamación o de iniciar de oficio cualquier revisión, respecto de la misma resolución.
