@@ -1,0 +1,1 @@
+Artículo primero.- Vigencia. La presente ley comenzará a regir sesenta días después de su publicación, con excepción del artículo 6°, el cual entrará en vigencia una vez publicada la norma técnica a la que hace referencia el inciso cuarto del referido artículo.
