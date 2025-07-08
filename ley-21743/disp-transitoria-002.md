@@ -1,0 +1,1 @@
+Artículo segundo.- Plazo de dictación de actos administrativos. El Ministerio de Salud deberá dictar los actos administrativos señalados en los artículos 4° y 6° de esta ley dentro del plazo de seis meses, contado desde la entrada en vigencia de la misma.
