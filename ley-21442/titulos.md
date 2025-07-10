@@ -28,6 +28,7 @@ Párrafo 2° Fondo común de reserva
 TÍTULO VII DE LA SEGURIDAD DEL CONDOMINIO
 Párrafo 1° Del plan de emergencia y de los planos del condominio
 Párrafo 2° De las revisiones y certificaciones en las unidades
+Párrafo 3° De los seguros
 TÍTULO VIII FÓRMULAS DE RESOLUCIÓN DE CONFLICTOS
 Párrafo 1° De la resolución judicial
 Párrafo 2° Del arbitraje
