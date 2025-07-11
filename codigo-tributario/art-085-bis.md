@@ -2,10 +2,12 @@ Artículo 85 bis.- Las entidades financieras señaladas en este artículo deber�
 a) Entidades financieras obligadas a reportar.
 Estarán obligados a reportar los Bancos y las Cooperativas de Ahorro y Crédito sujetos a la fiscalización y supervisión de la Comisión para el Mercado Financiero, y las Cooperativas de Ahorro y Crédito fiscalizadas por el Ministerio de Economía, Fomento y Turismo.
 También deberán reportar las compañías de seguro y las entidades privadas de depósito y custodia de valores.
+También estarán obligadas a reportar las entidades emisoras de tarjetas de prepago, sean bancarias o no bancarias.
 b) Productos e instrumentos a reportar.
 Las entidades financieras deberán reportar información sobre cuentas corrientes bancarias, depósitos a plazo, depósitos a la vista o vales vista, cuentas a la vista, cuentas de ahorro a plazo, cuentas de ahorro a la vista, cuentas de ahorro a plazo para la vivienda, cuentas de ahorro a plazo con giros diferidos, y cuentas de ahorro a plazo para la Educación Superior reguladas por el Banco Central de Chile conforme al artículo 35, N° 1, de su ley orgánica.
 Además, se entienden incluidas las cuentas de custodia reguladas en la ley N° 18.876, que establece el marco legal para la constitución y operación de entidades privadas de depósito y custodia de valores.
 También deberá reportarse información respecto de los contratos de seguros con cuenta de inversión o ahorro, o valor de rescate, o que garanticen un capital al término de un plazo, además de contratos de rentas privadas, ya sean vitalicias o temporales.
+Asimismo se deberá reportar información respecto de tarjetas de prepago, sean bancarias o no bancarias.
 c) Información a reportar.
 Las entidades financieras deberán realizar un reporte que contenga la siguiente información: identificación de la entidad financiera, identificación del titular, periodo de reporte, el tipo de producto, número de registro interno del producto, monto, estado de vigencia del producto, y fecha de cierre del producto, cuando corresponda.
 Las entidades financieras deberán informar el saldo o valor, así como la suma de los abonos efectuados a los productos o instrumentos a reportar pertenecientes a los titulares de las mismas señalados en el literal d), únicamente cuando el saldo o suma de abonos efectuados a dichos productos o instrumentos, individualmente considerados o en su conjunto, registren un movimiento diario, semanal o mensual, igual o superior a 1.500 unidades de fomento, sin atender para estos efectos al número de titulares a que pertenezcan.
