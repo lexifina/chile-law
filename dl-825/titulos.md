@@ -12,6 +12,7 @@ PARRAFO 5° Tasa, base imponible y débito fiscal
 PARRAFO 6° Del Crédito Fiscal
 PARRAFO 7° Del régimen de tributación simplificada para los pequeños contribuyentes
 Párrafo 7° bis Del régimen simplificado para contribuyentes no domiciliados ni residentes en Chile
+Párrafo 7° ter Del régimen de tributación especial para comerciantes que ejercen la actividad de ferias libres
 PARRAFO 8° De los exportadores
 TITULO III Impuestos especiales a las ventas y servicios
 PARRAFO 1° Del impuesto adicional a ciertos productos
