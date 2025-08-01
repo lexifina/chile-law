@@ -1,3 +1,10 @@
+"Título I De los aportes del empleador al Sistema de Pensiones
+Título II Del Seguro Social Previsional
+Párrafo 1° Disposiciones generales
+Título III De la cotización de las personas trabajadoras independientes
+Párrafo 1° De las personas trabajadoras independientes del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta en el Seguro Social Previsional
+Párrafo 2° De las personas trabajadoras independientes que no perciban rentas del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta y su cotización en el Seguro Social Previsional
+Título IV Del Fondo Autónomo de Protección Previsional y su administración
 TÍTULO V Modificaciones al decreto ley N° 3.500, de 1980
 TÍTULO VI Modificaciones a otras leyes
 DISPOSICIONES TRANSITORIAS
