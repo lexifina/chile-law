@@ -1,0 +1,1 @@
+Artículo 169 bis.- El empleado público que, en el ejercicio de sus funciones, facilite el delito previsto y sancionado en los artículos 168, 168 bis y 169 de esta Ordenanza, será sancionado como autor del mismo delito.
