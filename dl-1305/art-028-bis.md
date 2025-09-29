@@ -1,0 +1,1 @@
+Artículo 28 bis.- Corresponderá a los Servicios Regionales y Metropolitano de Vivienda y Urbanización colaborar con la División de Desarrollo Urbano en el ejercicio de la atribución establecida en el artículo 12 letra q).

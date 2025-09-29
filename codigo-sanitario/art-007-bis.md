@@ -1,0 +1,6 @@
+Artículo 7 bis.- Para los casos señalados en el inciso final del artículo 7°, el titular deberá presentar a la autoridad respectiva una declaración jurada que dé cuenta que el proyecto o actividad cumple con la normativa sanitaria que le sea aplicable.
+El reglamento respectivo determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta.
+La declaración jurada surtirá efecto desde el día siguiente a su presentación, sin necesidad de aprobación posterior por parte de la autoridad sanitaria, quien considerará los antecedentes presentados para las acciones de fiscalización, vigilancia o control posterior.
+Los proyectos o actividades a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados a la autoridad sanitaria.
+De oficio o a petición de parte, la autoridad sanitaria podrá disponer la paralización, suspensión o clausura del proyecto o actividad, según corresponda, en aquellos casos en que se advierta el incumplimiento de las normas aplicables a la presentación de una declaración jurada, de conformidad con lo establecido en el Libro X.
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que para cada caso se establezca en los respectivos reglamentos.
