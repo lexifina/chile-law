@@ -1,0 +1,2 @@
+Artículo décimo cuarto.- La Subsecretaría de Economía y Empresas de Menor Tamaño suscribirá los convenios, contratos y memorandos de entendimiento necesarios para facilitar la aplicación de la presente ley, a partir de su publicación en el Diario Oficial.
+La titularidad de los convenios, contratos y memorandos de entendimiento suscritos de conformidad con el inciso anterior será transferida a la Oficina de Autorizaciones Sectoriales e Inversión, una vez que entre en funcionamiento.

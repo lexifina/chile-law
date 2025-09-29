@@ -1,0 +1,1 @@
+Artículo primero.- Lo dispuesto en la presente ley, con excepción de lo señalado en los artículos cuarto, séptimo, octavo, décimo, décimo séptimo a vigésimo tercero, vigésimo octavo y trigésimo cuarto, transitorios, entrará en vigencia a la fecha de su publicación en el Diario Oficial.

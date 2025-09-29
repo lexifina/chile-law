@@ -1,0 +1,1 @@
+Artículo séptimo.- Lo dispuesto en el Párrafo 1° del Título VIII entrará en vigencia el primer día del mes subsiguiente a la publicación del reglamento que establece el artículo 75. Dicho reglamento deberá dictarse en el plazo de un año contado desde la publicación de la presente ley en el Diario Oficial.

@@ -1,0 +1,2 @@
+Artículo trigésimo.- Dentro del plazo de nueve meses contado desde la publicación de la presente ley en el Diario Oficial, los órganos sectoriales deberán remitir a la Oficina de Autorizaciones Sectoriales e Inversión, los formularios únicos respecto cada una de las autorizaciones sectoriales de su competencia a las que sea aplicable esta ley, conforme lo establecido en el artículo 14.
+Mientras no entre en funcionamiento la Oficina de Autorizaciones Sectoriales e Inversión, los formularios únicos deberán ser remitidos al Ministerio de Economía, Fomento y Turismo.
