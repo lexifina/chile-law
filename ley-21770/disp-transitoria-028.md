@@ -1,0 +1,1 @@
+Artículo vigésimo octavo.- La aplicación de las sanciones establecidas en el artículo 27 comenzará a regir conforme a los plazos de gradualidad de la aplicación del Título VI, a que se refiere el número 3 del artículo tercero transitorio.

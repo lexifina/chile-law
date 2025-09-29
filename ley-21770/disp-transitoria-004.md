@@ -1,0 +1,4 @@
+Artículo cuarto.- Lo dispuesto en el Título III entrará en vigencia respecto de cada autorización sectorial comprendida en el decreto supremo a que se refiere el artículo segundo transitorio, en el plazo de ocho meses contado desde la fecha de publicación de dicho decreto en el Diario Oficial.
+Respecto de las autorizaciones sectoriales que sean clasificadas en posteriores decretos supremos dictados de conformidad con el inciso final del artículo 8, lo dispuesto en el Título III les será aplicable en el plazo de seis meses contado desde la publicación del respectivo decreto en el Diario Oficial.
+Con todo, las disposiciones contenidas en el Título III solo se aplicarán respecto de los procedimientos administrativos que se inicien con posterioridad a su entrada en vigencia.
+Los procedimientos sectoriales iniciados con anterioridad a la entrada en vigencia del Título III seguirán tramitándose conforme a las normas vigentes a la fecha de su iniciación.

@@ -1,0 +1,1 @@
+Artículo décimo séptimo.- Lo dispuesto en el artículo 79 numeral 9, que introduce modificaciones en el artículo 83° del Código Sanitario, entrará en vigencia en el plazo de un mes contado desde la fecha de publicación de la presente ley en el Diario Oficial.
