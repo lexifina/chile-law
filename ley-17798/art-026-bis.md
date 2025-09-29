@@ -1,0 +1,1 @@
+Artículo 26 bis.- Vencido el plazo legal para resolver acerca de una solicitud de autorización sin que la Dirección General de Movilización Nacional, la autoridad fiscalizadora o la comandancia de guarnición de las Fuerzas Armadas, según corresponda, se pronuncie sobre ella, el interesado estará legitimado para hacer valer el silencio administrativo negativo.

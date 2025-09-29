@@ -1,0 +1,6 @@
+Artículo 24 A bis.- Para los casos señalados en el inciso final del artículo 24° A, el titular deberá presentar a la Subsecretaría de Telecomunicaciones una declaración jurada, que dé cuenta que la modificación cumple con la normativa vigente y todas las normas que le sean aplicables.
+El reglamento determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta, así como la necesidad de acompañar una declaración de cumplimiento de la normativa suscrita por un ingeniero en telecomunicaciones.
+Al día siguiente de presentada la declaración jurada y demás antecedentes, se entenderá recibida la modificación de obra o instalación.
+De oficio o a petición de parte, la Subsecretaría de Telecomunicaciones ejercerá las potestades que se establecen en el Título VII en aquellos casos en que se advierta el incumplimiento de las normas aplicables a la presentación de una declaración jurada.
+Las modificaciones de obra o instalación a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados a la Subsecretaría de Telecomunicaciones.
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que se establezca en el reglamento.
