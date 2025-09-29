@@ -1,0 +1,1 @@
+Artículo 16 ter.- Vencido el plazo legal para resolver acerca de una solicitud de autorización sin que la Comisión se pronuncie sobre ella, el interesado estará legitimado para hacer valer el silencio administrativo negativo.
