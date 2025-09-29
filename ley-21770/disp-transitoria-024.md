@@ -1,0 +1,1 @@
+Artículo vigésimo cuarto.- Las disposiciones contenidas en esta ley sólo se aplicarán respecto de los procedimientos sectoriales que se inicien con posterioridad a su entrada en vigencia. Aquellos procedimientos iniciados con anterioridad a su entrada en vigencia seguirán tramitándose conforme a las normas aplicables a la fecha de su iniciación.

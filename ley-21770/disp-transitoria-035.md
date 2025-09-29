@@ -1,0 +1,1 @@
+Artículo trigésimo quinto.- Lo dispuesto en el artículo 120, que modifica la ley N° 19.553, que concede asignación de modernización y otros beneficios que indica, entrará en vigencia en el proceso de elaboración de metas e indicadores del año siguiente al de la publicación de la presente ley en el Diario Oficial.".

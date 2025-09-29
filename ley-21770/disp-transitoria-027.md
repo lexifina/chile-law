@@ -1,0 +1,1 @@
+Artículo vigésimo séptimo.- Mientras no se haya fijado el sistema o monto de las remuneraciones de quien ejerza la jefatura de la Oficina de Autorizaciones Sectoriales e Inversión, de acuerdo con la ley N° 21.603, su remuneración corresponderá a un grado 4° EUS, en la planta de directivos de exclusiva confianza de la Subsecretaría de Economía y Empresas de Menor Tamaño.

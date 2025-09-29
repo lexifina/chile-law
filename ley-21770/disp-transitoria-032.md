@@ -1,0 +1,2 @@
+Artículo trigésimo segundo.- La Oficina de Autorizaciones Sectoriales e Inversión colaborará en la elaboración de los reglamentos y modificaciones de los instrumentos necesarios para la aplicación de las técnicas habilitantes alternativas, cautelando el resguardo de los principios orientadores de la ley en la determinación de los supuestos de hecho en los que procederá su aplicación.
+Mientras no entre en funcionamiento la Oficina de Autorizaciones Sectoriales e Inversión, la colaboración referida estará a cargo del Ministerio de Economía, Fomento y Turismo.
