@@ -1,0 +1,1 @@
+QUINCUAGÉSIMA CUARTA. Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026. Previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio.
