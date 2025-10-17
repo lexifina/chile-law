@@ -1,0 +1,1 @@
+Artículo primero.- La presente ley entrará en vigencia una vez que entre en operaciones el Servicio de Auditoría Interna de Gobierno, de acuerdo a lo señalado en el numeral 3 del artículo segundo siguiente.

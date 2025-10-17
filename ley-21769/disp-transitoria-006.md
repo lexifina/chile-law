@@ -1,0 +1,1 @@
+Artículo sexto.- La primera versión de la Política establecida en el artículo 5 deberá ser propuesta para aprobación del Presidente de la República en el plazo de ciento ochenta días a contar del inicio de actividades del Servicio de Auditoría Interna de Gobierno, determinada de acuerdo a lo señalado en el artículo primero transitorio.
