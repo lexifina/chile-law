@@ -1,0 +1,2 @@
+Artículo transitorio.- La presente ley entrará en vigencia a partir de su publicación en el Diario Oficial, con excepción de lo dispuesto en los artículos 3, 5, 6, 7, 9, 10, 11, 12, 13 y 15, que lo harán el primer día del sexto mes siguiente al de dicha publicación.
+El reglamento referido en el artículo 1 deberá dictarse en el mismo periodo establecido en el inciso anterior. En el caso de lo establecido en el artículo 4, su vigencia se hará efectiva desde el inicio de una nueva contratación pública.".
