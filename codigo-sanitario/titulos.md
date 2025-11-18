@@ -28,6 +28,7 @@ TÍTULO I De los productos farmacéuticos
 TÍTULO II De los productos alimenticios
 Párrafo I DE LOS PRODUCTOS ALIMENTICIOS EN GENERAL
 Párrafo II DE LA LECHE Y LOS PRODUCTOS LÁCTEOS
+Párrafo III De la carne
 TÍTULO III De los productos cosméticos y productos de higiene y odorización personal
 TÍTULO IV De los elementos de uso médico
 TÍTULO V DE LOS ENSAYOS CLÍNICOS DE PRODUCTOS FARMACÉUTICOS Y ELEMENTOS DE USO MÉDICO
