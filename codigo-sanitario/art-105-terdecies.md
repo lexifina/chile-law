@@ -1,0 +1,3 @@
+Artículo 105 terdecies.- Se prohíbe catalogar como carne a un producto que no sea de origen animal y que no cumpla con lo dispuesto en los artículos 105 undecies y 105 duodecies.
+Las denominaciones asociadas a los productos de origen animal, tales como "hamburguesa", "chorizo", "salchicha", "cecina" u otras, no pueden ser utilizadas para describir, promover o comercializar productos alimenticios que contengan mayor proporción de materia de origen vegetal que cárnica, salvo que indiquen de manera expresa, visible e inequívoca que son de origen vegetal.
+Las infracciones a este artículo serán sancionadas según lo dispuesto en el Libro Décimo, sin perjuicio de las demás sanciones que correspondan.
