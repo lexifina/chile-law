@@ -1,0 +1,2 @@
+Artículo primero.- Esta ley entrará en vigencia seis meses después de la publicación en el Diario Oficial del último de sus reglamentos complementarios, con excepción de lo dispuesto en los artículos transitorios siguientes.
+En virtud de lo dispuesto en el inciso precedente, el Ministerio encargado de la Seguridad Pública, dentro del plazo de un año contado desde la publicación de esta ley, deberá dictar el reglamento referido en esta ley además del reglamento sobre eventos masivos mencionado en el Título IV.
