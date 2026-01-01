@@ -5,6 +5,11 @@ Párrafo 2° Técnicas habilitantes alternativas
 TÍTULO IV PROFESIONALES Y ENTIDADES TÉCNICAS COLABORADORAS
 Párrafo 1° Encomendación de funciones de apoyo a profesionales o entidades técnicas por parte de órganos sectoriales
 Párrafo 2° Registros de profesionales y entidades técnicas
+TÍTULO V INSTITUCIONALIDAD ENCARGADA DEL SISTEMA PARA LA REGULACIÓN Y EVALUACIÓN SECTORIAL
+Párrafo 1° De la Oficina de Autorizaciones Sectoriales e Inversión
+Párrafo 2° Jefatura
+Párrafo 3° Del Personal de la Oficina
+Párrafo 4° Comité de Autorizaciones Sectoriales e Inversión
 TÍTULO VII DE LA MODERNIZACIÓN CONTINUA DE LAS AUTORIZACIONES SECTORIALES Y LA APLICACIÓN DE TÉCNICAS HABILITANTES ALTERNATIVAS
 Párrafo 1° Diagnóstico para la modernización continua de las autorizaciones sectoriales y la aplicación de técnicas habilitantes alternativas
 Párrafo 2° Reporte para la Modernización de Autorizaciones Sectoriales
