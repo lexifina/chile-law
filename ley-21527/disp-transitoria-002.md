@@ -1,0 +1,1 @@
+Artículo segundo.- Las normas de la ley Nº 20.032 se mantendrán vigentes acorde al texto que tenían en la época previa a las modificaciones que le introduce la ley Nº 21.302, hasta que en la respectiva región comience a regir la presente ley, de conformidad con el cronograma establecido en el inciso primero del artículo primero transitorio de esta ley.
