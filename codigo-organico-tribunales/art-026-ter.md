@@ -1,0 +1,6 @@
+Art. 26 ter.- La Corte Suprema, por razones de buen servicio, atendida la carga de trabajo que presenten las salas especializadas de que tratan los números 1 a 5 del artículo 16 bis y previo informe técnico de la Corporación Administrativa del Poder Judicial, determinará el número de funcionarios del Escalafón Secundario y del Escalafón del Personal de Empleados del Poder Judicial que serán destinados para su funcionamiento, a partir de la planta de los Juzgados de Garantía a los que se extiende su competencia.
+Para dicha destinación deberá considerar especialmente la necesidad de que cada una de esas salas especializadas se encuentre en condiciones de:
+a. Brindar asistencia técnica a los jueces que la integren.
+b. Entregar información actualizada y específica respecto a los centros y programas existentes en el respectivo territorio, disponibilidad de plazas y características de la intervención que en ellos se desarrolla.
+c. Realizar las coordinaciones y enlaces que fueren necesarios con el Servicio Nacional de Reinserción Social Juvenil y con la red de instituciones que ejecutan sanciones y programas en el respectivo territorio jurisdiccional.
+d. Apoyar a la unidad de administración de causas en las tareas de coordinación que conlleva la distribución de causas.
