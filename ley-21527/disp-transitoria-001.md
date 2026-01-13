@@ -1,0 +1,8 @@
+Artículo primero.- Vacancia e implementación. La presente ley comenzará a regir en forma gradual conforme al cronograma que a continuación se indica:
+1.- Transcurridos 12 meses desde su publicación en el Diario Oficial, en las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama y Coquimbo;
+2.- Transcurridos 24 meses desde su publicación en el Diario Oficial, en las Regiones de Maule, Bío Bío, Ñuble, La Araucanía, Los Ríos, Los Lagos, Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, y
+3.- Transcurridos 36 meses desde su publicación en el Diario Oficial, en las Regiones de Valparaíso, Del Libertador General Bernardo O'Higgins y Metropolitana de Santiago.
+Sin perjuicio de lo señalado en el inciso anterior:
+a) La Comisión Coordinadora Nacional deberá constituirse dentro de los seis meses contados desde la publicación de la presente ley.
+b) El Consejo Nacional de Reinserción Social Juvenil y el Consejo de Estándares y Acreditación deberán constituirse dentro de los 90 días siguientes a la fecha de iniciación de actividades del Servicio. Este último deberá proceder a aprobar los estándares de calidad de cada programa y la acreditación de las instituciones que lo requieran con la antelación necesaria para una adecuada implementación.
+Las Direcciones Regionales del Servicio deberán constituirse con, al menos, seis meses de antelación a la fecha en que corresponda la aplicación de la ley en las respectivas regiones, conforme al cronograma señalado para cada caso en el inciso primero; y los Comités Operativos Regionales con, al menos, 3 meses de antelación a la misma fecha. El proceso de contratación de servicios con organismos acreditados deberá también iniciarse en el mismo plazo en cada región.

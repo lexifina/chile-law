@@ -1,0 +1,1 @@
+Artículo undécimo.- Capacitación. Dentro del plazo de 90 días de que trata el artículo octavo transitorio deberá darse cumplimiento a lo dispuesto en el artículo 29 ter que se introduce en la ley N° 20.084. Las actividades de formación deberán considerar el trabajo interinstitucional y común.

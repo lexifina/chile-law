@@ -1,0 +1,1 @@
+Artículo décimo.- Instalación del Consejo de Estándares y Acreditación. En la composición inicial del Consejo de Estándares y Acreditación tres de sus integrantes serán designados por un período de dos años de duración, a elección del Ministro de Justicia y Derechos Humanos.

@@ -1,0 +1,1 @@
+Artículo décimo tercero.- La primera evaluación del funcionamiento de la ley N° 20.084 establecida en el artículo 59 de la presente ley, se realizará una vez transcurrido un año contado desde la implementación total de la presente ley. Esta evaluación deberá ser remitida a las Comisiones de Constitución, Legislación, Justicia y Reglamento del Senado y de la Cámara de Diputados.

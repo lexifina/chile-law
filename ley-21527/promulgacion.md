@@ -1,0 +1,3 @@
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Santiago, 31 de diciembre de 2022.- GABRIEL BORIC FONT, Presidente de la República.- Marcela Ríos Tobar, Ministra de Justicia y Derechos Humanos.- Mario Marcel Cullell, Ministro de Hacienda.- Kenneth Giorgio Jackson Drago, Ministro de Desarrollo Social y Familia.
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Jaime Gajardo Falcón, Subsecretario de Justicia.
