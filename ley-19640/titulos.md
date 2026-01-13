@@ -3,6 +3,7 @@ T I T U L O II De la organización y atribuciones del Ministerio Público
 PARRAFO 1º De los órganos del Ministerio Público
 PARRAFO 2º Fiscal Nacional
 PARRAFO 3º Consejo General
+PARRAFO 3° bis De la Unidad Especializada de Responsabilidad Penal de Adolescentes
 PARRAFO 4º De las Fiscalías Regionales
 PÁRRAFO 4º BIS DEL SISTEMA DE ANÁLISIS CRIMINAL Y FOCOS INVESTIGATIVOS
 PARRAFO 5º De las fiscalías locales y los fiscales adjuntos
