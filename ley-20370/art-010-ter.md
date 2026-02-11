@@ -1,0 +1,1 @@
+Artículo 10 ter.- Para efectos de lo dispuesto en esta ley, se entenderá por dispositivos móviles electrónicos de comunicación personal aquellos medios tecnológicos que permiten efectuar telecomunicación, acceder a la red de internet para mantener interacción de telecomunicación y consultar contenidos o plataformas digitales.
