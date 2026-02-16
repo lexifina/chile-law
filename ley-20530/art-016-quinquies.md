@@ -1,0 +1,2 @@
+Artículo 16 quinquies.- Existirá un Consejo de la Sociedad Civil para los Apoyos y los Cuidados, de conformidad a lo establecido en la ley Nº 20.500, sobre Asociaciones y Participación Ciudadana en la Gestión Pública.
+La función del Consejo será asesorar y entregar su opinión al Ministerio de Desarrollo Social y Familia, y a la Secretaría de Apoyos y Cuidados en todas las materias relacionadas con el funcionamiento del Sistema Nacional de Apoyos y Cuidados.
