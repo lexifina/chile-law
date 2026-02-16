@@ -19,7 +19,8 @@ PARRAFO 1°.- De las Zonas de Remodelación
 PARRAFO 2°.- De las Zonas de Construcción Obligatoria
 PARRAFO 3°.- Del Saneamiento de Poblaciones
 CAPITULO VII De las expropiaciones
-CAPÍTULO VIII De la regeneración de barrios o conjuntos habitacionales de viviendas sociales altamente segregados o deteriorados
+CAPÍTULO VIII De la regeneración de barrios o conjuntos habitacionales de viviendas de interés público altamente segregados o deteriorados
+CAPÍTULO IX De la habilitación normativa de terrenos para la construcción de proyectos de viviendas de interés público, o de proyectos que consideren obras destinadas a promover el acceso equitativo de la población a bienes públicos urbanos relevantes.
 TITULO III De la construcción
 CAPITULO I Normas de diseño
 PARRAFO 1°.- Del diseño de obras de urbanización y edificación
