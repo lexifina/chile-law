@@ -1,0 +1,2 @@
+Artículo 42 transitorio.- En los procesos de reconocimiento de titularidad que se realicen con posterioridad a aquel señalado en el artículo anterior, deberán cumplirse todos los requisitos establecidos en el artículo 28 bis, con excepción del numeral 2.
+Sin perjuicio de lo señalado en el inciso precedente, dicho requisito será exigible a contar del primer proceso de reconocimiento de titularidad que se lleve a cabo una vez transcurrido el plazo de cuatro años contado desde la entrada en vigencia del presente artículo y en todos los procesos que se realicen en adelante.
