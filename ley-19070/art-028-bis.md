@@ -1,0 +1,5 @@
+Artículo 28 bis.- Sin perjuicio de lo dispuesto en los artículos 27 y 28, se concederá la calidad de titulares de la dotación docente, por resolución del sostenedor, a los profesionales de la educación parvularia, básica o media, que se encuentren en calidad de contratados y cumplan al 31 de marzo del año respectivo, los siguientes requisitos copulativos:
+1. Encontrarse incorporados en calidad de contratados a la dotación docente.
+2. Haberse incorporado en calidad de contratados a la dotación docente, mediante concurso público o un proceso de reclutamiento y selección transparente, objetivo y público.
+3. Haberse desempeñado como docentes en la dotación, para un mismo sostenedor, en calidad de contratados, durante, a lo menos, cuatro años continuos o cuatro años discontinuos en los últimos seis años, debiendo contar con contrataciones sucesivas y continuas, que abarquen los últimos dos años.
+El cambio de la calidad de contratados a titulares se concederá por resolución del sostenedor, y comenzará a regir a contar del 1 de abril del año respectivo.
