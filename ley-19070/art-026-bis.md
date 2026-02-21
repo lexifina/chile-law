@@ -1,0 +1,1 @@
+Artículo 26 bis.- Los profesionales de la educación que tengan la calidad de titulares y asuman labores directivas, no perderán dicha calidad, la cual será reconocida al momento de continuar desempeñando alguna de las funciones a que se refiere el artículo 5.

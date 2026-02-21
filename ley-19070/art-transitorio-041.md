@@ -1,0 +1,2 @@
+Artículo 41 transitorio.- Por única vez lo dispuesto en el artículo 28 bis se aplicará sin exigir el requisito previsto en su numeral 2, respecto de los docentes que cumplan con los demás requisitos al 31 de julio de 2025.
+El cambio de la calidad de contratados a titulares se concederá por resolución del sostenedor y comenzará a regir a contar del primer día del mes siguiente al de la entrada en vigencia de ese artículo.
