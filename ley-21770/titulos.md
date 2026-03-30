@@ -16,5 +16,7 @@ Párrafo 2° Reporte para la Modernización de Autorizaciones Sectoriales
 Párrafo 3° Estrategia para la Modernización de Autorizaciones Sectoriales
 Párrafo 4° Otras disposiciones
 Párrafo 5° Evaluación de la Ley Marco de Autorizaciones Sectoriales
+TÍTULO VIII DE LOS MECANISMOS DE FOMENTO A LA INVERSIÓN
+Párrafo 2° Del régimen de estabilidad regulatoria aplicable a autorizaciones sectoriales vinculadas a iniciativas de inversión con Resolución de Calificación Ambiental favorable
 TÍTULO IX MODIFICACIONES A OTROS CUERPOS LEGALES
 DISPOSICIONES TRANSITORIAS
