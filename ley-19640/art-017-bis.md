@@ -1,0 +1,2 @@
+Artículo 17 bis.- El Ministerio Público deberá contar con un registro público de resoluciones, en el que constarán las instrucciones generales que sean impartidas por el Fiscal Nacional, el Fiscal Jefe de la Fiscalía Supraterritorial y los Fiscales Regionales.
+El registro consistirá en una plataforma electrónica, la que deberá estar a disposición del público de forma permanente y actualizada. Su administración y actualización estará a cargo de la unidad administrativa que determine el Fiscal Nacional mediante resolución.
