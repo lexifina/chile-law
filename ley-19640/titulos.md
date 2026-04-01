@@ -17,7 +17,9 @@ PARRAFO 3° Remuneraciones
 PARRAFO 4° Evaluaciones
 PARRAFO 5° Terminación del contrato de trabajo de los funcionarios
 PARRAFO 6º Normas varias
-T I T U L O VII Capacitación y perfeccionamiento
+T I T U L O VII Formación, perfeccionamiento y capacitación
 T I T U L O VIII Presupuesto
 TÍTULO IX PLAN INSTITUCIONAL ANUAL
+TÍTULO X Sistema de Supervisión de la Persecución Penal
+TÍTULO XI Evaluaciones externas
 Artículos transitorios
