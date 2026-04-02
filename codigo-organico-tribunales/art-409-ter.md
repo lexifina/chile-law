@@ -1,0 +1,3 @@
+Artículo 409 ter.- Suscrita una escritura pública en papel por todos sus otorgantes y autorizada y sellada conforme a la ley, el notario autorizante deberá digitalizar tal instrumento para incorporarlo en un repositorio digital.
+En dicho repositorio digital constarán los respaldos digitales de los repertorios, índices, protocolos u otro tipo de libros o documentos que se encuentren bajo su custodia, para efectos de facilitar su acceso al público y asegurar su resguardo.
+Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos, suscrito además por el Ministro de Hacienda, establecerá las características técnicas que de manera específica deberá cumplir el repositorio digital.

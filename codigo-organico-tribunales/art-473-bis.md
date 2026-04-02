@@ -1,0 +1,2 @@
+Art. 473 bis.- La no presentación en tiempo y forma de la caución o garantía conllevará la declaración de vacancia del cargo, y deberá procederse de conformidad con lo previsto en el literal n) del artículo 287.
+Si se trata de notarios, conservadores o archiveros interinos, dicha circunstancia se entenderá como desistimiento del cargo para efectos de lo dispuesto en los incisos segundo y tercero del artículo 402 bis.
