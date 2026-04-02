@@ -5,7 +5,8 @@ PARRAFO 2º Fiscal Nacional
 PARRAFO 3º Consejo General
 PARRAFO 3° bis De la Unidad Especializada de Responsabilidad Penal de Adolescentes
 PARRAFO 4º De las Fiscalías Regionales
-PÁRRAFO 4º BIS DEL SISTEMA DE ANÁLISIS CRIMINAL Y FOCOS INVESTIGATIVOS
+PÁRRAFO 4º BIS DE LA FISCALÍA SUPRATERRITORIAL
+PÁRRAFO 4º TER DEL SISTEMA DE ANÁLISIS CRIMINAL PARA CRIMEN ORGANIZADO Y DELITOS DE ALTA COMPLEJIDAD
 PARRAFO 5º De las fiscalías locales y los fiscales adjuntos
 T I T U L O III Responsabilidades de los fiscales del Ministerio Público
 T I T U L O IV De la inhabilitación de los fiscales
