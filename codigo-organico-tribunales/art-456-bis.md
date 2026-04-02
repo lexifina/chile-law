@@ -1,0 +1,1 @@
+Artículo 456 bis.- Se extienden al archivero los deberes establecidos para los notarios en el artículo 401 bis, por lo que deberá contar con sistemas que faciliten la consulta y entrega de copias electrónicas de los instrumentos que le sean remitidos a su oficio.
