@@ -1,0 +1,1 @@
+Art. 478 bis.- Ningún funcionario de la segunda serie del Escalafón Secundario del Poder Judicial podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina, sin perjuicio de lo dispuesto en los artículos 475, inciso quinto, y 497.
