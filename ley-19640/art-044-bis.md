@@ -1,0 +1,1 @@
+Artículo 44 bis.- A los fiscales adjuntos de la Fiscalía Supraterritorial les serán aplicables todas las funciones, atribuciones, prerrogativas y responsabilidades señaladas en este Título, y las demás contenidas en esta ley orgánica o que otras leyes les confieran, en lo que sea pertinente y adecuadas a la especial estructura de dicha unidad.
