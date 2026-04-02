@@ -1,0 +1,2 @@
+Artículo 37 duodecies.- El Fiscal Jefe de la Fiscalía Supraterritorial será subrogado por el fiscal adjunto que el Fiscal Nacional determine mediante resolución, y podrá establecer entre varios el orden de subrogación que estime conveniente. A falta de designación, lo subrogará el fiscal adjunto más antiguo de la Fiscalía Supraterritorial.
+Procederá la subrogación por el solo ministerio de la ley cuando, por cualquier motivo, el Fiscal Jefe de la Fiscalía Supraterritorial se encuentre impedido de desempeñar su cargo.

@@ -1,0 +1,10 @@
+Artículo 37 octies.- Corresponderá al Fiscal Jefe de la Fiscalía Supraterritorial:
+a) Dictar, conforme a las instrucciones generales del Fiscal Nacional, las normas e instrucciones necesarias para el funcionamiento de la Fiscalía Supraterritorial y el adecuado desempeño de los fiscales adjuntos en los casos en que debieren intervenir.
+b) Disponer la distribución de los fiscales adjuntos, profesionales y personal de apoyo adscritos a la Fiscalía Supraterritorial, conforme a las necesidades de investigación y de acuerdo con los lineamientos dictados por el Fiscal Nacional.
+c) Supervisar y controlar el funcionamiento administrativo de la Fiscalía Supraterritorial, velar por el eficaz desempeño del personal a su cargo y por la adecuada administración del presupuesto, y comunicar al Fiscal Nacional las necesidades presupuestarias de la Fiscalía Supraterritorial.
+d) Iniciar de oficio la investigación de causas en las materias correspondientes a las atribuciones de la Fiscalía Supraterritorial.
+e) Disponer medidas para brindar soporte y apoyo a la actividad de investigación de una o más Fiscalías Regionales en relación con hechos que puedan ser constitutivos de delitos correspondientes a las atribuciones de la Fiscalía Supraterritorial, o cuando el volumen de información, datos, documentos o informes de carácter técnico haga necesaria la coordinación interregional del Sistema de Análisis Criminal para Crimen Organizado y Delitos de Alta Complejidad.
+f) Requerir información de investigaciones a las Fiscalías Regionales cuando estime que ello resulta necesario para el desarrollo de las investigaciones que se encuentren a su cargo.
+g) Ejercer, en lo que sea pertinente, las funciones, atribuciones, prerrogativas y responsabilidades asignadas a los Fiscales Regionales conforme a lo dispuesto en el artículo 32.
+h) Disponer las medidas que faciliten y aseguren la debida atención y protección de víctimas y testigos.
+i) Ejercer las demás atribuciones que ésta u otra ley le confieran.
