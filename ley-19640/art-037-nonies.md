@@ -1,0 +1,2 @@
+Artículo 37 nonies.- El Fiscal Jefe de la Fiscalía Supraterritorial deberá conocer y resolver, en los casos previstos por la ley procesal penal, las reclamaciones que cualquier interviniente en un procedimiento formule en contra de un fiscal adjunto que se desempeñe en la Fiscalía Supraterritorial.
+Las reclamaciones a que se refiere el inciso anterior deberán ser presentadas por escrito al Fiscal Jefe de la Fiscalía Supraterritorial, quien las resolverá, también por escrito, dentro de los cinco días hábiles siguientes a su recepción.
