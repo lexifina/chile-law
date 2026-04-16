@@ -1,0 +1,1 @@
+QUINCUAGÉSIMA SEXTA. A contar de la fecha de publicación de la presente reforma constitucional, las asociaciones de funcionarios de Gendarmería de Chile quedarán disueltas, y su liquidación se efectuará conforme a la ley bajo la cual se hayan constituido.
