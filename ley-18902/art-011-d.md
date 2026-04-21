@@ -1,2 +1,4 @@
-Artículo 11 D.- En ejercicio de su facultad de verificar el cumplimiento de las normas de emisión, la Superintendencia podrá requerir, en casos calificados, que deberá expresar en la respectiva resolución, la realización de muestreos y análisis adicionales a los establecidos en la resolución a que se refiere el artículo 11 B, cuyo costo será de cargo del generador de residuos industriales líquidos.
-Si de la fiscalización, de los informes periódicos que debe emitir el generador de residuos industriales líquidos o de los muestreos y análisis adicionales resultaren infringidas las normas de emisión o la normativa vigente, la Superintendencia le dará un plazo para que subsane la situación, sin perjuicio de las sanciones que le pueda imponer, de conformidad a la ley.
+Artículo 11 D.- Las sanciones a las infracciones establecidas en los artículos precedentes serán las siguientes:
+a) Las infracciones gravísimas podrán ser sancionadas con multa de hasta 10.000 unidades tributarias anuales.
+b) Las infracciones graves podrán ser sancionadas con multa de hasta 5.000 unidades tributarias anuales.
+c) Las infracciones leves podrán ser sancionadas con amonestación escrita o multa de hasta 500 unidades tributarias anuales; salvo la prevista en la letra h) del artículo 11 C, que será sancionada con multa de hasta 1.000 unidades tributarias anuales.

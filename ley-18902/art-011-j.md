@@ -1,0 +1,3 @@
+Artículo 11 J.- Con a lo menos noventa días de anticipación a la entrada en operación de los sistemas de tratamiento, los establecimientos generadores de residuos industriales líquidos deberán dar aviso por escrito a la Superintendencia de Servicios Sanitarios.
+Los procesos y sistemas productivos tendrán el carácter de confidencial. Los insumos peligrosos y los efluentes serán de conocimiento público.
+El aviso a que se refiere el inciso primero informará acerca de los insumos, procesos y sistemas productivos, el sistema de tratamiento de los efluentes y sus sistemas de control, y tendrá por objeto sólo que la Superintendencia fije, mediante resolución, el plan de monitoreo e informes periódicos respectivos al fiscalizador.

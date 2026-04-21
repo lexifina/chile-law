@@ -1,0 +1,2 @@
+Artículo 11 I.- Los funcionarios de la entidad normativa, pertenecientes o asimilados a las plantas de Profesionales y Fiscalizadores, designados como fiscalizadores de los servicios sanitarios y de los establecimientos que generan residuos industriales líquidos, tendrán la calidad de ministros de fe en la verificación de los hechos constitutivos de infracciones de la normativa vigente.
+Los hechos establecidos por dichos ministros de fe constituirán una presunción legal.
