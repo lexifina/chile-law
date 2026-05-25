@@ -10,6 +10,7 @@ Párrafo 6° De los Consejos Locales de Educación Pública
 Título IV De la Dirección de Educación Pública
 Párrafo 1° Objeto, funciones y atribuciones
 Párrafo 2° Organización de la Dirección de Educación Pública
+Título IV bis Mecanismos Especiales de Coordinación
 Título V Disposiciones finales
 Título VI Otras normas
 DISPOSICIONES TRANSITORIAS
