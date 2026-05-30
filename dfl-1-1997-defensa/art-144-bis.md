@@ -1,0 +1,1 @@
+Artículo 144 bis.- El personal militar deberá informar al superior directo la infracción de otras normas legales o reglamentarias vigentes. El incumplimiento de esta obligación generará la respectiva responsabilidad disciplinaria de conformidad con lo establecido por cada institución.
