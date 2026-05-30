@@ -1,1 +1,1 @@
-Artículo 3º.- El primer sorteo para designar a dos Ministros de cada Corte de Apelaciones, para los efectos de dar cumplimiento a lo estipulado en el inciso segundo del artículo 25, se realizará dentro de los quince días siguientes a la entrada en vigencia de esta ley.".
+Artículo 3 (T).- Derogado.
