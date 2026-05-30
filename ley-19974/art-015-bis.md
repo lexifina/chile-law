@@ -1,0 +1,1 @@
+Artículo 15 bis.- El Director de la Agencia, con sujeción a la planta y a la dotación máxima de personal, establecerá, mediante resolución, su organización interna y determinará las denominaciones y funciones que correspondan a cada una de las unidades establecidas para el cumplimiento de las funciones que les sean asignadas.
