@@ -1,1 +1,1 @@
-Artículo 2º.- El gasto fiscal que represente esta ley, durante el primer año de su vigencia, se financiará con cargo al presupuesto fiscal de la Dirección de Seguridad Pública e Informaciones, el que se traspasará íntegramente al servicio público creado mediante esta ley, y en lo que no alcanzare, con la provisión para financiamientos comprometidos de la partida presupuestaria del Tesoro Público del Presupuesto Anual del Sector Público para dicho año.
+Artículo 2 (T).- Derogado.

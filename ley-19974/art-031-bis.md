@@ -1,0 +1,2 @@
+Artículo 31 bis.- Los integrantes del Comité de Inteligencia de Estado establecerán las directrices que determinarán los supuestos de procedencia, los protocolos de actuación y de control interno de las medidas señaladas en el artículo anterior.
+Dichas directrices incluirán los procedimientos necesarios para procurar que la identidad de los funcionarios que ejecuten dichos procedimientos permanezca oculta, que éstos no induzcan a la perpetración de delitos y que su seguridad y la de terceros se encuentre debidamente resguardada.
