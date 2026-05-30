@@ -1,0 +1,1 @@
+Artículo 36 bis.- La Contraloría General de la República procederá a la toma de razón, en forma secreta, de los decretos y resoluciones de la Agencia o expedidos por ella. Estos decretos y resoluciones podrán cumplirse de inmediato, sin perjuicio de su posterior tramitación, cuando así se disponga en ellos.

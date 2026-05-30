@@ -1,0 +1,3 @@
+Artículo 5° ter.- El Presidente de la República, a propuesta del Consejo Interministerial de Inteligencia de Estado, establecerá una Política Nacional de Inteligencia del Estado, en adelante "la Política", de carácter público, que establecerá los objetivos estratégicos de mediano y largo plazo para el Sistema de Inteligencia del Estado.
+La Política será aprobada mediante decreto supremo dictado por intermedio del Ministerio del Interior, suscrito por los Ministros de Relaciones Exteriores, de Defensa Nacional y de Seguridad Pública.
+La Política se podrá modificar de manera fundada, debiendo informarse de su contenido y modificaciones a las comisiones del Congreso Nacional señaladas en el artículo 37.
