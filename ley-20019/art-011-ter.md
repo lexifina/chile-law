@@ -1,0 +1,1 @@
+Artículo 11 ter.- Los cargos directivos, gerenciales o en órganos internos de una federación deportiva nacional o de una liga deportiva son incompatibles entre sí. En consecuencia, las personas que asuman dichos cargos no podrán ejercer simultáneamente funciones de la misma naturaleza en ninguna otra organización deportiva profesional.

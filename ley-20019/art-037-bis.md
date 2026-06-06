@@ -1,0 +1,1 @@
+Artículo 37 bis.- Serán aplicables a las operaciones relacionadas de las organizaciones deportivas lo dispuesto en el Título XVI de la ley Nº 18.046, sin perjuicio de que la difusión de las operaciones a que se refiere el inciso final del artículo 147 de dicha ley sea obligatoria.
