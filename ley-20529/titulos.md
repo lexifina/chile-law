@@ -11,7 +11,7 @@ TÍTULO III De la Superintendencia de Educación
 Párrafo 1º Objeto y atribuciones
 Párrafo 2º De la fiscalización
 Párrafo 3º De la rendición de cuenta pública del uso de los recursos
-Párrafo 4º De la atención de denuncias y reclamos
+Párrafo 4º De la atención de denuncias y otros requerimientos ciudadanos
 Párrafo 5º De las infracciones y sanciones
 Párrafo 6º Del administrador provisional
 Párrafo 7º De la organización de la Superintendencia
