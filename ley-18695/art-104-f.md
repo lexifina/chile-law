@@ -3,7 +3,7 @@ Este instrumento contendrá un diagnóstico de la situación de seguridad de cad
 Asimismo, en los objetivos y metas de dicho instrumento deberá contemplarse la priorización de ciertos delitos o problemáticas en materia de seguridad que afecten a la comuna sobre la base de factores tales como la frecuencia o gravedad del delito, para lo cual deberá considerarse lo obrado por el respectivo consejo, en virtud de la función señalada en la letra a) del artículo precedente.
 Sin perjuicio de lo anterior, el plan comunal deberá considerar, a lo menos, las siguientes materias:
 a) Medidas de prevención de conductas infractoras por parte de niñas, niños y adolescentes.
-b) Medidas de prevención de deserción escolar y de reinserción de los escolares desertores.
+b) Medidas de prevención y resguardo de la seguridad de los establecimientos educacionales y sus entornos. Además, contemplará medidas para la adecuada coordinación interinstitucional en la prevención y detección de conductas de estudiantes con riesgo socio delictual, inasistencia grave o deserción escolar, o respecto de quienes se hayan aplicado medidas de expulsión o cancelación de matrícula, con el objeto de resguardar su seguridad y su adecuada reinserción educativa.
 c) Prevención y rehabilitación del consumo de drogas.
 d) Fortalecimiento de la convivencia comunitaria.
 e) Mejoramiento urbano en barrios vulnerables.
