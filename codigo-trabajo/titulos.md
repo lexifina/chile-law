@@ -18,7 +18,7 @@ Capítulo I DEL CONTRATO DE APRENDIZAJE
 Capítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS
 Párrafo 1º Normas Generales
 Párrafo 2° Normas especiales para los trabajadores agrícolas de temporada
-Capítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES
+Capítulo III DEL CONTRATO DE LAS TRABAJADORAS Y LOS TRABAJADORES EMBARCADOS O GENTE DE MAR, DE LAS TRABAJADORAS Y LOS TRABAJADORES PORTUARIOS EVENTUALES Y DEL BUCEO Y ACTIVIDADES CONEXAS
 Párrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional
 Párrafo 2º Del contrato de los trabajadores portuarios eventuales
 Capítulo IV Del contrato de los trabajadores de artes y espectáculos
