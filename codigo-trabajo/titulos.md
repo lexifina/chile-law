@@ -42,6 +42,7 @@ Párrafo IV De las normas comunes aplicables a los trabajadores de plataformas d
 Título III Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
 Capítulo I Del Reglamento Interno
 Capítulo II De la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
+CAPÍTULO III DE LAS MEDIDAS PARA LA INCLUSIÓN DE LAS MUJERES TRABAJADORAS EN LAS EMPRESAS
 Título IV DEL SERVICIO MILITAR OBLIGATORIO
 Título V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO
 Título VI DE LA CAPACITACION OCUPACIONAL
