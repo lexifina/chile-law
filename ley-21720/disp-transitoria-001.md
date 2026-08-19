@@ -1,0 +1,1 @@
+Artículo primero.- El reglamento al que hace referencia el párrafo cuarto de la letra h) que esta ley agrega en el artículo 36 B de la Ley N° 18.168 , General de Telecomunicaciones, deberá ser dictado dentro del plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial.
