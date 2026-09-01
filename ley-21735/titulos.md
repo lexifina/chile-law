@@ -3,6 +3,7 @@ Título II Del Seguro Social Previsional
 Párrafo 1° Disposiciones generales
 Párrafo 2° De las Prestaciones del Seguro Social
 §1 Del Beneficio por años cotizados
+§2 De la Cotización con Rentabilidad Protegida
 §3 De la Compensación por diferencias de expectativa de vida
 Título III De la cotización de las personas trabajadoras independientes
 Párrafo 1° De las personas trabajadoras independientes del artículo 42 N° 2 de la Ley sobre Impuesto a la Renta en el Seguro Social Previsional
