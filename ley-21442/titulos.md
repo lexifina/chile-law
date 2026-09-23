@@ -29,6 +29,7 @@ TÍTULO VII DE LA SEGURIDAD DEL CONDOMINIO
 Párrafo 1° Del plan de emergencia y de los planos del condominio
 Párrafo 2° De las revisiones y certificaciones en las unidades
 Párrafo 3° De los seguros
+Párrafo 4° De las medidas adicionales de seguridad destinadas a prevenir caídas accidentales.
 TÍTULO VIII FÓRMULAS DE RESOLUCIÓN DE CONFLICTOS
 Párrafo 1° De la resolución judicial
 Párrafo 2° Del arbitraje
