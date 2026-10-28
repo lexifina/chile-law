@@ -12058,60 +12058,6 @@
       "art-375": {
        "label": "Art. 375",
        "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-376": {
-       "label": "Art. 376",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-377": {
-       "label": "Art. 377",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-378": {
-       "label": "Art. 378",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-379": {
-       "label": "Art. 379",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-380": {
-       "label": "Art. 380",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "art-381": {
-       "label": "Art. 381",
-       "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      },
-      "titulos": {
-       "label": "Títulos",
-       "kind": "headings",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
-      }
-     },
-     "credits": {},
-     "note": "Corrected: LeyChile's text of Art. 375 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 376 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 377 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 378 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 379 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 380 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 381 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Títulos from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
-    },
-    {
-     "from": "1995-09-07",
-     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1984&idVersion=1995-09-07",
-     "sha256": "664df27d56565a7e4d333cf49bdbcedf214f4b8424f0eaf247c3e222509204f4",
-     "changes": {
-      "art-367-bis": {
-       "label": "Art. 367 bis",
-       "kind": "art",
-       "text": "ART. 367 bis.\nEl que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.\nNo obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:\n1.- Si la víctima es menor de edad.\n2.- Si se ejerce violencia o intimidación.\n3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.\n4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.\n5.- Si el agente se vale del estado de desamparo económico de la víctima.\n6.- Si existe habitualidad en la conducta del agente.\n"
-      },
-      "art-375": {
-       "label": "Art. 375",
-       "kind": "art",
        "text": "ART. 375. Derogado.\n"
       },
       "art-376": {
@@ -12151,9 +12097,6 @@
       }
      },
      "credits": {
-      "art-367-bis": [
-       "ley-19409"
-      ],
       "art-375": [
        "ley-19335"
       ],
@@ -12178,8 +12121,24 @@
       "titulos": [
        "ley-19335"
       ]
+     }
+    },
+    {
+     "from": "1995-09-07",
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1984&idVersion=1995-09-07",
+     "sha256": "664df27d56565a7e4d333cf49bdbcedf214f4b8424f0eaf247c3e222509204f4",
+     "changes": {
+      "art-367-bis": {
+       "label": "Art. 367 bis",
+       "kind": "art",
+       "text": "ART. 367 bis.\nEl que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.\nNo obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:\n1.- Si la víctima es menor de edad.\n2.- Si se ejerce violencia o intimidación.\n3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.\n4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.\n5.- Si el agente se vale del estado de desamparo económico de la víctima.\n6.- Si existe habitualidad en la conducta del agente.\n"
+      }
      },
-     "note": "Art. 375: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 376: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 377: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 378: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 379: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 380: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 381: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Títulos: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24)."
+     "credits": {
+      "art-367-bis": [
+       "ley-19409"
+      ]
+     }
     },
     {
      "from": "1995-09-20",
@@ -42524,22 +42483,20 @@
       "art-048": {
        "label": "Art. 48",
        "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+       "text": "Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.\nRespecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.\nLos empleadores estarán obligados a pagar las gratificaciones al personal con el carácter de anticipo sobre la base del balance o liquidación presentada al Servicio de Impuestos Internos, en tanto se practica la liquidación definitiva.\n"
       }
      },
-     "credits": {},
-     "note": "Corrected: LeyChile's text of Art. 48 from this version to 2016-01-01 carries amendment notes naming norms published after those days (Ley 20899 Art. 10 D.O. 08.02.2016), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
+     "credits": {
+      "art-048": [
+       "ley-20899"
+      ]
+     }
     },
     {
      "from": "2016-04-01",
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2016-04-01",
      "sha256": "3f753bafd138cdcfb4d779a32c6a3c508b273a7c08be9422384e816bda1710e9",
      "changes": {
-      "art-048": {
-       "label": "Art. 48",
-       "kind": "art",
-       "text": "Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.\nRespecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.\nLos empleadores estarán obligados a pagar las gratificaciones al personal con el carácter de anticipo sobre la base del balance o liquidación presentada al Servicio de Impuestos Internos, en tanto se practica la liquidación definitiva.\n"
-      },
       "art-075": {
        "label": "Art. 75",
        "kind": "art",
@@ -42549,12 +42506,9 @@
      "credits": {
       "art-075": [
        "ley-20903"
-      ],
-      "art-048": [
-       "ley-20899"
       ]
      },
-     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.903. Art. 48: the wording LeyChile gives once Ley 20.899 is in force; credited to it (see the correction noted on 2016-01-01)."
+     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.903."
     },
     {
      "from": "2016-04-14",
@@ -57526,8 +57480,8 @@
   "Código del Trabajo: LeyChile keeps the Código del Trabajo of 1987 (Ley 18.620, idNorma 30011) in one undated version only, so its history from 1987 to 1994 is not available; the act starts with the texto refundido of DFL 1 of 1994 as the oldest version available, and DFL 1 of 2003 is its next text.",
   "A version dated D is anachronistic when its amendment notes name a norm published after D (by Diario Oficial date, or by a Ley number at least that of a Ley published after D). Where LeyChile's \"Texto Original\" of a code holds no article text (only a PDF link), its later old versions are reconstructions, and the code starts at the oldest version from which no version is anachronistic: CCom from 1988-10-20 (14 older versions affected); CPC from 2004-08-30 (29 older versions affected). The first version is then the oldest version available, credited to the publisher. (codes/anachronism.py)",
   "CPP: The Código Procesal Penal (Ley 19.696, published in the Diario Oficial on 12 October 2000) says in its own art. 484 when it takes effect: \"regirá para las Regiones de Coquimbo y de la Araucanía desde el 16 de diciembre de 2000\", and for the other regions from 16 October 2001, 2002 and 2003 (dates later changed by amendment; today's text has the Región Metropolitana from 16 June 2005). Its first version is dated 2000-12-16, the first day it was in force anywhere, not the publication day LeyChile shows; the regional phases are in the text of art. 484, not in the dates.",
-  "CP: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 367 1977-12-14 to 1996-03-08 placeholder; from 1997-05-17 credited to Ley 19.450; Art. 375 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 376 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 377 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 378 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 379 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 380 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 381 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Párrafo 2014-09-17 to 2020-01-30 placeholder; from 2020-03-04 credited to Ley 21.212; Títulos 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335.",
-  "CT: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 25 1994-01-26 to 2001-07-06 placeholder; from 2001-10-05 credited to Ley 19.759; Art. 48 2016-01-01 to 2016-01-01 placeholder; from 2016-04-01 credited to Ley 20.899; Art. 168 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 170 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 415 2003-01-16 to 2007-11-15 placeholder; from 2008-03-29 credited to Ley 20.252; Art. 416 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 417 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 418 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 419 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 421 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 422 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 423 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 424 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 439 bis 2009-10-30 to 2014-08-12 placeholder; Art. 480 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Capítulo 2010-02-10 to 2017-06-09 placeholder; from 2017-06-20 credited to Ley 21.015; Títulos 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022.",
+  "CP: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 367 1977-12-14 to 1996-03-08 placeholder; from 1997-05-17 credited to Ley 19.450; Párrafo 2014-09-17 to 2020-01-30 placeholder; from 2020-03-04 credited to Ley 21.212.",
+  "CT: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 25 1994-01-26 to 2001-07-06 placeholder; from 2001-10-05 credited to Ley 19.759; Art. 168 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 170 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 415 2003-01-16 to 2007-11-15 placeholder; from 2008-03-29 credited to Ley 20.252; Art. 416 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 417 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 418 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 419 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 421 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 422 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 423 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 424 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 439 bis 2009-10-30 to 2014-08-12 placeholder; Art. 480 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Capítulo 2010-02-10 to 2017-06-09 placeholder; from 2017-06-20 credited to Ley 21.015; Títulos 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022.",
   "CPP: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Parágrafo 2011-08-13 to 2023-05-23 placeholder; from 2023-06-15 credited to Ley 21.577."
  ],
  "ai_use": [

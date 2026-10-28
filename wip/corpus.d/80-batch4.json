@@ -29767,7 +29767,7 @@
       "art-030": {
        "label": "Art. 30",
        "kind": "art",
-       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+       "text": "Artículo 30° La incapacidad temporal da derecho al accidentado o enfermo a un subsidio al cual le serán aplicables las normas contenidas en los artículos 3°, 7°, 8°, 10, 11, 17, 19 y 22 del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión Social, en el inciso segundo del artículo 21 de la ley N° 18.469 y en el artículo 17 del decreto ley N° 3.500 de 1980.\nEn todo caso, el monto del subsidio se reajustará en un porcentaje equivalente al alza que experimenten los correspondientes sueldos y salarios en virtud de leyes generales, o por aplicación de convenios colectivos de trabajo.\n"
       },
       "art-047": {
        "label": "Art. 47",
@@ -29792,11 +29792,13 @@
       "art-026": [
        "ley-19454"
       ],
+      "art-030": [
+       "ley-19454"
+      ],
       "art-047": [
        "ley-19454"
       ]
-     },
-     "note": "Corrected: LeyChile's text of Art. 30 from this version to 1996-05-09 carries amendment notes naming norms published after those days (LEY 19454 Art. 8° Nº 3 D.O. 08.09.1996), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
+     }
     },
     {
      "from": "1996-05-09",
@@ -29814,7 +29816,8 @@
        "text": "Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley la República.\nSantiago, veintitrés de enero de mil novecientos sesenta y ocho.- EDUARDO FREI MONTALVA.- William Thayer.- Ramón Valdivieso.\n"
       }
      },
-     "credits": {}
+     "credits": {},
+     "note": "Corrected: LeyChile's text of Art. 30 from this version to 1996-05-09 carries amendment notes naming norms published after those days (LEY 19454 Art. 8° Nº 3 D.O. 08.09.1996), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2005-11-25",
@@ -29825,22 +29828,14 @@
        "label": "Art. 3",
        "kind": "art",
        "text": "Artículo 3° Estarán protegidos también, todos los estudiantes por los accidentes que sufran a causa o con ocasión de sus estudios o en la realización de su práctica profesional. Para estos efectos se entenderá por estudiantes a los alumnos de cualquiera de los niveles o cursos de los establecimientos educacionales reconocidos oficialmente de acuerdo a lo establecido en la ley Nº 18.962, Orgánica Constitucional de Enseñanza.\nEl Presidente de la República queda facultado para decidir la oportunidad, financiamiento y condiciones de la incorporación de tales estudiantes a este seguro escolar, la naturaleza y contenido de las prestaciones que se les otorgará y los organismos, instituciones o servicios que administrarán dicho seguro.\n"
-      },
-      "art-030": {
-       "label": "Art. 30",
-       "kind": "art",
-       "text": "Artículo 30° La incapacidad temporal da derecho al accidentado o enfermo a un subsidio al cual le serán aplicables las normas contenidas en los artículos 3°, 7°, 8°, 10, 11, 17, 19 y 22 del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión Social, en el inciso segundo del artículo 21 de la ley N° 18.469 y en el artículo 17 del decreto ley N° 3.500 de 1980.\nEn todo caso, el monto del subsidio se reajustará en un porcentaje equivalente al alza que experimenten los correspondientes sueldos y salarios en virtud de leyes generales, o por aplicación de convenios colectivos de trabajo.\n"
       }
      },
      "credits": {
       "art-003": [
        "ley-20067"
-      ],
-      "art-030": [
-       "ley-19454"
       ]
      },
-     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.067. Art. 30: the wording LeyChile gives once Ley 19.454 is in force; credited to it (see the correction noted on 1996-05-08)."
+     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.067."
     },
     {
      "from": "2006-04-28",
@@ -30067,7 +30062,7 @@
   "Ley 19.039: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Títulos 2006-06-20 to 2006-07-25 placeholder; from 2007-01-26 credited to Ley 19.996, Ley 20.160.",
   "Ley 18.045: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 4 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 5 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 7 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 8 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 11 2020-10-19 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 12 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 13 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 15 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 20 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 23 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 26 2014-10-10 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 27 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 44 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 58 1981-10-23 to 1993-06-01 placeholder; from 1994-03-19 credited to Ley 19.301; Art. 60 1981-10-23 to 1993-06-01 placeholder; from 1994-03-19 credited to Ley 19.301; Art. 115 1994-03-19 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 144 bis 2010-10-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 151 1994-03-19 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 152 1994-03-19 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 153 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 168 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 170 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 171 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 179 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 183 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 185 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 186 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 187 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 188 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 189 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 192 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 193 1999-01-18 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 194 1999-01-18 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 196 2007-06-05 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 197 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 198 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 199 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 200 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 202 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 203 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 204 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 207 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 212 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 214 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 215 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 218 2000-12-20 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 239 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 240 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 246 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314; Art. 248 2010-01-01 to 2020-10-19 placeholder; from 2021-04-13 credited to Ley 21.314.",
   "DFL 1 2005 (Salud): provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 84 2016-01-01 to 2016-08-30 placeholder; from 2016-11-29 credited to Ley 20.972.",
-  "Ley 16.744: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 30 1996-05-08 to 1996-05-09 placeholder; from 2005-11-25 credited to Ley 19.454."
+  "Ley 16.744: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 30 1996-05-09 to 1996-05-09 placeholder."
  ],
  "ai_use": [
   "Phase 2 codes: none at data-build time; codes/*.py are deterministic code written with Claude Code (claude-opus-5-5), reusing parse.py; no model reads, writes or summarises legal text."
