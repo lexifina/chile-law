@@ -1,8 +1,9 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
 (--part codes, the default), corpus.d/60-more.json (--part more), corpus.d/70-batch3.json (--part batch3) or
-corpus.d/80-batch4.json (--part batch4) or corpus.d/90-batch5.json (--part batch5).
+corpus.d/80-batch4.json (--part batch4), corpus.d/90-batch5.json (--part batch5) or corpus.d/95-batch6.json
+(--part batch6).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4|batch5] [--acts a,b,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4|batch5|batch6] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
@@ -108,6 +109,24 @@ META.update({
     'ley-14908': {'short': 'Ley 14.908', 'title': 'Ley 14.908 sobre abandono de familia y pago de pensiones '
                   'alimenticias', 'url': L + '172986', 'first_law': True},
 })
+META.update({
+    'ley-19537': {'short': 'Ley 19.537', 'title': 'Ley 19.537 sobre copropiedad inmobiliaria', 'url': L + '81505',
+                  'first_law': True},
+    'ley-18101': {'short': 'Ley 18.101', 'title': 'Ley 18.101 sobre arrendamiento de predios urbanos',
+                  'url': L + '29526', 'first_law': True},
+    'ley-20285': {'short': 'Ley 20.285', 'title': 'Ley 20.285 sobre acceso a la información pública',
+                  'url': L + '276363', 'first_law': True},
+    'ley-18700': {'short': 'Ley 18.700', 'title': 'Ley 18.700 orgánica constitucional sobre votaciones populares y '
+                  'escrutinios', 'url': L + '1108229', 'first_law': True},
+    'ley-20584': {'short': 'Ley 20.584', 'title': 'Ley 20.584 sobre derechos y deberes de las personas en relación '
+                  'con su atención de salud', 'url': L + '1039348', 'first_law': True},
+    'ley-19733': {'short': 'Ley 19.733', 'title': 'Ley 19.733 sobre libertades de opinión e información y ejercicio '
+                  'del periodismo', 'url': L + '186049', 'first_law': True},
+    'ley-20529': {'short': 'Ley 20.529', 'title': 'Ley 20.529 sobre el sistema nacional de aseguramiento de la '
+                  'calidad de la educación', 'url': L + '1028635', 'first_law': True},
+    'ley-21091': {'short': 'Ley 21.091', 'title': 'Ley 21.091 sobre educación superior', 'url': L + '1118991',
+                  'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -170,6 +189,17 @@ PARTS = {
             'corpus keeps the days LeyChile gives its versions, from publication, so the deferral is in the text, '
             'not in the dates. LeyChile\'s unversioned page for it shows the version waiting for an event '
             '(2222-02-02), which is left out; the text in force on 2026-10-28 is the version of 2026-01-13.',
+        ],
+    },
+    'batch6': {
+        'acts': 'ley-19537,ley-18101,ley-20285,ley-18700,ley-20584,ley-19733,ley-20529,ley-21091',
+        'out': ROOT / 'corpus.d' / '95-batch6.json',
+        'decisions': [
+            'Leyes 19.537, 18.101, 20.285, 18.700, 20.584, 19.733, 20.529 and 21.091 (corpus.d/95-batch6.json) are '
+            'parsed by the same parse.py rules as the Constitution, from the LeyChile norms found with '
+            'get_norma_json?idLey=<number> (metadatos.id_norma) and verified on 2026-10-28 with get_cadena_refundidos '
+            'and get_versiones: 81505, 29526, 276363, Ley 18.700 = 30082 then DFL 2 of 2017 (1108229), 1039348, '
+            '186049, 1028635 and 1118991.',
         ],
     },
     'more': {
@@ -484,6 +514,9 @@ VIGENCIA = {
     'ley-20084': ('2007-06-08', '"La presente ley entrará en vigencia dieciocho meses después de su publicación, con '
                   'excepción de lo dispuesto en las letras a) y c) del artículo 68" (art. 1 transitorio, in the words '
                   'Ley 20.110 gave it; published 2005-12-07)'),
+    'ley-20285': ('2009-04-21', '"La presente ley entrará en vigencia ocho meses después de publicada en el Diario '
+                  'Oficial, salvo el artículo 2º transitorio [...], que regirá desde su publicación" (artículo '
+                  'transitorio; published 2008-08-20)'),
     'ley-19947': ('2004-11-18', '"Esta ley entrará en vigencia seis meses después de su publicación en el Diario '
                   'Oficial" (artículo final; published 2004-05-17)'),
 }
