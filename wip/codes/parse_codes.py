@@ -215,7 +215,7 @@ def main() -> None:
         if a['slug'] in STARTS:
             v0 = a['versions'][0]
             v0['note'] = cut_note(a['slug']) + (' ' + v0['note'] if v0.get('note') else '')
-        disclosed += disclose(a)
+        disclosed += correct(a, laws)
     out_laws = {k: {kk: vv for kk, vv in v.items() if not kk.startswith('_')} for k, v in sorted(laws.laws.items())}
     main_laws = json.loads(Path(args.main_corpus).read_text(encoding='utf-8')).get('laws', {})
     for other in sorted((ROOT / 'corpus.d').glob('*.json')):
@@ -282,36 +282,93 @@ def expand(part: dict) -> dict:
     return part
 
 
-def disclose(act: dict) -> list[str]:
-    """Adds to a version's note the provisions whose LeyChile notes name a norm published after the version's day,
-    on the first version where each such note appears (and when it goes away). Returns one decision line per act."""
+PLACEHOLDER = '[La fuente no da el texto vigente en esta fecha.]\n'
+
+
+def zkey(k: str) -> str:
+    return re.sub(r'(?<=-)0+(?=\d)', '', k)
+
+
+def note_laws(laws: parse.Laws, notes: list[str]) -> list[str]:
+    """The law keys the amendment notes name (registering a law known only from a note, as parse.py does)."""
+    dated = dict(anachronism.ley_dates())
+    keys = set()
+    for n in notes:
+        refs, dates = parse.note_refs([n])
+        day = max(dates) if dates else None
+        for t, num in sorted(refs):
+            pub = day or (dated.get(num) if t == 'ley' else None)
+            if t == 'ley' or pub:
+                keys.add(laws.from_note(t, num, pub, n))
+        if not refs and day and re.match(r'(?i)RECTIFICA', n):
+            keys.add(laws.from_note('rec', None, day, n))
+    return sorted(keys)
+
+
+def correct(act: dict, laws: parse.Laws) -> list[str]:
+    """Coordinator rule for anachronistic versions (codes/anachronism.py): a provision whose LeyChile text, in a version
+    dated D, carries an amendment note naming a norm published after D holds wording that is not yet in force. Only
+    those provisions are corrected, in the run of versions in which the note is ahead of its day:
+      - the provision did not exist before the run: that norm inserted it, so it is left out of the run;
+      - it existed: where its text differs from the text before the run, it becomes the placeholder line (the source
+        does not give the wording in force then), credited to the publisher (unexplained);
+    and in the first version after the run, where LeyChile's wording arrives, the change is credited to the norm(s)
+    the notes name. Returns the decision lines."""
     bad = anachronism.defects(act['slug'])
-    seen: set[tuple[str, str]] = set()
-    hits = []
-    for v in act['versions']:
-        late = bad.get(v['from'], [])
-        cur = {(k, n) for _w, k, n in late}
-        new = sorted(cur - seen)
-        gone = sorted(seen - cur)
-        seen = cur
-        parts = []
-        bykey = {re.sub(r'(?<=-)0+(?=\d)', '', k): u for k, u in v['units'].items()}
-        lab = {k: bykey.get(re.sub(r'(?<=-)0+(?=\d)', '', k), {}).get('label', k) for k, _ in new + gone}
-        if new:
-            parts.append("LeyChile's text of this version carries amendment notes naming norms published after this "
-                         'day, so the wording of these provisions here may already be the later one: '
-                         + '; '.join(f'{lab[k]} ("{n}")' for k, n in new) + '.')
-            hits += [(v['from'], lab[k], n) for k, n in new]
-        if gone:
-            parts.append('From this version the amendment notes on ' + ', '.join(sorted({lab[k] for k, _ in gone}))
-                         + " no longer name a norm published after the version's day.")
-        if parts:
-            v['note'] = (v['note'] + ' ' if v.get('note') else '') + ' '.join(parts)
-    if not hits:
+    vs = act['versions']
+    keys = {zkey(k): k for v in vs for k in v['units']}
+    flagged: dict[str, dict[int, list[str]]] = {}
+    for i, v in enumerate(vs):
+        for _why, k4, n in bad.get(v['from'], []):
+            k = keys.get(zkey(k4))
+            if k:
+                flagged.setdefault(k, {}).setdefault(i, []).append(n)
+    lines = []
+    for k in sorted(flagged):
+        idx = sorted(flagged[k])
+        runs, start = [], idx[0]
+        for a, b in zip(idx, idx[1:] + [None]):
+            if b != a + 1:
+                runs.append((start, a))
+                start = b
+        for i, j in runs:
+            pre = vs[i - 1]['units'].get(k) if i else None
+            inserted = pre is None
+            label = next((vs[t]['units'][k]['label'] for t in range(i, j + 1) if k in vs[t]['units']), k)
+            for t in range(i, j + 1):
+                u = vs[t]['units'].get(k)
+                if inserted:
+                    vs[t]['units'].pop(k, None)
+                elif u is not None and u['text'] != pre['text']:
+                    vs[t]['units'][k] = dict(u, text=PLACEHOLDER)
+                vs[t]['credits'].pop(k, None)
+            names = sorted({n for t in range(i, j + 1) for n in flagged[k].get(t, [])})
+            how = 'left out (the norm its note names inserted it)' if inserted else \
+                'shown as the placeholder line where LeyChile gives a later wording'
+            vs[i]['note'] = (vs[i]['note'] + ' ' if vs[i].get('note') else '') + (
+                f'Corrected: LeyChile\'s text of {label} from this version to {vs[j]["from"]} carries amendment notes '
+                f'naming norms published after those days ({"; ".join(names)[:300]}), so its wording there is not yet '
+                f'in force: it is {how}.')
+            arrive = ''
+            if j + 1 < len(vs):
+                nxt = vs[j + 1]
+                if nxt['units'].get(k) != vs[j]['units'].get(k):
+                    lk = note_laws(laws, flagged[k][j])
+                    if lk:
+                        nxt['credits'][k] = sorted(set(nxt['credits'].get(k, [])) | set(lk))
+                        nxt['note'] = (nxt['note'] + ' ' if nxt.get('note') else '') + (
+                            f'{label}: the wording LeyChile gives once '
+                            + ', '.join(laws.laws[x]['label'] for x in lk)
+                            + ' is in force; credited to it (see the correction noted on '
+                            + vs[i]['from'] + ').')
+                        arrive = f'; from {nxt["from"]} credited to ' + ', '.join(laws.laws[x]['label'] for x in lk)
+            lines.append(f'{label} {vs[i]["from"]} to {vs[j]["from"]} {"left out" if inserted else "placeholder"}'
+                         + arrive)
+    if not lines:
         return []
-    return [f'{act["short"]}: LeyChile versions whose notes name a norm published later than the version (kept, and '
-            "disclosed in the version notes; the text is LeyChile's): " + '; '.join(
-                f'from {d}, {lab} ("{n[:70]}")' for d, lab, n in hits) + '.']
+    return [f'{act["short"]}: provisions whose LeyChile text in a version carries notes naming a norm published after '
+            'that version (coordinator rule: correct only those provisions, never keep text in force before its law; '
+            'placeholder "' + PLACEHOLDER.strip() + '" credited to the publisher): ' + '; '.join(lines) + '.']
 
 
 def extra_decisions(acts: list[dict]) -> list[str]:
