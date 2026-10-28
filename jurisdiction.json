@@ -1,0 +1,9 @@
+{
+  "path": "cl",
+  "code": "CL",
+  "name": "Chile",
+  "level": "country",
+  "repo": "https://github.com/lexifina/chile-law",
+  "build": "built: 331 acts from LeyChile (Constitución 1981-2026, the main codes and 317 other laws and decree-laws), 4242 dated versions; table in README.md",
+  "sources": 2
+}

@@ -1,0 +1,17 @@
+The legal texts come from the Biblioteca del Congreso Nacional de Chile:
+
+  Fuente: Biblioteca del Congreso Nacional de Chile, LeyChile (www.bcn.cl/leychile),
+  https://www.bcn.cl/leychile, retrieved 28 October 2026.
+
+BCN publishes no licence for LeyChile. They are official legal texts of the Republic of Chile. Chile's copyright law
+(Ley 17.336) has no express exclusion for legal texts, so their copyright status is not confirmed here; they are
+reproduced with the attribution above.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; LeyChile's amendment notes and BCN's editorial notes were removed from the
+text and used only to credit the amending norm; and the versions were arranged as git commits credited to the norms
+that made each change. The wording of the law was not changed. BCN does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
