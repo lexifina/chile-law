@@ -359,6 +359,7 @@ def main() -> None:
             v0 = a['versions'][0]
             v0['note'] = cut_note(a['slug']) + (' ' + v0['note'] if v0.get('note') else '')
         disclosed += correct(a, laws)
+        disclosed += fold_vigencia(a, laws)
     out_laws = {k: {kk: vv for kk, vv in v.items() if not kk.startswith('_')} for k, v in sorted(laws.laws.items())}
     main_laws = json.loads(Path(args.main_corpus).read_text(encoding='utf-8')).get('laws', {})
     for other in sorted((ROOT / 'corpus.d').glob('*.json')):
@@ -465,6 +466,68 @@ def note_laws(laws: parse.Laws, notes: list[str]) -> list[str]:
         if not refs and day and re.match(r'(?i)RECTIFICA', n):
             keys.add(laws.from_note('rec', None, day, n))
     return sorted(keys)
+
+
+# Acts whose own text defers their entry into force while LeyChile dates their first version from publication
+# (found with codes/vigencia_scan.py). The day follows Código Civil art. 48: periods are complete and run to midnight
+# of their last day; a period of months ends on the day with the same number (the last day of the month when there
+# is none); a period of days counts from the day after publication; the act applies from the next day.
+VIGENCIA = {
+    'ley-19496': ('1997-06-06', '"La presente ley entrará en vigencia noventa días después de su publicación en el '
+                  'Diario Oficial" (art. 1 transitorio; published 1997-03-07)'),
+    'codigo-mineria': ('1983-12-14', '"El presente Código empezará a regir sesenta días después de su publicación" '
+                       '(artículo final; published 1983-10-14)'),
+    'codigo-aeronautico': ('1990-08-09', '"Esta ley entrará en vigencia seis meses después de su publicación en el '
+                           'Diario Oficial" (art. 203; published 1990-02-08)'),
+    'ley-18695': ('1988-05-01', '"Esta ley entrará en vigencia un mes después de su publicación" (artículo final; '
+                  'published 1988-03-31; there is no 31 April, so the month ends on 30 April)'),
+    'ley-20084': ('2007-06-08', '"La presente ley entrará en vigencia dieciocho meses después de su publicación, con '
+                  'excepción de lo dispuesto en las letras a) y c) del artículo 68" (art. 1 transitorio, in the words '
+                  'Ley 20.110 gave it; published 2005-12-07)'),
+    'ley-19947': ('2004-11-18', '"Esta ley entrará en vigencia seis meses después de su publicación en el Diario '
+                  'Oficial" (artículo final; published 2004-05-17)'),
+}
+
+
+def fold_vigencia(act: dict, laws: parse.Laws) -> list[str]:
+    """Coordinator rule: commits are dated by when the text took effect. The act's first version is dated the day
+    its own vigencia clause gives (VIGENCIA); LeyChile's versions dated before that day (amendments made before the
+    act applied) are folded into it: it holds the text in force on that day, and its note names, per folded version,
+    the laws LeyChile credits and the provisions they changed. Returns the decision line."""
+    if act['slug'] not in VIGENCIA:
+        return []
+    day, quote = VIGENCIA[act['slug']]
+    vs = act['versions']
+    before = [v for v in vs if v['from'] < day]
+    if not before:
+        return []
+    at = [v for v in vs if v['from'] == day]
+    base = dict(at[0] if at else before[-1])
+    steps = before[1:] + at
+    parts = []
+    for v in steps:
+        by: dict[str, list[str]] = {}
+        for k, ls in sorted(v['credits'].items()):
+            lab = v['units'].get(k, {}).get('label', k)
+            for l in ls:
+                by.setdefault(l, []).append(lab)
+        prev = vs[vs.index(v) - 1]['units']
+        changed = [k for k in set(prev) | set(v['units']) if prev.get(k) != v['units'].get(k)]
+        loose = len([k for k in changed if not v['credits'].get(k)])
+        desc = '; '.join(f'{laws.laws[l]["label"]}: ' + ', '.join(us[:12]) + (', …' if len(us) > 12 else '')
+                         for l, us in by.items())
+        parts.append(f'{v["from"]}: ' + (desc or 'no law named') + (f' (and {loose} provisions no law explains)'
+                                                                       if loose else ''))
+    note = (f'In force from {day} by the words of the act itself: {quote}. LeyChile dates the text from its publication '
+            f'({before[0]["from"]}); this first version is the text in force on {day}.')
+    if parts:
+        note += (' It includes the changes LeyChile records before that day, made before the act applied: '
+                 + ' | '.join(parts) + '.')
+    base.update({'from': day, 'credits': {}, 'note': note})
+    act['versions'] = [base] + [v for v in vs if v['from'] > day]
+    return [f'{act["short"]}: first version dated {day}, the day its own vigencia clause gives ({quote}), not the '
+            f'publication day LeyChile uses; the {len(before)} LeyChile '
+            f'version(s) dated before it are folded into it (Código Civil art. 48 for the count).']
 
 
 def correct(act: dict, laws: parse.Laws) -> list[str]:
