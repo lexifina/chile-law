@@ -1,7 +1,7 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
-(--part codes, the default) or corpus.d/60-more.json (--part more).
+(--part codes, the default), corpus.d/60-more.json (--part more) or corpus.d/70-batch3.json (--part batch3).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more] [--acts a,b,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
@@ -51,6 +51,20 @@ META.update({
     'ley-19496': {'short': 'Ley 19.496', 'title': 'Ley 19.496 sobre protección de los derechos de los consumidores',
                   'url': L + '1160403', 'first_law': True},
 })
+META.update({
+    'codigo-organico-tribunales': {'short': 'COT', 'title': 'Código Orgánico de Tribunales', 'url': L + '25563',
+                                   'first_law': True},
+    'codigo-mineria': {'short': 'CMin', 'title': 'Código de Minería', 'url': L + '29668', 'first_law': True},
+    'codigo-aeronautico': {'short': 'CAer', 'title': 'Código Aeronáutico', 'url': L + '30287', 'first_law': True},
+    'codigo-justicia-militar': {'short': 'CJM', 'title': 'Código de Justicia Militar', 'url': L + '18914',
+                                'first_law': False},
+    'ley-20393': {'short': 'Ley 20.393', 'title': 'Ley 20.393 sobre responsabilidad penal de las personas jurídicas',
+                  'url': L + '1008668', 'first_law': True},
+    'ley-19880': {'short': 'Ley 19.880', 'title': 'Ley 19.880 de bases de los procedimientos administrativos',
+                  'url': L + '210676', 'first_law': True},
+    'ley-18010': {'short': 'Ley 18.010', 'title': 'Ley 18.010 sobre operaciones de crédito de dinero',
+                  'url': L + '29438', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -64,6 +78,21 @@ PARTS = {
             'Código del Trabajo: LeyChile keeps the Código del Trabajo of 1987 (Ley 18.620, idNorma 30011) in one '
             'undated version only, so its history from 1987 to 1994 is not available; the act starts with the texto '
             'refundido of DFL 1 of 1994 as the oldest version available, and DFL 1 of 2003 is its next text.',
+        ],
+    },
+    'batch3': {
+        'acts': 'codigo-organico-tribunales,codigo-mineria,codigo-aeronautico,codigo-justicia-militar,ley-20393,'
+                'ley-19880,ley-18010',
+        'out': ROOT / 'corpus.d' / '70-batch3.json',
+        'decisions': [
+            'Código Orgánico de Tribunales, Código de Minería, Código Aeronáutico, Código de Justicia Militar, Ley '
+            '20.393, Ley 19.880 and Ley 18.010 (corpus.d/70-batch3.json) are parsed by the same parse.py rules as the '
+            'Constitution, from the LeyChile norms verified on 2026-10-28 with get_cadena_refundidos and get_versiones: '
+            'Ley 7.421 of 1943 (25563), Ley 18.248 (29668), Ley 18.916 (30287), Decreto 2.226 of 1944 (18914), Ley '
+            '20.393 (1008668), Ley 19.880 (210676) and Ley 18.010 (29438).',
+            'Código de Justicia Militar: LeyChile keeps DL 806 of 1925 (idNorma 6363), which approved the code, in one '
+            'version only (1926-03-01), so the act starts with Decreto 2.226 of 1944, which fixed the text of the code, '
+            'as the oldest version available.',
         ],
     },
     'more': {
