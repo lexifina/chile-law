@@ -254,6 +254,23 @@ def main() -> None:
     clash = [k for k, v in out_laws.items() if k in main_laws and (
         main_laws[k]['label'] != v['label'] or (main_laws[k].get('url') and v.get('url')
                                                 and main_laws[k]['url'] != v['url']))]
+    for k in clash:
+        # parse.law_key gives numberless norms of the same type and year one key (e.g. "SEN S/N de 2009"); another
+        # part already uses this key for a different LeyChile norm, so this part's norm takes its idNorma as well.
+        nid = re.search(r'idNorma=(\d+)', out_laws[k].get('url') or '')
+        nk = f'{k}-{nid.group(1)}' if nid else None
+        if not nk or nk in out_laws or nk in main_laws:
+            continue
+        out_laws[nk] = out_laws.pop(k)
+        for a in acts:
+            a['earlier_laws'] = [nk if x == k else x for x in a['earlier_laws']]
+            a['first_law'] = nk if a['first_law'] == k else a['first_law']
+            for v in a['versions']:
+                v['credits'] = {u: [nk if x == k else x for x in ls] for u, ls in v['credits'].items()}
+    out_laws = dict(sorted(out_laws.items()))
+    clash = [k for k, v in out_laws.items() if k in main_laws and (
+        main_laws[k]['label'] != v['label'] or (main_laws[k].get('url') and v.get('url')
+                                                and main_laws[k]['url'] != v['url']))]
     if clash:
         raise SystemExit('law keys naming a different norm than corpus.json: ' + ', '.join(
             f'{k} ({out_laws[k]["label"]} {out_laws[k]["url"]} vs {main_laws[k]["label"]} {main_laws[k]["url"]})'
