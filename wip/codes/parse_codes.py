@@ -309,8 +309,9 @@ def correct(act: dict, laws: parse.Laws) -> list[str]:
     """Coordinator rule for anachronistic versions (codes/anachronism.py): a provision whose LeyChile text, in a version
     dated D, carries an amendment note naming a norm published after D holds wording that is not yet in force. Only
     those provisions are corrected, in the run of versions in which the note is ahead of its day:
-      - the provision did not exist before the run: that norm inserted it, so it is left out of the run;
-      - it existed: where its text differs from the text before the run, it becomes the placeholder line (the source
+      - the provision did not exist before the run and no norm in force that day is credited with it: that norm
+        inserted it, so it is left out of the run;
+      - otherwise, where its text differs from the text before the run, it becomes the placeholder line (the source
         does not give the wording in force then), credited to the publisher (unexplained);
     and in the first version after the run, where LeyChile's wording arrives, the change is credited to the norm(s)
     the notes name. Returns the decision lines."""
@@ -333,7 +334,10 @@ def correct(act: dict, laws: parse.Laws) -> list[str]:
                 start = b
         for i, j in runs:
             pre = vs[i - 1]['units'].get(k) if i else None
-            inserted = pre is None
+            # New in the run: inserted by the late norm, unless the versions list credits its arrival to a norm in
+            # force that day (that norm inserted it; the late norm changed it later).
+            inserted = pre is None and not vs[i]['credits'].get(k)
+            pre = pre or {'text': None}
             label = next((vs[t]['units'][k]['label'] for t in range(i, j + 1) if k in vs[t]['units']), k)
             for t in range(i, j + 1):
                 u = vs[t]['units'].get(k)

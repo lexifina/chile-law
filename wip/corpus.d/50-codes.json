@@ -510,6 +510,16 @@
    "temporary_until": null,
    "restores": null
   },
+  "ley-19450": {
+   "label": "Ley 19.450",
+   "title": "",
+   "kind": "law",
+   "enacted": null,
+   "published": "1996-03-18",
+   "url": null,
+   "temporary_until": null,
+   "restores": null
+  },
   "ley-19481": {
    "label": "Ley 19.481",
    "title": "INTRODUCE MODIFICACIONES AL CODIGO DEL TRABAJO, EN\nRELACION CON LAS FACULTADES DE LA DIRECCION DEL TRABAJO",
@@ -1380,6 +1390,16 @@
    "temporary_until": null,
    "restores": null
   },
+  "ley-20252": {
+   "label": "Ley 20.252",
+   "title": "",
+   "kind": "law",
+   "enacted": null,
+   "published": "2008-02-15",
+   "url": null,
+   "temporary_until": null,
+   "restores": null
+  },
   "ley-20253": {
    "label": "Ley 20.253",
    "title": "MODIFICA EL CÓDIGO PENAL Y EL CÓDIGO PROCESAL PENAL EN MATERIA DE SEGURIDAD CIUDADANA, Y REFUERZA LAS ATRIBUCIONES PREVENTIVAS DE LAS POLICÍAS",
@@ -2237,6 +2257,16 @@
    "enacted": null,
    "published": "2017-06-06",
    "url": "https://www.bcn.cl/leychile/navegar?idNorma=1103697",
+   "temporary_until": null,
+   "restores": null
+  },
+  "ley-21015": {
+   "label": "Ley 21.015",
+   "title": "",
+   "kind": "law",
+   "enacted": null,
+   "published": "2017-06-15",
+   "url": null,
    "temporary_until": null,
    "restores": null
   },
@@ -10614,7 +10644,7 @@
       "art-367": {
        "label": "Art. 367",
        "kind": "art",
-       "text": "ART. 367.\nEl que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-374": {
        "label": "Art. 374",
@@ -11152,7 +11182,7 @@
        "dl-2059-1977"
       ]
      },
-     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 367: LEY 19450 Art. 1 k) D.O. 18.03.1996. They are left uncredited. LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 367 (\"LEY 19450 Art. 1 k) D.O. 18.03.1996\")."
+     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 367: LEY 19450 Art. 1 k) D.O. 18.03.1996. They are left uncredited. Corrected: LeyChile's text of Art. 367 from this version to 1996-03-08 carries amendment notes naming norms published after those days (LEY 19450 Art. 1 k) D.O. 18.03.1996), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "1977-12-15",
@@ -12028,6 +12058,60 @@
       "art-375": {
        "label": "Art. 375",
        "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-376": {
+       "label": "Art. 376",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-377": {
+       "label": "Art. 377",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-378": {
+       "label": "Art. 378",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-379": {
+       "label": "Art. 379",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-380": {
+       "label": "Art. 380",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "art-381": {
+       "label": "Art. 381",
+       "kind": "art",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      },
+      "titulos": {
+       "label": "Títulos",
+       "kind": "headings",
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
+      }
+     },
+     "credits": {},
+     "note": "Corrected: LeyChile's text of Art. 375 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 376 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 377 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 378 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 379 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 380 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 381 from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Títulos from this version to 1993-12-24 carries amendment notes naming norms published after those days (LEY 19335 Art. 34 D.O. 23.09.1994), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
+    },
+    {
+     "from": "1995-09-07",
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1984&idVersion=1995-09-07",
+     "sha256": "664df27d56565a7e4d333cf49bdbcedf214f4b8424f0eaf247c3e222509204f4",
+     "changes": {
+      "art-367-bis": {
+       "label": "Art. 367 bis",
+       "kind": "art",
+       "text": "ART. 367 bis.\nEl que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.\nNo obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:\n1.- Si la víctima es menor de edad.\n2.- Si se ejerce violencia o intimidación.\n3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.\n4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.\n5.- Si el agente se vale del estado de desamparo económico de la víctima.\n6.- Si existe habitualidad en la conducta del agente.\n"
+      },
+      "art-375": {
+       "label": "Art. 375",
+       "kind": "art",
        "text": "ART. 375. Derogado.\n"
       },
       "art-376": {
@@ -12067,6 +12151,9 @@
       }
      },
      "credits": {
+      "art-367-bis": [
+       "ley-19409"
+      ],
       "art-375": [
        "ley-19335"
       ],
@@ -12092,25 +12179,7 @@
        "ley-19335"
       ]
      },
-     "note": "LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 375 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 376 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 377 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 378 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 379 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 380 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Art. 381 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); Títulos (\"LEY 19335 Art. 34 D.O. 23.09.1994\")."
-    },
-    {
-     "from": "1995-09-07",
-     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1984&idVersion=1995-09-07",
-     "sha256": "664df27d56565a7e4d333cf49bdbcedf214f4b8424f0eaf247c3e222509204f4",
-     "changes": {
-      "art-367-bis": {
-       "label": "Art. 367 bis",
-       "kind": "art",
-       "text": "ART. 367 bis.\nEl que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.\nNo obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:\n1.- Si la víctima es menor de edad.\n2.- Si se ejerce violencia o intimidación.\n3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.\n4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.\n5.- Si el agente se vale del estado de desamparo económico de la víctima.\n6.- Si existe habitualidad en la conducta del agente.\n"
-      }
-     },
-     "credits": {
-      "art-367-bis": [
-       "ley-19409"
-      ]
-     },
-     "note": "From this version the amendment notes on Art. 375, Art. 376, Art. 377, Art. 378, Art. 379, Art. 380, Art. 381, Títulos no longer name a norm published after the version's day."
+     "note": "Art. 375: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 376: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 377: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 378: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 379: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 380: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Art. 381: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24). Títulos: the wording LeyChile gives once Ley 19.335 is in force; credited to it (see the correction noted on 1993-12-24)."
     },
     {
      "from": "1995-09-20",
@@ -12776,6 +12845,11 @@
        "kind": "art",
        "text": "ART. 357.\nEl que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.\n"
       },
+      "art-367": {
+       "label": "Art. 367",
+       "kind": "art",
+       "text": "ART. 367.\nEl que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.\n"
+      },
       "art-374": {
        "label": "Art. 374",
        "kind": "art",
@@ -13003,9 +13077,12 @@
       ],
       "art-497": [
        "ley-19501"
+      ],
+      "art-367": [
+       "ley-19450"
       ]
      },
-     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 90: LEY 19450 Art. 1 f) D.O. 18.03.1996 | Art. 114: LEY 19450 Art. 1 l) D.O. 18.03.1996 | Art. 136: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 139: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 140: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 143: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 144: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 147: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 156: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 157: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 158: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 162: LEY 19450 Art. 1 e) D.O. 18.03.1996 | …. They are left uncredited. From this version the amendment notes on Art. 367 no longer name a norm published after the version's day."
+     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 90: LEY 19450 Art. 1 f) D.O. 18.03.1996 | Art. 114: LEY 19450 Art. 1 l) D.O. 18.03.1996 | Art. 136: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 139: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 140: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 143: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 144: LEY 19450 Art. 1 d) D.O. 18.03.1996 | Art. 147: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 156: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 157: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 158: LEY 19450 Art. 1 i) D.O. 18.03.1996 | Art. 162: LEY 19450 Art. 1 e) D.O. 18.03.1996 | …. They are left uncredited. Art. 367: the wording LeyChile gives once Ley 19.450 is in force; credited to it (see the correction noted on 1977-12-14)."
     },
     {
      "from": "1998-07-01",
@@ -15703,18 +15780,15 @@
       "parte-parrafo": {
        "label": "Párrafo",
        "kind": "part",
-       "text": ".\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
      "credits": {
       "art-391": [
        "ley-20779"
-      ],
-      "parte-parrafo": [
-       "ley-20779"
       ]
      },
-     "note": "LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Párrafo (\"Ley 21212 Art. 1 N° 6 D.O. 04.03.2020\")."
+     "note": "Corrected: LeyChile's text of Párrafo from this version to 2020-01-30 carries amendment notes naming norms published after those days (Ley 21212 Art. 1 N° 6 D.O. 04.03.2020), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2014-10-10",
@@ -16869,7 +16943,7 @@
        "ley-21212"
       ]
      },
-     "note": "From this version the amendment notes on parte-parrafo no longer name a norm published after the version's day."
+     "note": "Párrafo: the wording LeyChile gives once Ley 21.212 is in force; credited to it (see the correction noted on 2014-09-17)."
     },
     {
      "from": "2020-06-20",
@@ -33432,12 +33506,12 @@
       "art-168": {
        "label": "Art. 168",
        "kind": "art",
-       "text": "Artículo 168.- El trabajador cuyo contrato termine por aplicación de una o más de las causales establecidas en los artículos 159, 160 y 161, y que considere que tal aplicación es injustificada, indebida o improcedente, o que no se ha invocado ninguna causal legal, podrá recurrir al juzgado competente, dentro del plazo de sesenta días hábiles, contado desde la separación, a fin de que éste así lo declare. En este caso el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la de los incisos primero o segundo del artículo 163 según correspondiere, aumentada esta última en un veinte por ciento.\nEl plazo contemplado en el inciso anterior se suspenderá cuando, dentro de éste, el trabajador interponga un reclamo por cualquiera de las causales indicadas, ante la Inspección del Trabajo respectiva.\nDicho plazo seguirá corriendo una vez concluido este trámite ante dicha Inspección. No obstante lo anterior, en ningún caso podrá recurrirse al tribunal transcurridos noventa días hábiles desde la separación del trabajador.\nSin perjuicio del porcentaje señalado en el inciso primero, que se establece como mínimo, si el empleador hubiese invocado las causales señaladas en los números 1, 5 y 6 del artículo 160 y el despido fuere además declarado carente de motivo plausible por el tribunal, la indemnización establecida en los incisos primero o segundo del artículo 163, según correspondiere, podrá ser aumentada hasta en un cincuenta por ciento.\nSi el juez estableciere que la aplicación de una o más de las causales de terminación del contrato establecidas en los artículos 159 y 160 no ha sido acreditada, de conformidad a lo dispuesto en este artículo, se entenderá que el término del contrato se ha producido por alguna de las causales señaladas en el artículo 161, en la fecha en que se invocó la causal, y habrá derecho a los incrementos legales que corresponda de acuerdo al mérito del proceso.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-170": {
        "label": "Art. 170",
        "kind": "art",
-       "text": "Artículo 170.- Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inciso segundo del artículo 161, que tengan derecho a la indemnización señalada en los incisos primero o segundo del artículo 163, según corresponda, podrán instar por su pago y por la del aviso previo, si fuese el caso, dentro de los sesenta días hábiles contados desde la fecha de la separación, en el caso de que no se les hubiere efectuado dicho pago en la forma indicada en el párrafo segundo de la letra a) del artículo anterior. A dicho plazo le será aplicable lo dispuesto en el inciso segundo del artículo 168.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-195": {
        "label": "Art. 195",
@@ -33477,11 +33551,11 @@
       "art-480": {
        "label": "Art. 480",
        "kind": "art",
-       "text": "Artículo 480.- Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles.\nEn todo caso, las acciones provenientes de los actos y contratos a que se refiere este Código prescribirá en seis meses contados desde la terminación de los servicios.\nEl derecho al cobro de horas extraordinarias prescribirán en seis meses contados desde la fecha en que debieron ser pagadas.\nLos plazos de prescripción establecidos en este Código no se suspenderán, y se interrumpirán en conformidad a las normas de los artículos 2523 y 2524 del Código Civil.\nContodo, la interposición de un reclamo administrativo debidamente notificado ante la Inspección del Trabajo respectiva, dentro de los plazos indicados en los incisos primero, segundo y tercero, suspenderá también la prescripción, cuando la pretensión manifestada en dicho reclamo sea igual a la que se deduzca en la acción judicial correspondiente, emane de los mismos hechos y esté referida a las mismas personas. En estos casos, el plazo de prescripción seguirá corriendo concluido que sea el trámite ante dicha inspección y en ningún caso podrá exceder de un año contado desde el término de los servicios.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
      "credits": {},
-     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 168: L. 19250 Art. 8° Inciso 3° | Art. 170: Ley 19447 Art.1°, 2.- | Art. 203: L. 19.408 Art. único N° 2 | Art. 480: Ley 19447 Art. 1°, 13. They are left uncredited. LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 168 (\"LEY 19447, Art.1°,1°,a)\"); Art. 168 (\"Ley 19447 Art.1°, 1°, b)\"); Art. 170 (\"Ley 19447 Art.1°, 2.-\"); Art. 480 (\"Ley 19447 Art. 1°, 13\")."
+     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 168: L. 19250 Art. 8° Inciso 3° | Art. 170: Ley 19447 Art.1°, 2.- | Art. 203: L. 19.408 Art. único N° 2 | Art. 480: Ley 19447 Art. 1°, 13. They are left uncredited. Corrected: LeyChile's text of Art. 168 from this version to 1995-02-18 carries amendment notes naming norms published after those days (LEY 19447, Art.1°,1°,a); Ley 19447 Art.1°, 1°, b)), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 170 from this version to 1995-02-18 carries amendment notes naming norms published after those days (Ley 19447 Art.1°, 2.-), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 480 from this version to 1995-02-18 carries amendment notes naming norms published after those days (Ley 19447 Art. 1°, 13), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "1994-01-26",
@@ -33491,11 +33565,11 @@
       "art-025": {
        "label": "Art. 25",
        "kind": "art",
-       "text": "Artículo 25.- La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, de servicios interurbanos de transporte de pasajeros, de choferes de vehículos de carga terrestre interurbana interurbana y del que se desempeña a bordo de ferrocarriles, será de 192 horas mensuales. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes.\nTratándose de los choferes de vehículos de carga terrestre interurbana, el mencionado tiempo de descanso tampoco será imputable a la jornada y su retribución o compensación se ajustará de igual modo. No obstante, en el caso de estos últimos, los tiempos de espera se imputarán a la jornada.\nTodos los trabajadores aludidos en el inciso precedente deberán tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.\nCuando los choferes y auxiliares de la locomoción colectiva interurbana y el personal que se desempeña a bordo de ferrocarriles arriben a un terminal, después de cumplir en la ruta o en la vía, respectivamente, una jornada de ocho o más horas, deberán tener un descanso mínimo en tierra de ocho horas.\nEn ningún caso el chofer de la locomoción colectiva interurbana o el de vehículos de carga terrestre interurbana podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas.\nEl bus deberá contar con una litera adecuada para el descanso, siempre que éste se relice total o parcialmente a bordo de aquél.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
      "credits": {},
-     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 25: LEY 19759 Art. único Nº 9 a) D.O. 05.10.2001. They are left uncredited. LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 25 (\"LEY 19759 Art. único Nº 9 a) D.O. 05.10.2001\")."
+     "note": "LeyChile shows changes from this day that no norm in force on this day explains; the new amendment notes on them read: Art. 25: LEY 19759 Art. único Nº 9 a) D.O. 05.10.2001. They are left uncredited. Corrected: LeyChile's text of Art. 25 from this version to 2001-07-06 carries amendment notes naming norms published after those days (LEY 19759 Art. único Nº 9 a) D.O. 05.10.2001), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "1995-02-18",
@@ -33520,6 +33594,21 @@
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=3471&idVersion=1996-02-08",
      "sha256": "703656027b7795f193ff77fba475747a2379614abeb1ea2bc06f02cfc6ab4e11",
      "changes": {
+      "art-168": {
+       "label": "Art. 168",
+       "kind": "art",
+       "text": "Artículo 168.- El trabajador cuyo contrato termine por aplicación de una o más de las causales establecidas en los artículos 159, 160 y 161, y que considere que tal aplicación es injustificada, indebida o improcedente, o que no se ha invocado ninguna causal legal, podrá recurrir al juzgado competente, dentro del plazo de sesenta días hábiles, contado desde la separación, a fin de que éste así lo declare. En este caso el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la de los incisos primero o segundo del artículo 163 según correspondiere, aumentada esta última en un veinte por ciento.\nEl plazo contemplado en el inciso anterior se suspenderá cuando, dentro de éste, el trabajador interponga un reclamo por cualquiera de las causales indicadas, ante la Inspección del Trabajo respectiva.\nDicho plazo seguirá corriendo una vez concluido este trámite ante dicha Inspección. No obstante lo anterior, en ningún caso podrá recurrirse al tribunal transcurridos noventa días hábiles desde la separación del trabajador.\nSin perjuicio del porcentaje señalado en el inciso primero, que se establece como mínimo, si el empleador hubiese invocado las causales señaladas en los números 1, 5 y 6 del artículo 160 y el despido fuere además declarado carente de motivo plausible por el tribunal, la indemnización establecida en los incisos primero o segundo del artículo 163, según correspondiere, podrá ser aumentada hasta en un cincuenta por ciento.\nSi el juez estableciere que la aplicación de una o más de las causales de terminación del contrato establecidas en los artículos 159 y 160 no ha sido acreditada, de conformidad a lo dispuesto en este artículo, se entenderá que el término del contrato se ha producido por alguna de las causales señaladas en el artículo 161, en la fecha en que se invocó la causal, y habrá derecho a los incrementos legales que corresponda de acuerdo al mérito del proceso.\n"
+      },
+      "art-170": {
+       "label": "Art. 170",
+       "kind": "art",
+       "text": "Artículo 170.- Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inciso segundo del artículo 161, que tengan derecho a la indemnización señalada en los incisos primero o segundo del artículo 163, según corresponda, podrán instar por su pago y por la del aviso previo, si fuese el caso, dentro de los sesenta días hábiles contados desde la fecha de la separación, en el caso de que no se les hubiere efectuado dicho pago en la forma indicada en el párrafo segundo de la letra a) del artículo anterior. A dicho plazo le será aplicable lo dispuesto en el inciso segundo del artículo 168.\n"
+      },
+      "art-480": {
+       "label": "Art. 480",
+       "kind": "art",
+       "text": "Artículo 480.- Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles.\nEn todo caso, las acciones provenientes de los actos y contratos a que se refiere este Código prescribirá en seis meses contados desde la terminación de los servicios.\nEl derecho al cobro de horas extraordinarias prescribirán en seis meses contados desde la fecha en que debieron ser pagadas.\nLos plazos de prescripción establecidos en este Código no se suspenderán, y se interrumpirán en conformidad a las normas de los artículos 2523 y 2524 del Código Civil.\nContodo, la interposición de un reclamo administrativo debidamente notificado ante la Inspección del Trabajo respectiva, dentro de los plazos indicados en los incisos primero, segundo y tercero, suspenderá también la prescripción, cuando la pretensión manifestada en dicho reclamo sea igual a la que se deduzca en la acción judicial correspondiente, emane de los mismos hechos y esté referida a las mismas personas. En estos casos, el plazo de prescripción seguirá corriendo concluido que sea el trámite ante dicha inspección y en ningún caso podrá exceder de un año contado desde el término de los servicios.\n"
+      },
       "encabezado": {
        "label": "Encabezado",
        "kind": "heading",
@@ -33529,9 +33618,15 @@
      "credits": {
       "art-168": [
        "ley-19447"
+      ],
+      "art-170": [
+       "ley-19447"
+      ],
+      "art-480": [
+       "ley-19447"
       ]
      },
-     "note": "From this version the amendment notes on Art. 168, Art. 170, Art. 480 no longer name a norm published after the version's day."
+     "note": "Art. 168: the wording LeyChile gives once Ley 19.447 is in force; credited to it (see the correction noted on 1994-01-25). Art. 170: the wording LeyChile gives once Ley 19.447 is in force; credited to it (see the correction noted on 1994-01-25). Art. 480: the wording LeyChile gives once Ley 19.447 is in force; credited to it (see the correction noted on 1994-01-25)."
     },
     {
      "from": "1996-12-03",
@@ -34789,7 +34884,7 @@
        "ley-19759"
       ]
      },
-     "note": "From this version the amendment notes on Art. 25 no longer name a norm published after the version's day."
+     "note": "Art. 25: the wording LeyChile gives once Ley 19.759 is in force; credited to it (see the correction noted on 1994-01-26)."
     },
     {
      "from": "2002-06-13",
@@ -37035,27 +37130,27 @@
       "art-415": {
        "label": "Art. 415",
        "kind": "art",
-       "text": "Artículo 415. Existirá un Juzgado de Letras del Trabajo, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:\na) Primera Región de Tarapacá:\nIquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Hospicio;\nb) Segunda Región de Antofagasta:\nAntofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;\nc) Tercera Región, de Atacama:\nCopiapó, con dos jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla;\nd) Cuarta Región, de Coquimbo:\nLa Serena, con tres jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;\ne) Quinta Región, de Valparaíso:\nValparaíso, con tres jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;\nf) Sexta Región, del Libertador General Bernardo O'Higgins:\nRancagua, con tres jueces, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;\ng) Séptima Región, del Maule:\nCuricó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y\nTalca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;\nh) Octava Región, del Bío-Bío:\nChillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con tres jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los\nÁngeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;\ni) Novena Región, de la Araucanía:\nTemuco, con cinco jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas;\nj) Décima Región, de Los Lagos:\nPuerto Montt, con tres jueces, con competencia sobre las comunas de Puerto Montt y Cochamó; y Castro, con un juez, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón, Queilén y Quellón;\nk) Décimo Primera Región, de Aisén del General Carlos Ibáñez del Campo: Coyhaique, con un juez con competencia sobre la misma comuna;\nl) Décimo Segunda Región, de Magallanes y Antártica Chilena:\nPunta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;\nm) Santiago con veintiséis jueces, agrupados en dos juzgados, con trece jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;\nSan Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;\nSan Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.\".\nn) Decimocuarta Región de los Ríos:\nValdivia, con dos jueces, con competencia sobre las comunas de Valdivia y Corral; Osorno, con dos jueces, con competencia en las comunas de Osorno, San Pablo, Puyehue, Puerto Octay, San Juan de la Costa, Río Negro y Purranque;\no) Décima Quinta Región, de Arica y Parinacota:\nArica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-416": {
        "label": "Art. 416",
        "kind": "art",
-       "text": "Artículo 416. Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:\na) Valparaíso, con un juez, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;\nb) Concepción, con un juez, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;\nc) San Miguel, con un juez, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y\nd) Santiago, con seis jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-417": {
        "label": "Art. 417",
        "kind": "art",
-       "text": "Artículo 417. Los juzgados a que se refieren los artículos anteriores son tribunales especiales integrantes del Poder Judicial, teniendo sus magistrados la categoría de Jueces de Letras y les son aplicables las normas del Código Orgánico de Tribunales en todo aquello no previsto en este título.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-418": {
        "label": "Art. 418",
        "kind": "art",
-       "text": "Art. 418.- En todo lo referido a las materias que a continuación se señalan, se entenderán aplicables a los Juzgados de Letras del Trabajo y de Cobranza Laboral y Previsional, en cuanto resulten compatibles, las normas del Código Orgánico de Tribunales para los juzgados de garantía y tribunales de juicio oral en lo penal: comité de jueces, juez presidente, administradores de tribunales y organización administrativa de los juzgados. En lo relativo a la subrogación de los jueces, se aplicarán las normas de los juzgados de garantía.\nLa Corte de Apelaciones de Santiago determinará anualmente las normas que regirán para la distribución de las causas entre los Juzgados de Letras del Trabajo de su jurisdicción.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-419": {
        "label": "Art. 419",
        "kind": "art",
-       "text": "Art. 419.- Cada juez ejercerá unipersonalmente la potestad jurisdiccional respecto de los asuntos que las leyes encomiendan a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-420": {
        "label": "Art. 420",
@@ -37065,22 +37160,22 @@
       "art-421": {
        "label": "Art. 421",
        "kind": "art",
-       "text": "Artículo 421. Serán de competencia de los Juzgados de Cobranza Laboral y Previsional los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo; y, especialmente, la ejecución de todos los títulos ejecutivos regidos por la ley Nº 17.322, relativa a la cobranza judicial de imposiciones, aportes y multas en los institutos de previsión.\nCon todo, el conocimiento de las materias señaladas en el inciso anterior, sólo corresponderá a los Juzgados de Letras del Trabajo en aquellos territorios jurisdiccionales en que no existan Juzgados de Cobranza Laboral y Previsional.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-422": {
        "label": "Art. 422",
        "kind": "art",
-       "text": "Artículo 422. En las comunas o agrupaciones de comunas que no sean territorio jurisdiccional de los Juzgados de Letras del Trabajo, conocerán de las materias señaladas en los artículos 420 y 421, los Juzgados de Letras con competencia en lo Civil.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-423": {
        "label": "Art. 423",
        "kind": "art",
-       "text": "Artículo 423. Será Juez competente para conocer de estas causas el del domicilio del demandado o el del lugar donde se presten o se hayan prestado los servicios, a elección del demandante, sin perjuicio de lo que dispongan leyes especiales.\nLa competencia territorial no podrá ser prorrogada expresamente por las partes.\nAsimismo, podrá interponerse la demanda ante el tribunal del domicilio del demandante, cuando el trabajador haya debido trasladar su residencia con motivo del contrato de trabajo y conste dicha circunstancia en el respectivo instrumento.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-424": {
        "label": "Art. 424",
        "kind": "art",
-       "text": "Artículo 424. Las referencias que las leyes o reglamentos hagan a las Cortes del Trabajo o a los Juzgados del Trabajo, se entenderán efectuadas a las Cortes de Apelaciones o a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       },
       "art-425": {
        "label": "Art. 425",
@@ -37515,7 +37610,7 @@
       "titulos": {
        "label": "Títulos",
        "kind": "headings",
-       "text": "TITULO PRELIMINAR\nLIBRO I DEL CONTRATO INDIVIDUAL DE TRABAJO Y DE LA CAPACITACION LABORAL\nTítulo I DEL CONTRATO INDIVIDUAL DE TRABAJO\nCapítulo I NORMAS GENERALES\nCapítulo II DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES\nCapítulo III DE LA NACIONALIDAD DE LOS TRABAJADORES\nCapítulo IV DE LA JORNADA DE TRABAJO\nPárrafo 1º Jornada ordinaria de trabajo\nPárrafo 2º Horas Extraordinarias\nPárrafo 3º Descanso dentro de la jornada\nPárrafo 4º Descanso semanal\nPárrafo 5º Jornada Parcial\nCapítulo V DE LAS REMUNERACIONES\nCapítulo VI DE LA PROTECCION A LAS REMUNERACIONES\nCapítulo VII DEL FERIADO ANUAL Y DE LOS PERMISOS\nTítulo II DE LOS CONTRATOS ESPECIALES\nCapítulo I DEL CONTRATO DE APRENDIZAJE\nCapítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS\nPárrafo 1º Normas Generales\nPárrafo 2° Normas especiales para los trabajadores agrícolas de temporada\nCapítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES\nPárrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional\nPárrafo 2º Del contrato de los trabajadores portuarios eventuales\nCapítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR\nTítulo III DEL REGLAMENTO INTERNO\nTítulo IV DEL SERVICIO MILITAR OBLIGATORIO\nTítulo V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO\nTítulo VI DE LA CAPACITACION OCUPACIONAL\nLIBRO II DE LA PROTECCION A LOS TRABAJADORES\nTítulo I NORMAS GENERALES\nTITULO II DE LA PROTECCION A LA MATERNIDAD\nTITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES\nLIBRO III DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL\nTítulo I De las organizaciones sindicales\nCapítulo I Disposiciones generales\nCapítulo II DE LA CONSTITUCION DE LOS SINDICATOS\nCapítulo III DE LOS ESTATUTOS\nCapítulo IV DEL DIRECTORIO\nCapítulo V DE LAS ASAMBLEAS\nCapítulo VI Del patrimonio sindical\nCapítulo VII De las federaciones y confederaciones\nCapítulo VIII DE LAS CENTRALES SINDICALES\nCapítulo IX DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION\nCapítulo X DE LA DISOLUCION DE LAS ORGANIZACIONES SINDICALES\nCapítulo XI De la fiscalización de las organizaciones sindicales y de las sanciones\nTítulo II DEL DELEGADO DEL PERSONAL\nLIBRO IV DE LA NEGOCIACION COLECTIVA\nTítulo I NORMAS GENERALES\nTítulo II DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO\nCapítulo I DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES\nCapítulo II DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES\nTítulo III DEL CONTRATO COLECTIVO\nTítulo IV DE LA MEDIACION\nTítulo V DEL ARBITRAJE LABORAL\nTítulo VI DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA\nTítulo VII DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR\nTítulo VIII DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION\nTítulo IX DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA\nTítulo X DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL\nTítulo XI NORMAS ESPECIALES\nLIBRO V DE LA JURISDICCION LABORAL\nTítulo I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO\nCapítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional\nCapítulo II DEL PROCEDIMIENTO\nPárrafo 1° Reglas Comunes\nPárrafo 2° Del procedimiento de aplicación general\nPárrafo 3° Del juicio laboral de menor cuantía\nPárrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo\nPárrafo 5° De los recursos\nTítulo II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES\nTítulo Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION\nARTICULOS TRANSITORIOS\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
      "credits": {
@@ -38830,34 +38925,7 @@
       "art-414": [
        "dfl-1-2003"
       ],
-      "art-415": [
-       "dfl-1-2003"
-      ],
-      "art-416": [
-       "dfl-1-2003"
-      ],
-      "art-417": [
-       "dfl-1-2003"
-      ],
-      "art-418": [
-       "dfl-1-2003"
-      ],
-      "art-419": [
-       "dfl-1-2003"
-      ],
       "art-420": [
-       "dfl-1-2003"
-      ],
-      "art-421": [
-       "dfl-1-2003"
-      ],
-      "art-422": [
-       "dfl-1-2003"
-      ],
-      "art-423": [
-       "dfl-1-2003"
-      ],
-      "art-424": [
        "dfl-1-2003"
       ],
       "art-425": [
@@ -39117,12 +39185,9 @@
       ],
       "promulgacion": [
        "dfl-1-2003"
-      ],
-      "titulos": [
-       "dfl-1-2003"
       ]
      },
-     "note": "DFL 1 de 2003 replaced the text with a texto refundido, coordinado y sistematizado; LeyChile continues the act under that norm (idNorma 207436). LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 415 (\"LEY 20174 Art. 10 Nº 3 a) D.O. 05.04.2007\"); Art. 415 (\"LEY 20174 Art. 10 Nº 3 b) D.O. 05.04.2007\"); Art. 415 (\"LEY 20175 Art. 8 Nº 3 a) D.O. 11.04.2007\"); Art. 415 (\"LEY 20175 Art. 8 Nº 3 b) D.O. 11.04.2007\"); Art. 415 (\"LEY 20252 Art. 5º Nos. 1 y 2 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 12 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 13 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 14 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 10 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 11 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 3 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 4 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 5 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 6 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 7 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 8 D.O. 15.02.2008\"); Art. 415 (\"LEY 20252 Art. 5º Nº 9 D.O. 15.02.2008\"); Art. 416 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 417 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 418 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 419 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 421 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 422 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 423 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Art. 424 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); Títulos (\"LEY 19889 Art. único D.O. 24.09.2003\"); Títulos (\"LEY 20022 Art. 14 Nº 1 D.O. 30.05.2005\"); Títulos (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\")."
+     "note": "DFL 1 de 2003 replaced the text with a texto refundido, coordinado y sistematizado; LeyChile continues the act under that norm (idNorma 207436). Corrected: LeyChile's text of Art. 415 from this version to 2007-11-15 carries amendment notes naming norms published after those days (LEY 20174 Art. 10 Nº 3 a) D.O. 05.04.2007; LEY 20174 Art. 10 Nº 3 b) D.O. 05.04.2007; LEY 20175 Art. 8 Nº 3 a) D.O. 11.04.2007; LEY 20175 Art. 8 Nº 3 b) D.O. 11.04.2007; LEY 20252 Art. 5º Nos. 1 y 2 D.O. 15.02.2008; LEY 20252 Art. 5º Nos. 11 y 12 D.O. 15.02.2008; LEY 20252 Art. 5º Nos. 11 y 13 D.O. ), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 416 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 417 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 418 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 419 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 421 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 422 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 423 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Art. 424 from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording. Corrected: LeyChile's text of Títulos from this version to 2005-03-18 carries amendment notes naming norms published after those days (LEY 19889 Art. único D.O. 24.09.2003; LEY 20022 Art. 14 Nº 1 D.O. 30.05.2005; LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2003-03-27",
@@ -39173,12 +39238,7 @@
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2003-09-24",
      "sha256": "f00836098f3aa293b8eff879002179d0816f3939a618b5f89ccfb8202b310ff4",
      "changes": {},
-     "credits": {
-      "titulos": [
-       "ley-19889"
-      ]
-     },
-     "note": "From this version the amendment notes on Títulos no longer name a norm published after the version's day."
+     "credits": {}
     },
     {
      "from": "2003-11-01",
@@ -39244,11 +39304,6 @@
        "label": "Art. 146",
        "kind": "art",
        "text": "Art. 146. Son trabajadores de casa particular las personas naturales que se dediquen en forma continua, a jornada completa o parcial, al servicio de una o más personas naturales o de una familia, en trabajos de aseo y asistencia propios o inherentes al hogar.\nCon todo, son trabajadores sujetos a las normas especiales de este capítulo, las personas que realizan labores iguales o similares a las señaladas en el inciso anterior en instituciones de beneficencia cuya finalidad sea atender a personas con necesidades especiales de protección o asistencia, proporcionándoles los beneficios propios de un hogar.\nEn caso de duda, la calificación se hará por el inspector del trabajo respectivo, de cuya resolución podrá reclamarse al Director del Trabajo, sin ulterior recurso.\nSe aplicarán también las disposiciones de este capítulo a los choferes de casa particular.\n"
-      },
-      "titulos": {
-       "label": "Títulos",
-       "kind": "headings",
-       "text": "TITULO PRELIMINAR\nLIBRO I DEL CONTRATO INDIVIDUAL DE TRABAJO Y DE LA CAPACITACION LABORAL\nTítulo I DEL CONTRATO INDIVIDUAL DE TRABAJO\nCapítulo I NORMAS GENERALES\nCapítulo II DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES\nCapítulo III DE LA NACIONALIDAD DE LOS TRABAJADORES\nCapítulo IV DE LA JORNADA DE TRABAJO\nPárrafo 1º Jornada ordinaria de trabajo\nPárrafo 2º Horas Extraordinarias\nPárrafo 3º Descanso dentro de la jornada\nPárrafo 4º Descanso semanal\nPárrafo 5º Jornada Parcial\nCapítulo V DE LAS REMUNERACIONES\nCapítulo VI DE LA PROTECCION A LAS REMUNERACIONES\nCapítulo VII DEL FERIADO ANUAL Y DE LOS PERMISOS\nTítulo II DE LOS CONTRATOS ESPECIALES\nCapítulo I DEL CONTRATO DE APRENDIZAJE\nCapítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS\nPárrafo 1º Normas Generales\nPárrafo 2° Normas especiales para los trabajadores agrícolas de temporada\nCapítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES\nPárrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional\nPárrafo 2º Del contrato de los trabajadores portuarios eventuales\nCapítulo IV Del contrato de los trabajadores de artes y espectáculos\nCapítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR\nTítulo III DEL REGLAMENTO INTERNO\nTítulo IV DEL SERVICIO MILITAR OBLIGATORIO\nTítulo V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO\nTítulo VI DE LA CAPACITACION OCUPACIONAL\nLIBRO II DE LA PROTECCION A LOS TRABAJADORES\nTítulo I NORMAS GENERALES\nTITULO II DE LA PROTECCION A LA MATERNIDAD\nTITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES\nLIBRO III DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL\nTítulo I De las organizaciones sindicales\nCapítulo I Disposiciones generales\nCapítulo II DE LA CONSTITUCION DE LOS SINDICATOS\nCapítulo III DE LOS ESTATUTOS\nCapítulo IV DEL DIRECTORIO\nCapítulo V DE LAS ASAMBLEAS\nCapítulo VI Del patrimonio sindical\nCapítulo VII De las federaciones y confederaciones\nCapítulo VIII DE LAS CENTRALES SINDICALES\nCapítulo IX DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION\nCapítulo X DE LA DISOLUCION DE LAS ORGANIZACIONES SINDICALES\nCapítulo XI De la fiscalización de las organizaciones sindicales y de las sanciones\nTítulo II DEL DELEGADO DEL PERSONAL\nLIBRO IV DE LA NEGOCIACION COLECTIVA\nTítulo I NORMAS GENERALES\nTítulo II DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO\nCapítulo I DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES\nCapítulo II DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES\nTítulo III DEL CONTRATO COLECTIVO\nTítulo IV DE LA MEDIACION\nTítulo V DEL ARBITRAJE LABORAL\nTítulo VI DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA\nTítulo VII DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR\nTítulo VIII DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION\nTítulo IX DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA\nTítulo X DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL\nTítulo XI NORMAS ESPECIALES\nLIBRO V DE LA JURISDICCION LABORAL\nTítulo I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO\nCapítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional\nCapítulo II DEL PROCEDIMIENTO\nPárrafo 1° Reglas Comunes\nPárrafo 2° Del procedimiento de aplicación general\nPárrafo 3° Del juicio laboral de menor cuantía\nPárrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo\nPárrafo 5° De los recursos\nTítulo II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES\nTítulo Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION\nARTICULOS TRANSITORIOS\n"
       }
      },
      "credits": {},
@@ -39383,11 +39438,6 @@
        "label": "Art. 211 j",
        "kind": "art",
        "text": "Artículo 211-J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, arrastrar o empujar manualmente, y sin ayuda mecánica, cargas superiores a los 20 kilogramos.\n"
-      },
-      "titulos": {
-       "label": "Títulos",
-       "kind": "headings",
-       "text": "TITULO PRELIMINAR\nLIBRO I DEL CONTRATO INDIVIDUAL DE TRABAJO Y DE LA CAPACITACION LABORAL\nTítulo I DEL CONTRATO INDIVIDUAL DE TRABAJO\nCapítulo I NORMAS GENERALES\nCapítulo II DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES\nCapítulo III DE LA NACIONALIDAD DE LOS TRABAJADORES\nCapítulo IV DE LA JORNADA DE TRABAJO\nPárrafo 1º Jornada ordinaria de trabajo\nPárrafo 2º Horas Extraordinarias\nPárrafo 3º Descanso dentro de la jornada\nPárrafo 4º Descanso semanal\nPárrafo 5º Jornada Parcial\nCapítulo V DE LAS REMUNERACIONES\nCapítulo VI DE LA PROTECCION A LAS REMUNERACIONES\nCapítulo VII DEL FERIADO ANUAL Y DE LOS PERMISOS\nTítulo II DE LOS CONTRATOS ESPECIALES\nCapítulo I DEL CONTRATO DE APRENDIZAJE\nCapítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS\nPárrafo 1º Normas Generales\nPárrafo 2° Normas especiales para los trabajadores agrícolas de temporada\nCapítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES\nPárrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional\nPárrafo 2º Del contrato de los trabajadores portuarios eventuales\nCapítulo IV Del contrato de los trabajadores de artes y espectáculos\nCapítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR\nTítulo III DEL REGLAMENTO INTERNO\nTítulo IV DEL SERVICIO MILITAR OBLIGATORIO\nTítulo V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO\nTítulo VI DE LA CAPACITACION OCUPACIONAL\nLIBRO II DE LA PROTECCION A LOS TRABAJADORES\nTítulo I NORMAS GENERALES\nTITULO II DE LA PROTECCION A LA MATERNIDAD\nTITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES\nTítulo V DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL\nLIBRO III DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL\nTítulo I De las organizaciones sindicales\nCapítulo I Disposiciones generales\nCapítulo II DE LA CONSTITUCION DE LOS SINDICATOS\nCapítulo III DE LOS ESTATUTOS\nCapítulo IV DEL DIRECTORIO\nCapítulo V DE LAS ASAMBLEAS\nCapítulo VI Del patrimonio sindical\nCapítulo VII De las federaciones y confederaciones\nCapítulo VIII DE LAS CENTRALES SINDICALES\nCapítulo IX DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION\nCapítulo X DE LA DISOLUCION DE LAS ORGANIZACIONES SINDICALES\nCapítulo XI De la fiscalización de las organizaciones sindicales y de las sanciones\nTítulo II DEL DELEGADO DEL PERSONAL\nLIBRO IV DE LA NEGOCIACION COLECTIVA\nTítulo I NORMAS GENERALES\nTítulo II DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO\nCapítulo I DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES\nCapítulo II DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES\nTítulo III DEL CONTRATO COLECTIVO\nTítulo IV DE LA MEDIACION\nTítulo V DEL ARBITRAJE LABORAL\nTítulo VI DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA\nTítulo VII DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR\nTítulo VIII DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION\nTítulo IX DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA\nTítulo X DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL\nTítulo XI NORMAS ESPECIALES\nLIBRO V DE LA JURISDICCION LABORAL\nTítulo I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO\nCapítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional\nCapítulo II DEL PROCEDIMIENTO\nPárrafo 1° Reglas Comunes\nPárrafo 2° Del procedimiento de aplicación general\nPárrafo 3° Del juicio laboral de menor cuantía\nPárrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo\nPárrafo 5° De los recursos\nTítulo II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES\nTítulo Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION\nARTICULOS TRANSITORIOS\n"
       }
      },
      "credits": {
@@ -39404,9 +39454,6 @@
        "ley-20001"
       ],
       "art-211-j": [
-       "ley-20001"
-      ],
-      "titulos": [
        "ley-20001"
       ]
      }
@@ -39475,11 +39522,6 @@
        "label": "Art. 425",
        "kind": "art",
        "text": "Art. 425. Las causas laborales se substanciarán de acuerdo con el procedimiento que establece este título, el que será aplicable en todas aquellas cuestiones, trámites o actuaciones que no se encuentren sometidas a una regla especial diversa, cualquiera que sea su naturaleza.\nLas causas laborales en que se invoque una acusación de acoso sexual, deberán ser mantenidas en custodia por el secretario del tribunal, y sólo tendrán acceso a ellas las partes y sus apoderados judiciales.\n"
-      },
-      "titulos": {
-       "label": "Títulos",
-       "kind": "headings",
-       "text": "TITULO PRELIMINAR\nLIBRO I DEL CONTRATO INDIVIDUAL DE TRABAJO Y DE LA CAPACITACION LABORAL\nTítulo I DEL CONTRATO INDIVIDUAL DE TRABAJO\nCapítulo I NORMAS GENERALES\nCapítulo II DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES\nCapítulo III DE LA NACIONALIDAD DE LOS TRABAJADORES\nCapítulo IV DE LA JORNADA DE TRABAJO\nPárrafo 1º Jornada ordinaria de trabajo\nPárrafo 2º Horas Extraordinarias\nPárrafo 3º Descanso dentro de la jornada\nPárrafo 4º Descanso semanal\nPárrafo 5º Jornada Parcial\nCapítulo V DE LAS REMUNERACIONES\nCapítulo VI DE LA PROTECCION A LAS REMUNERACIONES\nCapítulo VII DEL FERIADO ANUAL Y DE LOS PERMISOS\nTítulo II DE LOS CONTRATOS ESPECIALES\nCapítulo I DEL CONTRATO DE APRENDIZAJE\nCapítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS\nPárrafo 1º Normas Generales\nPárrafo 2° Normas especiales para los trabajadores agrícolas de temporada\nCapítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES\nPárrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional\nPárrafo 2º Del contrato de los trabajadores portuarios eventuales\nCapítulo IV Del contrato de los trabajadores de artes y espectáculos\nCapítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR\nTítulo III DEL REGLAMENTO INTERNO\nTítulo IV DEL SERVICIO MILITAR OBLIGATORIO\nTítulo V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO\nTítulo VI DE LA CAPACITACION OCUPACIONAL\nLIBRO II DE LA PROTECCION A LOS TRABAJADORES\nTítulo I NORMAS GENERALES\nTITULO II DE LA PROTECCION A LA MATERNIDAD\nTITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES\nTítulo IV DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL\nTítulo V DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL\nLIBRO III DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL\nTítulo I De las organizaciones sindicales\nCapítulo I Disposiciones generales\nCapítulo II DE LA CONSTITUCION DE LOS SINDICATOS\nCapítulo III DE LOS ESTATUTOS\nCapítulo IV DEL DIRECTORIO\nCapítulo V DE LAS ASAMBLEAS\nCapítulo VI Del patrimonio sindical\nCapítulo VII De las federaciones y confederaciones\nCapítulo VIII DE LAS CENTRALES SINDICALES\nCapítulo IX DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION\nCapítulo X DE LA DISOLUCION DE LAS ORGANIZACIONES SINDICALES\nCapítulo XI De la fiscalización de las organizaciones sindicales y de las sanciones\nTítulo II DEL DELEGADO DEL PERSONAL\nLIBRO IV DE LA NEGOCIACION COLECTIVA\nTítulo I NORMAS GENERALES\nTítulo II DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO\nCapítulo I DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES\nCapítulo II DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES\nTítulo III DEL CONTRATO COLECTIVO\nTítulo IV DE LA MEDIACION\nTítulo V DEL ARBITRAJE LABORAL\nTítulo VI DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA\nTítulo VII DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR\nTítulo VIII DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION\nTítulo IX DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA\nTítulo X DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL\nTítulo XI NORMAS ESPECIALES\nLIBRO V DE LA JURISDICCION LABORAL\nTítulo I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO\nCapítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional\nCapítulo II DEL PROCEDIMIENTO\nPárrafo 1° Reglas Comunes\nPárrafo 2° Del procedimiento de aplicación general\nPárrafo 3° Del juicio laboral de menor cuantía\nPárrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo\nPárrafo 5° De los recursos\nTítulo II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES\nTítulo Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION\nARTICULOS TRANSITORIOS\n"
       }
      },
      "credits": {
@@ -39518,9 +39560,6 @@
       ],
       "art-425": [
        "ley-20005"
-      ],
-      "titulos": [
-       "ley-20005"
       ]
      }
     },
@@ -39529,6 +39568,46 @@
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2005-05-30",
      "sha256": "fdfcbfbd3d60c88248625e6aab8135eb160409d7d6054515ceacd3b70db5583d",
      "changes": {
+      "art-416": {
+       "label": "Art. 416",
+       "kind": "art",
+       "text": "Artículo 416. Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:\na) Valparaíso, con un juez, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;\nb) Concepción, con un juez, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;\nc) San Miguel, con un juez, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y\nd) Santiago, con seis jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.\n"
+      },
+      "art-417": {
+       "label": "Art. 417",
+       "kind": "art",
+       "text": "Artículo 417. Los juzgados a que se refieren los artículos anteriores son tribunales especiales integrantes del Poder Judicial, teniendo sus magistrados la categoría de Jueces de Letras y les son aplicables las normas del Código Orgánico de Tribunales en todo aquello no previsto en este título.\n"
+      },
+      "art-418": {
+       "label": "Art. 418",
+       "kind": "art",
+       "text": "Art. 418.- En todo lo referido a las materias que a continuación se señalan, se entenderán aplicables a los Juzgados de Letras del Trabajo y de Cobranza Laboral y Previsional, en cuanto resulten compatibles, las normas del Código Orgánico de Tribunales para los juzgados de garantía y tribunales de juicio oral en lo penal: comité de jueces, juez presidente, administradores de tribunales y organización administrativa de los juzgados. En lo relativo a la subrogación de los jueces, se aplicarán las normas de los juzgados de garantía.\nLa Corte de Apelaciones de Santiago determinará anualmente las normas que regirán para la distribución de las causas entre los Juzgados de Letras del Trabajo de su jurisdicción.\n"
+      },
+      "art-419": {
+       "label": "Art. 419",
+       "kind": "art",
+       "text": "Art. 419.- Cada juez ejercerá unipersonalmente la potestad jurisdiccional respecto de los asuntos que las leyes encomiendan a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.\n"
+      },
+      "art-421": {
+       "label": "Art. 421",
+       "kind": "art",
+       "text": "Artículo 421. Serán de competencia de los Juzgados de Cobranza Laboral y Previsional los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo; y, especialmente, la ejecución de todos los títulos ejecutivos regidos por la ley Nº 17.322, relativa a la cobranza judicial de imposiciones, aportes y multas en los institutos de previsión.\nCon todo, el conocimiento de las materias señaladas en el inciso anterior, sólo corresponderá a los Juzgados de Letras del Trabajo en aquellos territorios jurisdiccionales en que no existan Juzgados de Cobranza Laboral y Previsional.\n"
+      },
+      "art-422": {
+       "label": "Art. 422",
+       "kind": "art",
+       "text": "Artículo 422. En las comunas o agrupaciones de comunas que no sean territorio jurisdiccional de los Juzgados de Letras del Trabajo, conocerán de las materias señaladas en los artículos 420 y 421, los Juzgados de Letras con competencia en lo Civil.\n"
+      },
+      "art-423": {
+       "label": "Art. 423",
+       "kind": "art",
+       "text": "Artículo 423. Será Juez competente para conocer de estas causas el del domicilio del demandado o el del lugar donde se presten o se hayan prestado los servicios, a elección del demandante, sin perjuicio de lo que dispongan leyes especiales.\nLa competencia territorial no podrá ser prorrogada expresamente por las partes.\nAsimismo, podrá interponerse la demanda ante el tribunal del domicilio del demandante, cuando el trabajador haya debido trasladar su residencia con motivo del contrato de trabajo y conste dicha circunstancia en el respectivo instrumento.\n"
+      },
+      "art-424": {
+       "label": "Art. 424",
+       "kind": "art",
+       "text": "Artículo 424. Las referencias que las leyes o reglamentos hagan a las Cortes del Trabajo o a los Juzgados del Trabajo, se entenderán efectuadas a las Cortes de Apelaciones o a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.\n"
+      },
       "art-436": {
        "label": "Art. 436",
        "kind": "art",
@@ -39543,6 +39622,11 @@
        "label": "Art. 474",
        "kind": "art",
        "text": "Art. 474. Las sanciones por infracciones a las legislaciones laboral y de seguridad social como a sus reglamentos se aplicarán administrativamente por los respectivos inspectores o funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.\nEn todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4.°\nLa resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días de notificada por un funcionario de la Dirección del Trabajo o de Carabineros de Chile, previa consignación de la tercera parte de la multa.\nUna vez ejecutoriada la resolución que aplique la multa administrativa, tendrá mérito ejecutivo, persiguiéndose su cumplimiento de oficio por el Juzgado de Letras del Trabajo o el Juzgado de Cobranza Laboral y Previsional, según corresponda.\nSerán responsables del pago de la multa la persona natural o jurídica propietaria de la empresa, predio o establecimiento.\nSubsidiariamente responderán de ellas los directores, gerentes o jefes de la empresa, predio o establecimiento donde se haya cometido la falta.\n"
+      },
+      "titulos": {
+       "label": "Títulos",
+       "kind": "headings",
+       "text": "TITULO PRELIMINAR\nLIBRO I DEL CONTRATO INDIVIDUAL DE TRABAJO Y DE LA CAPACITACION LABORAL\nTítulo I DEL CONTRATO INDIVIDUAL DE TRABAJO\nCapítulo I NORMAS GENERALES\nCapítulo II DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES\nCapítulo III DE LA NACIONALIDAD DE LOS TRABAJADORES\nCapítulo IV DE LA JORNADA DE TRABAJO\nPárrafo 1º Jornada ordinaria de trabajo\nPárrafo 2º Horas Extraordinarias\nPárrafo 3º Descanso dentro de la jornada\nPárrafo 4º Descanso semanal\nPárrafo 5º Jornada Parcial\nCapítulo V DE LAS REMUNERACIONES\nCapítulo VI DE LA PROTECCION A LAS REMUNERACIONES\nCapítulo VII DEL FERIADO ANUAL Y DE LOS PERMISOS\nTítulo II DE LOS CONTRATOS ESPECIALES\nCapítulo I DEL CONTRATO DE APRENDIZAJE\nCapítulo II DEL CONTRATO DE TRABAJADORES AGRICOLAS\nPárrafo 1º Normas Generales\nPárrafo 2° Normas especiales para los trabajadores agrícolas de temporada\nCapítulo III DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES\nPárrafo 1º Del contrato de embarco de los oficiales y tripulantes de las Naves de la Marina Mercante Nacional\nPárrafo 2º Del contrato de los trabajadores portuarios eventuales\nCapítulo IV Del contrato de los trabajadores de artes y espectáculos\nCapítulo V DEL CONTRATO DE TRABAJADORES DE CASA PARTICULAR\nTítulo III DEL REGLAMENTO INTERNO\nTítulo IV DEL SERVICIO MILITAR OBLIGATORIO\nTítulo V DE LA TERMINACION DEL CONTRATO DE TRABAJO Y ESTABILIDAD EN EL EMPLEO\nTítulo VI DE LA CAPACITACION OCUPACIONAL\nLIBRO II DE LA PROTECCION A LOS TRABAJADORES\nTítulo I NORMAS GENERALES\nTITULO II DE LA PROTECCION A LA MATERNIDAD\nTITULO III DEL SEGURO SOCIAL CONTRA RIESGOS DE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES\nTítulo IV DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL\nTítulo V DE LA PROTECCION DE LOS TRABAJADORES DE CARGA Y DESCARGA DE MANIPULACION MANUAL\nLIBRO III DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL\nTítulo I De las organizaciones sindicales\nCapítulo I Disposiciones generales\nCapítulo II DE LA CONSTITUCION DE LOS SINDICATOS\nCapítulo III DE LOS ESTATUTOS\nCapítulo IV DEL DIRECTORIO\nCapítulo V DE LAS ASAMBLEAS\nCapítulo VI Del patrimonio sindical\nCapítulo VII De las federaciones y confederaciones\nCapítulo VIII DE LAS CENTRALES SINDICALES\nCapítulo IX DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION\nCapítulo X DE LA DISOLUCION DE LAS ORGANIZACIONES SINDICALES\nCapítulo XI De la fiscalización de las organizaciones sindicales y de las sanciones\nTítulo II DEL DELEGADO DEL PERSONAL\nLIBRO IV DE LA NEGOCIACION COLECTIVA\nTítulo I NORMAS GENERALES\nTítulo II DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO\nCapítulo I DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES\nCapítulo II DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES\nTítulo III DEL CONTRATO COLECTIVO\nTítulo IV DE LA MEDIACION\nTítulo V DEL ARBITRAJE LABORAL\nTítulo VI DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA\nTítulo VII DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR\nTítulo VIII DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION\nTítulo IX DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA\nTítulo X DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL\nTítulo XI NORMAS ESPECIALES\nLIBRO V DE LA JURISDICCION LABORAL\nTítulo I DE LOS JUZGADOS DE LETRAS DEL TRABAJO Y DE COBRANZA LABORAL Y PREVISIONAL Y DEL PROCEDIMIENTO\nCapítulo I De los Juzgados de Letras del Trabajo y de los Juzgados de Cobranza Laboral y Previsional\nCapítulo II DEL PROCEDIMIENTO\nPárrafo 1° Reglas Comunes\nPárrafo 2° Del procedimiento de aplicación general\nPárrafo 3° Del juicio laboral de menor cuantía\nPárrafo 4° De la ejecución de las resoluciones y del juicio ejecutivo\nPárrafo 5° De los recursos\nTítulo II DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES\nTítulo Final DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION\nARTICULOS TRANSITORIOS\n"
       }
      },
      "credits": {
@@ -39554,9 +39638,36 @@
       ],
       "art-474": [
        "ley-20022"
+      ],
+      "art-416": [
+       "ley-20022"
+      ],
+      "art-417": [
+       "ley-20022"
+      ],
+      "art-418": [
+       "ley-20022"
+      ],
+      "art-419": [
+       "ley-20022"
+      ],
+      "art-421": [
+       "ley-20022"
+      ],
+      "art-422": [
+       "ley-20022"
+      ],
+      "art-423": [
+       "ley-20022"
+      ],
+      "art-424": [
+       "ley-20022"
+      ],
+      "titulos": [
+       "ley-20022"
       ]
      },
-     "note": "From this version the amendment notes on Art. 416, Art. 417, Art. 418, Art. 419, Art. 421, Art. 422, Art. 423, Art. 424, Títulos no longer name a norm published after the version's day."
+     "note": "Art. 416: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 417: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 418: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 419: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 421: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 422: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 423: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Art. 424: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16). Títulos: the wording LeyChile gives once Ley 20.022 is in force; credited to it (see the correction noted on 2003-01-16)."
     },
     {
      "from": "2005-05-31",
@@ -40191,8 +40302,7 @@
       "titulos": [
        "ley-20178"
       ]
-     },
-     "note": "From this version the amendment notes on Art. 415 no longer name a norm published after the version's day."
+     }
     },
     {
      "from": "2007-06-12",
@@ -40321,6 +40431,11 @@
        "kind": "art",
        "text": "Art. 314 bis A. El sindicato que agrupe a trabajadores agrícolas de temporada, tendrá la facultad de presentar a el o a los respectivos empleadores, un proyecto de convenio colectivo al que deberán dar respuesta dentro del plazo de 15 días desde la recepción del respectivo proyecto de convenio.\nSi la respuesta antes indicada no se verifica, la Inspección del Trabajo a solicitud del sindicato, podrá apercibirlo dentro de los 5 días siguientes a la fecha de esta solicitud, a fin de que la respuesta sea entregada, bajo apercibimiento de la sanción prevista en el artículo 506. La respuesta negativa del empleador, sólo habilita al sindicato para presentar un nuevo proyecto en la siguiente temporada.\nLa negociación directa deberá finalizar, con una antelación no inferior a 30 días al de inicio de las labores agrícolas de temporada.\n"
       },
+      "art-415": {
+       "label": "Art. 415",
+       "kind": "art",
+       "text": "Artículo 415. Existirá un Juzgado de Letras del Trabajo, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:\na) Primera Región de Tarapacá:\nIquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Hospicio;\nb) Segunda Región de Antofagasta:\nAntofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;\nc) Tercera Región, de Atacama:\nCopiapó, con dos jueces, con competencia sobre las comunas de Copiapó y Tierra Amarilla;\nd) Cuarta Región, de Coquimbo:\nLa Serena, con tres jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;\ne) Quinta Región, de Valparaíso:\nValparaíso, con tres jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;\nf) Sexta Región, del Libertador General Bernardo O'Higgins:\nRancagua, con tres jueces, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;\ng) Séptima Región, del Maule:\nCuricó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y\nTalca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;\nh) Octava Región, del Bío-Bío:\nChillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con tres jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los\nÁngeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;\ni) Novena Región, de la Araucanía:\nTemuco, con cinco jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas;\nj) Décima Región, de Los Lagos:\nPuerto Montt, con tres jueces, con competencia sobre las comunas de Puerto Montt y Cochamó; y Castro, con un juez, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón, Queilén y Quellón;\nk) Décimo Primera Región, de Aisén del General Carlos Ibáñez del Campo: Coyhaique, con un juez con competencia sobre la misma comuna;\nl) Décimo Segunda Región, de Magallanes y Antártica Chilena:\nPunta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;\nm) Santiago con veintiséis jueces, agrupados en dos juzgados, con trece jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;\nSan Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;\nSan Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.\".\nn) Decimocuarta Región de los Ríos:\nValdivia, con dos jueces, con competencia sobre las comunas de Valdivia y Corral; Osorno, con dos jueces, con competencia en las comunas de Osorno, San Pablo, Puyehue, Puerto Octay, San Juan de la Costa, Río Negro y Purranque;\no) Décima Quinta Región, de Arica y Parinacota:\nArica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.\n"
+      },
       "art-428-bis": null,
       "art-432": {
        "label": "Art. 432",
@@ -40350,9 +40465,12 @@
       ],
       "art-448-2": [
        "ley-20087"
+      ],
+      "art-415": [
+       "ley-20252"
       ]
      },
-     "note": "From this version the amendment notes on Art. 415 no longer name a norm published after the version's day."
+     "note": "Art. 415: the wording LeyChile gives once Ley 20.252 is in force; credited to it (see the correction noted on 2003-01-16)."
     },
     {
      "from": "2008-07-12",
@@ -41517,7 +41635,7 @@
        "ley-20087"
       ]
      },
-     "note": "LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 439 bis (\"LEY 20787 Art. UNICO A) D.O. 17.09.2008\")."
+     "note": "Corrected: LeyChile's text of Art. 439 bis from this version to 2014-08-12 carries amendment notes naming norms published after those days (LEY 20787 Art. UNICO A) D.O. 17.09.2008), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2009-11-23",
@@ -41620,18 +41738,15 @@
       "parte-capitulo": {
        "label": "Capítulo",
        "kind": "part",
-       "text": ".\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
      "credits": {
       "art-154": [
        "ley-20422"
-      ],
-      "parte-capitulo": [
-       "ley-20422"
       ]
      },
-     "note": "LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Capítulo (\"Ley 21015 Art. 3 N° 2 D.O. 15.06.2017\")."
+     "note": "Corrected: LeyChile's text of Capítulo from this version to 2017-06-09 carries amendment notes naming norms published after those days (Ley 21015 Art. 3 N° 2 D.O. 15.06.2017), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2010-02-13",
@@ -42039,8 +42154,7 @@
       "art-435": [
        "ley-20774"
       ]
-     },
-     "note": "From this version the amendment notes on Art. 439 bis no longer name a norm published after the version's day."
+     }
     },
     {
      "from": "2014-09-17",
@@ -42410,21 +42524,22 @@
       "art-048": {
        "label": "Art. 48",
        "kind": "art",
-       "text": "Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.\nRespecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.\nLos empleadores estarán obligados a pagar las gratificaciones al personal con el carácter de anticipo sobre la base del balance o liquidación presentada al Servicio de Impuestos Internos, en tanto se practica la liquidación definitiva.\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
-     "credits": {
-      "art-048": [
-       "ley-20899"
-      ]
-     },
-     "note": "LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Art. 48 (\"Ley 20899 Art. 10 D.O. 08.02.2016\")."
+     "credits": {},
+     "note": "Corrected: LeyChile's text of Art. 48 from this version to 2016-01-01 carries amendment notes naming norms published after those days (Ley 20899 Art. 10 D.O. 08.02.2016), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2016-04-01",
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=207436&idVersion=2016-04-01",
      "sha256": "3f753bafd138cdcfb4d779a32c6a3c508b273a7c08be9422384e816bda1710e9",
      "changes": {
+      "art-048": {
+       "label": "Art. 48",
+       "kind": "art",
+       "text": "Art. 48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.\nRespecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.\nLos empleadores estarán obligados a pagar las gratificaciones al personal con el carácter de anticipo sobre la base del balance o liquidación presentada al Servicio de Impuestos Internos, en tanto se practica la liquidación definitiva.\n"
+      },
       "art-075": {
        "label": "Art. 75",
        "kind": "art",
@@ -42434,9 +42549,12 @@
      "credits": {
       "art-075": [
        "ley-20903"
+      ],
+      "art-048": [
+       "ley-20899"
       ]
      },
-     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.903. From this version the amendment notes on Art. 48 no longer name a norm published after the version's day."
+     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.903. Art. 48: the wording LeyChile gives once Ley 20.899 is in force; credited to it (see the correction noted on 2016-01-01)."
     },
     {
      "from": "2016-04-14",
@@ -43843,14 +43961,22 @@
        "label": "Art. 420",
        "kind": "art",
        "text": "Art. 420. Serán de competencia de los Juzgados de Letras del Trabajo:\na) las cuestiones suscitadas entre empleadores y trabajadores por aplicación de las normas laborales o derivadas de la interpretación y aplicación de los contratos individuales o colectivos del trabajo o de las convenciones y fallos arbitrales en materia laboral;\nb) las cuestiones derivadas de la aplicación de las normas sobre organización sindical y negociación colectiva que la ley entrega al conocimiento de los juzgados de letras con competencia en materia del trabajo;\nc) las cuestiones derivadas de la aplicación de las normas de previsión o de seguridad social, planteadas por pensionados, trabajadores activos o empleadores, salvo en lo referido a la revisión de las resoluciones sobre declaración de invalidez o del pronunciamiento sobre otorgamiento de licencias médicas;\nd) los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo;\ne) las reclamaciones que procedan contra resoluciones dictadas por autoridades administrativas en materias laborales, previsionales o de seguridad social;\nf) los juicios iniciados por el propio trabajador o sus causahabientes, en que se pretenda hacer efectiva la responsabilidad contractual del empleador por los daños producidos como consecuencia de accidentes del trabajo o enfermedades profesionales. Respecto de la responsabilidad extracontractual se seguirán las reglas del artículo 69 de la ley Nº 16.744, y\ng) todas aquellas materias que las leyes entreguen a juzgados de letras con competencia laboral.\n"
+      },
+      "parte-capitulo": {
+       "label": "Capítulo",
+       "kind": "part",
+       "text": ".\n"
       }
      },
      "credits": {
       "art-420": [
        "ley-21018"
+      ],
+      "parte-capitulo": [
+       "ley-21015"
       ]
      },
-     "note": "From this version the amendment notes on Capítulo no longer name a norm published after the version's day."
+     "note": "Capítulo: the wording LeyChile gives once Ley 21.015 is in force; credited to it (see the correction noted on 2010-02-10)."
     },
     {
      "from": "2017-07-07",
@@ -55032,15 +55158,11 @@
       "parte-paragrafo": {
        "label": "Parágrafo",
        "kind": "part",
-       "text": ".\n"
+       "text": "[La fuente no da el texto vigente en esta fecha.]\n"
       }
      },
-     "credits": {
-      "parte-paragrafo": [
-       "ley-20526"
-      ]
-     },
-     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.526. LeyChile's text of this version carries amendment notes naming norms published after this day, so the wording of these provisions here may already be the later one: Parágrafo (\"Ley 21577 Art. 2 N° 6 a) D.O. 15.06.2023\"); Parágrafo (\"Ley 21577 Art. 2 N° 6 b), i, ii D.O. 15.06.2023\"); Parágrafo (\"Ley 21577 Art. 2 N° 6 c) D.O. 15.06.2023\"); Parágrafo (\"Ley 21577 Art. 2 N° 6 d) D.O. 15.06.2023\"); Parágrafo (\"Ley 21577 Art. 2 N° 6 e) D.O. 15.06.2023\"); Parágrafo (\"Ley 21577 Art. 2 N° 6 f), i, ii y iii D.O. 15.06.2023\")."
+     "credits": {},
+     "note": "Credited from the amendment notes, which name a norm published in the Diario Oficial on this day, although the LeyChile versions list does not name it for this day: Ley 20.526. Corrected: LeyChile's text of Parágrafo from this version to 2023-05-23 carries amendment notes naming norms published after those days (Ley 21577 Art. 2 N° 6 a) D.O. 15.06.2023; Ley 21577 Art. 2 N° 6 b), i, ii D.O. 15.06.2023; Ley 21577 Art. 2 N° 6 c) D.O. 15.06.2023; Ley 21577 Art. 2 N° 6 d) D.O. 15.06.2023; Ley 21577 Art. 2 N° 6 e) D.O. 15.06.2023; Ley 21577 Art. 2 N° 6 f), i, ii y iii D.O. 15.06.2023), so its wording there is not yet in force: it is shown as the placeholder line where LeyChile gives a later wording."
     },
     {
      "from": "2012-02-09",
@@ -56544,7 +56666,7 @@
        "ley-21577"
       ]
      },
-     "note": "From this version the amendment notes on parte-paragrafo no longer name a norm published after the version's day."
+     "note": "Parágrafo: the wording LeyChile gives once Ley 21.577 is in force; credited to it (see the correction noted on 2011-08-13)."
     },
     {
      "from": "2023-08-17",
@@ -57404,9 +57526,9 @@
   "Código del Trabajo: LeyChile keeps the Código del Trabajo of 1987 (Ley 18.620, idNorma 30011) in one undated version only, so its history from 1987 to 1994 is not available; the act starts with the texto refundido of DFL 1 of 1994 as the oldest version available, and DFL 1 of 2003 is its next text.",
   "A version dated D is anachronistic when its amendment notes name a norm published after D (by Diario Oficial date, or by a Ley number at least that of a Ley published after D). Where LeyChile's \"Texto Original\" of a code holds no article text (only a PDF link), its later old versions are reconstructions, and the code starts at the oldest version from which no version is anachronistic: CCom from 1988-10-20 (14 older versions affected); CPC from 2004-08-30 (29 older versions affected). The first version is then the oldest version available, credited to the publisher. (codes/anachronism.py)",
   "CPP: The Código Procesal Penal (Ley 19.696, published in the Diario Oficial on 12 October 2000) says in its own art. 484 when it takes effect: \"regirá para las Regiones de Coquimbo y de la Araucanía desde el 16 de diciembre de 2000\", and for the other regions from 16 October 2001, 2002 and 2003 (dates later changed by amendment; today's text has the Región Metropolitana from 16 June 2005). Its first version is dated 2000-12-16, the first day it was in force anywhere, not the publication day LeyChile shows; the regional phases are in the text of art. 484, not in the dates.",
-  "CP: LeyChile versions whose notes name a norm published later than the version (kept, and disclosed in the version notes; the text is LeyChile's): from 1977-12-14, Art. 367 (\"LEY 19450 Art. 1 k) D.O. 18.03.1996\"); from 1993-12-24, Art. 375 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 376 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 377 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 378 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 379 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 380 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Art. 381 (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 1993-12-24, Títulos (\"LEY 19335 Art. 34 D.O. 23.09.1994\"); from 2014-09-17, Párrafo (\"Ley 21212 Art. 1 N° 6 D.O. 04.03.2020\").",
-  "CT: LeyChile versions whose notes name a norm published later than the version (kept, and disclosed in the version notes; the text is LeyChile's): from 1994-01-25, Art. 168 (\"LEY 19447, Art.1°,1°,a)\"); from 1994-01-25, Art. 168 (\"Ley 19447 Art.1°, 1°, b)\"); from 1994-01-25, Art. 170 (\"Ley 19447 Art.1°, 2.-\"); from 1994-01-25, Art. 480 (\"Ley 19447 Art. 1°, 13\"); from 1994-01-26, Art. 25 (\"LEY 19759 Art. único Nº 9 a) D.O. 05.10.2001\"); from 2003-01-16, Art. 415 (\"LEY 20174 Art. 10 Nº 3 a) D.O. 05.04.2007\"); from 2003-01-16, Art. 415 (\"LEY 20174 Art. 10 Nº 3 b) D.O. 05.04.2007\"); from 2003-01-16, Art. 415 (\"LEY 20175 Art. 8 Nº 3 a) D.O. 11.04.2007\"); from 2003-01-16, Art. 415 (\"LEY 20175 Art. 8 Nº 3 b) D.O. 11.04.2007\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nos. 1 y 2 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 12 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 13 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nos. 11 y 14 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 10 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 11 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 3 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 4 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 5 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 6 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 7 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 8 D.O. 15.02.2008\"); from 2003-01-16, Art. 415 (\"LEY 20252 Art. 5º Nº 9 D.O. 15.02.2008\"); from 2003-01-16, Art. 416 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 417 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 418 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 419 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 421 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 422 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 423 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Art. 424 (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2003-01-16, Títulos (\"LEY 19889 Art. único D.O. 24.09.2003\"); from 2003-01-16, Títulos (\"LEY 20022 Art. 14 Nº 1 D.O. 30.05.2005\"); from 2003-01-16, Títulos (\"LEY 20022 Art. 14 Nº 2 D.O. 30.05.2005\"); from 2009-10-30, Art. 439 bis (\"LEY 20787 Art. UNICO A) D.O. 17.09.2008\"); from 2010-02-10, Capítulo (\"Ley 21015 Art. 3 N° 2 D.O. 15.06.2017\"); from 2016-01-01, Art. 48 (\"Ley 20899 Art. 10 D.O. 08.02.2016\").",
-  "CPP: LeyChile versions whose notes name a norm published later than the version (kept, and disclosed in the version notes; the text is LeyChile's): from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 a) D.O. 15.06.2023\"); from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 b), i, ii D.O. 15.06.2023\"); from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 c) D.O. 15.06.2023\"); from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 d) D.O. 15.06.2023\"); from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 e) D.O. 15.06.2023\"); from 2011-08-13, Parágrafo (\"Ley 21577 Art. 2 N° 6 f), i, ii y iii D.O. 15.06.2023\")."
+  "CP: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 367 1977-12-14 to 1996-03-08 placeholder; from 1997-05-17 credited to Ley 19.450; Art. 375 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 376 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 377 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 378 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 379 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 380 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Art. 381 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335; Párrafo 2014-09-17 to 2020-01-30 placeholder; from 2020-03-04 credited to Ley 21.212; Títulos 1993-12-24 to 1993-12-24 placeholder; from 1995-09-07 credited to Ley 19.335.",
+  "CT: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Art. 25 1994-01-26 to 2001-07-06 placeholder; from 2001-10-05 credited to Ley 19.759; Art. 48 2016-01-01 to 2016-01-01 placeholder; from 2016-04-01 credited to Ley 20.899; Art. 168 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 170 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Art. 415 2003-01-16 to 2007-11-15 placeholder; from 2008-03-29 credited to Ley 20.252; Art. 416 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 417 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 418 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 419 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 421 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 422 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 423 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 424 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022; Art. 439 bis 2009-10-30 to 2014-08-12 placeholder; Art. 480 1994-01-25 to 1995-02-18 placeholder; from 1996-02-08 credited to Ley 19.447; Capítulo 2010-02-10 to 2017-06-09 placeholder; from 2017-06-20 credited to Ley 21.015; Títulos 2003-01-16 to 2005-03-18 placeholder; from 2005-05-30 credited to Ley 20.022.",
+  "CPP: provisions whose LeyChile text in a version carries notes naming a norm published after that version (coordinator rule: correct only those provisions, never keep text in force before its law; placeholder \"[La fuente no da el texto vigente en esta fecha.]\" credited to the publisher): Parágrafo 2011-08-13 to 2023-05-23 placeholder; from 2023-06-15 credited to Ley 21.577."
  ],
  "ai_use": [
   "Phase 2 codes: none at data-build time; codes/*.py are deterministic code written with Claude Code (claude-opus-5-5), reusing parse.py; no model reads, writes or summarises legal text."
