@@ -128,7 +128,9 @@ def rekeyed(read_version):
                 for line in u['text'].splitlines():
                     m = ART_LINE.match(line)
                     if m:
-                        nk, label, kind = lettered(line, width) or parse.unit_key(m.group(1), width)
+                        nk, label, kind = parse.unit_key(m.group(1), width)
+                        if (nk == re.sub(r'-\d+$', '', k) or nk in units) and lettered(line, width):
+                            nk, label, kind = lettered(line, width)
                         if nk != re.sub(r'-\d+$', '', k) and nk not in units and nk not in out:
                             u = dict(u, label=label, kind=kind)
                             k = nk
@@ -149,9 +151,10 @@ def lettered(line: str, width: int) -> tuple[str, str, str] | None:
     m = LETTERED.match(line)
     if not m:
         return None
-    num, suf, letter = int(m.group(1)), (m.group(2) or '').lower().replace('á', 'a'), m.group(3)
+    num, word, letter = int(m.group(1)), (m.group(2) or '').lower(), m.group(3)
+    suf = word.replace('á', 'a')
     key = f'art-{num:0{width}d}' + (f'-{suf}' if suf else '') + '-' + ('nn' if letter.lower() == 'ñ' else letter.lower())
-    return key, f'Art. {num}' + (f' {suf}' if suf else '') + f' {letter.upper()}', 'art'
+    return key, f'Art. {num}' + (f' {word}' if word else '') + f' {letter.upper()}', 'art'
 
 
 DEL_ART = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*(?:\d+|[ÚU]NICO)\s*\)')
