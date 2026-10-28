@@ -211,9 +211,11 @@ def setup(slugs: list[str]) -> None:
         out = []
         for v in vs:
             t = v.get('@tipoVersion') or ''
-            if 'Diferida por Evento' in t and t != 'Con Vigencia Diferida por Evento':
+            if t != 'Con Vigencia Diferida por Evento' and ('Diferida por Evento' in t
+                                                           or v['@vigenteDesde'] >= '2222'):
                 # parse.py leaves out only the exact "Con Vigencia Diferida por Evento"; a version waiting for an
-                # event under another wording (dated 2222-02-02 by LeyChile) cannot be dated either.
+                # event under another wording, or under none (Ley 20.084's is typed "Última Versión"), is dated
+                # 2222-02-02 by LeyChile and cannot be dated either.
                 EVENT_DROPPED.add((id_norma, v['@vigenteDesde'], t))
                 continue
             out.append(v)
