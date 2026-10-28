@@ -57,7 +57,7 @@ ACT_META = {
                      'part': 2},
     'ley-19628': {'short': 'Ley 19.628', 'title': 'Ley 19.628 sobre protección de la vida privada',
                   'url': LEYCHILE + '141599', 'first_law': True},
-    'codigo-penal': {'short': 'CP', 'title': 'Código Penal', 'url': LEYCHILE + '1984', 'first_law': False},
+    'codigo-penal': {'short': 'CP', 'title': 'Código Penal', 'url': LEYCHILE + '1984', 'first_law': True},
     'codigo-comercio': {'short': 'CCom', 'title': 'Código de Comercio', 'url': LEYCHILE + '1974', 'first_law': False},
     'codigo-trabajo': {'short': 'CT', 'title': 'Código del Trabajo', 'url': LEYCHILE + '207436', 'first_law': False},
     'codigo-procedimiento-civil': {'short': 'CPC', 'title': 'Código de Procedimiento Civil',
@@ -67,7 +67,7 @@ ACT_META = {
 }
 
 TYPE_KEY = {'LEY': 'ley', 'DL': 'dl', 'DFL': 'dfl', 'DTO': 'dto', 'DS': 'dto', 'REC': 'rec', 'RES': 'res',
-            'CODIGO': 'codigo', 'LEY ORG CONST': 'ley', 'LEY INTERP CONST': 'ley', 'LEY ORG': 'ley',
+            'CODIGO': 'codigo', 'COD': 'codigo', 'LEY ORG CONST': 'ley', 'LEY INTERP CONST': 'ley', 'LEY ORG': 'ley',
             'STC': 'stc', 'AUTO ACORDADO': 'aa'}
 TYPE_LABEL = {'ley': 'Ley', 'dl': 'DL', 'dfl': 'DFL', 'dto': 'Decreto', 'rec': 'Rectificación', 'res': 'Resolución',
               'codigo': 'Código', 'stc': 'Sentencia TC', 'aa': 'Auto acordado'}
@@ -453,6 +453,9 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
             law['published'] = md.get('fecha_publicacion') or None
             law['enacted'] = md.get('fecha_promulgacion') or None
             law['label'] = law_label(tn.get('abreviacion', ''), tn.get('numero'), law['published'])
+            if law['_type'] == 'codigo':
+                # A code enacted as such (e.g. "Código-PENAL"): its own title, with the year of publication.
+                law['label'] = meta['title'] + (f' de {law["published"][:4]}' if law['published'] else '')
             if prev is None:
                 if meta.get('first_law'):
                     first_law = key
