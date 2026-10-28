@@ -165,6 +165,11 @@ PARTS = {
             'Ley 14.908: from 2000-05-30 its text is article 7 of DFL 1 of 2000 (LeyChile idNorma 172986), which also '
             'fixes the Código Civil (its art. 2) and four other laws; only article 7 is read, and versions of the DFL '
             'in which only its other articles changed are left out as identical.',
+            'Ley 20.084: its own art. 1 transitorio defers its entry into force ("La presente ley entrará en vigencia '
+            'dieciocho meses después de su publicación", today\'s text), and it was amended before that day; the '
+            'corpus keeps the days LeyChile gives its versions, from publication, so the deferral is in the text, '
+            'not in the dates. LeyChile\'s unversioned page for it shows the version waiting for an event '
+            '(2222-02-02), which is left out; the text in force on 2026-10-28 is the version of 2026-01-13.',
         ],
     },
     'more': {
