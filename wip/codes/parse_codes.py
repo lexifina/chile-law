@@ -91,6 +91,8 @@ def setup(slugs: list[str]) -> None:
     version available (first_law null), not the act as enacted."""
     fetch.ACTS.update(CHAINS)
     parse.ACT_META.update(META)
+    if not getattr(parse.read_version, 'rekeyed', False):
+        parse.read_version = rekeyed(parse.read_version)
     for s in slugs:
         day, ev = anachronism.start_day(s)
         if day:
@@ -105,7 +107,6 @@ def setup(slugs: list[str]) -> None:
         vs = original(id_norma, offline)
         return [v for v in vs if v['@vigenteDesde'] >= cut[id_norma]] if id_norma in cut else vs
     fetch.versions = versions
-    parse.read_version = rekeyed(parse.read_version)
 
 
 ART_LINE = re.compile(r'(?i)^(art[íi]culo\s+\d+\s*(?:' + parse.SUFFIX + r')?(?:\s+[A-Z])?)\b')
@@ -117,6 +118,8 @@ def rekeyed(read_version):
     is replaced by the key of the article name the leaf's own text starts with ("Artículo 40 bis A.-"), when that key
     is free, so the file of each article stays the same across versions."""
     def wrapped(raw, width, part=None):
+        if part is None:
+            raw = unwrap(raw)
         r = read_version(raw, width, part)
         units = r['units']
         out = {}
@@ -133,7 +136,38 @@ def rekeyed(read_version):
             out[k] = u
         r['units'] = out
         return r
+    wrapped.rekeyed = True
     return wrapped
+
+
+DEL_ART = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*(?:\d+|[ÚU]NICO)\s*\)')
+
+
+def unwrap(raw: bytes) -> bytes:
+    """A norm that enacts a whole text in one article ("doble articulado": DL 830's "Artículo 1°.- Apruébase el
+    siguiente texto del Código Tributario", DFL 3 of 2021's "Artículo único.- Fíjase el siguiente texto refundido...
+    de la ley N° 19.496") is read as the text it enacts: that article's tree takes its place among the norm's top-level
+    nodes (heading and closing formula kept), and the "(DEL ART. 1)" LeyChile adds to the names inside is dropped. The
+    enacting sentence itself is not part of the act's text. Other norms are returned unchanged."""
+    d = json.loads(raw)
+    if not (d.get('metadatos') or {}).get('doble_articulado'):
+        return raw
+    html = d.get('html') or []
+    boxes = [i for i, x in enumerate(html) if x.get('h')]
+    if len(boxes) != 1:
+        return raw
+    node = html[boxes[0]]
+    while len(node['h']) == 1 and node['h'][0].get('h'):
+        node = node['h'][0]
+    d['html'] = html[:boxes[0]] + node['h'] + html[boxes[0] + 1:]
+
+    def strip(nodes):
+        for x in nodes:
+            if 'n' in x:
+                x['n'] = DEL_ART.sub('', x['n'])
+            strip(x.get('h') or [])
+    strip(d.get('estructura') or [])
+    return json.dumps(d, ensure_ascii=False).encode('utf-8')
 
 
 def cut_note(slug: str) -> str:
