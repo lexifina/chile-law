@@ -1,8 +1,8 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
 (--part codes, the default), corpus.d/60-more.json (--part more), corpus.d/70-batch3.json (--part batch3) or
-corpus.d/80-batch4.json (--part batch4).
+corpus.d/80-batch4.json (--part batch4) or corpus.d/90-batch5.json (--part batch5).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4] [--acts a,b,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4|batch5] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
@@ -87,6 +87,27 @@ META.update({
     'ley-16744': {'short': 'Ley 16.744', 'title': 'Ley 16.744 sobre accidentes del trabajo y enfermedades '
                   'profesionales', 'url': L + '28650', 'first_law': True},
 })
+META.update({
+    'ley-19300': {'short': 'Ley 19.300', 'title': 'Ley 19.300 sobre bases generales del medio ambiente',
+                  'url': L + '30667', 'first_law': True},
+    'ley-18834': {'short': 'Ley 18.834', 'title': 'Ley 18.834 sobre Estatuto Administrativo', 'url': L + '236392',
+                  'first_law': True},
+    'dl-3500': {'short': 'DL 3.500', 'title': 'DL 3.500 que establece el nuevo sistema de pensiones',
+                'url': L + '7147', 'first_law': True},
+    'ley-21595': {'short': 'Ley 21.595', 'title': 'Ley 21.595 de delitos económicos', 'url': L + '1195119',
+                  'first_law': True},
+    'ley-19913': {'short': 'Ley 19.913', 'title': 'Ley 19.913 que crea la Unidad de Análisis Financiero',
+                  'url': L + '219119', 'first_law': True},
+    'ley-18290': {'short': 'Ley 18.290', 'title': 'Ley 18.290 de Tránsito', 'url': L + '1007469', 'first_law': True},
+    'ley-19968': {'short': 'Ley 19.968', 'title': 'Ley 19.968 que crea los Tribunales de Familia',
+                  'url': L + '229557', 'first_law': True},
+    'ley-20084': {'short': 'Ley 20.084', 'title': 'Ley 20.084 sobre responsabilidad penal de los adolescentes',
+                  'url': L + '244803', 'first_law': True},
+    'ley-19947': {'short': 'Ley 19.947', 'title': 'Ley 19.947 de Matrimonio Civil', 'url': L + '225128',
+                  'first_law': True},
+    'ley-14908': {'short': 'Ley 14.908', 'title': 'Ley 14.908 sobre abandono de familia y pago de pensiones '
+                  'alimenticias', 'url': L + '172986', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -132,6 +153,20 @@ PARTS = {
             'are separate LeyChile norms; the act starts with the DFL as the oldest version available.',
         ],
     },
+    'batch5': {
+        'acts': 'ley-19300,ley-18834,dl-3500,ley-21595,ley-19913,ley-18290,ley-19968,ley-20084,ley-19947,ley-14908',
+        'out': ROOT / 'corpus.d' / '90-batch5.json',
+        'decisions': [
+            'Leyes 19.300, 18.834, 21.595, 19.913, 18.290, 19.968, 20.084, 19.947 and 14.908 and DL 3.500 '
+            '(corpus.d/90-batch5.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
+            'norms verified on 2026-10-28 with get_cadena_refundidos and get_versiones: 30667; Ley 18.834 = 30210, then '
+            'DFL 29 of 2005 (236392); DL 3.500 = 7147; 1195119; 219119; Ley 18.290 = 29708, then DFL 1 of 2009 '
+            '(1007469); 229557; 244803; Ley 19.947 = 225128; Ley 14.908 = 27977, then DFL 1 of 2000 (172986).',
+            'Ley 14.908: from 2000-05-30 its text is article 7 of DFL 1 of 2000 (LeyChile idNorma 172986), which also '
+            'fixes the Código Civil (its art. 2) and four other laws; only article 7 is read, and versions of the DFL '
+            'in which only its other articles changed are left out as identical.',
+        ],
+    },
     'more': {
         'acts': 'codigo-tributario,codigo-sanitario,codigo-aguas,ley-18046,ley-19496',
         'out': ROOT / 'corpus.d' / '60-more.json',
@@ -160,6 +195,7 @@ def setup(slugs: list[str]) -> None:
     parse.ACT_META.update(META)
     if not getattr(parse.read_version, 'rekeyed', False):
         parse.read_version = rekeyed(parse.read_version)
+        parse.width_for = part_width(parse.width_for)
     for s in slugs:
         day, ev = anachronism.start_day(s)
         if day:
@@ -194,6 +230,8 @@ def rekeyed(read_version):
     is replaced by the key of the article name the leaf's own text starts with ("Artículo 40 bis A.-"), when that key
     is free, so the file of each article stays the same across versions."""
     def wrapped(raw, width, part=None):
+        if part is None and norm_of(raw) in NORM_PART:
+            part = NORM_PART[norm_of(raw)]
         if part is None:
             raw = unwrap(raw)
         r = read_version(raw, width, part)
@@ -231,6 +269,28 @@ def lettered(line: str, width: int) -> tuple[str, str, str] | None:
     suf = word.replace('á', 'a')
     key = f'art-{num:0{width}d}' + (f'-{suf}' if suf else '') + '-' + ('nn' if letter.lower() == 'ñ' else letter.lower())
     return key, f'Art. {num}' + (f' {word}' if word else '') + f' {letter.upper()}', 'art'
+
+
+# A norm that fixes the text of several laws, one per article: when one of our acts continues as such an article, the
+# act reads only that article of the norm (parse.py's `part`, here per norm instead of per act). DFL 1 of 2000 (172986)
+# fixes Ley 14.908 in its art. 7 ("LEY SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS").
+NORM_PART = {172986: 7}
+NORM_ID = re.compile(rb'"id_norma":\s*"?(\d+)')
+
+
+def norm_of(raw: bytes) -> int | None:
+    m = NORM_ID.search(raw)
+    return int(m.group(1)) if m else None
+
+
+def part_width(width_for):
+    """parse.width_for, reading only the article NORM_PART names of such a norm (its other parts have the Código
+    Civil's four-digit article numbers)."""
+    def wrapped(raws, part=None):
+        if part is not None or not any(norm_of(r) in NORM_PART for r in raws):
+            return width_for(raws, part)
+        return max(width_for([r], NORM_PART.get(norm_of(r))) for r in raws)
+    return wrapped
 
 
 DEL_ART = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*(?:\d+|[ÚU]NICO)\s*\)')
