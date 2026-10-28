@@ -128,7 +128,7 @@ def rekeyed(read_version):
                 for line in u['text'].splitlines():
                     m = ART_LINE.match(line)
                     if m:
-                        nk, label, kind = parse.unit_key(m.group(1), width)
+                        nk, label, kind = lettered(line, width) or parse.unit_key(m.group(1), width)
                         if nk != re.sub(r'-\d+$', '', k) and nk not in units and nk not in out:
                             u = dict(u, label=label, kind=kind)
                             k = nk
@@ -138,6 +138,20 @@ def rekeyed(read_version):
         return r
     wrapped.rekeyed = True
     return wrapped
+
+
+LETTERED = re.compile(r'(?i)^art[íi]culo\s+(\d+)\s*(?:(bis|ter|quater|quáter)\s+)?([a-zñ])\s*[.°º-]')
+
+
+def lettered(line: str, width: int) -> tuple[str, str, str] | None:
+    """(key, label, kind) for an article named with a capital letter ("Artículo 54 O.-", "Artículo 54 Ñ.-"), which
+    parse.unit_key reads as a degree sign (O) or folds into another letter (Ñ to N); Ñ is keyed "nn", between n and o."""
+    m = LETTERED.match(line)
+    if not m:
+        return None
+    num, suf, letter = int(m.group(1)), (m.group(2) or '').lower().replace('á', 'a'), m.group(3)
+    key = f'art-{num:0{width}d}' + (f'-{suf}' if suf else '') + '-' + ('nn' if letter.lower() == 'ñ' else letter.lower())
+    return key, f'Art. {num}' + (f' {suf}' if suf else '') + f' {letter.upper()}', 'art'
 
 
 DEL_ART = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*(?:\d+|[ÚU]NICO)\s*\)')
