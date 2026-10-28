@@ -545,6 +545,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--acts', default='constitucion,codigo-civil,ley-19628')
     ap.add_argument('--retrieved', default='2026-10-28')
+    ap.add_argument('--out', default=str(HERE / 'corpus.json'), help='written atomically: a .tmp file, then a rename')
     args = ap.parse_args()
     laws = Laws()
     log: list[str] = []
@@ -598,8 +599,10 @@ def main():
         'ai_use': ['None at data-build time: fetch.py and parse.py are deterministic code, written with Claude Code '
                    '(claude-opus-5-5); no model reads, writes or summarises legal text.'],
     }
-    out = HERE / 'corpus.json'
-    out.write_text(json.dumps(cl, ensure_ascii=False, indent=1, sort_keys=False) + '\n', encoding='utf-8', newline='\n')
+    out = Path(args.out)
+    tmp = out.with_name(out.name + '.tmp')
+    tmp.write_text(json.dumps(cl, ensure_ascii=False, indent=1, sort_keys=False) + '\n', encoding='utf-8', newline='\n')
+    tmp.replace(out)
     (HERE / 'parse.log').write_text('\n'.join(log) + '\n', encoding='utf-8', newline='\n')
     stats(cl)
 
