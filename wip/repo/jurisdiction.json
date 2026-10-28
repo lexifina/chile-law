@@ -1,0 +1,9 @@
+{
+  "path": "cl",
+  "code": "CL",
+  "name": "Chile",
+  "level": "country",
+  "repo": "https://github.com/lexifina/chile-law",
+  "build": "built: Constitución 1981-2026 (78 versions), Código Civil 2000-2024 (29), Ley 19.628 1999-2023 (8, + Ley 21.719 on futuro)",
+  "sources": 2
+}

@@ -174,7 +174,7 @@ def unit_key(name: str, width: int) -> tuple[str, str, str]:
         suf = slug(m.group(2)) if m.group(2) else ''
         rest = slug(m.group(3)) if m.group(3) else ''
         key = f'{pre}-{num:0{width}d}' + (f'-{suf}' if suf else '') + (f'-{rest}' if rest and rest != 'x' else '')
-        label = ('Art. transitorio ' if trans else 'Art. ') + f'{num}' + (f' {m.group(2)}' if m.group(2) else '')
+        label = ('Art. transitorio ' if trans else 'Art. ') + f'{num}' + (f' {m.group(2).lower()}' if m.group(2) else '')
         return key, label, 'transitional' if trans else 'art'
     words = body.split()
     if words:
