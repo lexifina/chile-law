@@ -61,6 +61,35 @@ def setup(slugs: list[str]) -> None:
         vs = original(id_norma, offline)
         return [v for v in vs if v['@vigenteDesde'] >= cut[id_norma]] if id_norma in cut else vs
     fetch.versions = versions
+    parse.read_version = rekeyed(parse.read_version)
+
+
+ART_LINE = re.compile(r'(?i)^(art[íi]culo\s+\d+\s*(?:' + parse.SUFFIX + r')?(?:\s+[A-Z])?)\b')
+
+
+def rekeyed(read_version):
+    """LeyChile's table of contents of some old texts names several leaves alike (DFL 1 of 1994 calls the leaves of
+    arts. 40 bis A to 40 bis D all "Artículo 40"), so parse.py keys them art-040-2, art-040-3... Such a collision key
+    is replaced by the key of the article name the leaf's own text starts with ("Artículo 40 bis A.-"), when that key
+    is free, so the file of each article stays the same across versions."""
+    def wrapped(raw, width, part=None):
+        r = read_version(raw, width, part)
+        units = r['units']
+        out = {}
+        for k, u in units.items():
+            if re.search(r'-\d+$', k) and re.sub(r'-\d+$', '', k) in units:
+                for line in u['text'].splitlines():
+                    m = ART_LINE.match(line)
+                    if m:
+                        nk, label, kind = parse.unit_key(m.group(1), width)
+                        if nk != re.sub(r'-\d+$', '', k) and nk not in units and nk not in out:
+                            u = dict(u, label=label, kind=kind)
+                            k = nk
+                        break
+            out[k] = u
+        r['units'] = out
+        return r
+    return wrapped
 
 
 def cut_note(slug: str) -> str:
