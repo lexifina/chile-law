@@ -155,13 +155,42 @@ def main() -> None:
         'ai_use': ['Phase 2 codes: none at data-build time; codes/*.py are deterministic code written with Claude '
                    'Code (claude-opus-5-5), reusing parse.py; no model reads, writes or summarises legal text.'],
     }
+    parse.stats(part)
+    for a in acts:
+        to_changes(a)
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     tmp = out.with_name(out.name + '.tmp')
     tmp.write_text(json.dumps(part, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     tmp.replace(out)
     (HERE / 'parse.log').write_text('\n'.join(log) + '\n', encoding='utf-8', newline='\n')
-    parse.stats(part)
+
+
+def to_changes(act: dict) -> None:
+    """SCHEMA.md "Large acts": every version after the first gives only `changes` ({unit key: unit, or null to remove
+    it}) against the version before it, instead of all its units. expand() is the inverse, as the builder reads it."""
+    full = [v['units'] for v in act['versions']]
+    for prev, cur, v in zip(full, full[1:], act['versions'][1:]):
+        ch = {k: cur.get(k) for k in sorted(set(prev) | set(cur)) if prev.get(k) != cur.get(k)}
+        items = [(k, ch if k == 'units' else x) for k, x in v.items()]
+        v.clear()
+        v.update((('changes' if k == 'units' else k), x) for k, x in items)
+
+
+def expand(part: dict) -> dict:
+    """The part with every version's full `units`, rebuilt from `changes` exactly as gitlaw_common/build.py does."""
+    for act in part.get('acts', []):
+        for prev, v in zip(act['versions'], act['versions'][1:]):
+            if 'units' in v:
+                continue
+            units = dict(prev['units'])
+            for k, u in (v.get('changes') or {}).items():
+                if u is None:
+                    units.pop(k, None)
+                else:
+                    units[k] = u
+            v['units'] = units
+    return part
 
 
 def disclose(act: dict) -> list[str]:
