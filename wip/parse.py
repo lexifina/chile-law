@@ -162,6 +162,8 @@ def unit_key(name: str, width: int) -> tuple[str, str, str]:
         return 'encabezado', 'Encabezado', 'heading'
     if low.startswith('promulgacion'):
         return 'promulgacion', 'Promulgación', 'closing'
+    if low.startswith('anexo'):
+        return 'anexo', 'Anexo', 'part'
     trans = 'transitori' in low
     body = re.sub(r'(?i)\b(disposici[oó]n(es)?|art[ií]culos?|transitori[oa]s?)\b\.?', ' ', n)
     body = re.sub(r'\s+', ' ', body).strip(' .-')
@@ -522,7 +524,7 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
                         if hit:
                             v['credits'][k] = sorted(set(hit))
                             deferred.update(hit)
-                    elif new:
+                    if not hit and new:
                         # Say which norm the unit's new notes name, without crediting it.
                         late.append(f'{r["units"][k]["label"]}: {new[-1]}')
             if noted:
