@@ -53,7 +53,8 @@ ACT_META = {
                   'the text, not in the dates.'),
         'first_law': True,
     },
-    'codigo-civil': {'short': 'CC', 'title': 'Código Civil', 'url': LEYCHILE + '172986', 'first_law': False},
+    'codigo-civil': {'short': 'CC', 'title': 'Código Civil', 'url': LEYCHILE + '172986', 'first_law': False,
+                     'part': 2},
     'ley-19628': {'short': 'Ley 19.628', 'title': 'Ley 19.628 sobre protección de la vida privada',
                   'url': LEYCHILE + '141599', 'first_law': True},
     'codigo-penal': {'short': 'CP', 'title': 'Código Penal', 'url': LEYCHILE + '1984', 'first_law': False},
@@ -232,7 +233,23 @@ def note_refs(notes: list[str]) -> tuple[set[tuple[str, int]], set[str]]:
 
 # ---------------------------------------------------------------- one version
 
-def read_version(raw: bytes, width: int) -> dict:
+PART_SUFFIX = re.compile(r'(?i)\s*\(DEL ART\.?\s*\d+\s*\)')
+
+
+def part_nodes(d: dict, part: int | None) -> list:
+    """The html nodes of the act: the whole norm, or only the children of its article `part` when one norm fixes the
+    text of several acts (DFL 1 of 2000 fixes the Código Civil in its art. 2 and five other laws in arts. 3-8)."""
+    nodes = d.get('html') or []
+    if part is None:
+        return nodes
+    top = {x['i']: x.get('n', '') for x in d.get('estructura') or []}
+    hit = [x for x in nodes if re.match(rf'(?i)^articulo\s+{part}\b', plain(clean(top.get(x['i'], ''))))]
+    if len(hit) != 1:
+        raise SystemExit(f'part {part}: {len(hit)} top-level nodes match')
+    return hit[0].get('h') or []
+
+
+def read_version(raw: bytes, width: int, part: int | None = None) -> dict:
     d = json.loads(raw)
     names: dict[int, tuple[str, int | None]] = {}
 
@@ -257,6 +274,8 @@ def read_version(raw: bytes, width: int) -> dict:
                 walk(x['h'])
                 continue
             name, _typ = names.get(x['i'], ('', None))
+            if part is not None:
+                name = PART_SUFFIX.sub('', name or '')
             key, label, kind = unit_key(name or (lines[0][:40] if lines else str(x['i'])), width)
             base, n = key, 2
             while key in units:
@@ -266,7 +285,7 @@ def read_version(raw: bytes, width: int) -> dict:
                 lines = ['(sin texto)']
             units[key] = {'label': label, 'kind': kind, 'text': '\n'.join(lines) + '\n', 'notes': notes, 'ids': ids,
                           'name': clean(name)}
-    walk(d.get('html') or [])
+    walk(part_nodes(d, part))
     if heads:
         units['titulos'] = {'label': 'Títulos', 'kind': 'headings', 'text': '\n'.join(heads) + '\n',
                             'notes': head_notes, 'ids': head_ids, 'name': 'Títulos'}
@@ -274,9 +293,13 @@ def read_version(raw: bytes, width: int) -> dict:
     return {'units': units, 'meta': meta}
 
 
-def width_for(raws: list[bytes]) -> int:
+def width_for(raws: list[bytes], part: int | None = None) -> int:
     mx = 0
     for raw in raws:
+        if part is not None:
+            for m in re.finditer(r'Art(?:[ií]|\\u00ed)culo (\d+)[^"]{0,20}\(DEL ART\.? ?' + str(part) + r'\)', raw.decode('utf-8')):
+                mx = max(mx, int(m.group(1)))
+            continue
         for m in re.finditer(rb'"n": ?"Art\\u00edculo (\d+)|"n": ?"Art\xc3\xadculo (\d+)', raw):
             mx = max(mx, int(m.group(1) or m.group(2)))
     return 4 if mx > 999 else 3
@@ -317,15 +340,23 @@ class Laws:
         self.laws: dict[str, dict] = {}
         self.by_id: dict[int, str] = {}
 
-    def add(self, m: dict) -> str:
+    def add(self, m: dict, pub: str | None = None) -> str:
         idn = int(m['@idNorma'])
         if idn in self.by_id:
             return self.by_id[idn]
-        pub = pub_date(m.get('@fechaPublicacion', ''))
+        pub = pub or pub_date(m.get('@fechaPublicacion', ''))
         key = law_key(m.get('@tipoNorma', ''), m.get('@nroNorma'), pub[:4] if pub else None, idn)
+        t = TYPE_KEY.get((m.get('@tipoNorma') or '').upper().strip(), '')
+        old = self.laws.get(key)
+        if old and old['_id'] is None and old['_type'] == t and str(old['_num']) == str(m.get('@nroNorma')):
+            # Known so far only from an amendment note: the same norm, now with its LeyChile id and title.
+            old.update({'title': clean(m.get('@titulo') or ''), 'url': f'{LEYCHILE}{idn}', '_id': idn,
+                        '_org': m.get('@organismo')})
+            old['published'] = pub or old['published']
+            self.by_id[idn] = key
+            return key
         if key in self.laws:
             key = f'{key}-{idn}'
-        t = TYPE_KEY.get((m.get('@tipoNorma') or '').upper().strip(), '')
         self.laws[key] = {'label': law_label(m.get('@tipoNorma', ''), m.get('@nroNorma'), pub),
                           'title': clean(m.get('@titulo') or ''), 'kind': TYPE_KIND.get(t, 'law'),
                           'enacted': None, 'published': pub, 'url': f'{LEYCHILE}{idn}',
@@ -339,9 +370,10 @@ class Laws:
         for key, law in self.laws.items():
             if law['_type'] == t and str(law['_num']) == str(num) and (t == 'ley' or law['published'] == day):
                 return key
-        key = f'ley-{num}' if t == 'ley' else f'{t}-{num}-{day[:4]}'
+        key = f'ley-{num}' if t == 'ley' else f'{t}-{num}-{day[:4]}' if num is not None else f'{t}-do-{day.replace("-", "")}'
         tl = {'ley': 'LEY', 'dl': 'DL', 'dfl': 'DFL', 'dto': 'DTO', 'rec': 'REC'}[t]
-        self.laws[key] = {'label': law_label(tl, num, day), 'title': '', 'kind': TYPE_KIND.get(t, 'law'),
+        label = law_label(tl, num, day) if num is not None else f'Rectificación D.O. {day[8:]}.{day[5:7]}.{day[:4]}'
+        self.laws[key] = {'label': label, 'title': '', 'kind': TYPE_KIND.get(t, 'law'),
                           'enacted': None, 'published': day, 'url': None, 'temporary_until': None, 'restores': None,
                           '_id': None, '_type': t, '_num': num, '_org': None, '_note': note}
         return key
@@ -372,10 +404,14 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
     meta = ACT_META[slug_]
     chain = fetch.ACTS[slug_]
     entries = []      # (day, id_norma, version entry, the entry before it in the same norm)
+    listed: dict[tuple[str, str], set[str]] = {}     # (type, number) -> days the versions lists give for it
     for id_norma in chain:
         vs = fetch.versions(id_norma, offline=True)
         for i, v in enumerate(vs):
             entries.append((v['@vigenteDesde'], id_norma, v, vs[i - 1] if i else None))
+            for m in as_list(v.get('Modificatorias', {}).get('Modificatoria')):
+                t = TYPE_KEY.get((m.get('@tipoNorma') or '').upper().strip(), '')
+                listed.setdefault((t, str(m.get('@nroNorma'))), set()).add(m.get('@inicioVigencia'))
     # A later norm in the chain (a texto refundido) replaces the earlier one from its first day.
     starts = {}
     for id_norma in chain:
@@ -388,13 +424,17 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
         kept.append(e)
     kept.sort(key=lambda e: e[0])
     raws = [fetch.fetch(fetch.version_url(e[1], e[0]), offline=True) for e in kept]
-    width = width_for(raws)
+    part = meta.get('part')
+    width = width_for(raws, part)
     versions = []
     prev = None
     first_law = None
     earlier: list[str] = []
+    credited_before: set[str] = set()
     for (day, id_norma, entry, before), raw in zip(kept, raws):
-        r = read_version(raw, width)
+        r = read_version(raw, width, part)
+        if part is not None and prev is not None and prev['_norm'] == id_norma and not changed(prev, {'units': r['units']}):
+            continue    # a version of the norm in which only its other parts changed
         md = r['meta']
         v = {'from': day, 'source_url': f'{LEYCHILE}{id_norma}&idVersion={day}',
              'sha256': hashlib.sha256(raw).hexdigest(), 'units': {}, 'credits': {}}
@@ -406,7 +446,7 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
             tn = tipos[0]
             m = {'@idNorma': id_norma, '@tipoNorma': tn.get('abreviacion', ''), '@nroNorma': tn.get('numero'),
                  '@titulo': md.get('titulo_norma', ''), '@fechaPublicacion': ''}
-            key = laws.add(m)
+            key = laws.add(m, md.get('fecha_publicacion') or None)
             law = laws.laws[key]
             law['published'] = md.get('fecha_publicacion') or None
             law['enacted'] = md.get('fecha_promulgacion') or None
@@ -436,6 +476,7 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
             keys = [laws.add(m) for m in on_day if int(m.get('@idNorma') or 0)]
             late = []
             noted: set[str] = set()
+            deferred: set[str] = set()
             ch = changed(prev, v)
             for k in ch:
                 u = r['units'].get(k) or prev['_raw'].get(k)
@@ -460,9 +501,27 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
                         if day in ndates and len(nrefs) == 1:
                             t, num = next(iter(nrefs))
                             hit.append(laws.from_note(t, num, day, n))
+                        elif day in ndates and not nrefs and re.match(r'(?i)RECTIFICACI', n):
+                            hit.append(laws.from_note('rec', None, day, n))
                     if hit:
                         v['credits'][k] = sorted(set(hit))
                         noted.update(hit)
+                    elif not mods:
+                        # Deferred entry into force: the versions list names no norm at all for this day, and the
+                        # unit's new note names exactly one norm, published earlier and not yet seen in this act's
+                        # history. The note is the source's own statement of which norm made the change.
+                        for n in new:
+                            nrefs, ndates = note_refs([n])
+                            if len(nrefs) == 1 and len(ndates) == 1 and min(ndates) < day:
+                                t, num = next(iter(nrefs))
+                                if listed.get((t, str(num)), {day}) != {day} and day not in listed[(t, str(num))]:
+                                    continue    # the versions list dates this norm's entry into force elsewhere
+                                key = laws.from_note(t, num, min(ndates), n)
+                                if key not in credited_before:
+                                    hit.append(key)
+                        if hit:
+                            v['credits'][k] = sorted(set(hit))
+                            deferred.update(hit)
                     elif new:
                         # Say which norm the unit's new notes name, without crediting it.
                         late.append(f'{r["units"][k]["label"]}: {new[-1]}')
@@ -470,6 +529,12 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
                 v['note'] = ('Credited from the amendment notes, which name a norm published in the Diario Oficial on '
                              'this day, although the LeyChile versions list does not name it for this day: '
                              + ', '.join(laws.laws[l]['label'] for l in sorted(noted)) + '.')
+            if deferred:
+                v['note'] = (v.get('note', '') + ' ' if v.get('note') else '') + (
+                    'Credited from the amendment notes: the LeyChile versions list names no norm for this day, and '
+                    'the new notes on the changed provisions name a norm published earlier that takes effect here '
+                    '(deferred entry into force): ' + ', '.join(
+                        f'{laws.laws[l]["label"]} (D.O. {laws.laws[l]["published"]})' for l in sorted(deferred)) + '.')
             if late:
                 v['note'] = (v.get('note', '') + ' ' if v.get('note') else '') + ('LeyChile shows changes from this day that no norm in force on this day explains; the '
                              'new amendment notes on them read: ' + ' | '.join(late[:12])
@@ -487,6 +552,7 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
                         break
                 else:
                     log.append(f'{slug_} {day}: {laws.laws[l]["label"]} took effect but no note names it')
+        credited_before.update(l for ls in v['credits'].values() for l in ls)
         v['_raw'] = r['units']
         v['_norm'] = id_norma
         versions.append(v)
