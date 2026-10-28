@@ -1,0 +1,2153 @@
+day,kind,law,acts,files,branch
+1875-03-01,start,codigo-penal-1874,codigo-penal,505,main
+1917-09-27,law,ley-3301,codigo-penal,1,main
+1923-03-14,start,ley-3918,ley-3918,7,main
+1923-10-20,law,ley-3988,codigo-penal,12,main
+1925-03-17,law,dl-345-1925,codigo-penal,1,main
+1925-11-25,law,dl-672-1925,codigo-penal,2,main
+1927-10-12,unexplained,,codigo-penal,455,main
+1928-01-03,law,ley-4205,codigo-penal,1,main
+1929-01-01,law,ley-4447,codigo-penal,4,main
+1930-02-10,start,ley-4808,ley-4808,94,main
+1932-06-16,law,dl-26-1932,codigo-penal,7,main
+1934-12-07,law,ley-5507,codigo-penal,7,main
+1937-02-12,unexplained,,codigo-penal,2,main
+1938-01-13,law,ley-6156,ley-3918,1,main
+1941-02-28,law,ley-6827,codigo-penal,2,main
+1941-04-14,law,ley-6873,codigo-penal,2,main
+1941-04-19,law,ley-6894,codigo-penal,1,main
+1943-07-09,start,codigo-organico-de-tribunales-1943,codigo-organico-tribunales,620,main
+1943-10-21,law,ley-7613,ley-4808,1,main
+1943-11-06,law,ley-7632,codigo-penal,3,main
+1944-04-05,law,ley-7760,codigo-organico-tribunales,9,main
+1944-09-07,law,ley-7836,codigo-organico-tribunales,1,main
+1944-09-13,law,ley-7855,codigo-organico-tribunales,4,main
+1944-10-25,law,ley-7868,codigo-organico-tribunales,1,main
+1944-11-06,law,ley-7836,codigo-organico-tribunales,3,main
+1944-12-19,start,,codigo-justicia-militar,300,main
+1945-03-01,law,ley-8100,codigo-organico-tribunales,12,main
+1945-06-21,law,ley-8121,codigo-organico-tribunales,5,main
+1947-01-04,law,ley-8716,codigo-penal,1,main
+1947-04-19,law,ley-8770,codigo-organico-tribunales,1,main
+1947-09-08,law,ley-8861,codigo-organico-tribunales,3,main
+1948-07-20,law,ley-8949,codigo-organico-tribunales,1,main
+1948-09-03,law,ley-8987,codigo-organico-tribunales,1,main
+1949-09-20,law,ley-9382,ley-4808,3,main
+1949-10-20,law,ley-9382,codigo-organico-tribunales,1,main
+1950-01-01,law,ley-9555,codigo-organico-tribunales,1,main
+1950-08-30,law,ley-9643,codigo-organico-tribunales,1,main
+1950-11-10,law,ley-9762,codigo-penal,2,main
+1951-10-05,law,ley-10003,codigo-justicia-militar,1,main
+1952-03-17,law,ley-10309,codigo-penal,1,main
+1952-04-02,law,ley-10271,codigo-organico-tribunales ley-4808,8,main
+1952-05-29,start,ley-10336,ley-10336,175,main
+1952-09-12,law,ley-10512,codigo-organico-tribunales,6,main
+1953-06-10,law,ley-11183,codigo-penal,18,main
+1953-06-10,unexplained,,codigo-penal,2,main
+1953-07-10,law,ley-11183,codigo-organico-tribunales,54,main
+1953-09-09,law,ley-11231,codigo-organico-tribunales,1,main
+1953-10-10,law,ley-11269,ley-4808,1,main
+1953-10-27,law,ley-11307,codigo-organico-tribunales,1,main
+1954-06-08,law,ley-11537,codigo-organico-tribunales,3,main
+1954-09-25,law,ley-11622,codigo-organico-tribunales,2,main
+1954-11-03,law,ley-11625,codigo-penal codigo-organico-tribunales,15,main
+1955-09-17,law,ley-11847,codigo-organico-tribunales,4,main
+1955-12-22,law,ley-11986,codigo-organico-tribunales,10,main
+1956-09-28,law,ley-12142,codigo-organico-tribunales,1,main
+1957-08-12,law,ley-12473,codigo-organico-tribunales,5,main
+1957-08-30,law,ley-12510,codigo-organico-tribunales,1,main
+1957-10-21,law,ley-12588,ley-3918,1,main
+1958-11-21,law,ley-13211,codigo-penal,1,main
+1959-03-31,law,ley-13303,codigo-penal,23,main
+1959-04-02,law,ley-13302,codigo-organico-tribunales,12,main
+1959-04-06,law,ley-13305,codigo-organico-tribunales,1,main
+1960-02-12,law,ley-13916,codigo-organico-tribunales,5,main
+1961-02-08,law,ley-14548,codigo-organico-tribunales,14,main
+1961-03-03,law,ley-14550,codigo-organico-tribunales,1,main
+1961-10-24,law,ley-14683,codigo-organico-tribunales,1,main
+1962-07-28,unexplained,,ley-4808,1,main
+1962-10-05,start,ley-14908,ley-14908,21,main
+1962-12-18,law,ley-15078,codigo-penal,1,main
+1963-01-17,law,ley-15123,codigo-penal codigo-organico-tribunales,9,main
+1963-09-12,law,ley-15263,codigo-organico-tribunales,1,main
+1964-07-10,law,dto-2421-1964-18995,ley-10336,176,main
+1964-08-13,law,ley-15632,codigo-organico-tribunales ley-14908,21,main
+1964-09-22,law,ley-15702,ley-4808,1,main
+1965-07-10,start,ley-16271,ley-16271,82,main
+1966-02-10,unexplained,,ley-10336,1,main
+1966-03-25,law,ley-16437,codigo-organico-tribunales,31,main
+1966-07-22,law,ley-16520,codigo-organico-tribunales,1,main
+1967-01-01,unexplained,,codigo-organico-tribunales,8,main
+1967-03-08,start,ley-16618,ley-16618,79,main
+1967-03-09,unexplained,,ley-16618,8,main
+1967-07-21,law,ley-11183,codigo-justicia-militar,2,main
+1967-07-21,law,ley-16639,codigo-justicia-militar,12,main
+1967-12-13,law,ley-16723,ley-10336,1,main
+1968-01-31,start,dfl-725-1968,codigo-sanitario,176,main
+1968-02-01,start,ley-16744,ley-16744,112,main
+1968-02-02,unexplained,,ley-16744,1,main
+1968-02-06,law,rec-do-19680206,codigo-sanitario,13,main
+1968-02-06,unexplained,,codigo-sanitario,2,main
+1968-03-01,law,dto-200-1968-10870,codigo-organico-tribunales,12,main
+1968-05-24,law,ley-16840,codigo-sanitario ley-16744,2,main
+1968-08-14,law,ley-16899,codigo-organico-tribunales,15,main
+1968-11-29,law,dfl-1003-1968,codigo-sanitario,6,main
+1969-05-14,unexplained,,ley-16744,1,main
+1969-06-11,law,ley-17155,codigo-penal codigo-sanitario codigo-organico-tribunales,26,main
+1970-01-06,law,ley-17266,codigo-penal codigo-justicia-militar,35,main
+1970-01-06,unexplained,,codigo-penal,1,main
+1970-06-26,unexplained,,codigo-sanitario,1,main
+1970-07-18,unexplained,,codigo-sanitario,1,main
+1970-08-19,start,ley-17322,ley-17322,40,main
+1970-08-20,unexplained,,ley-17322,11,main
+1970-09-22,start,ley-17344,ley-17344,8,main
+1970-09-22,law,ley-17344,ley-4808,1,main
+1970-10-02,start,ley-17336,ley-17336,115,main
+1970-10-06,law,ley-17365,ley-16744,1,main
+1970-11-07,law,ley-17325,codigo-organico-tribunales,1,main
+1971-03-16,law,dto-265-1971-11705,codigo-organico-tribunales,12,main
+1971-06-09,law,ley-17437,codigo-penal,16,main
+1971-08-30,law,ley-17472,codigo-penal,2,main
+1971-12-31,law,ley-17590,codigo-organico-tribunales,42,main
+1972-01-31,unexplained,,ley-10336,1,main
+1972-06-14,law,ley-17671,ley-16744,1,main
+1972-09-27,law,ley-17727,codigo-penal,9,main
+1972-10-21,start,ley-17798,ley-17798,30,main
+1972-11-17,law,ley-17814,ley-14908,2,main
+1973-02-15,law,ley-17902,codigo-penal,1,main
+1973-05-16,law,ley-17934,codigo-penal,7,main
+1973-06-13,law,ley-17939,codigo-organico-tribunales,11,main
+1973-09-24,law,ley-17617,ley-10336,1,main
+1973-09-24,unexplained,,ley-10336,3,main
+1973-10-02,law,dl-51-1973,codigo-justicia-militar,1,main
+1973-10-05,law,dl-61-1973,ley-10336,1,main
+1973-10-31,unexplained,,codigo-justicia-militar,1,main
+1973-12-06,law,dl-169-1973,codigo-organico-tribunales,18,main
+1973-12-22,start,dl-211-1973,dl-211,45,main
+1974-04-08,law,dl-400-1974,codigo-penal,1,main
+1974-09-14,law,dto-940-1974-16309,codigo-organico-tribunales,11,main
+1974-11-13,law,dl-744-1974,codigo-organico-tribunales,2,main
+1974-11-16,law,dl-751-1974,codigo-organico-tribunales,1,main
+1975-01-01,start,dl-830-1974,codigo-tributario,212,main
+1975-01-01,start,dl-824-1974,dl-824,140,main
+1975-02-18,law,rec-do-19750218,codigo-tributario dl-824,19,main
+1975-03-01,start,dl-825-1974,dl-825,94,main
+1975-03-01,law,dl-910-1975,codigo-tributario dl-824,4,main
+1975-05-15,law,dl-1017-1975,codigo-tributario dl-824,2,main
+1975-05-16,law,dl-1024-1975,codigo-tributario,2,main
+1975-06-18,law,dl-751-1974,codigo-justicia-militar,1,main
+1975-06-18,law,dl-1061-1975,codigo-justicia-militar,0,main
+1975-07-10,law,dl-1085-1975,codigo-sanitario,7,main
+1975-07-30,law,dl-1109-1975,codigo-organico-tribunales,2,main
+1975-07-30,law,dl-1110-1975,codigo-organico-tribunales,1,main
+1975-09-29,law,dl-1179-1975,codigo-organico-tribunales,1,main
+1975-10-13,law,dl-1188-1975,codigo-organico-tribunales,8,main
+1975-10-15,law,dl-1188-1975,codigo-organico-tribunales,1,main
+1975-11-08,law,dl-1244-1975,codigo-tributario dl-824,4,main
+1975-11-18,law,dl-1254-1975,ley-10336,1,main
+1975-12-01,unexplained,,codigo-tributario,1,main
+1976-03-06,unexplained,,dl-824,1,main
+1976-03-16,law,dl-1366-1976,codigo-organico-tribunales,12,main
+1976-03-22,law,dl-1365-1976,codigo-organico-tribunales,5,main
+1976-04-13,start,dto-458-1976-13560,dfl-458,183,main
+1976-04-14,unexplained,,dfl-458,4,main
+1976-05-14,law,dl-1417-1976,codigo-organico-tribunales,12,main
+1976-07-09,law,dl-1509-1976,codigo-tributario,1,main
+1976-07-29,law,dl-1533-1976,dl-824,1,main
+1976-07-29,unexplained,,codigo-tributario,1,main
+1976-08-01,law,dl-1533-1976,codigo-tributario,1,main
+1976-08-07,law,dl-1526-1976,ley-17322,4,main
+1976-12-03,law,dl-1604-1976,codigo-tributario dl-824,13,main
+1976-12-03,law,dl-1606-1976,dl-825,27,main
+1976-12-03,unexplained,,dl-824,1,main
+1976-12-03,unexplained,,dl-825,15,main
+1977-01-01,unexplained,,codigo-tributario,1,main
+1977-01-25,law,dl-1682-1977,codigo-organico-tribunales,9,main
+1977-01-25,law,dl-1685-1977,codigo-organico-tribunales,1,main
+1977-03-01,unexplained,,codigo-organico-tribunales,6,main
+1977-03-02,unexplained,,dl-824,1,main
+1977-04-30,law,dl-1769-1977,codigo-justicia-militar,5,main
+1977-05-14,law,dl-1773-1977,codigo-tributario,1,main
+1977-08-18,unexplained,,codigo-sanitario,1,main
+1977-10-29,law,dl-1974-1977,codigo-tributario,1,main
+1977-11-30,law,dl-2043-1977,codigo-organico-tribunales,1,main
+1977-11-30,unexplained,,codigo-organico-tribunales,6,main
+1977-12-01,unexplained,,ley-10336,1,main
+1977-12-14,law,dl-2059-1977,codigo-penal codigo-organico-tribunales codigo-justicia-militar,141,main
+1977-12-14,unexplained,,codigo-penal,1,main
+1977-12-15,law,ley-17155,codigo-penal,1,main
+1978-03-01,unexplained,,codigo-organico-tribunales,6,main
+1978-03-31,law,dl-2145-1978,codigo-organico-tribunales,9,main
+1978-03-31,unexplained,,codigo-organico-tribunales,6,main
+1978-04-13,law,dto-400-1978-13031,ley-17798,31,main
+1978-04-14,unexplained,,ley-17798,13,main
+1978-05-23,start,,ley-15231,76,main
+1978-05-24,unexplained,,ley-15231,4,main
+1978-08-25,law,dl-2312-1978,dl-825,1,main
+1978-08-31,law,dl-1754-1977,dl-824,1,main
+1978-08-31,law,dl-2324-1978,codigo-tributario dl-824,3,main
+1978-12-01,law,dl-2398-1978,dl-824,4,main
+1979-01-01,law,dl-2398-1978,codigo-tributario,1,main
+1979-01-01,law,dl-2415-1978,codigo-tributario,1,main
+1979-01-10,law,dl-2416-1979,codigo-organico-tribunales ley-15231,72,main
+1979-01-10,unexplained,,ley-15231,2,main
+1979-01-11,law,dfl-90-1979,ley-16744,1,main
+1979-01-11,unexplained,,ley-16744,1,main
+1979-01-16,law,dl-2465-1979,ley-16618,13,main
+1979-01-16,unexplained,,ley-16618,1,main
+1979-01-26,law,dfl-115-1979,ley-17322,2,main
+1979-03-01,unexplained,,codigo-organico-tribunales,1,main
+1979-07-01,unexplained,,codigo-tributario,1,main
+1979-07-05,law,dl-2760-1979,dl-211,26,main
+1979-07-05,unexplained,,dl-211,3,main
+1979-07-31,law,dl-2752-1979,dl-825,27,main
+1979-07-31,unexplained,,dl-825,6,main
+1979-09-14,law,dl-2850-1979,ley-4808,2,main
+1979-09-29,law,dl-2869-1979,codigo-tributario,2,main
+1979-11-08,unexplained,,codigo-organico-tribunales,2,main
+1979-11-23,law,dl-2876-1979,codigo-organico-tribunales,7,main
+1979-12-11,law,dl-2967-1979,codigo-penal,3,main
+1980-01-01,law,dl-3058-1979,codigo-organico-tribunales,8,main
+1980-01-08,unexplained,,ley-16271,69,main
+1980-03-01,unexplained,,codigo-organico-tribunales,1,main
+1980-06-14,law,dl-3425-1980,codigo-justicia-militar,31,main
+1980-06-14,unexplained,,codigo-justicia-militar,1,main
+1980-07-02,law,dl-3443-1980,codigo-penal codigo-tributario,7,main
+1980-07-25,law,dl-3454-1980,codigo-organico-tribunales dl-824 dl-825,7,main
+1980-07-25,unexplained,,codigo-organico-tribunales,1,main
+1980-09-25,law,dl-3489-1980,codigo-organico-tribunales,2,main
+1980-10-15,law,dfl-7-1980,codigo-tributario,4,main
+1980-10-27,law,dto-511-1980-74808,dl-211,47,main
+1980-10-27,law,ley-18118,dl-211,1,main
+1980-10-27,law,ley-19336,dl-211,1,main
+1980-10-28,unexplained,,dl-211,46,main
+1980-11-13,start,dl-3500-1980,dl-3500,116,main
+1980-11-14,unexplained,,dl-3500,1,main
+1980-11-18,law,dl-3503-1980,codigo-organico-tribunales,1,main
+1980-12-18,law,dl-3539-1980,codigo-justicia-militar,1,main
+1981-01-02,law,dl-3551-1981,ley-10336,1,main
+1981-01-07,law,dl-3536-1981,ley-16744,1,main
+1981-01-07,law,dl-3545-1981,ley-16271,12,main
+1981-01-07,unexplained,,ley-16271,1,main
+1981-01-29,law,dl-3583-1981,codigo-organico-tribunales,9,main
+1981-02-12,law,dl-3579-1981,codigo-tributario,8,main
+1981-02-21,law,dl-3626-1981,dl-3500,10,main
+1981-02-28,unexplained,,codigo-organico-tribunales,1,main
+1981-03-01,unexplained,,codigo-organico-tribunales,1,main
+1981-03-07,law,dl-3632-1981,codigo-organico-tribunales,2,main
+1981-03-07,law,dl-3634-1981,codigo-organico-tribunales,6,main
+1981-03-10,law,dl-3637-1981,codigo-organico-tribunales,14,main
+1981-03-11,start,dl-3464-1980,constitucion,152,main
+1981-04-30,law,ley-17992,codigo-organico-tribunales,3,main
+1981-05-01,law,dl-3648-1981,codigo-organico-tribunales,4,main
+1981-05-19,start,ley-17997,ley-17997,97,main
+1981-06-27,start,ley-18010,ley-18010,34,main
+1981-06-27,law,ley-18010,dl-824,1,main
+1981-06-28,unexplained,,ley-18010,2,main
+1981-07-01,law,ley-18011,ley-16744,1,main
+1981-08-13,law,rec-654-1981-1073202,ley-17997,2,main
+1981-08-19,law,ley-18022,ley-18010,1,main
+1981-09-14,law,ley-18031,codigo-tributario,1,main
+1981-09-25,law,ley-18032,dl-824,1,main
+1981-10-22,start,ley-18045,ley-18045,76,main
+1981-10-22,start,ley-18046,ley-18046,158,main
+1981-10-23,unexplained,,ley-18045,5,main
+1981-10-23,unexplained,,ley-18046,152,main
+1981-10-29,start,dfl-1122-1981,codigo-aguas,332,main
+1981-10-31,law,rec-do-19811031,ley-18046 ley-18045,12,main
+1981-10-31,unexplained,,ley-18045,1,main
+1981-11-06,law,ley-18048,ley-17322,1,main
+1981-11-06,law,ley-18049,codigo-organico-tribunales,5,main
+1981-11-26,law,rec-do-19811126,codigo-aguas,8,main
+1981-12-01,law,ley-18070,codigo-organico-tribunales,1,main
+1981-12-01,law,ley-18071,codigo-organico-tribunales,1,main
+1981-12-01,law,ley-18072,dl-3500,1,main
+1981-12-31,law,ley-18086,dl-3500,1,main
+1981-12-31,unexplained,,ley-18045,1,main
+1982-01-21,start,ley-18097,ley-18097,26,main
+1982-01-29,start,ley-18101,ley-18101,32,main
+1982-02-04,unexplained,,ley-18101,4,main
+1982-02-16,law,ley-18107,codigo-justicia-militar,1,main
+1982-03-01,unexplained,,codigo-organico-tribunales,1,main
+1982-03-26,law,ley-18110,codigo-tributario,11,main
+1982-05-10,unexplained,,ley-17997,1,main
+1982-05-18,law,ley-18120,codigo-organico-tribunales,1,main
+1982-05-19,law,ley-18119,codigo-penal,1,main
+1982-06-11,law,ley-18129,ley-15231,2,main
+1982-06-11,law,ley-17105,ley-15231,1,main
+1982-10-02,start,ley-18168,ley-18168,43,main
+1982-10-06,law,rec-do-19821006,ley-18168,1,main
+1982-10-25,law,ley-18176,codigo-organico-tribunales,49,main
+1982-10-25,unexplained,,codigo-organico-tribunales,1,main
+1982-10-28,law,ley-18175,codigo-tributario,1,main
+1982-11-15,law,ley-18173,codigo-sanitario,39,main
+1982-11-19,unexplained,,codigo-sanitario,1,main
+1983-01-01,law,ley-18181,codigo-tributario codigo-organico-tribunales,51,main
+1983-01-26,law,ley-18208,dl-3500,1,main
+1983-03-01,unexplained,,codigo-organico-tribunales,1,main
+1983-05-28,law,ley-18222,codigo-penal,2,main
+1983-06-28,law,ley-18225,dl-3500,1,main
+1983-06-28,unexplained,,dl-3500,1,main
+1983-07-15,unexplained,,codigo-tributario,1,main
+1983-09-24,unexplained,,ley-18097,1,main
+1983-11-23,law,ley-18260,codigo-tributario,2,main
+1983-12-13,law,ley-18248,codigo-sanitario,1,main
+1983-12-14,start,ley-18248,codigo-mineria,255,main
+1983-12-28,law,ley-18269,ley-16744,5,main
+1984-01-02,unexplained,,codigo-mineria,6,main
+1984-01-04,law,ley-18271,codigo-organico-tribunales,2,main
+1984-01-31,law,ley-18293,dl-824,8,main
+1984-01-31,unexplained,,dl-824,1,main
+1984-02-07,law,ley-18287,ley-15231,2,main
+1984-02-07,unexplained,,ley-15231,41,main
+1984-03-01,unexplained,,codigo-organico-tribunales,1,main
+1984-04-04,law,ley-18299,codigo-organico-tribunales,1,main
+1984-05-04,law,ley-18303,codigo-sanitario,3,main
+1984-05-17,start,ley-18314,ley-18314,21,main
+1984-09-17,unexplained,,codigo-sanitario,1,main
+1984-09-26,law,ley-18342,codigo-justicia-militar,28,main
+1984-12-14,unexplained,,codigo-sanitario,1,main
+1984-12-15,law,ley-18374,codigo-organico-tribunales,5,main
+1984-12-27,law,ley-18377,codigo-aguas,1,main
+1984-12-28,law,ley-18382,dl-825,1,main
+1984-12-29,law,ley-18373,codigo-aguas,5,main
+1985-01-01,start,ley-18287,ley-18287,46,main
+1985-01-01,start,ley-18290,ley-18290,233,main
+1985-01-02,law,ley-18316,ley-18290,1,main
+1985-01-02,unexplained,,ley-18290,10,main
+1985-01-04,law,ley-18379,ley-17322,1,main
+1985-01-09,law,ley-18383,ley-15231,1,main
+1985-01-11,law,ley-18389,ley-18290,5,main
+1985-03-01,unexplained,,codigo-organico-tribunales,1,main
+1985-04-20,law,ley-18405,codigo-aguas,1,main
+1985-05-09,law,ley-18413,dl-824,1,main
+1985-08-23,law,ley-18431,codigo-justicia-militar,9,main
+1985-10-03,law,ley-18441,codigo-organico-tribunales,1,main
+1985-10-17,law,ley-18443,ley-17336,3,main
+1985-11-23,law,ley-18470,codigo-organico-tribunales,2,main
+1985-12-28,law,ley-18482,codigo-tributario ley-18045 dl-825 ley-18168,11,main
+1985-12-28,law,ley-18483,dl-825,2,main
+1985-12-28,unexplained,,dl-825,10,main
+1986-01-01,law,ley-18482,dl-3500,1,main
+1986-01-01,unexplained,,ley-18287,5,main
+1986-01-04,law,ley-18489,dl-824,3,main
+1986-01-04,unexplained,,dl-824,1,main
+1986-02-04,law,ley-18498,codigo-sanitario,2,main
+1986-03-01,unexplained,,codigo-organico-tribunales,1,main
+1986-05-14,law,ley-18510,codigo-organico-tribunales,3,main
+1986-10-16,law,ley-18563,ley-18290,1,main
+1986-10-16,law,ley-18490,ley-18290,2,main
+1986-12-05,start,ley-18575,ley-18575,59,main
+1986-12-06,unexplained,,ley-18575,1,main
+1986-12-19,law,ley-18585,codigo-justicia-militar ley-18314,2,main
+1987-01-03,law,ley-18591,ley-18168,1,main
+1987-01-21,law,ley-18592,ley-17798,7,main
+1987-01-29,law,ley-18597,ley-18290 ley-15231,15,main
+1987-01-29,unexplained,,ley-18290,1,main
+1987-02-21,law,dfl-1-1987,ley-18168,32,main
+1987-03-01,unexplained,,codigo-organico-tribunales,1,main
+1987-04-03,start,ley-18603,ley-18603,70,main
+1987-07-23,law,ley-18630,dl-825,15,main
+1987-07-23,unexplained,,dl-825,4,main
+1987-08-17,law,ley-18641,codigo-tributario,3,main
+1987-08-29,law,ley-18646,dl-3500,4,main
+1987-10-01,law,ley-18630,codigo-tributario,1,main
+1987-10-20,law,ley-18660,ley-18046 ley-18045,10,main
+1987-11-27,law,ley-18667,codigo-justicia-militar,4,main
+1987-12-31,law,ley-18681,codigo-tributario codigo-aguas codigo-mineria dl-3500 dl-825 ley-18168,37,main
+1987-12-31,law,ley-18682,codigo-tributario dl-824 dl-825,12,main
+1987-12-31,unexplained,,dl-825,3,main
+1988-01-01,unexplained,,dl-3500,20,main
+1988-03-01,unexplained,,codigo-organico-tribunales,1,main
+1988-04-29,law,ley-18699,codigo-penal,1,main
+1988-05-01,start,ley-18695,ley-18695,96,main
+1988-05-06,start,ley-18700,ley-18700,191,main
+1988-05-07,unexplained,,ley-18700,19,main
+1988-06-21,unexplained,,dl-825,7,main
+1988-06-23,unexplained,,dl-825,2,main
+1988-07-23,law,ley-18705,codigo-organico-tribunales,10,main
+1988-08-13,law,ley-18733,ley-18700,5,main
+1988-10-06,law,ley-18749,codigo-justicia-militar,6,main
+1988-10-17,law,ley-18750,codigo-organico-tribunales,8,main
+1988-10-20,start,,codigo-comercio,1250,main
+1988-10-28,law,ley-18753,dl-3500,1,main
+1988-10-28,unexplained,,dl-3500,2,main
+1988-12-01,law,ley-18754,ley-16744,3,main
+1988-12-09,law,ley-18765,codigo-penal,3,main
+1988-12-29,law,ley-18768,codigo-tributario ley-16744,6,main
+1988-12-29,unexplained,,dl-825,4,main
+1989-01-05,law,rec-do-19890105,ley-17322,1,main
+1989-01-14,law,ley-18775,dl-825,1,main
+1989-01-14,unexplained,,dl-824,1,main
+1989-02-16,law,ley-18783,codigo-organico-tribunales,3,main
+1989-03-01,law,ley-18776,codigo-organico-tribunales,131,main
+1989-03-01,unexplained,,codigo-organico-tribunales,1,main
+1989-04-29,law,ley-18791,ley-4808,1,main
+1989-05-23,law,ley-18798,dl-3500,1,main
+1989-05-23,unexplained,,dl-3500,9,main
+1989-05-24,law,ley-18796,codigo-sanitario,15,main
+1989-05-26,law,ley-18799,ley-18700,5,main
+1989-05-26,law,ley-18809,ley-18700,9,main
+1989-06-09,unexplained,,codigo-comercio,1,main
+1989-06-10,law,ley-18804,codigo-organico-tribunales,2,main
+1989-06-15,law,ley-18808,ley-18700,1,main
+1989-06-15,law,ley-18809,ley-18700,29,main
+1989-07-15,law,ley-18812,ley-17322,1,main
+1989-08-17,law,ley-18825,constitucion,37,main
+1989-08-30,law,ley-18828,ley-18700,12,main
+1989-08-30,unexplained,,ley-18700,1,main
+1989-09-15,law,ley-18826,codigo-sanitario,1,main
+1989-09-23,start,ley-18834,ley-18834,179,main
+1989-09-24,unexplained,,ley-18834,11,main
+1989-09-30,law,ley-18838,ley-18168,7,main
+1989-10-10,law,ley-18840,ley-18010 dl-824,4,main
+1989-10-10,unexplained,,ley-18010,1,main
+1989-10-11,unexplained,,ley-18010,1,main
+1989-10-20,law,ley-18841,dl-825,2,main
+1989-10-30,unexplained,,dl-825,1,main
+1989-11-09,law,ley-18848,codigo-organico-tribunales,1,main
+1989-11-11,law,ley-18849,codigo-organico-tribunales,7,main
+1989-11-29,law,ley-18859,codigo-penal,2,main
+1989-12-06,law,ley-18857,codigo-penal,4,main
+1989-12-10,start,ley-18840,ley-18840,107,main
+1989-12-20,law,ley-18882,codigo-organico-tribunales,6,main
+1989-12-21,law,ley-18876,ley-18045,1,main
+1989-12-30,law,ley-18899,dl-824,1,main
+1989-12-31,law,ley-18899,ley-18101,1,main
+1989-12-31,unexplained,,ley-18101,1,main
+1990-01-06,law,ley-18901,ley-18840,1,main
+1990-01-09,law,ley-18897,dl-824,5,main
+1990-01-24,law,ley-18905,ley-18603,2,main
+1990-02-15,law,ley-18931,ley-18290 ley-15231,9,main
+1990-02-17,law,ley-18930,ley-17997,5,main
+1990-02-21,unexplained,,codigo-sanitario,1,main
+1990-02-22,law,ley-18937,ley-18314,6,main
+1990-02-22,law,ley-18941,codigo-mineria,7,main
+1990-02-24,unexplained,,ley-18097,14,main
+1990-03-01,law,ley-18925,ley-18314,1,main
+1990-03-01,unexplained,,codigo-organico-tribunales,1,main
+1990-03-05,law,ley-18957,ley-17336,6,main
+1990-03-10,law,ley-18646,dl-3500,1,main
+1990-03-10,law,ley-18963,ley-18700,6,main
+1990-03-10,law,ley-18964,dl-3500,15,main
+1990-03-10,law,ley-18969,codigo-organico-tribunales,61,main
+1990-03-10,law,ley-18970,dl-824 ley-18840,4,main
+1990-03-10,law,ley-18974,ley-10336,1,main
+1990-03-10,unexplained,,dl-3500,1,main
+1990-03-11,start,ley-18918,ley-18918,63,main
+1990-04-01,start,ley-18892,ley-18892,139,main
+1990-06-28,law,ley-18985,codigo-tributario dl-824,14,main
+1990-06-28,unexplained,,dl-824,4,main
+1990-08-01,law,ley-18481,dl-3500,1,main
+1990-08-01,unexplained,,dl-3500,35,main
+1990-08-09,start,ley-18916,codigo-aeronautico,207,main
+1990-11-29,law,ley-19009,ley-18892,1,main
+1991-01-12,law,rec-do-19910112,ley-18918,1,main
+1991-01-23,law,ley-19029,codigo-penal codigo-justicia-militar ley-17798,29,main
+1991-01-23,law,ley-19047,codigo-justicia-militar ley-17798,11,main
+1991-01-23,law,ley-18850,codigo-justicia-militar,1,main
+1991-01-23,law,ley-18887,ley-17798,1,main
+1991-01-23,law,ley-18903,ley-17798,1,main
+1991-01-23,law,ley-19015,ley-17798,1,main
+1991-01-24,law,ley-19027,ley-18314,11,main
+1991-01-25,start,ley-19039,ley-19039,81,main
+1991-01-31,law,ley-19043,ley-18892,1,main
+1991-02-02,law,rec-do-19910202,ley-19039,2,main
+1991-02-11,law,ley-19041,codigo-tributario ley-18840,8,main
+1991-02-14,law,ley-18802,ley-16618,1,main
+1991-02-14,law,ley-19047,codigo-penal codigo-comercio codigo-organico-tribunales codigo-aeronautico codigo-justicia-militar ley-18314,76,main
+1991-02-14,unexplained,,codigo-justicia-militar,2,main
+1991-02-14,unexplained,,ley-16618,1,main
+1991-02-14,unexplained,,ley-17798,2,main
+1991-02-15,law,dl-2621-1979,codigo-penal,5,main
+1991-03-01,unexplained,,codigo-organico-tribunales,1,main
+1991-04-01,law,ley-19055,constitucion,4,main
+1991-07-01,start,ley-19070,ley-19070,87,main
+1991-07-11,unexplained,,ley-18168,1,main
+1991-08-01,law,ley-19071,ley-18290,1,main
+1991-08-24,law,ley-19076,ley-18892,1,main
+1991-09-06,law,ley-19079,ley-18892,131,main
+1991-09-06,law,ley-19080,ley-18892,60,main
+1991-09-06,unexplained,,ley-18892,10,main
+1991-09-25,law,ley-19084,codigo-organico-tribunales,2,main
+1991-11-07,law,ley-19091,ley-18168,5,main
+1991-11-12,law,ley-19097,constitucion,24,main
+1991-11-14,law,ley-19094,ley-18918,2,main
+1991-12-30,law,ley-19109,codigo-tributario,1,main
+1992-01-21,law,dto-430-1992-13315,ley-18892,256,main
+1992-01-22,unexplained,,ley-18892,15,main
+1992-02-06,law,ley-19124,codigo-organico-tribunales,5,main
+1992-02-07,law,ley-19126,ley-17798,1,main
+1992-03-01,unexplained,,codigo-organico-tribunales,1,main
+1992-03-20,unexplained,,ley-18695,113,main
+1992-03-22,law,ley-19077,codigo-penal,4,main
+1992-04-08,law,ley-19131,ley-18168,1,main
+1992-04-08,unexplained,,ley-18168,1,main
+1992-05-25,law,ley-19139,codigo-organico-tribunales,1,main
+1992-06-22,law,dfl-1-1992,codigo-justicia-militar,2,main
+1992-06-22,law,ley-19114,codigo-justicia-militar,1,main
+1992-06-25,law,ley-19145,codigo-aguas,2,main
+1992-06-27,unexplained,,ley-18287,32,main
+1992-07-07,law,dfl-2-1992,codigo-organico-tribunales,1,main
+1992-08-03,law,ley-19154,ley-18834,5,main
+1992-08-03,law,ley-19165,ley-18834,2,main
+1992-08-10,law,ley-19156,codigo-organico-tribunales,6,main
+1992-08-13,law,ley-19155,codigo-tributario dl-824,3,main
+1992-08-27,law,dto-662-1992-14962,ley-18695,178,main
+1992-08-28,unexplained,,ley-18695,14,main
+1992-09-01,law,ley-19047,codigo-penal,8,main
+1992-09-02,law,ley-19164,codigo-penal,1,main
+1992-09-03,law,dfl-3-1992,codigo-penal,14,main
+1992-09-17,law,ley-19166,ley-17336,26,main
+1992-09-17,unexplained,,ley-17336,2,main
+1992-09-18,unexplained,,ley-17336,1,main
+1992-10-23,law,ley-19171,ley-18290,2,main
+1992-11-11,start,ley-19175,ley-19175,109,main
+1992-11-30,law,dfl-4-1992,codigo-aguas,1,main
+1993-01-18,law,ley-19200,dl-3500,1,main
+1993-03-01,unexplained,,codigo-organico-tribunales,1,main
+1993-03-21,unexplained,,ley-19175,36,main
+1993-06-01,law,ley-19221,codigo-comercio ley-18046 ley-18045 ley-18168,4,main
+1993-06-15,unexplained,,dl-824,6,main
+1993-07-01,law,ley-19221,codigo-penal,3,main
+1993-08-04,law,ley-19232,codigo-tributario,1,main
+1993-08-13,law,ley-19155,dl-824,1,main
+1993-08-13,law,ley-19247,dl-824,5,main
+1993-08-28,law,ley-19241,codigo-penal,3,main
+1993-08-29,law,ley-19241,ley-18314,1,main
+1993-08-29,unexplained,,ley-18314,1,main
+1993-09-15,law,ley-19247,dl-824,7,main
+1993-09-30,law,ley-19250,ley-17322,1,main
+1993-10-05,start,ley-19253,ley-19253,100,main
+1993-10-09,unexplained,,codigo-mineria,1,main
+1993-11-01,law,ley-19250,codigo-organico-tribunales,1,main
+1993-11-11,unexplained,,ley-17997,1,main
+1993-11-29,law,ley-19269,ley-18834,1,main
+1993-12-04,law,ley-18137,ley-17322,1,main
+1993-12-04,law,ley-18196,ley-17322,1,main
+1993-12-04,law,ley-19260,dl-3500 ley-17322,3,main
+1993-12-06,law,ley-19270,dl-824,3,main
+1993-12-16,law,ley-19280,ley-18695,4,main
+1993-12-17,unexplained,,ley-18695,1,main
+1993-12-24,law,ley-19335,codigo-penal,8,main
+1994-01-01,law,ley-19247,dl-3500,1,main
+1994-01-01,unexplained,,dl-3500,1,main
+1994-01-20,law,ley-19277,ley-18168,22,main
+1994-01-24,start,,codigo-trabajo,501,main
+1994-01-25,unexplained,,codigo-trabajo,15,main
+1994-01-26,unexplained,,codigo-trabajo,1,main
+1994-03-01,unexplained,,codigo-organico-tribunales,1,main
+1994-03-04,law,ley-19295,constitucion,1,main
+1994-03-09,start,ley-19300,ley-19300,103,main
+1994-03-09,law,ley-19297,ley-18918,2,main
+1994-03-10,law,ley-19302,ley-18168,27,main
+1994-03-12,law,ley-19298,codigo-organico-tribunales,13,main
+1994-03-19,law,ley-19301,ley-18045 dl-3500,123,main
+1994-03-19,unexplained,,dl-3500,3,main
+1994-03-19,unexplained,,ley-18045,15,main
+1994-05-25,law,ley-19306,codigo-organico-tribunales,1,main
+1994-08-08,law,ley-19317,codigo-organico-tribunales,1,main
+1994-09-23,law,ley-19335,ley-14908 ley-4808,3,main
+1994-11-12,unexplained,,codigo-justicia-militar,3,main
+1994-11-14,law,ley-19350,dl-3500,2,main
+1994-11-17,law,ley-19347,dl-824,2,main
+1994-11-23,law,ley-19351,ley-18700,1,main
+1994-11-23,law,ley-19237,ley-18700,3,main
+1994-12-03,unexplained,,codigo-sanitario,1,main
+1995-01-26,law,ley-19368,codigo-justicia-militar,2,main
+1995-01-30,law,ley-19366,codigo-aeronautico codigo-justicia-militar,2,main
+1995-02-08,law,ley-19372,ley-19300,1,main
+1995-02-18,law,ley-19374,codigo-trabajo,1,main
+1995-03-01,unexplained,,codigo-organico-tribunales,3,main
+1995-04-13,start,ley-19378,ley-19378,79,main
+1995-05-18,law,ley-19374,codigo-organico-tribunales,18,main
+1995-05-18,law,ley-19389,ley-18045 dl-3500,31,main
+1995-05-18,unexplained,,dl-3500,10,main
+1995-05-30,law,ley-19387,ley-18287,1,main
+1995-05-30,law,ley-19390,codigo-organico-tribunales,68,main
+1995-05-30,unexplained,,dl-824,1,main
+1995-06-21,law,ley-19394,ley-16744,2,main
+1995-07-19,unexplained,,codigo-sanitario,1,main
+1995-08-04,law,ley-19398,dl-824 dl-825,7,main
+1995-08-04,unexplained,,dl-825,2,main
+1995-08-05,unexplained,,dl-824,1,main
+1995-08-21,law,ley-19404,dl-3500,4,main
+1995-08-21,unexplained,,dl-3500,1,main
+1995-08-31,law,ley-19405,ley-19378,3,main
+1995-09-01,law,ley-19398,codigo-tributario,6,main
+1995-09-02,law,ley-19410,ley-19070,1,main
+1995-09-07,law,ley-19409,codigo-penal,1,main
+1995-09-20,law,ley-19411,codigo-organico-tribunales,1,main
+1995-09-20,law,ley-19413,codigo-penal,3,main
+1995-10-09,start,ley-19418,ley-19418,57,main
+1995-10-23,unexplained,,dl-825,2,main
+1995-11-20,law,ley-19423,codigo-penal,3,main
+1995-11-27,law,ley-19425,ley-18695,3,main
+1995-11-27,law,ley-19388,ley-18695,3,main
+1995-12-12,unexplained,,ley-18834,72,main
+1995-12-21,unexplained,,ley-19378,2,main
+1996-01-17,law,ley-19438,ley-18700,2,main
+1996-02-06,unexplained,,ley-15231,1,main
+1996-02-08,law,ley-19447,codigo-trabajo ley-17322,4,main
+1996-02-08,unexplained,,codigo-trabajo,1,main
+1996-02-09,unexplained,,ley-17322,14,main
+1996-02-15,unexplained,,ley-19070,54,main
+1996-02-20,law,ley-19448,constitucion,1,main
+1996-03-01,unexplained,,codigo-organico-tribunales,1,main
+1996-03-08,law,ley-19449,codigo-penal,3,main
+1996-03-18,law,ley-19450,ley-18287,3,main
+1996-03-18,unexplained,,ley-18287,6,main
+1996-04-16,law,ley-19452,ley-18695,8,main
+1996-05-08,law,ley-19454,ley-16744,4,main
+1996-05-08,unexplained,,ley-16744,2,main
+1996-05-09,unexplained,,ley-16744,2,main
+1996-07-09,law,ley-19451,codigo-sanitario,7,main
+1996-07-13,start,,ley-general-bancos,132,main
+1996-07-13,law,ley-19460,dl-824 dl-825,6,main
+1996-07-14,unexplained,,dl-824,1,main
+1996-07-14,unexplained,,ley-general-bancos,105,main
+1996-07-23,unexplained,,ley-17798,10,main
+1996-09-03,law,ley-19469,dl-3500,5,main
+1996-09-16,law,ley-19472,dfl-458,18,main
+1996-09-16,law,ley-18738,dfl-458,2,main
+1996-09-16,law,ley-19057,dfl-458,1,main
+1996-09-16,law,ley-19063,dfl-458,1,main
+1996-09-17,unexplained,,dfl-458,15,main
+1996-10-19,law,ley-19477,ley-4808,33,main
+1996-12-01,unexplained,,ley-19418,25,main
+1996-12-02,law,ley-19486,ley-18834,1,main
+1996-12-02,unexplained,,ley-18834,1,main
+1996-12-03,law,ley-19481,codigo-trabajo,10,main
+1996-12-03,law,ley-19482,codigo-trabajo,1,main
+1996-12-03,law,ley-19484,dl-824,2,main
+1996-12-04,unexplained,,ley-16618,54,main
+1996-12-27,unexplained,,ley-4808,24,main
+1997-01-03,law,dto-210-1997,dl-825,1,main
+1997-01-03,unexplained,,dl-825,1,main
+1997-01-22,law,dfl-1-1997,ley-19070,140,main
+1997-02-03,law,ley-19492,ley-18892,2,main
+1997-02-03,law,ley-19323,ley-18892,1,main
+1997-02-03,law,ley-19364,ley-18892,4,main
+1997-02-03,law,ley-19384,ley-18892,1,main
+1997-02-05,law,ley-19493,ley-18168,3,main
+1997-02-07,law,rec-do-19970207,ley-19070,7,main
+1997-02-07,unexplained,,ley-19070,1,main
+1997-02-10,law,dto-91-1997,ley-18290,3,main
+1997-02-17,law,dto-24-1997,dl-824,1,main
+1997-02-17,unexplained,,dl-824,1,main
+1997-03-01,unexplained,,codigo-organico-tribunales,1,main
+1997-03-08,law,ley-19495,ley-18290 ley-15231,70,main
+1997-03-08,unexplained,,ley-18290,1,main
+1997-03-20,law,dto-58-1997-70040,ley-19418,61,main
+1997-03-22,law,ley-19497,codigo-sanitario,5,main
+1997-04-10,law,rec-do-19970410,ley-19418,3,main
+1997-04-11,law,ley-19499,codigo-comercio ley-18046 ley-3918,22,main
+1997-05-15,law,ley-19501,ley-18287,6,main
+1997-05-17,law,ley-19450,codigo-penal,1,main
+1997-05-17,law,ley-19501,codigo-penal,22,main
+1997-05-17,unexplained,,codigo-penal,122,main
+1997-05-30,law,ley-19502,codigo-trabajo,1,main
+1997-06-06,start,ley-19496,ley-19496,67,main
+1997-07-25,law,ley-19505,codigo-trabajo,1,main
+1997-07-30,law,ley-19506,codigo-tributario ley-18695 ley-18045 dl-824 dl-825,37,main
+1997-07-30,unexplained,,dl-824,1,main
+1997-08-04,law,ley-19398,dl-3500,1,main
+1997-09-16,law,ley-19519,constitucion,19,main
+1997-10-03,law,ley-19520,ley-18892,2,main
+1997-10-23,law,ley-19521,ley-18892,7,main
+1997-10-31,law,ley-19527,ley-18603,3,main
+1997-10-31,unexplained,,ley-18603,13,main
+1997-11-04,law,ley-19528,codigo-comercio ley-18010 ley-general-bancos,54,main
+1997-11-04,unexplained,,ley-general-bancos,1,main
+1997-11-07,law,ley-19531,codigo-organico-tribunales,4,main
+1997-11-10,law,ley-19525,dfl-458,1,main
+1997-11-12,unexplained,,ley-general-bancos,3,main
+1997-11-13,unexplained,,ley-general-bancos,1,main
+1997-11-14,unexplained,,ley-general-bancos,1,main
+1997-11-17,law,rec-do-19970307,ley-19070,1,main
+1997-11-17,law,ley-19526,constitucion,5,main
+1997-11-17,law,ley-19532,dl-825 ley-19070,2,main
+1997-11-18,law,ley-19534,dl-825,1,main
+1997-11-24,law,ley-19535,codigo-organico-tribunales,3,main
+1997-11-27,law,ley-19177,dl-3500,1,main
+1997-12-01,unexplained,,dl-3500,1,main
+1997-12-12,law,ley-19540,ley-18834,1,main
+1997-12-16,start,ley-19537,ley-19537,55,main
+1997-12-16,law,ley-19537,dfl-458,7,main
+1997-12-16,law,ley-19536,codigo-sanitario,2,main
+1997-12-19,law,dfl-3-1997,ley-general-bancos,183,main
+1997-12-19,law,dto-355-1997,dl-825,1,main
+1997-12-19,unexplained,,dl-825,1,main
+1997-12-22,law,ley-19541,constitucion,8,main
+1998-01-05,law,dl-1097-1998,ley-general-bancos,2,main
+1998-01-05,law,rec-do-19980105,ley-general-bancos,9,main
+1998-01-05,unexplained,,ley-general-bancos,1,main
+1998-02-10,law,ley-19552,ley-18290,2,main
+1998-02-11,law,dto-28-1998,dl-824,1,main
+1998-02-18,unexplained,,ley-18290,1,main
+1998-02-21,unexplained,,dl-824,2,main
+1998-03-01,law,aa-s-n-1998,codigo-organico-tribunales,1,main
+1998-03-07,law,rec-s-n-1998-1079310,ley-19537,1,main
+1998-04-16,law,ley-19559,codigo-comercio ley-general-bancos,2,main
+1998-05-16,law,ley-19561,ley-18287,1,main
+1998-07-01,law,ley-19567,codigo-penal codigo-organico-tribunales ley-16618 ley-15231,15,main
+1998-07-25,law,ley-19573,codigo-mineria,5,main
+1998-07-25,unexplained,,codigo-mineria,1,main
+1998-07-29,law,ley-19301,dl-3500,1,main
+1998-07-29,law,ley-19578,codigo-tributario dl-824 dl-825,12,main
+1998-07-29,unexplained,,dl-3500,1,main
+1998-08-11,law,ley-19574,ley-18287,1,main
+1998-08-24,unexplained,,codigo-trabajo,1,main
+1998-10-25,law,ley-19585,ley-16618,1,main
+1998-10-26,law,ley-19585,ley-14908 ley-17344 ley-16618 ley-16271,13,main
+1998-11-09,law,ley-19591,codigo-trabajo,4,main
+1998-11-13,law,ley-19587,ley-19253,3,main
+1998-11-30,law,ley-19592,codigo-organico-tribunales,13,main
+1998-12-02,law,ley-19596,ley-18834,1,main
+1998-12-30,law,dto-438-1998,dl-825,2,main
+1999-01-14,law,ley-19597,constitucion,1,main
+1999-01-18,law,ley-18646,dl-3500,1,main
+1999-01-18,law,ley-19601,ley-18045 dl-3500 dl-824,23,main
+1999-01-18,unexplained,,ley-18045,2,main
+1999-01-25,unexplained,,dl-3500,1,main
+1999-02-02,law,ley-19605,ley-18168,1,main
+1999-02-06,law,dto-79-1999,ley-18290,1,main
+1999-02-06,unexplained,,ley-18290,1,main
+1999-02-12,law,dto-30-1999,dl-824,2,main
+1999-03-01,law,avi-s-n-1999,codigo-organico-tribunales,1,main
+1999-03-25,law,ley-19602,ley-18695,70,main
+1999-03-25,unexplained,,ley-18695,7,main
+1999-04-14,law,ley-19606,dl-825,2,main
+1999-05-14,law,ley-19607,ley-19378,6,main
+1999-05-19,law,ley-18118,dl-211,1,main
+1999-05-19,law,ley-19336,dl-211,1,main
+1999-05-19,law,ley-19610,dl-211,14,main
+1999-05-19,unexplained,,dl-211,2,main
+1999-06-16,law,ley-19611,constitucion,2,main
+1999-07-12,law,ley-19617,codigo-penal,24,main
+1999-08-05,law,ley-19620,ley-16618,2,main
+1999-08-26,law,ley-19623,ley-18045,8,main
+1999-08-28,start,ley-19628,ley-19628,31,main
+1999-08-28,law,ley-19624,ley-18892,2,main
+1999-09-04,law,ley-19630,codigo-trabajo,8,main
+1999-09-11,law,ley-19633,dl-825,5,main
+1999-09-17,law,ley-19617,codigo-penal,5,main
+1999-09-28,law,ley-19631,codigo-trabajo,2,main
+1999-10-02,law,ley-19634,constitucion,1,main
+1999-10-15,start,ley-19640,ley-19640,101,main
+1999-10-20,unexplained,,ley-4808,1,main
+1999-10-22,law,ley-19637,codigo-justicia-militar,1,main
+1999-10-25,law,ley-19642,dl-825,1,main
+1999-10-27,law,ley-19628,codigo-sanitario,1,main
+1999-10-28,law,ley-19641,dl-3500,46,main
+1999-10-28,unexplained,,dl-3500,1,main
+1999-11-04,law,ley-19643,constitucion,1,main
+1999-11-05,law,ley-19643,constitucion,2,main
+1999-11-30,law,ley-19654,ley-18700,21,main
+1999-11-30,unexplained,,ley-18700,35,main
+1999-12-11,law,ley-19645,codigo-penal,18,main
+1999-12-14,law,ley-19653,ley-18046 codigo-organico-tribunales ley-18695 ley-18575 ley-18834 ley-18840 ley-18918 ley-15231,59,main
+1999-12-14,law,ley-18838,ley-18575,1,main
+1999-12-14,unexplained,,ley-18575,10,main
+1999-12-14,unexplained,,ley-18695,16,main
+1999-12-21,law,ley-19655,codigo-justicia-militar,1,main
+1999-12-27,law,ley-19659,codigo-penal ley-19496,5,main
+2000-01-07,law,dto-408-2000-150681,dl-825,1,main
+2000-01-11,law,dfl-2-2000-150973,ley-18695,194,main
+2000-02-02,law,rec-do-20000202,ley-18695,6,main
+2000-02-10,law,ley-19661,codigo-organico-tribunales,1,main
+2000-02-18,unexplained,,dl-824,2,main
+2000-02-19,unexplained,,ley-18290,2,main
+2000-03-09,law,ley-19665,codigo-organico-tribunales ley-15231,155,main
+2000-03-10,law,ley-19666,codigo-trabajo,2,main
+2000-04-15,law,ley-19670,codigo-trabajo,2,main
+2000-04-28,law,ley-19672,constitucion,1,main
+2000-04-29,law,ley-19671,constitucion,1,main
+2000-05-05,law,ley-19678,codigo-organico-tribunales,2,main
+2000-05-25,law,ley-19680,ley-17798,3,main
+2000-05-29,law,ley-19676,ley-18290 ley-18287,10,main
+2000-05-30,start,,codigo-civil,2554,main
+2000-05-30,law,dfl-1-2000,ley-14908 ley-4808 ley-17344 ley-16618 ley-16271,246,main
+2000-06-22,unexplained,,ley-18575,1,main
+2000-07-03,law,ley-19684,codigo-trabajo,1,main
+2000-07-04,law,ley-19683,codigo-justicia-militar,3,main
+2000-07-14,law,rec-do-20000714,codigo-civil,1,main
+2000-08-19,law,ley-19689,ley-18695,2,main
+2000-09-14,unexplained,,codigo-civil,1,main
+2000-09-22,law,ley-19694,codigo-mineria,1,main
+2000-09-25,law,ley-19692,ley-19418,1,main
+2000-09-28,law,ley-19693,ley-14908,2,main
+2000-09-30,law,ley-19698,ley-18695,4,main
+2000-10-25,law,dfl-2-2000,codigo-civil ley-16618,8,main
+2000-12-16,start,ley-19696,codigo-procesal-penal,489,main
+2000-12-20,law,ley-19705,codigo-tributario ley-18046 ley-18045 dl-3500 dl-824 ley-18840 ley-general-bancos,86,main
+2000-12-20,unexplained,,ley-18045,10,main
+2000-12-20,unexplained,,ley-18046,3,main
+2000-12-28,law,ley-19704,ley-18695,1,main
+2001-01-03,unexplained,,dl-825,1,main
+2001-01-05,law,ley-19708,codigo-organico-tribunales,59,main
+2001-01-18,law,ley-19711,ley-16618,5,main
+2001-01-20,law,ley-19710,ley-18290,5,main
+2001-01-25,law,ley-19713,ley-18892,6,main
+2001-01-25,unexplained,,ley-18892,28,main
+2001-01-31,law,ley-19715,ley-19070,5,main
+2001-01-31,unexplained,,ley-19070,1,main
+2001-02-09,law,ley-19712,dfl-458,1,main
+2001-02-09,law,ley-19716,dl-825,1,main
+2001-02-09,unexplained,,ley-18290,2,main
+2001-02-16,law,dto-44-2001,dl-824,2,main
+2001-03-01,unexplained,,codigo-organico-tribunales,1,main
+2001-03-10,law,ley-19718,codigo-organico-tribunales,3,main
+2001-03-30,law,ley-19719,codigo-mineria,2,main
+2001-04-28,law,ley-19725,ley-18290,1,main
+2001-05-05,law,ley-19721,dl-824 ley-16271,2,main
+2001-05-11,law,ley-19724,ley-18168,5,main
+2001-05-11,unexplained,,ley-18168,1,main
+2001-05-14,start,ley-19728,ley-19728,69,main
+2001-06-04,start,ley-19733,ley-19733,52,main
+2001-06-04,law,ley-19733,codigo-penal codigo-organico-tribunales,2,main
+2001-06-04,unexplained,,codigo-organico-tribunales,1,main
+2001-06-05,law,ley-19734,codigo-penal codigo-organico-tribunales codigo-justicia-militar,24,main
+2001-06-19,law,ley-19738,codigo-tributario dl-824 dl-825,35,main
+2001-06-19,unexplained,,dl-824,2,main
+2001-07-06,law,ley-19737,ley-18695,15,main
+2001-07-06,law,ley-19739,codigo-trabajo,1,main
+2001-07-19,law,ley-19745,ley-18700,1,main
+2001-07-24,law,ley-19741,codigo-civil codigo-organico-tribunales ley-14908 ley-4808 ley-16618,26,main
+2001-07-28,law,ley-19747,dl-825,1,main
+2001-07-28,unexplained,,dl-825,1,main
+2001-08-09,law,ley-19746,ley-18840,1,main
+2001-08-10,law,ley-19744,dfl-458,1,main
+2001-08-18,law,ley-19750,ley-18918,1,main
+2001-08-23,law,ley-19748,dfl-458,3,main
+2001-08-25,law,ley-19742,constitucion,2,main
+2001-09-27,law,ley-19755,codigo-comercio,5,main
+2001-09-28,law,ley-19753,dl-824,6,main
+2001-10-05,law,ley-19759,codigo-trabajo,110,main
+2001-10-13,law,ley-19762,codigo-procesal-penal codigo-organico-tribunales ley-19640,7,main
+2001-11-07,law,ley-19768,ley-18045 dl-824,11,main
+2001-11-07,law,ley-19769,ley-18046 ley-18045 ley-general-bancos,26,main
+2001-11-07,unexplained,,dl-824,1,main
+2001-11-08,law,ley-19761,ley-19496,1,main
+2001-11-17,law,dfl-1-2001,ley-18575,81,main
+2001-11-26,law,ley-19773,ley-18290,1,main
+2001-11-30,law,ley-19780,ley-18695,1,main
+2001-12-05,law,ley-19777,ley-15231,2,main
+2001-12-10,law,ley-19778,ley-18695 dfl-458,4,main
+2002-01-04,law,dto-643-2002,dl-825,1,main
+2002-01-30,law,ley-19789,codigo-procesal-penal,10,main
+2002-02-09,law,dto-49-2002,dl-824,2,main
+2002-02-14,law,ley-19785,ley-17322,1,main
+2002-02-16,law,dto-84-2002,ley-18290,2,main
+2002-02-28,law,ley-19795,dl-3500,1,main
+2002-03-01,law,ley-19678,dl-3500,1,main
+2002-03-01,law,ley-19768,dl-3500,13,main
+2002-03-01,unexplained,,codigo-organico-tribunales,1,main
+2002-03-05,law,ley-19794,codigo-organico-tribunales,2,main
+2002-04-12,start,ley-19799,ley-19799,30,main
+2002-04-25,law,ley-19801,dl-824,1,main
+2002-05-03,law,dfl-1-2002,ley-18695,83,main
+2002-05-22,law,ley-19805,codigo-organico-tribunales,3,main
+2002-05-22,unexplained,,codigo-organico-tribunales,1,main
+2002-05-24,law,ley-19804,codigo-penal,1,main
+2002-05-25,law,ley-19800,ley-18892,1,main
+2002-05-31,law,ley-19806,codigo-penal codigo-procesal-penal codigo-tributario codigo-sanitario ley-18046 ley-18045 ley-18834 ley-19733 dl-825 ley-18840 ley-18314 ley-17798 ley-17997 ley-19640 ley-19418 ley-16618 ley-general-bancos dl-211 ley-18892 ley-18168 ley-19070 ley-18287 ley-15231 ley-18603,147,main
+2002-05-31,unexplained,,codigo-tributario,1,main
+2002-05-31,unexplained,,ley-17798,1,main
+2002-06-07,law,ley-19808,ley-19070,1,main
+2002-06-11,law,ley-19810,codigo-organico-tribunales,1,main
+2002-06-13,law,ley-19812,ley-19628 codigo-trabajo,4,main
+2002-06-25,law,ley-19813,ley-19378,1,main
+2002-07-11,law,ley-19815,codigo-procesal-penal,1,main
+2002-07-15,law,ley-19814,ley-18287 ley-15231,4,main
+2002-07-26,law,ley-19817,ley-10336,29,main
+2002-07-26,unexplained,,ley-10336,1,main
+2002-08-07,law,ley-19816,ley-18695 ley-18290 ley-18287 ley-15231,5,main
+2002-08-31,law,ley-19827,dl-825,1,main
+2002-09-01,law,ley-18398,dl-3500,1,main
+2002-09-01,law,ley-18768,dl-3500,1,main
+2002-09-01,unexplained,,dl-3500,29,main
+2002-09-04,law,ley-19823,ley-18700,16,main
+2002-09-30,law,ley-19824,codigo-trabajo,1,main
+2002-10-04,law,ley-19830,codigo-penal,2,main
+2002-10-08,law,ley-19829,codigo-penal,4,main
+2002-11-22,law,ley-19838,ley-19537,3,main
+2002-11-22,law,ley-19839,ley-19537,1,main
+2002-11-23,law,ley-19840,dl-824 dl-825,6,main
+2002-12-14,law,ley-19845,ley-18695,1,main
+2002-12-19,law,ley-19841,ley-18290 ley-18287,4,main
+2002-12-26,law,ley-19849,ley-18892,11,main
+2002-12-27,unexplained,,dl-825,1,main
+2003-01-04,law,ley-19846,codigo-penal ley-18695,2,main
+2003-01-06,unexplained,,constitucion,22,main
+2003-01-08,law,ley-19852,ley-18695,1,main
+2003-01-11,law,ley-19844,codigo-trabajo,1,main
+2003-01-16,law,dfl-1-2003,codigo-trabajo,524,main
+2003-01-16,unexplained,,codigo-trabajo,10,main
+2003-01-31,law,ley-19859,dfl-458,1,main
+2003-01-31,law,ley-19861,codigo-organico-tribunales,1,main
+2003-02-07,law,dto-34-2003,dl-824,2,main
+2003-02-10,law,dto-139-2003,ley-18290,2,main
+2003-02-11,start,ley-19857,ley-19857,20,main
+2003-03-01,unexplained,,codigo-organico-tribunales,1,main
+2003-03-27,unexplained,,codigo-trabajo,7,main
+2003-04-08,law,ley-19864,dfl-458,1,main
+2003-04-11,law,ley-19866,ley-18101,12,main
+2003-05-13,law,ley-19874,codigo-penal,1,main
+2003-05-22,law,ley-19876,constitucion,1,main
+2003-05-28,law,ley-19875,ley-18918,1,main
+2003-05-29,start,ley-19880,ley-19880,73,main
+2003-05-31,law,ley-19878,dfl-458,3,main
+2003-06-20,law,ley-19872,ley-18290,3,main
+2003-06-23,law,ley-19882,ley-18575 ley-18834,19,main
+2003-06-23,unexplained,,ley-18834,3,main
+2003-06-24,law,ley-19879,dl-824,2,main
+2003-07-30,law,ley-19886,ley-18695,1,main
+2003-08-05,law,ley-19884,ley-18695 ley-18700 ley-18603,7,main
+2003-08-06,law,ley-19885,codigo-tributario,1,main
+2003-08-13,law,ley-19888,dl-825,1,main
+2003-08-13,law,ley-19893,ley-19640,1,main
+2003-08-28,law,ley-19895,dl-3500,1,main
+2003-08-30,start,ley-19886,ley-19886,54,main
+2003-09-03,law,ley-19896,ley-18918,1,main
+2003-10-03,law,ley-19904,codigo-civil,12,main
+2003-10-03,law,ley-19908,ley-10336,1,main
+2003-10-09,law,ley-19900,ley-18290,2,main
+2003-10-09,law,ley-19902,ley-18290,2,main
+2003-10-10,law,ley-19903,codigo-civil codigo-tributario codigo-organico-tribunales ley-16271,41,main
+2003-10-10,unexplained,,codigo-organico-tribunales,1,main
+2003-11-01,unexplained,,codigo-trabajo,12,main
+2003-11-04,law,ley-19912,ley-17336,6,main
+2003-11-05,law,ley-19907,ley-18892,1,main
+2003-11-13,law,ley-19906,ley-18314,1,main
+2003-11-14,law,ley-19911,dl-211,48,main
+2003-11-19,law,ley-19914,ley-17336 dl-825,17,main
+2003-12-18,start,ley-19913,ley-19913,38,main
+2003-12-18,law,ley-19913,ley-18840 ley-general-bancos,2,main
+2003-12-18,law,ley-19918,codigo-penal,1,main
+2003-12-20,law,ley-19919,codigo-procesal-penal ley-19640,2,main
+2003-12-20,law,ley-19920,codigo-trabajo ley-18834,3,main
+2003-12-20,law,ley-19921,ley-18834,1,main
+2003-12-23,unexplained,,ley-18892,1,main
+2003-12-31,law,ley-19926,ley-18695,1,main
+2004-01-09,law,ley-19924,dl-825,1,main
+2004-01-14,law,ley-19927,codigo-penal codigo-procesal-penal codigo-organico-tribunales ley-16618,27,main
+2004-01-19,law,ley-19925,ley-18695 ley-18290 ley-18287 ley-15231,14,main
+2004-01-19,unexplained,,ley-18290,1,main
+2004-01-31,law,ley-19928,ley-17336,1,main
+2004-02-03,law,ley-19932,codigo-penal dfl-458,2,main
+2004-02-04,law,dto-69-2004,ley-18290,2,main
+2004-02-09,law,dto-51-2004,dl-824,2,main
+2004-02-12,law,ley-19933,ley-19070,4,main
+2004-02-13,law,ley-19939,ley-18695 dfl-458,22,main
+2004-02-21,law,ley-19934,dl-3500 ley-general-bancos,24,main
+2004-02-24,law,ley-19937,ley-19378,2,main
+2004-03-23,unexplained,,codigo-comercio,1,main
+2004-04-15,law,ley-19942,codigo-procesal-penal,1,main
+2004-05-11,law,ley-19946,codigo-tributario,1,main
+2004-05-17,law,ley-19947,codigo-civil codigo-penal ley-4808 ley-16618,52,main
+2004-05-25,law,ley-19945,codigo-organico-tribunales,1,main
+2004-06-05,law,ley-19950,codigo-penal codigo-procesal-penal,7,main
+2004-06-26,law,ley-19951,ley-18010,2,main
+2004-07-14,law,ley-19955,ley-19496,58,main
+2004-07-17,law,ley-19958,ley-18695,7,main
+2004-08-14,law,ley-19961,ley-19070,3,main
+2004-08-30,start,,codigo-procedimiento-civil,930,main
+2004-08-30,law,ley-19968,codigo-civil ley-14908 ley-16618,32,main
+2004-08-30,unexplained,,codigo-civil,1,main
+2004-08-30,unexplained,,ley-16618,1,main
+2004-09-10,law,ley-19973,codigo-trabajo,1,main
+2004-10-05,law,ley-19975,codigo-penal,3,main
+2004-10-06,law,ley-19970,codigo-procesal-penal,2,main
+2004-10-23,law,ley-19976,codigo-organico-tribunales,1,main
+2004-10-28,law,ley-19978,codigo-trabajo,1,main
+2004-11-06,law,ley-19979,ley-19070,10,main
+2004-11-08,law,ley-19977,ley-18892,2,main
+2004-11-14,unexplained,,dl-211,1,main
+2004-11-18,start,ley-19947,ley-19947,113,main
+2004-11-18,law,ley-19947,codigo-organico-tribunales,2,main
+2004-12-11,law,ley-19984,ley-18892,2,main
+2004-12-18,law,ley-19988,codigo-trabajo,4,main
+2004-12-24,law,ley-19990,codigo-organico-tribunales,5,main
+2004-12-24,law,ley-19991,codigo-organico-tribunales,1,main
+2005-01-01,law,ley-19937,codigo-sanitario,1,main
+2005-02-05,law,ley-20001,codigo-trabajo,5,main
+2005-02-14,law,dto-71-2005,dl-824,2,main
+2005-02-16,start,ley-20000,ley-20000,84,main
+2005-02-16,law,dfl-1-1995,codigo-justicia-militar,0,main
+2005-02-16,law,ley-20000,codigo-organico-tribunales codigo-aeronautico codigo-justicia-militar ley-18695 ley-18575 ley-18840 ley-17997 ley-19640,16,main
+2005-03-01,unexplained,,codigo-organico-tribunales,1,main
+2005-03-04,law,dto-1005-2005,ley-18290,2,main
+2005-03-07,law,dfl-1-2005,dl-211,71,main
+2005-03-11,law,ley-19996,ley-19039,129,main
+2005-03-12,law,dto-1005-2005,ley-18290,1,main
+2005-03-16,law,dfl-29-2005,ley-18834,196,main
+2005-03-18,law,ley-20005,codigo-trabajo ley-18834,13,main
+2005-03-22,law,ley-20006,ley-19070,5,main
+2005-03-22,law,ley-20008,ley-15231,2,main
+2005-04-11,law,ley-20007,dfl-458,1,main
+2005-04-16,start,ley-19983,ley-19983,14,main
+2005-05-02,law,ley-20010,ley-18700,1,main
+2005-05-10,unexplained,,codigo-sanitario,1,main
+2005-05-13,law,ley-20014,codigo-penal ley-17798,25,main
+2005-05-27,law,ley-20016,dfl-458,7,main
+2005-05-30,law,ley-20022,codigo-trabajo,12,main
+2005-05-31,law,ley-20023,codigo-trabajo dl-3500 ley-17322,31,main
+2005-06-16,law,ley-20017,codigo-aguas,62,main
+2005-06-16,law,ley-20026,dl-824,8,main
+2005-06-16,unexplained,,codigo-aguas,1,main
+2005-07-01,law,ley-20033,codigo-tributario ley-18695 ley-18892,16,main
+2005-07-01,unexplained,,ley-15231,1,main
+2005-07-05,law,ley-20030,codigo-civil codigo-organico-tribunales,4,main
+2005-07-05,unexplained,,codigo-civil,1,main
+2005-07-05,unexplained,,codigo-organico-tribunales,1,main
+2005-07-13,law,ley-20029,codigo-sanitario,1,main
+2005-07-25,law,ley-20032,ley-16618,1,main
+2005-08-26,law,ley-20050,constitucion,96,main
+2005-08-30,unexplained,,codigo-civil,1,main
+2005-08-31,law,ley-20048,codigo-penal codigo-justicia-militar,8,main
+2005-09-02,law,ley-20047,codigo-trabajo,1,main
+2005-09-10,law,ley-20061,ley-17798,3,main
+2005-09-22,law,dto-100-2005-242302,constitucion,177,main
+2005-09-23,law,ley-20057,codigo-trabajo,1,main
+2005-09-26,law,ley-20058,codigo-trabajo,2,main
+2005-09-29,law,ley-20064,codigo-justicia-militar,4,main
+2005-09-30,law,ley-20046,ley-18290,3,main
+2005-10-01,start,ley-19968,ley-19968,150,main
+2005-10-01,law,ley-19968,codigo-organico-tribunales,25,main
+2005-10-01,law,ley-20052,codigo-tributario,1,main
+2005-10-07,start,ley-20066,ley-20066,30,main
+2005-10-07,law,ley-20066,codigo-penal ley-19968,7,main
+2005-11-08,law,dfl-1-2005-243771,ley-19175,133,main
+2005-11-14,law,ley-20074,codigo-penal codigo-procesal-penal codigo-organico-tribunales ley-20000 ley-18314 ley-19640,75,main
+2005-11-21,law,ley-20069,codigo-trabajo,1,main
+2005-11-23,law,ley-20072,ley-18290,1,main
+2005-11-24,law,ley-20078,ley-18290,1,main
+2005-11-24,law,ley-20080,codigo-comercio,181,main
+2005-11-24,unexplained,,codigo-comercio,87,main
+2005-11-25,law,ley-20067,ley-16744,1,main
+2005-12-07,law,ley-20084,codigo-penal codigo-justicia-militar ley-19968 ley-19640 ley-16618 ley-18287,31,main
+2005-12-10,law,ley-20058,ley-18290,1,main
+2005-12-10,law,ley-20068,codigo-penal ley-18290,114,main
+2005-12-10,unexplained,,ley-18290,2,main
+2005-12-15,law,ley-20086,codigo-organico-tribunales ley-19968 ley-14908 ley-16618,10,main
+2006-01-01,unexplained,,dl-825,1,main
+2006-01-05,law,ley-20088,codigo-penal ley-18695 ley-18575 ley-19886 ley-18840 ley-17997 ley-19640 ley-18918 dl-211,17,main
+2006-01-10,law,ley-20091,ley-18892,16,main
+2006-01-11,law,ley-20090,codigo-penal codigo-procesal-penal,9,main
+2006-01-18,law,ley-20094,ley-16271,1,main
+2006-01-28,law,ley-20073,codigo-comercio,58,main
+2006-02-10,law,dto-86-2006,dl-824,2,main
+2006-03-01,law,ley-20022,codigo-organico-tribunales,7,main
+2006-03-01,unexplained,,codigo-organico-tribunales,1,main
+2006-04-24,start,,dfl-1-2005-salud,241,main
+2006-04-28,unexplained,,ley-16744,1,main
+2006-04-29,unexplained,,ley-18892,1,main
+2006-05-15,law,ley-20099,codigo-aguas,4,main
+2006-05-17,law,ley-20107,ley-18892,1,main
+2006-06-20,law,ley-20088,codigo-organico-tribunales,1,main
+2006-06-20,law,dfl-3-2006,ley-19039,51,main
+2006-06-20,unexplained,,codigo-organico-tribunales,1,main
+2006-06-20,unexplained,,ley-19039,1,main
+2006-06-24,law,ley-20109,ley-general-bancos,1,main
+2006-07-25,law,rec-do-20060725,ley-19039,3,main
+2006-07-26,law,dfl-1-2006,ley-18695,88,main
+2006-08-24,law,ley-20116,ley-18892,7,main
+2006-08-25,law,ley-20118,codigo-trabajo,1,main
+2006-08-31,law,ley-20119,ley-19913,26,main
+2006-09-08,law,ley-20117,ley-19253,1,main
+2006-10-12,unexplained,,dl-825,1,main
+2006-10-16,law,ley-20123,codigo-trabajo ley-16744,41,main
+2006-10-18,law,ley-20125,codigo-tributario,1,main
+2006-11-17,law,ley-20131,ley-19418,2,main
+2006-12-07,unexplained,,ley-19968,1,main
+2006-12-16,law,ley-20137,codigo-trabajo ley-18834,3,main
+2006-12-29,law,ley-20158,ley-19070,7,main
+2006-12-30,law,ley-20140,codigo-penal,1,main
+2006-12-30,law,ley-20145,codigo-civil,2,main
+2007-01-01,unexplained,,dl-825,1,main
+2007-01-05,law,ley-20157,ley-19378,13,main
+2007-01-09,law,ley-20152,codigo-civil codigo-organico-tribunales ley-19968 ley-14908,14,main
+2007-01-09,law,ley-20154,dl-824,2,main
+2007-01-23,law,ley-20149,ley-18290,2,main
+2007-01-26,law,ley-20160,ley-19039,27,main
+2007-02-12,law,ley-20166,codigo-trabajo,2,main
+2007-02-14,law,ley-20167,codigo-trabajo,2,main
+2007-02-14,law,ley-20168,ley-19537,12,main
+2007-02-15,unexplained,,dl-824,2,main
+2007-02-16,law,ley-20162,constitucion,2,main
+2007-02-16,law,ley-20171,dl-824,6,main
+2007-02-16,unexplained,,dl-824,1,main
+2007-02-21,law,ley-20170,dl-824,6,main
+2007-03-01,unexplained,,codigo-organico-tribunales,1,main
+2007-03-27,law,ley-20173,ley-19300,12,main
+2007-03-29,law,sen-s-n-2007,codigo-tributario,1,main
+2007-04-05,law,ley-20174,codigo-organico-tribunales ley-19968 ley-19640 ley-18892,10,main
+2007-04-05,unexplained,,codigo-organico-tribunales,1,main
+2007-04-11,law,ley-20175,codigo-organico-tribunales ley-19968 ley-19640 ley-18892,11,main
+2007-04-25,law,ley-20178,codigo-trabajo,15,main
+2007-05-02,law,ley-20187,ley-18892,4,main
+2007-05-09,unexplained,,dl-825,1,main
+2007-06-02,law,ley-20191,ley-19968,1,main
+2007-06-05,law,ley-20190,codigo-civil codigo-comercio ley-18046 ley-18045 dl-3500 dl-824 dl-825 ley-general-bancos,77,main
+2007-06-05,unexplained,,codigo-comercio,1,main
+2007-06-05,unexplained,,ley-18045,11,main
+2007-06-05,unexplained,,ley-general-bancos,3,main
+2007-06-08,start,ley-20084,ley-20084,78,main
+2007-06-08,law,ley-20084,codigo-organico-tribunales,6,main
+2007-06-08,law,ley-20183,ley-18700,7,main
+2007-06-08,unexplained,,ley-16618,1,main
+2007-06-12,law,ley-20189,codigo-trabajo,4,main
+2007-06-16,law,ley-20191-261868,ley-20084,2,main
+2007-06-26,law,ley-20192,codigo-procedimiento-civil,4,main
+2007-07-07,law,ley-20194,codigo-trabajo,1,main
+2007-07-12,law,ley-20196,ley-18168,1,main
+2007-07-24,law,ley-20205,ley-18575 ley-18834,5,main
+2007-07-30,law,ley-20193,constitucion,3,main
+2007-07-30,law,ley-20209,dfl-1-2005-salud,4,main
+2007-07-31,law,ley-20210,dl-3500,1,main
+2007-08-31,law,ley-20207,codigo-penal,1,main
+2007-09-05,law,ley-20211,codigo-organico-tribunales,1,main
+2007-09-14,law,ley-20215,codigo-trabajo,2,main
+2007-09-29,law,ley-20218,dfl-458,1,main
+2007-09-29,law,ley-20222,ley-19968,1,main
+2007-09-29,unexplained,,codigo-tributario,1,main
+2007-10-03,law,ley-20219,codigo-trabajo dl-824 ley-19983,5,main
+2007-10-03,unexplained,,dl-824,1,main
+2007-11-12,law,ley-20217,codigo-procedimiento-civil ley-19799,4,main
+2007-11-15,law,ley-20227,codigo-trabajo codigo-procesal-penal,2,main
+2007-12-18,law,ley-20229,dfl-1-2005-salud,1,main
+2007-12-24,law,ley-20237,ley-18695 ley-18287,6,main
+2007-12-27,law,ley-20236,codigo-penal,4,main
+2008-01-09,unexplained,,ley-general-bancos,5,main
+2008-01-10,law,ley-20245,constitucion,1,main
+2008-01-19,law,ley-20238,ley-19886,3,main
+2008-02-01,law,ley-20248,ley-19070,1,main
+2008-02-08,law,ley-20239,dl-824,1,main
+2008-02-09,law,ley-20250,ley-19378,4,main
+2008-02-15,law,ley-20252,codigo-organico-tribunales,14,main
+2008-03-01,unexplained,,codigo-organico-tribunales,2,main
+2008-03-04,law,ley-20251,dfl-458,2,main
+2008-03-14,law,ley-20253,codigo-penal codigo-procesal-penal ley-19640,26,main
+2008-03-17,law,ley-20255,dl-3500 dl-824 dl-825 ley-general-bancos ley-17322,8,main
+2008-03-17,unexplained,,ley-general-bancos,1,main
+2008-03-29,law,ley-20087,codigo-trabajo,4,main
+2008-03-29,law,ley-20252,codigo-trabajo,1,main
+2008-03-29,unexplained,,codigo-trabajo,1,main
+2008-04-12,law,ley-20256,ley-18892,7,main
+2008-04-19,law,ley-20261,dfl-1-2005-salud,1,main
+2008-05-02,law,ley-20263,codigo-tributario dl-824,6,main
+2008-05-09,law,dfl-2-2008,ley-19253,2,main
+2008-05-09,unexplained,,ley-19253,1,main
+2008-05-11,unexplained,,ley-18168,2,main
+2008-06-28,law,ley-20273,codigo-penal,3,main
+2008-07-01,unexplained,,dl-3500,15,main
+2008-07-12,law,ley-20271,codigo-trabajo,3,main
+2008-07-21,law,ley-20281,codigo-trabajo,3,main
+2008-07-30,law,ley-20283,ley-19300,1,main
+2008-08-20,law,ley-20285,ley-19880 ley-18695 ley-18575 ley-18840 ley-10336,7,main
+2008-09-03,law,ley-20288,dfl-1-2005-salud ley-19728 ley-17322,3,main
+2008-09-13,law,ley-20292,ley-18168,4,main
+2008-09-15,law,ley-20286,codigo-civil codigo-organico-tribunales ley-19968 ley-19947 ley-20066,88,main
+2008-09-15,unexplained,,codigo-organico-tribunales,1,main
+2008-09-17,law,ley-20287,codigo-trabajo,3,main
+2008-10-01,unexplained,,dl-3500,127,main
+2008-10-04,law,ley-20295,ley-18700,4,main
+2008-10-23,law,ley-20296,ley-19537 dfl-458,5,main
+2008-10-25,law,ley-20293,ley-18892,8,main
+2008-12-13,law,ley-20304,codigo-aguas,2,main
+2008-12-27,law,ley-20308,codigo-trabajo codigo-sanitario ley-16744,8,main
+2009-01-01,law,ley-20291,dl-824,2,main
+2009-01-01,law,ley-20289,dl-824,1,main
+2009-01-01,unexplained,,dl-3500,1,main
+2009-01-27,unexplained,,codigo-tributario,2,main
+2009-01-28,law,ley-20325,dfl-458,1,main
+2009-01-29,law,ley-20323,ley-19983,4,main
+2009-01-29,law,ley-20455,dl-824,1,main
+2009-01-30,law,ley-20328,ley-19728,49,main
+2009-02-04,law,ley-20334,ley-18695 ley-19175,3,main
+2009-02-05,law,ley-20321,codigo-trabajo,15,main
+2009-02-06,law,dto-190-2009,dl-824,2,main
+2009-02-06,law,ley-20335,ley-18168,4,main
+2009-03-01,law,ley-20317,dfl-1-2005-salud,2,main
+2009-03-01,unexplained,,codigo-organico-tribunales,1,main
+2009-03-01,unexplained,,dl-3500,2,main
+2009-03-01,unexplained,,ley-19728,2,main
+2009-04-03,law,ley-20336,codigo-trabajo,1,main
+2009-04-04,law,ley-20337,constitucion,3,main
+2009-04-20,unexplained,,ley-18575,2,main
+2009-04-21,start,ley-20285,ley-20285,67,main
+2009-04-22,law,ley-20341,codigo-penal,10,main
+2009-04-28,law,ley-20343,ley-18045 dl-824,10,main
+2009-04-28,unexplained,,codigo-tributario,1,main
+2009-05-14,law,ley-20346,constitucion,1,main
+2009-05-28,unexplained,,codigo-sanitario,1,main
+2009-05-30,law,ley-20351,ley-19728,1,main
+2009-05-30,law,ley-20352,constitucion,1,main
+2009-06-06,law,ley-20345,dl-3500,1,main
+2009-06-12,law,ley-20354,constitucion,4,main
+2009-06-19,law,ley-20348,codigo-trabajo ley-18834,3,main
+2009-06-25,law,ley-20355,ley-18695,1,main
+2009-07-01,unexplained,,dl-3500,6,main
+2009-07-13,law,ley-20361,dl-211,3,main
+2009-07-18,law,ley-20357,codigo-justicia-militar ley-19640,5,main
+2009-08-01,law,sen-s-n-2009-1004668,codigo-organico-tribunales,1,main
+2009-08-01,unexplained,,codigo-organico-tribunales,1,main
+2009-08-07,law,ley-20367,codigo-trabajo,1,main
+2009-08-15,law,ley-20174,ley-18700,2,main
+2009-08-25,law,ley-20371,codigo-organico-tribunales ley-19913,2,main
+2009-09-12,start,ley-20370,ley-20370,86,main
+2009-09-17,law,ley-20384,ley-18700,3,main
+2009-09-24,law,ley-20383,ley-16618,1,main
+2009-10-03,law,ley-20380,codigo-penal codigo-sanitario,2,main
+2009-10-11,law,ley-20361,ley-19733,4,main
+2009-10-11,unexplained,,dl-211,17,main
+2009-10-20,law,ley-20382,ley-18046,1,main
+2009-10-24,law,ley-20389,dfl-458,2,main
+2009-10-28,law,ley-20381,ley-17997,127,main
+2009-10-28,law,ley-20390,constitucion,11,main
+2009-10-29,law,dfl-1-2009,ley-18290,256,main
+2009-10-30,law,ley-20087,codigo-trabajo,54,main
+2009-10-30,law,ley-20260,codigo-trabajo,43,main
+2009-10-30,unexplained,,codigo-organico-tribunales,8,main
+2009-10-30,unexplained,,codigo-trabajo,10,main
+2009-11-20,law,ley-20394,dfl-1-2005-salud,4,main
+2009-11-23,law,ley-20396,codigo-trabajo,1,main
+2009-11-23,law,ley-20399,codigo-trabajo,1,main
+2009-11-27,law,ley-20400,ley-general-bancos,1,main
+2009-12-02,start,ley-20393,ley-20393,34,main
+2009-12-02,law,ley-20393,codigo-penal ley-19913,2,main
+2009-12-05,law,ley-20406,codigo-tributario,2,main
+2009-12-19,unexplained,,codigo-trabajo,1,main
+2010-01-01,law,ley-20382,codigo-comercio ley-18046 ley-18045,91,main
+2010-01-01,law,ley-20406,codigo-tributario,1,main
+2010-01-01,unexplained,,codigo-comercio,19,main
+2010-01-01,unexplained,,codigo-tributario,1,main
+2010-01-01,unexplained,,ley-18045,19,main
+2010-01-01,unexplained,,ley-18046,18,main
+2010-01-04,law,ley-20414,constitucion,5,main
+2010-01-07,law,rec-74-2010-1009943,constitucion,2,main
+2010-01-20,law,ley-20410,ley-18695 ley-18290 ley-18287 ley-15231,8,main
+2010-01-26,law,ley-20417,codigo-aguas ley-18695 ley-19300 ley-18892,111,main
+2010-02-03,law,ley-20416,codigo-comercio codigo-trabajo ley-19496,9,main
+2010-02-10,start,ley-20422,ley-20422,91,main
+2010-02-10,law,ley-20422,codigo-trabajo,1,main
+2010-02-10,unexplained,,codigo-trabajo,1,main
+2010-02-13,law,ley-20425,codigo-trabajo,1,main
+2010-02-19,law,ley-20420,codigo-tributario,5,main
+2010-03-18,law,ley-20427,codigo-penal ley-19968 ley-20066,5,main
+2010-04-08,law,ley-20434,ley-18892,42,main
+2010-04-30,law,ley-20431,codigo-tributario,9,main
+2010-04-30,law,ley-20439,ley-18695,1,main
+2010-05-04,law,ley-20433,ley-18168,2,main
+2010-05-04,law,ley-20435,ley-17336,77,main
+2010-05-29,law,ley-20437,ley-18892,17,main
+2010-07-02,law,dfl-2-2010,ley-20370,128,main
+2010-07-03,law,ley-20447,ley-18918,51,main
+2010-07-31,law,ley-20455,dl-824,5,main
+2010-07-31,unexplained,,ley-18892,4,main
+2010-08-09,law,sen-s-n-2010,dfl-1-2005-salud,1,main
+2010-08-10,law,dfl-5-2010,ley-17997,245,main
+2010-08-26,law,ley-20453,ley-18168,3,main
+2010-09-06,law,ley-20345,ley-18045,8,main
+2010-09-08,law,ley-20461,ley-19733,1,main
+2010-10-01,law,ley-20448,codigo-trabajo ley-18045 dl-3500 dl-824 ley-general-bancos,27,main
+2010-10-01,unexplained,,ley-18045,1,main
+2010-10-08,law,ley-20467,ley-18314 ley-19640,9,main
+2010-10-12,law,ley-20464,ley-18918,2,main
+2010-10-21,law,ley-20469,dl-824,2,main
+2010-10-25,law,ley-20463,ley-19628,1,main
+2010-11-23,law,ley-20443,dfl-458,1,main
+2010-12-10,law,ley-20471,ley-18168,1,main
+2010-12-18,law,ley-20451,ley-18892,4,main
+2010-12-18,law,ley-20480,codigo-penal ley-19968 ley-20066,13,main
+2010-12-18,law,ley-20485,ley-18892,2,main
+2010-12-30,law,ley-20477,codigo-organico-tribunales codigo-aeronautico codigo-justicia-militar ley-17798,9,main
+2010-12-30,law,ley-20483,ley-20370,1,main
+2011-01-01,law,ley-20382,codigo-comercio,1,main
+2011-01-01,law,ley-20455,dl-3500,2,main
+2011-01-04,law,ley-20482,codigo-trabajo,1,main
+2011-01-08,law,ley-20484,ley-18290 ley-18287,2,main
+2011-01-09,law,ley-20478,ley-18168,10,main
+2011-01-15,law,rec-145-2011-1022053,ley-17997,1,main
+2011-01-27,law,ley-20494,codigo-tributario dl-825,3,main
+2011-02-08,law,ley-20499,ley-18695,2,main
+2011-02-11,law,res-2-2011-1022944,ley-17997,3,main
+2011-02-12,law,dto-234-exento-2011-1022965,dl-824,2,main
+2011-02-16,start,ley-20500,ley-20500,47,main
+2011-02-16,law,ley-20500,ley-18695 ley-18575 ley-19418,29,main
+2011-02-21,law,ley-20502,ley-20000,6,main
+2011-02-26,law,ley-20501,ley-20370 ley-19070,2,main
+2011-03-01,law,ley-20279,codigo-trabajo,1,main
+2011-03-01,unexplained,,codigo-organico-tribunales,1,main
+2011-03-28,unexplained,,codigo-tributario,1,main
+2011-04-08,law,ley-20507,codigo-penal codigo-procesal-penal ley-19913,15,main
+2011-04-18,law,ley-20508,ley-18290,2,main
+2011-04-27,law,ley-20503,constitucion,1,main
+2011-04-28,law,ley-20510,codigo-trabajo,1,main
+2011-05-01,law,ley-20501,ley-19070,41,main
+2011-05-10,law,ley-20509,ley-18892,9,main
+2011-05-27,law,dto-1666-2011-1025817,ley-20422,1,main
+2011-06-18,law,ley-20470,codigo-sanitario,4,main
+2011-06-21,law,ley-20519,ley-18314,1,main
+2011-06-23,law,ley-20513,ley-18290,2,main
+2011-07-04,law,ley-20515,constitucion,7,main
+2011-07-06,law,ley-20522,ley-18168,2,main
+2011-07-09,law,rec-167-2011-1027574,ley-18290,1,main
+2011-07-11,law,ley-20516,constitucion,2,main
+2011-07-23,law,ley-20521,ley-19628,1,main
+2011-08-06,law,ley-20525,ley-18892,4,main
+2011-08-13,law,ley-20526,codigo-penal ley-20084,2,main
+2011-08-13,unexplained,,codigo-procesal-penal,1,main
+2011-08-27,start,ley-20529,ley-20529,136,main
+2011-08-31,law,ley-20528,ley-18892,14,main
+2011-08-31,unexplained,,dl-3500,1,main
+2011-09-06,law,ley-20527,ley-18695,20,main
+2011-09-06,unexplained,,ley-18695,1,main
+2011-09-13,law,ley-20533,codigo-sanitario,1,main
+2011-09-17,law,ley-20536,ley-20370,8,main
+2011-10-03,law,ley-20535,codigo-trabajo,1,main
+2011-10-03,law,ley-20537,ley-19175,2,main
+2011-10-06,law,ley-20539,codigo-trabajo,1,main
+2011-10-06,law,ley-20540,codigo-trabajo,1,main
+2011-10-13,law,ley-20530,ley-19728,1,main
+2011-10-17,law,ley-20542,ley-18700 ley-18603,3,main
+2011-10-17,law,ley-20545,codigo-trabajo dfl-1-2005-salud ley-16744,8,main
+2011-10-21,law,ley-20543,ley-19496,3,main
+2011-11-02,law,ley-20549,ley-19913 dl-825,2,main
+2011-11-11,law,ley-20546,ley-18168,1,main
+2011-12-17,law,ley-20552,dl-3500 ley-19728,2,main
+2012-01-01,law,ley-20255,dl-3500,17,main
+2012-01-01,law,dto-1625-2012-1038754,ley-20422,1,main
+2012-01-01,unexplained,,dl-824,1,main
+2012-01-03,law,ley-20560,ley-18892,11,main
+2012-01-23,law,ley-20554,ley-18695 ley-15231,3,main
+2012-01-31,law,ley-20568,ley-18695 ley-18700 ley-19175 ley-18603,108,main
+2012-02-01,law,ley-20552,ley-18045 dl-824,2,main
+2012-02-01,unexplained,,ley-18046,1,main
+2012-02-06,law,ley-20569,ley-19039,14,main
+2012-02-08,law,dto-228-exento-2012-1037067,dl-824,2,main
+2012-02-08,law,ley-20577,codigo-civil ley-4808,7,main
+2012-02-09,law,ley-20526,codigo-procesal-penal,1,main
+2012-02-17,law,ley-20500,codigo-civil ley-19418,23,main
+2012-02-17,law,ley-20575,ley-19628 dfl-1-2005-salud,2,main
+2012-03-04,law,ley-20555,ley-19496,38,main
+2012-03-06,law,ley-20563,dfl-458,1,main
+2012-03-06,law,ley-20573,constitucion,1,main
+2012-03-07,law,ley-20579,ley-19537,1,main
+2012-03-15,law,ley-20580,ley-18290,13,main
+2012-04-02,law,ley-20583,ley-18892,15,main
+2012-05-04,law,ley-20582,dfl-458,1,main
+2012-05-11,law,ley-20585,codigo-penal codigo-procesal-penal,3,main
+2012-05-17,law,ley-20595,ley-19728,1,main
+2012-06-02,law,ley-20592,codigo-procesal-penal,3,main
+2012-06-08,law,ley-20587,codigo-penal,7,main
+2012-06-11,law,ley-20599,dfl-458 ley-18168,12,main
+2012-06-19,law,ley-20594,codigo-penal,3,main
+2012-06-28,start,ley-20600,ley-20600,59,main
+2012-07-01,law,ley-20255,dl-3500,5,main
+2012-07-01,law,ley-20552,dl-3500 dl-824 ley-19728,19,main
+2012-07-04,law,ley-20596,codigo-penal,6,main
+2012-07-11,law,ley-20604,ley-18290,4,main
+2012-07-14,law,ley-20601,codigo-penal,1,main
+2012-07-24,start,ley-20609,ley-20609,22,main
+2012-07-24,law,ley-20609,codigo-penal ley-18834,3,main
+2012-08-03,law,ley-20597,ley-18892,21,main
+2012-08-08,law,ley-20607,codigo-trabajo ley-18834,4,main
+2012-08-08,law,ley-20611,codigo-trabajo,2,main
+2012-08-08,law,ley-20613,codigo-trabajo,1,main
+2012-09-25,law,ley-20602,ley-20422,1,main
+2012-09-27,law,ley-20630,dl-824,4,main
+2012-09-27,unexplained,,codigo-tributario,1,main
+2012-09-28,law,ley-20628,codigo-organico-tribunales,1,main
+2012-09-28,unexplained,,codigo-organico-tribunales,1,main
+2012-09-29,law,ley-20625,ley-18892,19,main
+2012-10-01,start,ley-20584,ley-20584,44,main
+2012-10-01,law,ley-20584,ley-4808,2,main
+2012-10-12,law,ley-20632,ley-18892,2,main
+2012-10-29,law,ley-20626,ley-18290,1,main
+2012-11-17,law,ley-20635,dfl-1-2005-salud,3,main
+2012-12-06,law,ley-20640,ley-18700,1,main
+2012-12-11,law,ley-20639,codigo-penal,3,main
+2012-12-11,law,ley-20642,ley-20529,1,main
+2012-12-15,law,ley-20644,constitucion,1,main
+2012-12-29,law,ley-20643,ley-18168,3,main
+2013-01-01,law,ley-20630,dl-824 dl-825,37,main
+2013-01-01,law,ley-20657,ley-18892,168,main
+2013-01-01,law,ley-20727,dl-824,3,main
+2013-01-01,unexplained,,ley-20422,1,main
+2013-02-01,law,ley-20322,codigo-tributario codigo-organico-tribunales,54,main
+2013-02-02,law,ley-20653,codigo-penal,1,main
+2013-03-01,unexplained,,codigo-organico-tribunales,1,main
+2013-03-02,law,dto-65-exento-2013-1049186,dl-824,2,main
+2013-04-25,law,ley-20668,ley-20370,1,main
+2013-04-27,law,ley-20669,ley-18695 ley-18700,34,main
+2013-05-02,start,ley-20659,ley-20659,29,main
+2013-06-08,law,ley-20671,dfl-458,1,main
+2013-06-19,law,ley-20678,ley-19175,26,main
+2013-06-19,unexplained,,ley-19175,1,main
+2013-06-21,law,ley-20680,codigo-civil ley-19947 ley-16618,13,main
+2013-06-27,law,ley-20682,ley-18700,3,main
+2013-07-01,law,ley-20679,ley-general-bancos,1,main
+2013-08-20,law,ley-20685,codigo-penal,2,main
+2013-08-23,law,ley-20684,codigo-trabajo,2,main
+2013-10-15,law,ley-20702,ley-18834,1,main
+2013-11-05,law,ley-20703,ley-18695 ley-19537 dfl-458,14,main
+2013-11-12,law,ley-20697,codigo-aguas,3,main
+2013-12-01,law,ley-20667,codigo-penal codigo-comercio,104,main
+2013-12-11,law,ley-20710,constitucion,2,main
+2013-12-13,law,ley-20715,codigo-tributario ley-19496 ley-18010,17,main
+2013-12-14,law,ley-20717,dfl-1-2005-salud,1,main
+2013-12-23,law,ley-20709,ley-19733,2,main
+2013-12-27,law,ley-20587,ley-20000,1,main
+2013-12-27,law,ley-20603,codigo-penal codigo-procesal-penal ley-20000,9,main
+2014-01-01,law,dto-1845-2014-1059697,ley-20422,1,main
+2014-01-01,unexplained,,dl-824,3,main
+2014-01-02,law,ley-20718,ley-19418,1,main
+2014-01-31,law,ley-20727,codigo-tributario dl-825,5,main
+2014-02-14,law,ley-20724,codigo-sanitario dfl-1-2005-salud,38,main
+2014-02-15,law,ley-20725,constitucion,2,main
+2014-02-20,law,ley-20727,dl-824,3,main
+2014-02-20,law,dto-24-exento-2014-1059576,dl-824,2,main
+2014-03-04,law,ley-20729,codigo-trabajo,1,main
+2014-03-05,law,ley-20732,codigo-tributario,2,main
+2014-03-08,start,ley-20730,ley-20730,31,main
+2014-03-08,law,ley-20730,codigo-penal,3,main
+2014-03-25,law,ley-20733,ley-19253,3,main
+2014-04-01,law,ley-20741,ley-18695 ley-19537 dfl-458,25,main
+2014-04-01,law,ley-20742,ley-18695 ley-19418,22,main
+2014-05-01,start,ley-20712,ley-20712,122,main
+2014-05-01,law,ley-20712,ley-18045 ley-19913 dl-824,35,main
+2014-05-03,law,ley-20748,constitucion,1,main
+2014-05-14,law,ley-20749,ley-20600,1,main
+2014-05-28,law,ley-20752,codigo-tributario codigo-organico-tribunales,7,main
+2014-05-28,unexplained,,codigo-organico-tribunales,1,main
+2014-05-29,law,ley-20750,ley-17336,1,main
+2014-05-29,law,ley-18838,ley-18168,2,main
+2014-06-09,law,ley-20756,ley-19496,1,main
+2014-06-14,law,ley-20715,ley-18010,1,main
+2014-06-14,law,ley-20757,codigo-procesal-penal ley-19175,8,main
+2014-07-09,law,ley-20760,codigo-trabajo,2,main
+2014-07-18,law,ley-20764,codigo-trabajo,3,main
+2014-07-22,law,ley-20761,codigo-trabajo,2,main
+2014-07-30,law,ley-20727,dl-825,1,main
+2014-08-09,unexplained,,ley-18168,5,main
+2014-08-12,law,ley-20767,codigo-trabajo,2,main
+2014-09-01,law,ley-20766,ley-10336,4,main
+2014-09-04,law,ley-20774,codigo-comercio codigo-trabajo codigo-procedimiento-civil codigo-aguas codigo-organico-tribunales,14,main
+2014-09-04,unexplained,,codigo-tributario,1,main
+2014-09-05,law,ley-20772,dfl-458,2,main
+2014-09-16,law,ley-20770,ley-18290,8,main
+2014-09-17,law,ley-20773,codigo-trabajo ley-16744,6,main
+2014-09-17,law,ley-20779,codigo-penal,1,main
+2014-09-17,unexplained,,codigo-penal,1,main
+2014-09-20,law,ley-20769,codigo-trabajo,1,main
+2014-10-01,law,ley-20780,codigo-trabajo dl-824 dl-825,17,main
+2014-10-01,unexplained,,dl-824,1,main
+2014-10-10,start,ley-20720,ley-20720,418,main
+2014-10-10,law,ley-20720,codigo-civil codigo-penal codigo-comercio codigo-trabajo codigo-procedimiento-civil codigo-tributario ley-18046 ley-19496 codigo-organico-tribunales codigo-mineria ley-18045 dfl-1-2005-salud dl-3500 dl-825 ley-19886 ley-19799 ley-10336 ley-19857 ley-16271 ley-general-bancos ley-18892 ley-19175 ley-19728,320,main
+2014-10-10,unexplained,,ley-18045,1,main
+2014-10-10,unexplained,,ley-18046,1,main
+2014-10-29,law,ley-20791,ley-18695 dfl-458 ley-19175,18,main
+2014-10-30,law,ley-20787,codigo-trabajo ley-19886,2,main
+2014-11-01,law,ley-20727,dl-825,1,main
+2014-11-06,law,ley-20789,ley-18840 ley-general-bancos,4,main
+2014-12-05,law,ley-20795,ley-18290 ley-18287,2,main
+2014-12-26,law,ley-20800,ley-20529,3,main
+2015-01-01,law,ley-18719,dl-825,1,main
+2015-01-01,law,ley-20780,codigo-tributario dl-824,22,main
+2015-01-01,law,ley-20786,codigo-trabajo,6,main
+2015-01-01,law,dto-2211-2015-1076065,ley-20422,1,main
+2015-01-01,unexplained,,dl-824,1,main
+2015-01-01,unexplained,,dl-825,1,main
+2015-01-28,law,ley-20808,ley-19537 ley-18168,5,main
+2015-02-06,law,ley-20813,codigo-penal codigo-procesal-penal ley-19968 ley-17798,37,main
+2015-02-14,law,dto-32-exento-2015-1074764,dl-824,2,main
+2015-02-18,law,ley-20818,ley-19913 ley-general-bancos,20,main
+2015-03-01,law,ley-20817,ley-19175,3,main
+2015-03-20,law,aa-s-n-2015,codigo-organico-tribunales,1,main
+2015-04-07,law,ley-20823,codigo-trabajo,2,main
+2015-04-07,law,ley-20825,ley-18892,1,main
+2015-04-18,law,ley-20821,codigo-trabajo,3,main
+2015-04-18,law,ley-20828,codigo-trabajo,1,main
+2015-04-18,unexplained,,codigo-trabajo,1,main
+2015-04-26,law,ley-20829,ley-19728,5,main
+2015-05-05,law,ley-20835,ley-20529 ley-20370,3,main
+2015-05-05,law,ley-20840,ley-18700 ley-18603,19,main
+2015-05-28,law,ley-20837,ley-18892,20,main
+2015-05-30,law,ley-20831,codigo-aeronautico,11,main
+2015-06-10,law,ley-20844,codigo-penal,3,main
+2015-06-18,law,ley-20843,ley-20370,3,main
+2015-07-21,law,ley-20854,constitucion,1,main
+2015-08-01,law,ley-20829,ley-19728,5,main
+2015-08-20,law,ley-20861,ley-19640,19,main
+2015-09-30,unexplained,,codigo-tributario,35,main
+2015-10-20,law,ley-20860,constitucion,3,main
+2015-10-21,law,ley-20830,codigo-penal,7,main
+2015-10-22,law,ley-20830,codigo-civil codigo-trabajo codigo-procedimiento-civil codigo-procesal-penal codigo-sanitario codigo-organico-tribunales ley-20000 ley-16744 ley-18834 dl-3500 ley-19947 ley-18314 ley-16271,40,main
+2015-11-02,law,ley-20873,ley-18695,1,main
+2015-11-06,law,ley-20876,codigo-trabajo codigo-organico-tribunales,12,main
+2015-11-16,law,ley-20870,constitucion,2,main
+2015-11-21,law,ley-20786,codigo-trabajo,2,main
+2015-11-25,law,ley-20879,ley-18290,3,main
+2015-11-30,law,ley-20877,ley-18290,4,main
+2015-12-02,law,ley-20883,ley-19886,1,main
+2015-12-04,law,ley-20850,codigo-sanitario dfl-1-2005-salud ley-20584,25,main
+2015-12-19,law,ley-20884,dfl-458,1,main
+2016-01-01,law,ley-20255,dl-824,1,main
+2016-01-01,law,ley-20780,dl-824,6,main
+2016-01-01,law,ley-20845,ley-20529,5,main
+2016-01-01,law,ley-20883,ley-18834 ley-19378,2,main
+2016-01-01,law,ley-20899,codigo-trabajo dl-824 dl-825,18,main
+2016-01-01,law,dto-1966-2016-1087903,ley-20422,1,main
+2016-01-01,law,ley-20956,dl-824,1,main
+2016-01-01,unexplained,,dfl-1-2005-salud,1,main
+2016-01-01,unexplained,,dl-825,3,main
+2016-01-05,law,ley-20880,codigo-tributario ley-18575 ley-20285 ley-18840 ley-17997 ley-19640 ley-18918 dl-211 ley-20600,24,main
+2016-01-21,unexplained,,dl-825,1,main
+2016-01-22,law,ley-20891,dfl-1-2005-salud ley-18834 ley-19070 ley-19378,5,main
+2016-01-23,law,ley-20855,ley-19496,1,main
+2016-01-26,law,ley-20894,dfl-1-2005-salud dl-3500 ley-17322,8,main
+2016-01-26,law,ley-20895,codigo-sanitario,1,main
+2016-02-04,law,ley-20875,codigo-organico-tribunales,3,main
+2016-02-08,law,ley-20899,codigo-tributario,14,main
+2016-03-01,law,ley-20845,ley-20529 ley-20370,14,main
+2016-03-01,law,ley-20899,dl-825,2,main
+2016-03-01,unexplained,,codigo-organico-tribunales,1,main
+2016-03-16,law,ley-20904,ley-18290,3,main
+2016-04-01,law,ley-20903,codigo-trabajo ley-19070,114,main
+2016-04-01,unexplained,,ley-19070,6,main
+2016-04-02,law,ley-20913,ley-18695 ley-19175,2,main
+2016-04-05,law,ley-20914,ley-18695,2,main
+2016-04-14,law,ley-20900,ley-18700 ley-18603,44,main
+2016-04-14,law,ley-20907,codigo-trabajo,1,main
+2016-04-14,unexplained,,ley-18700,1,main
+2016-04-15,law,ley-20915,ley-18603,58,main
+2016-04-20,law,ley-20908,ley-18290,1,main
+2016-04-27,law,ley-20917,dfl-458,1,main
+2016-05-01,law,ley-20832,codigo-trabajo,5,main
+2016-05-25,law,ley-20922,ley-18695,9,main
+2016-05-30,law,ley-20918,codigo-trabajo,4,main
+2016-06-01,law,ley-20820,ley-20066,1,main
+2016-06-01,law,ley-20920,ley-19300 dfl-458,4,main
+2016-06-17,law,ley-20925,ley-18892,1,main
+2016-06-19,law,ley-20886,codigo-procedimiento-civil,44,main
+2016-06-28,law,ley-20927,ley-20422,1,main
+2016-07-05,law,ley-20931,codigo-penal codigo-procesal-penal codigo-justicia-militar ley-20393 ley-18290 ley-19640 ley-18287,44,main
+2016-07-27,law,ley-20938,ley-18700,1,main
+2016-08-01,law,ley-20899,codigo-tributario,1,main
+2016-08-01,unexplained,,ley-18695,1,main
+2016-08-10,law,ley-20939,ley-18695,2,main
+2016-08-19,law,ley-20943,dfl-458,3,main
+2016-08-30,law,ley-20711,codigo-procedimiento-civil codigo-organico-tribunales dfl-1-2005-salud,6,main
+2016-08-30,law,ley-20945,ley-19496 codigo-organico-tribunales dl-211,24,main
+2016-08-30,unexplained,,codigo-organico-tribunales,1,main
+2016-09-03,start,ley-20880,ley-20880,65,main
+2016-09-03,law,ley-20880,codigo-organico-tribunales,2,main
+2016-10-15,law,ley-20958,ley-18695 dfl-458 ley-19175,43,main
+2016-10-15,unexplained,,ley-19175,1,main
+2016-10-18,law,ley-20960,ley-18700,37,main
+2016-10-26,law,ley-20956,ley-18840 dfl-458,3,main
+2016-10-29,law,ley-20950,ley-19913 ley-general-bancos,4,main
+2016-10-29,law,ley-20957,codigo-organico-tribunales,2,main
+2016-10-29,law,ley-20959,ley-17336,1,main
+2016-10-29,unexplained,,ley-18046,1,main
+2016-11-01,law,ley-20956,dl-824 dl-825 ley-19983,8,main
+2016-11-02,law,ley-20960,ley-18700,1,main
+2016-11-04,law,ley-20965,ley-18695,18,main
+2016-11-07,law,ley-20876,codigo-trabajo codigo-organico-tribunales ley-19968,5,main
+2016-11-11,law,ley-21088,ley-18290,2,main
+2016-11-22,law,ley-20968,codigo-penal,10,main
+2016-11-22,law,ley-20971,ley-19070,1,main
+2016-11-29,law,ley-20972,dfl-1-2005-salud,2,main
+2016-12-01,law,ley-20971,ley-19070,1,main
+2016-12-03,law,ley-20974,codigo-trabajo,3,main
+2016-12-06,unexplained,,ley-18695,1,main
+2016-12-17,law,ley-20979,ley-18918,1,main
+2016-12-19,law,ley-20886,codigo-organico-tribunales,12,main
+2017-01-01,law,ley-20780,dl-824,32,main
+2017-01-01,law,ley-20899,ley-20712,3,main
+2017-01-01,law,ley-20971,dl-211,1,main
+2017-01-01,unexplained,,dl-824,1,main
+2017-01-05,law,ley-20990,constitucion,15,main
+2017-02-01,law,ley-20956,dl-824,4,main
+2017-02-04,law,dto-1846-2017-1099861,ley-20422,1,main
+2017-02-15,law,ley-20967,ley-19496 ley-18290,4,main
+2017-02-26,unexplained,,dl-211,1,main
+2017-03-01,law,aa-s-n-2017,codigo-organico-tribunales,1,main
+2017-03-13,law,ley-20997,codigo-tributario dl-825 ley-20422,5,main
+2017-03-17,law,ley-20904,ley-18290,1,main
+2017-03-29,law,ley-21004,codigo-procesal-penal,7,main
+2017-04-01,law,ley-20940,codigo-trabajo ley-19886,157,main
+2017-04-04,law,ley-21006,ley-19070,4,main
+2017-04-28,law,ley-21009,codigo-trabajo,1,main
+2017-05-04,law,ley-21011,constitucion,1,main
+2017-05-26,law,ley-21014,dfl-458,1,main
+2017-06-01,unexplained,,dl-211,23,main
+2017-06-06,law,ley-21013,codigo-penal ley-20066,13,main
+2017-06-09,law,ley-21012,codigo-trabajo,1,main
+2017-06-20,law,ley-21015,codigo-trabajo,1,main
+2017-06-20,law,ley-21018,codigo-trabajo,1,main
+2017-07-07,law,ley-21017,codigo-trabajo codigo-organico-tribunales,4,main
+2017-07-31,law,ley-20903,ley-19070,1,main
+2017-08-01,law,ley-21023,dl-3500,1,main
+2017-08-02,law,ley-21020,codigo-penal,5,main
+2017-09-06,law,dfl-2-2017,ley-18700,281,main
+2017-09-06,law,dfl-4-2017,ley-18603,101,main
+2017-09-16,law,ley-21035,ley-18168,1,main
+2017-09-18,law,ley-20949,codigo-trabajo,2,main
+2017-09-23,law,ley-21030,codigo-penal codigo-sanitario,5,main
+2017-11-01,law,ley-20956,dl-3500 ley-19728,10,main
+2017-11-01,law,ley-21039,codigo-tributario,35,main
+2017-11-03,law,ley-21045,ley-17336 dl-825 ley-19253 dfl-458,12,main
+2017-11-08,law,ley-21042,codigo-trabajo,1,main
+2017-11-24,start,ley-21040,ley-21040,143,main
+2017-11-24,law,ley-21040,ley-20529 ley-19070,5,main
+2017-11-25,law,ley-21046,ley-18168,3,main
+2017-11-30,law,ley-21049,ley-20370,3,main
+2017-12-01,law,ley-21047,codigo-tributario dl-824,7,main
+2017-12-06,law,res-5-2017-1112061,ley-18700,2,main
+2017-12-07,law,ley-21050,ley-18834,1,main
+2017-12-30,law,ley-21063,codigo-trabajo,1,main
+2018-01-01,law,ley-20922,ley-18695,1,main
+2018-01-01,law,dto-1741-2018-1115348,ley-20422,1,main
+2018-01-02,law,ley-21056,ley-19886,1,main
+2018-01-08,law,ley-21062,ley-19496,1,main
+2018-01-27,law,ley-21064,codigo-penal codigo-procesal-penal codigo-aguas,48,main
+2018-02-08,law,dto-35-exento-2018-1114775,dl-824,2,main
+2018-02-09,law,aa-21-2018,codigo-organico-tribunales,1,main
+2018-02-15,law,ley-21074,codigo-procesal-penal ley-18695 ley-18575 dfl-458 ley-19175,82,main
+2018-02-15,unexplained,,ley-19175,1,main
+2018-03-01,law,ley-21073,codigo-procedimiento-civil codigo-procesal-penal codigo-organico-tribunales ley-18695 ley-18700 ley-20730 ley-19175 ley-20880 ley-18603,80,main
+2018-03-01,unexplained,,ley-19175,1,main
+2018-03-20,law,ley-21080,ley-18834 ley-16618,2,main
+2018-04-01,law,ley-21005,ley-19886,1,main
+2018-04-01,law,ley-21015,ley-18834 ley-20422,4,main
+2018-04-01,unexplained,,codigo-trabajo,6,main
+2018-05-01,unexplained,,dl-3500,2,main
+2018-05-23,law,ley-21089,ley-20422,1,main
+2018-05-23,law,ley-21092,ley-20370,1,main
+2018-05-23,law,ley-21093,ley-19070 ley-21040,4,main
+2018-05-26,law,ley-21000,ley-19880,1,main
+2018-05-29,start,ley-21091,ley-21091,174,main
+2018-05-29,law,ley-21091,ley-20370,7,main
+2018-06-04,law,ley-21083,ley-18290 ley-18287,18,main
+2018-06-04,law,ley-21088,ley-18290,2,main
+2018-06-05,law,ley-21094,ley-18834,1,main
+2018-06-16,law,ley-21096,constitucion,1,main
+2018-07-08,law,ley-21017,codigo-trabajo codigo-organico-tribunales,6,main
+2018-08-04,law,ley-21103,ley-18290,1,main
+2018-08-16,law,ley-21078,dfl-458,24,main
+2018-09-06,law,ley-21033,codigo-trabajo codigo-organico-tribunales ley-19968 ley-18700 ley-18892 ley-20600,11,main
+2018-09-06,unexplained,,codigo-organico-tribunales,1,main
+2018-09-20,law,ley-21110,codigo-organico-tribunales,4,main
+2018-10-04,law,ley-21114,ley-18290,1,main
+2018-11-02,law,ley-21039,codigo-tributario,2,main
+2018-11-06,law,ley-21119,ley-18168,2,main
+2018-11-11,law,ley-21088,ley-18290,39,main
+2018-11-11,unexplained,,ley-18290,1,main
+2018-11-20,law,ley-21121,codigo-penal ley-20393 ley-19913,37,main
+2018-11-28,law,ley-21122,codigo-trabajo,9,main
+2018-12-10,law,ley-21123,codigo-penal,1,main
+2019-01-01,law,ley-21054,ley-16744,7,main
+2019-01-12,law,ley-21130,codigo-tributario ley-18046 ley-20720 dl-3500 ley-general-bancos,146,main
+2019-01-25,law,aa-6-2019,codigo-organico-tribunales,1,main
+2019-01-30,law,ley-21136,codigo-civil,1,main
+2019-01-31,law,ley-21132,ley-20393 ley-18892,35,main
+2019-02-02,law,ley-21133,dfl-1-2005-salud dl-3500 dl-824,15,main
+2019-02-03,law,ley-21100,ley-15231,1,main
+2019-02-06,law,dto-31-exento-2019-1128537,dl-824,2,main
+2019-02-06,law,ley-21137,ley-18290,1,main
+2019-03-01,law,ley-21147,ley-18290,1,main
+2019-03-14,law,ley-21081,ley-19496 codigo-organico-tribunales,50,main
+2019-03-14,unexplained,,ley-19496,1,main
+2019-04-25,law,ley-21152,ley-20529 ley-19070 ley-21040,17,main
+2019-05-02,law,ley-21155,codigo-trabajo codigo-sanitario ley-20609 ley-15231,4,main
+2019-05-03,law,ley-21153,codigo-penal,3,main
+2019-05-14,law,ley-21159,codigo-procedimiento-civil,2,main
+2019-05-17,unexplained,,ley-19983,6,main
+2019-05-30,law,ley-21161,ley-18290,1,main
+2019-06-27,law,ley-21164,ley-20370,2,main
+2019-07-08,law,ley-21017,codigo-trabajo codigo-organico-tribunales ley-19968,20,main
+2019-07-13,law,ley-21163,ley-19913,1,main
+2019-07-15,law,ley-21162,ley-19300,2,main
+2019-07-18,law,ley-21160,codigo-penal,5,main
+2019-07-26,law,ley-21170,codigo-penal ley-18290,8,main
+2019-07-27,law,ley-21168,ley-20584,3,main
+2019-08-01,law,ley-21137,ley-18290,1,main
+2019-08-13,law,ley-21069,ley-18892,2,main
+2019-08-13,unexplained,,ley-18892,7,main
+2019-08-17,law,ley-21134,ley-18892,1,main
+2019-08-20,law,ley-21172,ley-18168,1,main
+2019-08-22,law,ley-21171,ley-4808,2,main
+2019-08-28,law,ley-21146,ley-19418,5,main
+2019-09-01,law,ley-21142,codigo-trabajo,8,main
+2019-09-01,law,ley-21165,codigo-trabajo,1,main
+2019-09-14,law,ley-21081,ley-19496,11,main
+2019-09-21,law,ley-21173,dfl-1-2005-salud,1,main
+2019-11-18,law,sen-s-n-2019,codigo-sanitario,1,main
+2019-11-21,law,ley-21183,ley-18892,8,main
+2019-11-21,law,ley-21186,ley-21091,8,main
+2019-12-12,unexplained,,ley-19983,1,main
+2019-12-13,law,ley-21188,codigo-penal codigo-procesal-penal ley-20584 ley-21040,8,main
+2019-12-21,law,ley-21196,ley-10336 ley-19070,4,main
+2019-12-24,law,ley-21200,constitucion,15,main
+2019-12-27,law,ley-21120,codigo-civil ley-19947 ley-20609,3,main
+2020-01-01,law,ley-21174,ley-20730 ley-20880,2,main
+2020-01-01,law,ley-21190,dl-3500,4,main
+2020-01-01,law,ley-21210,dl-824,55,main
+2020-01-08,law,ley-21198,codigo-sanitario dfl-1-2005-salud,4,main
+2020-01-16,law,ley-21204,codigo-justicia-militar,1,main
+2020-01-17,law,ley-21131,dl-825 ley-19983,2,main
+2020-01-21,law,ley-21203,dl-825,1,main
+2020-01-23,law,ley-21202,ley-19300 dfl-458,3,main
+2020-01-30,law,ley-21208,codigo-penal,5,main
+2020-02-03,law,ley-21201,ley-18290,2,main
+2020-02-04,law,ley-21211,ley-19913,1,main
+2020-02-05,law,dto-22-exento-2020-1142001,dl-824,1,main
+2020-02-05,unexplained,,dl-824,1,main
+2020-02-07,law,aa-21-2020,codigo-organico-tribunales,1,main
+2020-02-29,law,ley-21213,ley-18290 ley-18287,2,main
+2020-03-01,law,ley-21210,codigo-trabajo codigo-tributario dfl-1-2005-salud ley-20285 dl-825 ley-16271 ley-20712,98,main
+2020-03-04,law,ley-21212,codigo-penal codigo-procesal-penal,12,main
+2020-03-24,law,ley-21216,constitucion,3,main
+2020-03-26,law,ley-21219,constitucion,1,main
+2020-03-26,law,ley-21221,constitucion,8,main
+2020-04-01,law,ley-21220,codigo-trabajo,12,main
+2020-05-20,law,ley-21231,ley-19070,1,main
+2020-05-25,law,ley-21210,codigo-tributario dl-824 dl-825 ley-16271,25,main
+2020-05-28,law,ley-21233,constitucion,4,main
+2020-05-29,law,ley-21234,ley-19913,1,main
+2020-05-30,law,ley-21237,constitucion,1,main
+2020-06-03,law,ley-21217,ley-19983,1,main
+2020-06-20,law,ley-21240,codigo-penal ley-20393,5,main
+2020-06-30,law,ley-21241,ley-18287,1,main
+2020-07-01,law,ley-21133,dl-3500,1,main
+2020-07-02,law,ley-21244,ley-19253,2,main
+2020-07-08,law,ley-21238,constitucion,5,main
+2020-07-21,law,ley-21246,codigo-penal,1,main
+2020-07-27,unexplained,,ley-18695,1,main
+2020-07-30,law,ley-21248,constitucion,1,main
+2020-08-03,law,ley-21179,codigo-sanitario,10,main
+2020-08-14,law,ley-21254,ley-19968,4,main
+2020-08-20,law,ley-21253,constitucion,2,main
+2020-08-25,law,ley-21210,dl-825,2,main
+2020-08-26,law,ley-21214,ley-19628,1,main
+2020-08-26,law,ley-21261,constitucion,1,main
+2020-08-27,law,ley-21257,constitucion,1,main
+2020-09-02,law,ley-21256,dl-824,1,main
+2020-09-04,law,ley-21260,codigo-trabajo,1,main
+2020-09-04,law,ley-21263,ley-19728,1,main
+2020-09-08,law,ley-21236,ley-19496,4,main
+2020-09-08,law,ley-21265,ley-18840,1,main
+2020-09-11,law,ley-21264,codigo-civil,4,main
+2020-09-22,law,ley-21267,codigo-sanitario,1,main
+2020-10-01,law,ley-21269,codigo-trabajo ley-19728,10,main
+2020-10-03,law,ley-21258,codigo-trabajo,2,main
+2020-10-17,law,ley-21273,ley-19253,4,main
+2020-10-19,law,ley-21276,ley-18046 ley-18045 dl-3500,3,main
+2020-10-19,unexplained,,ley-18045,1,main
+2020-10-19,unexplained,,ley-18046,2,main
+2020-10-24,law,ley-21277,ley-18700,1,main
+2020-11-05,law,ley-21281,ley-18695,1,main
+2020-11-06,law,ley-21278,codigo-sanitario,1,main
+2020-11-09,law,ley-21280,codigo-trabajo,2,main
+2020-11-26,law,ley-21285,ley-18168,1,main
+2020-12-10,law,ley-21296,constitucion,2,main
+2020-12-12,law,ley-21287,ley-18892,1,main
+2020-12-23,law,ley-21298,constitucion,5,main
+2020-12-31,law,ley-21306,dl-3500,1,main
+2021-01-01,unexplained,,ley-19175,7,main
+2021-01-22,law,ley-21303,ley-20422,4,main
+2021-02-03,law,ley-21310,codigo-penal ley-17798,5,main
+2021-02-11,law,dto-28-exento-2021-1155809,dl-824,2,main
+2021-02-16,law,ley-21311,ley-18695 ley-18700 ley-19175 ley-18603,21,main
+2021-02-18,law,ley-21250,codigo-organico-tribunales ley-17798,4,main
+2021-02-19,law,aa-35-2021,codigo-organico-tribunales,1,main
+2021-03-06,law,ley-21315,constitucion,2,main
+2021-03-17,law,ley-21317,constitucion,7,main
+2021-03-27,law,ley-21318,constitucion,1,main
+2021-04-06,law,ley-21319,ley-18700,1,main
+2021-04-07,law,ley-21324,constitucion,7,main
+2021-04-13,law,ley-21314,codigo-comercio ley-18046 ley-18010 ley-18045 ley-19913,191,main
+2021-04-20,law,ley-21320,ley-19496,5,main
+2021-04-28,law,ley-21330,constitucion,1,main
+2021-05-07,law,ley-21329,ley-18290,1,main
+2021-05-11,law,ley-21331,ley-20584,6,main
+2021-05-22,unexplained,,ley-18290,8,main
+2021-05-31,law,dfl-3-2021,ley-19496,71,main
+2021-06-01,unexplained,,codigo-trabajo,12,main
+2021-06-03,law,ley-21347,codigo-trabajo,2,main
+2021-06-14,law,ley-21350,dfl-1-2005-salud,3,main
+2021-06-25,law,ley-21242,dl-824,1,main
+2021-07-01,law,ley-21309,dl-3500,2,main
+2021-07-01,law,ley-21314,dl-3500,15,main
+2021-07-12,law,ley-21358,ley-18892,3,main
+2021-07-14,unexplained,,ley-19175,14,main
+2021-08-06,law,ley-21363,ley-18290,1,main
+2021-08-07,law,ley-21364,codigo-aguas ley-18695,6,main
+2021-08-13,law,ley-21368,ley-19300 ley-15231,2,main
+2021-08-16,law,ley-21367,ley-19947,1,main
+2021-08-18,law,ley-21362,ley-19886,1,main
+2021-08-25,law,ley-21370,ley-18892,5,main
+2021-09-28,law,ley-21374,ley-20712,1,main
+2021-09-29,law,ley-21371,codigo-trabajo ley-20584,6,main
+2021-10-01,law,ley-21327,codigo-trabajo,26,main
+2021-10-04,law,ley-21378,ley-19968 ley-20066,8,main
+2021-10-07,law,ley-21372,ley-20584,1,main
+2021-10-12,law,ley-21377,ley-18290,2,main
+2021-10-21,law,ley-21380,ley-20584,2,main
+2021-10-21,law,ley-21382,codigo-trabajo,1,main
+2021-10-21,law,ley-21385,ley-18700,5,main
+2021-10-25,law,ley-21383,constitucion,1,main
+2021-10-28,law,ley-21388,codigo-sanitario,3,main
+2021-11-12,unexplained,,codigo-trabajo,2,main
+2021-11-18,law,ley-21389,codigo-civil ley-14908 ley-20066 ley-16618 ley-20880,26,main
+2021-11-24,law,ley-21391,codigo-trabajo,1,main
+2021-11-30,law,ley-21392,codigo-aeronautico,3,main
+2021-11-30,law,ley-21394,codigo-procedimiento-civil codigo-procesal-penal codigo-organico-tribunales codigo-justicia-militar ley-20084 ley-18287,29,main
+2021-12-11,law,ley-21394,codigo-trabajo codigo-procedimiento-civil codigo-organico-tribunales ley-19968,40,main
+2021-12-18,law,ley-21396,ley-10336 ley-19175,18,main
+2021-12-22,law,ley-21405,ley-20529,1,main
+2021-12-24,law,ley-21398,ley-19496 codigo-aeronautico ley-18010,28,main
+2021-12-24,law,ley-21402,codigo-penal,3,main
+2021-12-27,law,ley-21399,ley-19070,2,main
+2022-01-01,unexplained,,dl-824,1,main
+2022-01-03,law,ley-21403,ley-20422,6,main
+2022-01-11,law,ley-21334,codigo-civil ley-4808 ley-17344,12,main
+2022-01-25,law,ley-21411,ley-18695,2,main
+2022-01-25,law,ley-21412,codigo-procesal-penal ley-20393 ley-17798,38,main
+2022-01-31,unexplained,,ley-18168,1,main
+2022-02-01,law,ley-21314,ley-18045,2,main
+2022-02-01,law,ley-21419,dl-3500,12,main
+2022-02-01,law,ley-21413,codigo-penal,1,main
+2022-02-04,law,ley-21420,ley-16271,4,main
+2022-02-05,law,ley-21418,codigo-penal codigo-procesal-penal ley-20370,5,main
+2022-02-09,law,dto-18-exento-2022-1172445,dl-824,2,main
+2022-02-12,start,ley-21325,ley-21325,195,main
+2022-02-12,law,ley-21325,codigo-penal ley-20393 ley-18834 ley-18101,8,main
+2022-02-12,law,ley-21426,codigo-tributario ley-18290,2,main
+2022-02-12,unexplained,,dfl-458,1,main
+2022-02-14,law,ley-21416,ley-18290,5,main
+2022-02-25,law,ley-21398,codigo-aeronautico,1,main
+2022-02-26,law,aa-35-2022,codigo-organico-tribunales,1,main
+2022-03-04,law,sen-s-n-2022,codigo-justicia-militar,1,main
+2022-03-10,law,ley-21400,codigo-civil codigo-trabajo ley-16744 ley-19947 ley-4808,49,main
+2022-03-11,law,ley-21432,constitucion,1,main
+2022-03-15,start,ley-21430,ley-21430,97,main
+2022-03-15,law,ley-21430,ley-18695 ley-19968,3,main
+2022-03-18,law,ley-21433,ley-20712,2,main
+2022-03-25,law,ley-21398,ley-19496 dl-825,3,main
+2022-04-01,law,ley-21376,codigo-trabajo,6,main
+2022-04-01,law,ley-21420,dl-825,1,main
+2022-04-06,law,ley-21435,codigo-aguas,121,main
+2022-04-06,unexplained,,codigo-aguas,1,main
+2022-04-09,law,ley-21444,codigo-penal,1,main
+2022-04-13,start,ley-21442,ley-21442,117,main
+2022-04-13,law,ley-21442,dfl-458,4,main
+2022-04-25,law,ley-21398,ley-19496,1,main
+2022-04-26,law,ley-21412,ley-17798,1,main
+2022-04-28,law,ley-21445,ley-18695 ley-19886,3,main
+2022-04-29,law,ley-21448,constitucion,5,main
+2022-05-07,law,ley-21438,ley-20609,1,main
+2022-05-09,law,ley-21355,ley-19039,57,main
+2022-05-09,law,ley-21441,codigo-trabajo,1,main
+2022-05-09,unexplained,,ley-19039,1,main
+2022-05-10,law,ley-21437,ley-18892,2,main
+2022-05-27,law,ley-21450,dfl-458,25,main
+2022-06-02,law,ley-21449,ley-19300,1,main
+2022-06-07,unexplained,,codigo-comercio,1,main
+2022-06-09,law,ley-21180,ley-19880,17,main
+2022-06-13,law,ley-21455,ley-18695 ley-18045 ley-19300 dl-3500 ley-19175 ley-20600 ley-20712,25,main
+2022-06-20,law,ley-21459,ley-18168,1,main
+2022-06-30,law,ley-21453,codigo-tributario,2,main
+2022-06-30,law,ley-21461,codigo-procedimiento-civil ley-18101,16,main
+2022-07-16,law,ley-21408,ley-18892,2,main
+2022-07-26,law,ley-21462,dl-825,1,main
+2022-07-30,law,ley-21467,codigo-penal,4,main
+2022-08-02,law,ley-21476,codigo-trabajo,1,main
+2022-08-06,law,dfl-4-2022,ley-19039,76,main
+2022-08-14,law,ley-21425,ley-18290,4,main
+2022-08-17,law,ley-21427,ley-20730 ley-20880,2,main
+2022-08-23,law,ley-21481,constitucion,4,main
+2022-08-24,law,ley-21483,codigo-penal,8,main
+2022-09-01,law,ley-21431,codigo-trabajo,22,main
+2022-09-02,law,ley-21420,dl-824,3,main
+2022-09-02,law,ley-21487,ley-19418,1,main
+2022-09-15,unexplained,,codigo-organico-tribunales,3,main
+2022-09-15,unexplained,,codigo-procedimiento-civil,1,main
+2022-09-27,law,ley-21488,codigo-penal codigo-procesal-penal ley-20393 ley-19913,10,main
+2022-10-03,law,ley-21057,codigo-procesal-penal,5,main
+2022-10-04,law,ley-21495,ley-18290,5,main
+2022-10-10,law,ley-21436,codigo-trabajo,12,main
+2022-10-12,law,ley-21489,codigo-penal,1,main
+2022-11-01,law,ley-21275,codigo-trabajo,1,main
+2022-11-10,law,ley-21508,ley-21442,8,main
+2022-11-15,law,ley-21498,codigo-trabajo,1,main
+2022-11-16,law,ley-21494,codigo-penal,2,main
+2022-11-19,law,ley-21389,ley-14908 ley-16618,22,main
+2022-11-25,law,ley-21509,ley-20584,1,main
+2022-12-01,unexplained,,codigo-organico-tribunales,3,main
+2022-12-12,law,ley-21394,ley-18287,1,main
+2022-12-21,law,ley-21459,ley-20393 ley-19913,4,main
+2022-12-28,law,ley-21515,codigo-civil ley-19947 ley-16618,28,main
+2022-12-30,law,ley-21522,codigo-penal codigo-procesal-penal codigo-organico-tribunales ley-19913 ley-20084,29,main
+2022-12-30,unexplained,,codigo-procesal-penal,1,main
+2022-12-31,law,ley-21523,codigo-penal codigo-procesal-penal ley-19733 ley-19640,17,main
+2023-01-01,law,dto-2271-2023-1189383,ley-20422,1,main
+2023-01-01,unexplained,,dl-824,2,main
+2023-01-01,unexplained,,dl-825,2,main
+2023-01-04,law,ley-21524,constitucion,1,main
+2023-01-17,law,ley-21533,constitucion,20,main
+2023-01-27,law,ley-21535,constitucion,1,main
+2023-01-31,law,ley-21532,ley-18892,9,main
+2023-02-01,law,ley-21366,ley-20659,13,main
+2023-02-03,law,ley-21521,codigo-comercio ley-18046 ley-19913 ley-18840 ley-10336 ley-general-bancos,13,main
+2023-02-03,law,ley-21542,constitucion,2,main
+2023-02-04,start,ley-21521,ley-21521,59,main
+2023-02-09,law,ley-21544,ley-20370 ley-19070 ley-21040,8,main
+2023-02-10,law,aa-16-2023,codigo-organico-tribunales,1,main
+2023-02-13,law,ley-21539,ley-18290,6,main
+2023-02-14,law,dto-31-exento-2023-1188982,dl-824,2,main
+2023-02-15,law,ley-21540,dl-824,1,main
+2023-03-10,law,ley-21545,codigo-trabajo,1,main
+2023-03-17,law,ley-21541,codigo-sanitario dfl-1-2005-salud ley-20584,14,main
+2023-03-29,law,ley-21526,ley-14908,1,main
+2023-03-30,law,ley-21547,ley-18290 ley-18287,3,main
+2023-04-01,law,ley-21534,ley-18695 ley-19175,2,main
+2023-04-10,law,ley-21555,codigo-penal codigo-procesal-penal,3,main
+2023-04-10,law,ley-21556,ley-17798,1,main
+2023-04-10,law,ley-21557,codigo-penal,1,main
+2023-04-10,law,ley-21560,codigo-penal codigo-procesal-penal codigo-justicia-militar ley-18290 ley-17798,14,main
+2023-04-19,law,ley-21551,dfl-1-2005-salud,1,main
+2023-04-25,law,ley-21558,ley-21442 dfl-458,11,main
+2023-04-26,law,ley-21561,codigo-trabajo,13,main
+2023-05-03,law,ley-21568,constitucion,1,main
+2023-05-04,law,ley-21574,constitucion,1,main
+2023-05-09,law,ley-21504,ley-19628,1,main
+2023-05-11,law,ley-21571,codigo-penal,2,main
+2023-05-20,law,ley-21484,codigo-civil ley-14908,15,main
+2023-05-23,law,ley-21575,codigo-penal codigo-procesal-penal ley-20000 ley-19913 ley-19640,23,main
+2023-05-24,law,ley-21572,ley-general-bancos,1,main
+2023-05-29,law,ley-21562,ley-19300,3,main
+2023-06-01,law,ley-21566,dfl-1-2005-salud,1,main
+2023-06-15,law,ley-21577,codigo-penal codigo-procesal-penal codigo-organico-tribunales,76,main
+2023-06-16,law,ley-21579,ley-18290,3,main
+2023-07-07,law,ley-21582,codigo-aguas ley-19880 ley-20720 ley-18834 ley-18700 dfl-458 ley-18892,9,main
+2023-07-13,law,ley-21586,codigo-aguas,3,main
+2023-08-05,law,ley-21587,codigo-penal ley-18290,2,main
+2023-08-07,law,ley-21590,ley-21325,1,main
+2023-08-11,law,ley-21563,codigo-penal ley-20720,136,main
+2023-08-17,start,ley-21595,ley-21595,72,main
+2023-08-17,law,ley-21595,codigo-penal codigo-procesal-penal ley-18046 ley-18045 dl-3500 ley-19913 dl-211 ley-17322 ley-20712,71,main
+2023-08-18,law,ley-21589,ley-21325,5,main
+2023-08-21,law,ley-21592,codigo-penal codigo-trabajo ley-18834,10,main
+2023-09-06,law,ley-21600,codigo-mineria ley-19300 ley-18892,14,main
+2023-09-08,law,ley-21594,codigo-penal,1,main
+2023-09-11,law,ley-21601,codigo-penal ley-18290,11,main
+2023-09-22,law,ley-21610,codigo-aeronautico ley-21325,3,main
+2023-09-23,law,ley-21608,codigo-comercio,1,main
+2023-09-26,law,ley-21597,codigo-aguas,1,main
+2023-10-13,law,ley-21615,ley-18700,1,main
+2023-10-19,law,ley-21606,ley-19253,1,main
+2023-10-24,law,ley-21625,ley-19070,20,main
+2023-10-25,law,ley-21620,codigo-penal,1,main
+2023-11-07,law,ley-21626,constitucion,1,main
+2023-11-09,law,ley-21627,codigo-procesal-penal,1,main
+2023-11-10,law,ley-21601,ley-18290,1,main
+2023-11-22,law,ley-21592,codigo-procesal-penal,2,main
+2023-11-23,law,ley-21632,codigo-procesal-penal ley-19913,3,main
+2023-11-24,law,ley-21633,codigo-penal codigo-procesal-penal dfl-458,10,main
+2023-12-01,law,ley-21628,ley-19728,18,main
+2023-12-11,law,ley-21634,ley-19886,10,main
+2023-12-14,law,ley-21636,dfl-458,1,main
+2023-12-16,law,ley-21635,codigo-procesal-penal,2,main
+2023-12-21,unexplained,,ley-17798,3,main
+2023-12-23,law,ley-21647,codigo-aguas ley-21040,2,main
+2023-12-30,law,ley-21641,codigo-tributario ley-18045 ley-20720 ley-18840 ley-general-bancos ley-20712,25,main
+2023-12-30,law,ley-21649,codigo-mineria,8,main
+2024-01-01,law,ley-21210,dl-824,2,main
+2024-01-01,law,ley-21420,codigo-mineria,12,main
+2024-01-01,law,ley-21591,dl-824,9,main
+2024-01-01,law,ley-21621,dfl-1-2005-salud,5,main
+2024-01-01,law,ley-21649,ley-18097,1,main
+2024-01-09,law,ley-21637,ley-18168,7,main
+2024-01-13,law,ley-21527,ley-20084,5,main
+2024-01-16,law,ley-21652,codigo-aguas,1,main
+2024-01-19,law,ley-21653,ley-21040,1,main
+2024-01-19,law,ley-21654,constitucion,1,main
+2024-01-28,law,ley-21410,ley-18892,4,main
+2024-01-29,law,ley-21645,codigo-trabajo,7,main
+2024-01-30,law,ley-21650,ley-21442,2,main
+2024-02-01,unexplained,,ley-19300,1,main
+2024-02-05,law,ley-21648,codigo-tributario,1,main
+2024-02-07,law,ley-21651,ley-18892,32,main
+2024-02-09,law,aa-28-2024,codigo-organico-tribunales,1,main
+2024-02-17,law,dto-60-exento-2024-1201124,dl-824,2,main
+2024-02-20,law,ley-21655,ley-21325,1,main
+2024-02-21,law,ley-21427,ley-20370,3,main
+2024-03-01,law,ley-21658,ley-19880 ley-19799,5,main
+2024-03-01,unexplained,,ley-19070,1,main
+2024-04-10,law,ley-21660,ley-19300,1,main
+2024-04-20,law,ley-21666,ley-19728,2,main
+2024-04-26,unexplained,,codigo-trabajo,14,main
+2024-05-01,law,ley-21628,codigo-trabajo,1,main
+2024-05-01,unexplained,,ley-19728,2,main
+2024-05-24,law,ley-21674,dfl-1-2005-salud,24,main
+2024-05-28,law,ley-21668,ley-20584,3,main
+2024-05-30,law,ley-21671,codigo-aguas,1,main
+2024-06-13,law,ley-21670,ley-17798,1,main
+2024-06-14,law,ley-21675,codigo-civil codigo-penal codigo-trabajo dl-3500 ley-19968 ley-20066 ley-20609,31,main
+2024-06-17,law,ley-21677,ley-20730 ley-20880,2,main
+2024-06-19,law,ley-21676,ley-19947,1,main
+2024-06-21,law,ley-21459,codigo-procesal-penal,2,main
+2024-07-03,law,ley-21678,ley-18168,22,main
+2024-08-01,law,ley-21643,codigo-trabajo ley-18695 ley-18575 ley-18834,32,main
+2024-08-24,law,ley-21690,codigo-trabajo ley-20422,7,main
+2024-08-26,law,ley-21693,ley-18695 ley-18700 ley-19175,30,main
+2024-09-01,law,ley-21595,ley-20393,30,main
+2024-09-04,law,ley-21694,codigo-penal codigo-procesal-penal ley-20000 ley-21595 ley-19913 ley-18314 ley-17798 ley-general-bancos,56,main
+2024-09-13,law,ley-21700,dfl-1-2005-salud,1,main
+2024-10-10,law,ley-21695,ley-19496,2,main
+2024-10-17,law,ley-21702,ley-20422,1,main
+2024-10-23,law,ley-21703,codigo-sanitario,1,main
+2024-11-01,law,ley-21713,codigo-tributario dl-824 dl-825 ley-general-bancos,73,main
+2024-11-01,unexplained,,codigo-tributario,1,main
+2024-11-02,law,ley-21707,ley-21091,1,main
+2024-11-12,law,ley-21709,ley-18892,1,main
+2024-11-15,law,ley-21708,ley-19496,1,main
+2024-12-12,law,ley-21634,ley-18695 ley-19886 ley-18840 ley-20880,94,main
+2025-01-01,law,ley-21591,ley-18695,1,main
+2025-01-01,law,ley-21716,codigo-tributario,1,main
+2025-01-01,unexplained,,codigo-trabajo,1,main
+2025-01-01,unexplained,,codigo-tributario,13,main
+2025-01-01,unexplained,,dl-824,2,main
+2025-01-01,unexplained,,dl-825,1,main
+2025-01-03,law,ley-21724,ley-20529 ley-19070 ley-21040,3,main
+2025-01-14,law,ley-21718,codigo-organico-tribunales ley-18695 ley-20422 dfl-458,19,main
+2025-01-24,unexplained,,codigo-tributario,5,main
+2025-01-27,law,ley-21646,codigo-penal codigo-sanitario,2,main
+2025-02-07,law,aa-31-2025,codigo-organico-tribunales,1,main
+2025-02-12,law,ley-21732,codigo-procesal-penal,3,main
+2025-02-13,law,ley-21729,ley-18168,3,main
+2025-02-14,law,dto-50-exento-2025-1211090,dl-824,2,main
+2025-03-07,law,ley-21638,codigo-penal codigo-procesal-penal,2,main
+2025-03-26,law,ley-21735,ley-18045 dl-3500 ley-19728 ley-20712,17,main
+2025-04-01,law,ley-21730,ley-21325 ley-19175,6,main
+2025-04-01,unexplained,,dfl-458,1,main
+2025-04-05,law,ley-21733,ley-18290,4,main
+2025-04-06,unexplained,,codigo-aguas,1,main
+2025-04-11,law,ley-21736,dfl-1-2005-salud,7,main
+2025-04-23,law,ley-21740,codigo-aguas,11,main
+2025-04-25,unexplained,,codigo-tributario,3,main
+2025-04-29,law,ley-21742,ley-21442,2,main
+2025-05-01,unexplained,,codigo-tributario,3,main
+2025-05-01,unexplained,,ley-19728,1,main
+2025-05-23,law,ley-21744,dfl-458,4,main
+2025-05-24,law,ley-21746,codigo-penal ley-20584,2,main
+2025-05-28,law,ley-21717,codigo-penal ley-4808,2,main
+2025-05-30,law,ley-21718,ley-21442,1,main
+2025-05-30,unexplained,,dfl-458,6,main
+2025-05-30,unexplained,,ley-18695,1,main
+2025-06-01,unexplained,,dl-3500,1,main
+2025-06-04,law,ley-21673,ley-18010,2,main
+2025-06-25,law,ley-21752,ley-18892,1,main
+2025-07-01,unexplained,,codigo-tributario,1,main
+2025-07-11,law,ley-21755,codigo-tributario ley-20285 ley-19886,4,main
+2025-07-18,law,ley-21753,ley-20529 ley-20370,5,main
+2025-08-01,law,ley-21735,ley-20880,1,main
+2025-08-01,law,ley-21745,dl-825,7,main
+2025-08-01,unexplained,,ley-20730,1,main
+2025-08-01,unexplained,,ley-20880,1,main
+2025-08-01,unexplained,,ley-general-bancos,2,main
+2025-08-28,law,ley-21756,ley-14908,1,main
+2025-09-01,law,ley-21690,ley-18834,4,main
+2025-09-01,unexplained,,dl-3500,6,main
+2025-09-01,unexplained,,ley-19728,1,main
+2025-09-03,law,ley-21763,dfl-458,2,main
+2025-09-17,law,ley-21761,codigo-penal,5,main
+2025-09-29,law,ley-21770,codigo-sanitario ley-19880 dfl-1-2005-salud ley-21595 ley-17798 ley-19253 dfl-458 ley-18892 ley-18168 ley-20880,32,main
+2025-09-29,law,ley-21772,ley-20880,1,main
+2025-10-01,law,ley-21771,ley-19640,1,main
+2025-10-02,law,ley-21768,ley-20422,1,main
+2025-10-07,law,ley-21773,constitucion,1,main
+2025-10-23,law,ley-21779,ley-18700,3,main
+2025-10-25,law,ley-18898,dl-825,1,main
+2025-10-25,unexplained,,dl-825,3,main
+2025-10-29,law,ley-21770,codigo-sanitario,1,main
+2025-11-18,law,ley-21664,codigo-sanitario,4,main
+2025-11-28,law,ley-21659,codigo-penal codigo-procesal-penal,2,main
+2025-11-28,unexplained,,ley-18290,1,main
+2025-12-01,law,ley-21784,dfl-1-2005-salud,1,main
+2025-12-17,law,ley-21791,ley-general-bancos,1,main
+2026-01-01,law,ley-21757,ley-18046,3,main
+2026-01-01,law,ley-21773,constitucion,2,main
+2026-01-13,law,ley-21527,ley-19640,5,main
+2026-01-13,unexplained,,codigo-organico-tribunales,6,main
+2026-01-13,unexplained,,ley-20084,52,main
+2026-01-14,law,ley-21793,ley-18290,1,main
+2026-01-19,law,ley-21790,ley-20370,1,main
+2026-01-19,law,ley-21792,codigo-aeronautico,1,main
+2026-02-05,law,ley-21806,ley-19886 ley-20370 ley-21040,3,main
+2026-02-06,law,aa-s-n-2026,codigo-organico-tribunales,1,main
+2026-02-07,law,ley-21797,codigo-trabajo,1,main
+2026-02-11,law,ley-21801,ley-20370,8,main
+2026-02-16,law,ley-21805,ley-20584 ley-20422 ley-19175,4,main
+2026-02-16,law,ley-21807,ley-18695 ley-21442 dfl-458 ley-19175,61,main
+2026-02-16,unexplained,,codigo-aguas,1,main
+2026-02-21,law,ley-21803,ley-19070,5,main
+2026-02-23,unexplained,,dfl-458,4,main
+2026-03-02,law,ley-21759,codigo-aguas,1,main
+2026-03-05,law,ley-21806,dl-825,1,main
+2026-03-27,law,dto-75-exento-2026-1222700,dl-824,2,main
+2026-03-29,unexplained,,dfl-458,1,main
+2026-04-01,law,ley-21644,constitucion,6,main
+2026-04-01,law,ley-21812,ley-19640,22,main
+2026-04-02,law,ley-21771,codigo-procesal-penal ley-20730 ley-19640 ley-20880,58,main
+2026-04-02,law,ley-21772,codigo-organico-tribunales ley-20880,50,main
+2026-04-02,law,ley-21812,ley-19640,6,main
+2026-04-16,law,ley-21810,constitucion,6,main
+2026-05-01,law,ley-21812,ley-19640,1,main
+2026-05-23,law,ley-21817,ley-20000,6,main
+2026-05-25,law,ley-21819,ley-21040,87,main
+2026-05-30,law,ley-21821,ley-19913 ley-20880,3,main
+2026-06-01,law,ley-21735,ley-17322,11,main
+2026-06-01,unexplained,,dl-3500,1,main
+2026-06-01,unexplained,,ley-19728,2,main
+2026-06-02,law,ley-21816,ley-18290 ley-21325 ley-18287,14,main
+2026-06-05,law,ley-21823,ley-20880,1,main
+2026-06-24,law,ley-21826,ley-18695 dfl-458,12,main
+2026-07-01,law,ley-21789,codigo-trabajo,11,main
+2026-07-01,law,ley-21806,ley-19880,2,main
+2026-07-01,law,ley-21809,ley-18695 ley-20529 ley-20370 ley-19070 ley-21040,31,main
+2026-07-01,law,ley-21827,ley-20529 ley-19070,3,main
+2026-07-04,law,ley-21678,ley-18168,1,main
+2026-07-22,law,ley-21829,codigo-procesal-penal ley-19968 ley-20066 ley-17798,6,main
+2026-07-23,law,ley-21828,codigo-trabajo,2,main
+2026-08-12,law,ley-21802,codigo-penal ley-18695 ley-18290 dfl-458,13,main
+2026-08-12,law,ley-21827,ley-21091 ley-20370,4,main
+2026-08-19,unexplained,,ley-18168,1,main
+2026-08-20,law,ley-21834,codigo-penal,2,main
+2026-08-27,law,ley-21837,ley-18290,1,main
+2026-09-01,law,ley-21818,dl-3500,1,main
+2026-09-23,law,ley-21842,ley-21442,3,main
+2026-09-29,law,ley-21770,codigo-aguas,20,main
+2026-10-09,law,ley-21841,codigo-aguas,1,main
+2026-10-10,law,ley-21845,codigo-procesal-penal,5,main
+2026-10-16,law,ley-21849,codigo-procesal-penal ley-18290,2,main
+2026-10-22,law,ley-21844,ley-18290,1,main
+2026-11-01,law,ley-21850,codigo-tributario ley-19880 ley-19300 ley-21091 dl-824 ley-19886 ley-18892 ley-20600,25,futuro
+2026-12-01,law,ley-21719,ley-19628 ley-19496 ley-20285,88,futuro
+2027-01-01,law,ley-21812,ley-19640,1,futuro
+2027-01-01,law,ley-21850,dl-824,8,futuro
+2027-02-25,law,ley-21800,codigo-aguas ley-21595,2,futuro
+2027-03-01,law,ley-21838,ley-20880,1,futuro
+2027-03-15,law,ley-21839,codigo-trabajo,1,futuro
+2027-04-01,unexplained,,dl-3500,47,futuro
+2027-05-25,law,ley-21674,dfl-1-2005-salud,1,futuro
+2027-06-01,law,ley-21822,codigo-trabajo ley-19968,19,futuro
+2027-09-15,law,ley-21839,codigo-trabajo,1,futuro
+2027-11-13,law,ley-21813,ley-19300 dfl-458,3,futuro
+2028-04-26,law,ley-21755,codigo-trabajo,1,futuro
+2028-04-26,unexplained,,codigo-trabajo,7,futuro
+2029-01-01,law,ley-21850,dl-824,1,futuro
