@@ -31,8 +31,15 @@ META = {
     'codigo-trabajo': {'short': 'CT', 'title': 'Código del Trabajo', 'url': L + '207436', 'first_law': False},
     'codigo-procedimiento-civil': {'short': 'CPC', 'title': 'Código de Procedimiento Civil', 'url': L + '22740',
                                    'first_law': True},
-    'codigo-procesal-penal': {'short': 'CPP', 'title': 'Código Procesal Penal', 'url': L + '176595',
-                              'first_law': True},
+    'codigo-procesal-penal': {
+        'short': 'CPP', 'title': 'Código Procesal Penal', 'url': L + '176595', 'first_law': True,
+        'first': ('2000-12-16', 'The Código Procesal Penal (Ley 19.696, published in the Diario Oficial on 12 October '
+                  '2000) says in its own art. 484 when it takes effect: "regirá para las Regiones de Coquimbo y de la '
+                  'Araucanía desde el 16 de diciembre de 2000", and for the other regions from 16 October 2001, 2002 '
+                  'and 2003 (dates later changed by amendment; today\'s text has the Región Metropolitana from 16 '
+                  'June 2005). Its first '
+                  'version is dated 2000-12-16, the first day it was in force anywhere, not the publication day '
+                  'LeyChile shows; the regional phases are in the text of art. 484, not in the dates.')},
 }
 DEFAULT_ACTS = 'codigo-penal,codigo-comercio,codigo-trabajo,codigo-procedimiento-civil,codigo-procesal-penal'
 OUT = ROOT / 'corpus.d' / '50-codes.json'
