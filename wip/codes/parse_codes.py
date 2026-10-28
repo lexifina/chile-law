@@ -1,6 +1,7 @@
-"""Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json.
+"""Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
+(--part codes, the default) or corpus.d/60-more.json (--part more).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--acts codigo-penal,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
@@ -41,8 +42,44 @@ META = {
                   'version is dated 2000-12-16, the first day it was in force anywhere, not the publication day '
                   'LeyChile shows; the regional phases are in the text of art. 484, not in the dates.')},
 }
-DEFAULT_ACTS = 'codigo-penal,codigo-comercio,codigo-trabajo,codigo-procedimiento-civil,codigo-procesal-penal'
-OUT = ROOT / 'corpus.d' / '50-codes.json'
+META.update({
+    'codigo-tributario': {'short': 'CTrib', 'title': 'Código Tributario', 'url': L + '6374', 'first_law': True},
+    'codigo-sanitario': {'short': 'CSan', 'title': 'Código Sanitario', 'url': L + '5595', 'first_law': True},
+    'codigo-aguas': {'short': 'CAguas', 'title': 'Código de Aguas', 'url': L + '5605', 'first_law': True},
+    'ley-18046': {'short': 'Ley 18.046', 'title': 'Ley 18.046 sobre sociedades anónimas', 'url': L + '29473',
+                  'first_law': True},
+    'ley-19496': {'short': 'Ley 19.496', 'title': 'Ley 19.496 sobre protección de los derechos de los consumidores',
+                  'url': L + '1160403', 'first_law': True},
+})
+# Each part file this script writes: its acts, its path, and the decisions that are its own.
+PARTS = {
+    'codes': {
+        'acts': 'codigo-penal,codigo-comercio,codigo-trabajo,codigo-procedimiento-civil,codigo-procesal-penal',
+        'out': ROOT / 'corpus.d' / '50-codes.json',
+        'decisions': [
+            'Código Penal, Código de Comercio, Código del Trabajo, Código de Procedimiento Civil and Código Procesal '
+            'Penal (corpus.d/50-codes.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
+            'norms verified on 2026-10-28 with get_cadena_refundidos and get_versiones: CP 1984, CCom 1974, CT 3471 '
+            '(DFL 1 of 1994) then 207436 (DFL 1 of 2003), CPC 22740 (Ley 1.552), CPP 176595 (Ley 19.696).',
+            'Código del Trabajo: LeyChile keeps the Código del Trabajo of 1987 (Ley 18.620, idNorma 30011) in one '
+            'undated version only, so its history from 1987 to 1994 is not available; the act starts with the texto '
+            'refundido of DFL 1 of 1994 as the oldest version available, and DFL 1 of 2003 is its next text.',
+        ],
+    },
+    'more': {
+        'acts': 'codigo-tributario,codigo-sanitario,codigo-aguas,ley-18046,ley-19496',
+        'out': ROOT / 'corpus.d' / '60-more.json',
+        'decisions': [
+            'Código Tributario, Código Sanitario, Código de Aguas, Ley 18.046 and Ley 19.496 (corpus.d/60-more.json) '
+            'are parsed by the same parse.py rules as the Constitution, from the LeyChile norms verified on 2026-10-28 '
+            'with get_cadena_refundidos and get_versiones: DL 830 of 1974 (6374), DFL 725 of 1968 (5595), DFL 1.122 of '
+            '1981 (5605), Ley 18.046 (29473), and Ley 19.496 (61438) followed by its texto refundido, DFL 3 of 2021 '
+            '(1160403).',
+        ],
+    },
+}
+DEFAULT_ACTS = PARTS['codes']['acts']
+OUT = PARTS['codes']['out']
 
 
 STARTS: dict[str, tuple[str, list[str]]] = {}
@@ -108,11 +145,15 @@ def cut_note(slug: str) -> str:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument('--acts', default=DEFAULT_ACTS)
-    ap.add_argument('--out', default=str(OUT))
+    ap.add_argument('--part', default='codes', choices=sorted(PARTS))
+    ap.add_argument('--acts', help='default: the acts of --part')
+    ap.add_argument('--out', help='default: the file of --part')
     ap.add_argument('--main-corpus', default=str(ROOT / 'corpus.json'),
                     help='checked for law keys that name a different norm')
     args = ap.parse_args()
+    spec = PARTS[args.part]
+    args.acts = args.acts or spec['acts']
+    args.out = args.out or str(spec['out'])
     slugs = args.acts.split(',')
     setup(slugs)
     laws = parse.Laws()
@@ -126,6 +167,10 @@ def main() -> None:
         disclosed += disclose(a)
     out_laws = {k: {kk: vv for kk, vv in v.items() if not kk.startswith('_')} for k, v in sorted(laws.laws.items())}
     main_laws = json.loads(Path(args.main_corpus).read_text(encoding='utf-8')).get('laws', {})
+    for other in sorted((ROOT / 'corpus.d').glob('*.json')):
+        if other.resolve() != Path(spec['out']).resolve():
+            for k, v in json.loads(other.read_text(encoding='utf-8')).get('laws', {}).items():
+                main_laws.setdefault(k, v)
     clash = [k for k, v in out_laws.items() if k in main_laws and (
         main_laws[k]['label'] != v['label'] or (main_laws[k].get('url') and v.get('url')
                                                 and main_laws[k]['url'] != v['url']))]
@@ -133,14 +178,7 @@ def main() -> None:
         raise SystemExit('law keys naming a different norm than corpus.json: ' + ', '.join(
             f'{k} ({out_laws[k]["label"]} {out_laws[k]["url"]} vs {main_laws[k]["label"]} {main_laws[k]["url"]})'
             for k in clash))
-    decisions = [
-        'Código Penal, Código de Comercio, Código del Trabajo, Código de Procedimiento Civil and Código Procesal '
-        'Penal (corpus.d/50-codes.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
-        'norms verified on 2026-10-28 with get_cadena_refundidos and get_versiones: CP 1984, CCom 1974, CT 3471 '
-        '(DFL 1 of 1994) then 207436 (DFL 1 of 2003), CPC 22740 (Ley 1.552), CPP 176595 (Ley 19.696).',
-        'Código del Trabajo: LeyChile keeps the Código del Trabajo of 1987 (Ley 18.620, idNorma 30011) in one '
-        'undated version only, so its history from 1987 to 1994 is not available; the act starts with the texto '
-        'refundido of DFL 1 of 1994 as the oldest version available, and DFL 1 of 2003 is its next text.',
+    decisions = spec['decisions'] + [
         'A version dated D is anachronistic when its amendment notes name a norm published after D (by Diario Oficial '
         'date, or by a Ley number at least that of a Ley published after D). Where LeyChile\'s "Texto Original" of a '
         'code holds no article text (only a PDF link), its later old versions are reconstructions, and the code starts '
