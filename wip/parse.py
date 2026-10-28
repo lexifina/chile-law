@@ -423,6 +423,10 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
         later = [starts[n] for n in chain[chain.index(e[1]) + 1:]]
         if later and e[0] >= min(later):
             continue
+        if e[2].get('@tipoVersion') == 'Con Vigencia Diferida por Evento':
+            # A version waiting for an event, not a day (LeyChile dates it 2222-02-02): it cannot be dated.
+            log.append(f'{slug_} {e[0]}: version "Con Vigencia Diferida por Evento" not dated; left out')
+            continue
         kept.append(e)
     kept.sort(key=lambda e: e[0])
     raws = [fetch.fetch(fetch.version_url(e[1], e[0]), offline=True) for e in kept]
@@ -558,6 +562,9 @@ def act_versions(slug_: str, laws: Laws, log: list[str]) -> dict:
                 else:
                     log.append(f'{slug_} {day}: {laws.laws[l]["label"]} took effect but no note names it')
         credited_before.update(l for ls in v['credits'].values() for l in ls)
+        if prev is not None and not changed(prev, v) and not v['credits'] and not v.get('note'):
+            log.append(f'{slug_} {day}: identical to the version before; skipped')
+            continue
         v['_raw'] = r['units']
         v['_norm'] = id_norma
         versions.append(v)
