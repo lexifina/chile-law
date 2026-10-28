@@ -112,6 +112,7 @@ OUT = PARTS['codes']['out']
 
 
 STARTS: dict[str, tuple[str, list[str]]] = {}
+EVENT_DROPPED: set[tuple[int, str, str]] = set()
 
 
 def setup(slugs: list[str]) -> None:
@@ -134,7 +135,16 @@ def setup(slugs: list[str]) -> None:
 
     def versions(id_norma: int, offline: bool = False) -> list[dict]:
         vs = original(id_norma, offline)
-        return [v for v in vs if v['@vigenteDesde'] >= cut[id_norma]] if id_norma in cut else vs
+        out = []
+        for v in vs:
+            t = v.get('@tipoVersion') or ''
+            if 'Diferida por Evento' in t and t != 'Con Vigencia Diferida por Evento':
+                # parse.py leaves out only the exact "Con Vigencia Diferida por Evento"; a version waiting for an
+                # event under another wording (dated 2222-02-02 by LeyChile) cannot be dated either.
+                EVENT_DROPPED.add((id_norma, v['@vigenteDesde'], t))
+                continue
+            out.append(v)
+        return [v for v in out if v['@vigenteDesde'] >= cut[id_norma]] if id_norma in cut else out
     fetch.versions = versions
 
 
@@ -282,7 +292,9 @@ def main() -> None:
         'at the oldest version from which no version is anachronistic: ' + ('; '.join(f'{parse.ACT_META[s]["short"]} from {STARTS[s][0]} ({len(STARTS[s][1])} older versions '
                             'affected)' for s in STARTS) or 'none') + '. The first version is then the oldest '
         'version available, credited to the publisher. (codes/anachronism.py)',
-    ] + [d for d in extra_decisions(acts)] + disclosed
+    ] + [d for d in extra_decisions(acts)] + disclosed + [
+        f'LeyChile version of idNorma {n} dated {d} ("{t}") left out: it waits for an event, not a day.'
+        for n, d, t in sorted(EVENT_DROPPED) if any(n in CHAINS[x] for x in slugs)]
     part = {
         'laws': out_laws,
         'acts': acts,
