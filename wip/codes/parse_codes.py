@@ -1,7 +1,8 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
-(--part codes, the default), corpus.d/60-more.json (--part more) or corpus.d/70-batch3.json (--part batch3).
+(--part codes, the default), corpus.d/60-more.json (--part more), corpus.d/70-batch3.json (--part batch3) or
+corpus.d/80-batch4.json (--part batch4).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3] [--acts a,b,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
@@ -65,6 +66,27 @@ META.update({
     'ley-18010': {'short': 'Ley 18.010', 'title': 'Ley 18.010 sobre operaciones de crédito de dinero',
                   'url': L + '29438', 'first_law': True},
 })
+META.update({
+    'ley-18695': {'short': 'Ley 18.695', 'title': 'Ley 18.695 orgánica constitucional de municipalidades',
+                  'url': L + '251693', 'first_law': True},
+    'ley-18575': {'short': 'Ley 18.575', 'title': 'Ley 18.575 orgánica constitucional de bases generales de la '
+                  'administración del Estado', 'url': L + '191865', 'first_law': True},
+    'ley-20000': {'short': 'Ley 20.000', 'title': 'Ley 20.000 sobre tráfico ilícito de estupefacientes y sustancias '
+                  'sicotrópicas', 'url': L + '235507', 'first_law': True},
+    'ley-17336': {'short': 'Ley 17.336', 'title': 'Ley 17.336 sobre propiedad intelectual', 'url': L + '28933',
+                  'first_law': True},
+    'ley-19039': {'short': 'Ley 19.039', 'title': 'Ley 19.039 de propiedad industrial', 'url': L + '1179684',
+                  'first_law': True},
+    'ley-18045': {'short': 'Ley 18.045', 'title': 'Ley 18.045 de mercado de valores', 'url': L + '29472',
+                  'first_law': True},
+    'ley-20720': {'short': 'Ley 20.720', 'title': 'Ley 20.720 de reorganización y liquidación de empresas y personas',
+                  'url': L + '1058072', 'first_law': True},
+    'dfl-1-2005-salud': {'short': 'DFL 1 2005 (Salud)', 'title': 'DFL 1 de 2005 del Ministerio de Salud (texto '
+                         'refundido del DL 2.763 de 1979 y de las leyes 18.933 y 18.469)', 'url': L + '249177',
+                         'first_law': False},
+    'ley-16744': {'short': 'Ley 16.744', 'title': 'Ley 16.744 sobre accidentes del trabajo y enfermedades '
+                  'profesionales', 'url': L + '28650', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -93,6 +115,21 @@ PARTS = {
             'Código de Justicia Militar: LeyChile keeps DL 806 of 1925 (idNorma 6363), which approved the code, in one '
             'version only (1926-03-01), so the act starts with Decreto 2.226 of 1944, which fixed the text of the code, '
             'as the oldest version available.',
+        ],
+    },
+    'batch4': {
+        'acts': 'ley-18695,ley-18575,ley-20000,ley-17336,ley-19039,ley-18045,ley-20720,dfl-1-2005-salud,ley-16744',
+        'out': ROOT / 'corpus.d' / '80-batch4.json',
+        'decisions': [
+            'Leyes 18.695, 18.575, 20.000, 17.336, 19.039, 18.045, 20.720 and 16.744 and DFL 1 de 2005 (Salud) '
+            '(corpus.d/80-batch4.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
+            'norms verified on 2026-10-28 with get_cadena_refundidos and get_versiones. Where a law was re-enacted as '
+            'a texto refundido, LeyChile continues it under the new norm and so do we: Ley 18.695 = 30077, then '
+            'Decreto 662 of 1992 (14962), DFL 2 of 2000 (150973), DFL 1 of 2002 (197482) and DFL 1 of 2006 (251693); '
+            'Ley 18.575 = 29967, then DFL 1 of 2001 (191865); Ley 19.039 = 30406, then DFL 3 of 2006 (250708) and DFL 4 '
+            'of 2022 (1179684). The others are one norm each: 235507, 28933, 29472, 1058072, 249177, 28650.',
+            'DFL 1 de 2005 (Salud) fixes in one text DL 2.763 of 1979, Ley 18.933 and Ley 18.469, whose own histories '
+            'are separate LeyChile norms; the act starts with the DFL as the oldest version available.',
         ],
     },
     'more': {
