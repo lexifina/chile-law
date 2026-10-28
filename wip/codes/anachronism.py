@@ -56,14 +56,18 @@ def first_ley_after(day: str) -> int | None:
     return min(later) if later else None
 
 
-def late_notes(raw: bytes, day: str, part=None) -> list[tuple[str, str, str]]:
-    """(why, unit, note) for every note that names a norm published after `day`."""
+def late_notes(raw: bytes, day: str, part=None, dated: frozenset = frozenset()) -> list[tuple[str, str, str]]:
+    """(why, unit, note) for every note that names a norm published after `day`, except norms LeyChile's versions list
+    itself puts in force on `day` (`dated`: a law published later with retroactive effect, e.g. Ley 21.827, published
+    2026-08-12, in force 2026-07-01 for Ley 20.529)."""
     r = parse.read_version(raw, 4, part)
     cap = first_ley_after(day)
     out = []
     for k, u in r['units'].items():
         for n in u['notes']:
             refs, dates = parse.note_refs([n])
+            if refs and refs <= dated:
+                continue
             late = [d for d in dates if d > day]
             if late:
                 out.append((f'D.O. {max(late)}', k, n))
@@ -78,12 +82,18 @@ def late_notes(raw: bytes, day: str, part=None) -> list[tuple[str, str, str]]:
 def scan(slug: str) -> list[tuple[int, str, list]]:
     rows = []
     for idn in CHAINS[slug]:
+        prev = None
         for v in fetch.versions(idn, offline=True):
             day = v['@vigenteDesde']
+            dated = frozenset(
+                (parse.norm_type(m.get('@tipoNorma') or ''), int(m['@nroNorma']))
+                for m in fetch.as_list(((prev or {}).get('Modificatorias') or {}).get('Modificatoria'))
+                if m.get('@inicioVigencia') == day and str(m.get('@nroNorma') or '').isdigit())
+            prev = v
             if day >= '2222':
                 continue
             raw = fetch.fetch(fetch.version_url(idn, day), offline=True)
-            rows.append((idn, day, late_notes(raw, day)))
+            rows.append((idn, day, late_notes(raw, day, dated=dated)))
     return rows
 
 
