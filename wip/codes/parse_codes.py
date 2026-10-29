@@ -1,9 +1,9 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
 (--part codes, the default), corpus.d/60-more.json (--part more), corpus.d/70-batch3.json (--part batch3) or
-corpus.d/80-batch4.json (--part batch4), corpus.d/90-batch5.json (--part batch5) or corpus.d/95-batch6.json
-(--part batch6).
+corpus.d/80-batch4.json (--part batch4), corpus.d/90-batch5.json (--part batch5), corpus.d/95-batch6.json
+(--part batch6), corpus.d/97-batch7.json, 98-batch8.json or 99-batch9.json (--part batch7|batch8|batch9).
 
-    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|batch4|batch5|batch6] [--acts a,b,...] [--out PATH]
+    python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|...|batch9] [--acts a,b,...] [--out PATH]
 
 It reuses the main agent's parse.py unchanged (read_version, the credit rules, the law key scheme): it only adds the
 verified idNorma chains (codes/fetch_codes.py) and the act metadata of the codes, then runs parse.act_versions on
