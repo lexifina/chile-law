@@ -191,6 +191,47 @@ META.update({   # part 99-batch9 (gitlaw-CL-2, 2026-10-29); from 2000-05-30 each
     'ley-16271': {'short': 'Ley 16.271', 'title': 'Ley 16.271 de impuesto a las herencias, asignaciones y donaciones',
                   'url': L + '172986', 'first_law': True},
 })
+META.update({   # part 99a-batch10 (gitlaw-CL-3, 2026-10-29)
+    'dfl-458': {'short': 'DFL 458', 'title': 'DFL 458 que aprueba la Ley General de Urbanismo y Construcciones',
+                'url': L + '13560', 'first_law': True},
+    'ley-general-bancos': {'short': 'LGB', 'title': 'Ley General de Bancos', 'url': L + '83135', 'first_law': True},
+    'dl-211': {'short': 'DL 211', 'title': 'DL 211 que fija normas para la defensa de la libre competencia',
+               'url': L + '236106', 'first_law': True},
+    'ley-18892': {'short': 'Ley 18.892', 'title': 'Ley 18.892 General de Pesca y Acuicultura', 'url': L + '13315',
+                  'first_law': True},
+    'ley-18168': {'short': 'Ley 18.168', 'title': 'Ley 18.168 General de Telecomunicaciones', 'url': L + '29591',
+                  'first_law': True},
+    'ley-19175': {'short': 'Ley 19.175', 'title': 'Ley 19.175 orgánica constitucional sobre gobierno y administración '
+                  'regional', 'url': L + '243771', 'first_law': True},
+    'ley-19070': {'short': 'Ley 19.070', 'title': 'Ley 19.070 que aprueba el Estatuto de los Profesionales de la '
+                  'Educación', 'url': L + '60439', 'first_law': True},
+    'ley-20600': {'short': 'Ley 20.600', 'title': 'Ley 20.600 que crea los Tribunales Ambientales', 'url': L + '1041361',
+                  'first_law': True},
+    'ley-18287': {'short': 'Ley 18.287', 'title': 'Ley 18.287 que establece el procedimiento ante los juzgados de '
+                  'policía local', 'url': L + '29705', 'first_law': True},
+    'ley-15231': {'short': 'Ley 15.231', 'title': 'Ley 15.231 sobre organización y atribuciones de los juzgados de '
+                  'policía local', 'url': L + '12193', 'first_law': True},
+    'ley-19728': {'short': 'Ley 19.728', 'title': 'Ley 19.728 que establece un seguro de desempleo', 'url': L + '184979',
+                  'first_law': True},
+    'ley-20880': {'short': 'Ley 20.880', 'title': 'Ley 20.880 sobre probidad en la función pública y prevención de los '
+                  'conflictos de intereses', 'url': L + '1086062', 'first_law': True},
+    'ley-19983': {'short': 'Ley 19.983', 'title': 'Ley 19.983 que regula la transferencia y otorga mérito ejecutivo a '
+                  'copia de la factura', 'url': L + '233421', 'first_law': True},
+    'ley-18603': {'short': 'Ley 18.603', 'title': 'Ley 18.603 orgánica constitucional de los partidos políticos',
+                  'url': L + '1107684', 'first_law': True},
+    'ley-17322': {'short': 'Ley 17.322', 'title': 'Ley 17.322 sobre cobranza judicial de cotizaciones, aportes y multas '
+                  'de las instituciones de seguridad social', 'url': L + '28919', 'first_law': True},
+    'ley-18097': {'short': 'Ley 18.097', 'title': 'Ley 18.097 orgánica constitucional sobre concesiones mineras',
+                  'url': L + '29522', 'first_law': True},
+    'ley-19378': {'short': 'Ley 19.378', 'title': 'Ley 19.378 que establece el estatuto de atención primaria de salud '
+                  'municipal', 'url': L + '30745', 'first_law': True},
+    'ley-21040': {'short': 'Ley 21.040', 'title': 'Ley 21.040 que crea el Sistema de Educación Pública',
+                  'url': L + '1111237', 'first_law': True},
+    'ley-20712': {'short': 'Ley 20.712', 'title': 'Ley 20.712 sobre administración de fondos de terceros y carteras '
+                  'individuales', 'url': L + '1057895', 'first_law': True},
+    'ley-20659': {'short': 'Ley 20.659', 'title': 'Ley 20.659 que simplifica el régimen de constitución, modificación y '
+                  'disolución de las sociedades comerciales', 'url': L + '1048718', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -316,6 +357,30 @@ PARTS = {
             'identical. Retrieved from LeyChile on 2026-10-29; the repository\'s docs date stays 2026-10-28.',
         ],
     },
+    'batch10': {
+        'acts': 'dfl-458,ley-general-bancos,dl-211,ley-18892,ley-18168,ley-19175,ley-19070,ley-20600,ley-18287,'
+                'ley-15231,ley-19728,ley-20880,ley-19983,ley-18603,ley-17322,ley-18097,ley-19378,ley-21040,ley-20712,'
+                'ley-20659',
+        'out': ROOT / 'corpus.d' / '99a-batch10.json',
+        'decisions': [
+            'DFL 458, the Ley General de Bancos, DL 211 and Leyes 18.892, 18.168, 19.175, 19.070, 20.600, 18.287, '
+            '15.231, 19.728, 20.880, 19.983, 18.603, 17.322, 18.097, 19.378, 21.040, 20.712 and 20.659 '
+            '(corpus.d/99a-batch10.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
+            'norms found with get_norma_json?idLey=<number> (metadatos.id_norma) or get_cadena_refundidos and '
+            'verified on 2026-10-29 with get_cadena_refundidos and get_versiones. Where a law was re-enacted as a '
+            'texto refundido, LeyChile continues it under the new norm and so do we: Ley General de Bancos = DFL 252 '
+            'of 1960 (5205), then DFL 3 of 1997 (83135); DL 211 = 5872, then Decreto 511 of 1980 (74808) and DFL 1 '
+            'of 2004, published 2005 (236106); Ley 18.892 = 30265, then Decreto 430 of 1991, published 1992 (13315); '
+            'Ley 19.175 = 30542, then DFL 1 of 2005 (243771); Ley 19.070 = 30437, then DFL 1 of 1996, published 1997 '
+            '(60439); Ley 15.231 = 28104, then Decreto 307 of 1978 (12193); Ley 18.603 = 29994, then DFL 4 of 2017 '
+            '(1107684). The others are one norm each: DFL 458 (13560), 29591, 1041361, 29705, 184979, 1086062, '
+            '233421, 28919, 29522, 30745, 1111237, 1057895, 1048718. Retrieved from LeyChile on 2026-10-29; the '
+            'repository\'s docs date stays 2026-10-28.',
+            'Ley General de Bancos: LeyChile\'s chain of textos refundidos also lists DL 1.097 of 1975 (6484, the '
+            'Superintendencia de Bancos), which DFL 3 of 1997 took into the same text; it is a different law, so the '
+            'act follows DFL 252 and then DFL 3, and the DL 1.097 rules arrive with DFL 3.',
+        ],
+    },
     'more': {
         'acts': 'codigo-tributario,codigo-sanitario,codigo-aguas,ley-18046,ley-19496',
         'out': ROOT / 'corpus.d' / '60-more.json',
@@ -334,6 +399,13 @@ OUT = PARTS['codes']['out']
 
 STARTS: dict[str, tuple[str, list[str]]] = {}
 EVENT_DROPPED: set[tuple[int, str, str]] = set()
+# Part 99a-batch10: acts added after 76 acts were published whose LeyChile history starts before 1970. Git cannot date
+# a commit before 1970, so the builder dates such commits 1970-01-01 plus one second per commit, in order; a new
+# pre-1970 commit would move the placeholder second of every published pre-1970 commit after it. These acts start at
+# their first LeyChile version from 1970 on (oldest version available), so the published commits keep their dates.
+FROM_1970 = {'ley-general-bancos', 'ley-15231'}
+LATE: dict[str, str] = {}
+ORIGINAL_VERSIONS: list = []
 
 
 def setup(slugs: list[str]) -> None:
@@ -353,8 +425,16 @@ def setup(slugs: list[str]) -> None:
             parse.ACT_META[s] = dict(parse.ACT_META[s], first_law=False)
             norms = [n for n in CHAINS[s] if fetch.versions(n, offline=True)[-1]['@vigenteDesde'] >= day]
             fetch.ACTS[s] = norms
+        elif s in FROM_1970:
+            day = min(v['@vigenteDesde'] for n in CHAINS[s] for v in fetch.versions(n, offline=True)
+                      if v['@vigenteDesde'] >= '1970-01-01')
+            LATE[s] = day
+            parse.ACT_META[s] = dict(parse.ACT_META[s], first_law=False)
+            fetch.ACTS[s] = [n for n in CHAINS[s] if fetch.versions(n, offline=True)[-1]['@vigenteDesde'] >= day]
     cut = {n: STARTS[s][0] for s in STARTS for n in fetch.ACTS[s]}
+    cut.update({n: LATE[s] for s in LATE for n in fetch.ACTS[s]})
     original = fetch.versions
+    ORIGINAL_VERSIONS[:] = [original]
 
     def versions(id_norma: int, offline: bool = False) -> list[dict]:
         vs = original(id_norma, offline)
@@ -529,6 +609,18 @@ def cut_note(slug: str) -> str:
             f'{ev[-1]}), so their text is not the text in force on those days. History here starts on {day}.')
 
 
+def late_reason(slug: str) -> str:
+    older = sorted({v['@vigenteDesde'] for n in CHAINS[slug] for v in ORIGINAL_VERSIONS[0](n, True)
+                    if v['@vigenteDesde'] < '1970-01-01'})
+    return (f'LeyChile also has {len(older)} older version(s) ({", ".join(older)}), left out because git cannot date a '
+            'commit before 1970: the builder would date them 1970-01-01 plus one second per commit, and adding them '
+            'would move the placeholder second of every commit before 1970 already published for other acts.')
+
+
+def late_note(slug: str) -> str:
+    return (f'Oldest version available here: history starts on {LATE[slug]}. ' + late_reason(slug))
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument('--part', default='codes', choices=sorted(PARTS))
@@ -554,6 +646,11 @@ def main() -> None:
         if a['slug'] in STARTS:
             v0 = a['versions'][0]
             v0['note'] = cut_note(a['slug']) + (' ' + v0['note'] if v0.get('note') else '')
+        if a['slug'] in LATE:
+            v0 = a['versions'][0]
+            v0['note'] = late_note(a['slug']) + (' ' + v0['note'] if v0.get('note') else '')
+            disclosed.append(f'{a["short"]}: starts at {LATE[a["slug"]]}, its first LeyChile version from 1970 on, as the '
+                             'oldest version available; ' + late_reason(a['slug']))
         disclosed += correct(a, laws)
         disclosed += fold_vigencia(a, laws)
     out_laws = {k: {kk: vv for kk, vv in v.items() if not kk.startswith('_')} for k, v in sorted(laws.laws.items())}
