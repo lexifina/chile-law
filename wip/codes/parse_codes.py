@@ -633,6 +633,9 @@ def main() -> None:
     args.acts = args.acts or spec['acts']
     args.out = args.out or str(spec['out'])
     slugs = args.acts.split(',')
+    if args.part != 'batch10':
+        # Parts published before batch 10 read the Ley dates of the acts known then (anachronism.EXCLUDE).
+        anachronism.EXCLUDE.update(PARTS['batch10']['acts'].split(','))
     setup(slugs)
     laws = parse.Laws()
     log: list[str] = []
@@ -797,6 +800,11 @@ VIGENCIA = {
                   'Oficial, con excepción de los títulos II y III, de los artículos 32, 35, y del N°2 del artículo 37", '
                   'which apply from the rules the Comisión para el Mercado Financiero issues (artículo primero '
                   'transitorio; published 2023-01-04; LeyChile dates it 2023-02-03, the thirtieth day)'),
+    # part 99a-batch10 (gitlaw-CL-3, 2026-10-29; codes/vigencia_scan.py)
+    'ley-19983': ('2005-04-16', '"Esta ley entrará en vigencia en el plazo de cuatro meses contados desde su '
+                  'publicación en el Diario Oficial" (art. 11; published 2004-12-15)'),
+    'ley-18603': ('1987-04-03', '"Esta ley entrará en vigencia diez días después de su publicación en el Diario '
+                  'Oficial" (artículo final; published 1987-03-23)'),
 }
 
 
