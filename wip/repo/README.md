@@ -80,6 +80,10 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-19857/` | Ley 19.857 que autoriza el establecimiento de empresas individuales de responsabilidad limitada | 2 | As enacted (11 February 2003) to today |
 | `ley-21521/` | Ley 21.521 que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros (Ley Fintec) | 1 | As enacted (4 February 2023) to today |
 | `ley-20500/` | Ley 20.500 sobre asociaciones y participación ciudadana en la gestión pública | 1 | As enacted (16 February 2011) to today |
+| `ley-4808/` | Ley 4.808 sobre Registro Civil | 23 | As enacted (10 February 1930) to today; from 30 May 2000 as art. 3 of DFL 1 of 2000 |
+| `ley-17344/` | Ley 17.344 que autoriza el cambio de nombres y apellidos | 4 | As enacted (22 September 1970) to today; from 30 May 2000 as art. 4 of DFL 1 of 2000 |
+| `ley-16618/` | Ley 16.618 de Menores | 27 | As enacted (8 March 1967) to today; from 30 May 2000 as art. 6 of DFL 1 of 2000 |
+| `ley-16271/` | Ley 16.271 de impuesto a las herencias, asignaciones y donaciones | 13 | As enacted (10 July 1965) to today; from 30 May 2000 as art. 8 of DFL 1 of 2000 |
 
 Every version is LeyChile's own dated version of the act. "As enacted" starts with the act as published, on the day it took effect; "oldest version available" starts with the oldest text LeyChile gives that holds up (see `REPRODUCE.md`). Where an act's own text defers its entry into force to a fixed day, its first version is dated that day. Versions dated after the retrieval day are on the branch `futuro`. The per-act `README.md` in each folder lists every provision, how often it changed and when.
 
@@ -130,7 +134,7 @@ The author of a commit is the law that made the change, with an e-mail address t
 ## What it does not show
 
 - **The Código Civil before 2000.** LeyChile keeps the code of 1855 (idNorma 1973) with only three versions (1857, 1965, 1996) and no amending norms, and DFL 2 of 1996 with nine; neither gives the dated, credited history that the rest of this record has, so the code starts at DFL 1 of 2000.
-- **DFL 1 of 2000 also fixes five other laws** (Registro Civil, cambio de nombres, Menores, Abandono de familia y pensiones alimenticias, Impuesto a las herencias) in its arts. 3 to 8. Its art. 2, the Código Civil, is in `codigo-civil/` and its art. 7 continues `ley-14908/`; the other articles are not in the record yet.
+- **DFL 1 of 2000 fixes five other laws** (Registro Civil, cambio de nombres, Menores, Abandono de familia y pensiones alimenticias, Impuesto a las herencias) in its arts. 3 to 8. Its art. 2, the Código Civil, is in `codigo-civil/`; arts. 3, 4, 6, 7 and 8 continue `ley-4808/`, `ley-17344/`, `ley-16618/`, `ley-14908/` and `ley-16271/`, each reading only its own article.
 - **BCN's editorial notes** ("NOTA" boxes) and the amendment notes themselves are not in the text: the notes are used only to credit laws.
 - **Commencement that LeyChile does not date.** Where a law says that a provision applies only to cases begun after a day, that is in the text, not in the dates; no applicability data is recorded yet.
 - **Court rulings.** Rulings of the Tribunal Constitucional that strike a provision (art. 93 N° 7) appear only where LeyChile shows them as a version of the act; none of the acts here has one so far.

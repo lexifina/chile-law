@@ -27,7 +27,16 @@ import verify  # noqa: E402
 from fetch_codes import current_url  # noqa: E402
 
 
+class ActMeta(dict):
+    """parse.ACT_META that records which act verify.py is reading (parse_codes.CURRENT), so a norm read for several
+    acts (DFL 1 of 2000) gives each act its own article."""
+    def __getitem__(self, slug):
+        parse_codes.CURRENT['act'] = slug
+        return super().__getitem__(slug)
+
+
 def pending_event_page(slug: str, width: int) -> bool:
+    parse_codes.CURRENT['act'] = slug
     norm = fetch.ACTS[slug][-1]
     raw_cur = fetch.fetch(current_url(norm), offline=True)
     try:
@@ -50,6 +59,7 @@ if __name__ == '__main__':
     tmp.write_text(json.dumps(part, ensure_ascii=False), encoding='utf-8', newline='\n')
     sys.argv[i] = str(tmp)
     parse_codes.setup([a['slug'] for a in part['acts']])
+    parse.ACT_META = ActMeta(parse.ACT_META)
     out = io.StringIO()
     with contextlib.redirect_stdout(out):
         verify.main()

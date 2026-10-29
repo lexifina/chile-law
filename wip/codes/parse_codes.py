@@ -182,6 +182,15 @@ META.update({   # part 98-batch8 (gitlaw-CL-2, 2026-10-29)
     'ley-20500': {'short': 'Ley 20.500', 'title': 'Ley 20.500 sobre asociaciones y participación ciudadana en la '
                   'gestión pública', 'url': L + '1023143', 'first_law': True},
 })
+META.update({   # part 99-batch9 (gitlaw-CL-2, 2026-10-29); from 2000-05-30 each is an article of DFL 1 of 2000
+    'ley-4808': {'short': 'Ley 4.808', 'title': 'Ley 4.808 sobre Registro Civil', 'url': L + '172986',
+                 'first_law': True},
+    'ley-17344': {'short': 'Ley 17.344', 'title': 'Ley 17.344 que autoriza el cambio de nombres y apellidos',
+                  'url': L + '172986', 'first_law': True},
+    'ley-16618': {'short': 'Ley 16.618', 'title': 'Ley 16.618 de Menores', 'url': L + '172986', 'first_law': True},
+    'ley-16271': {'short': 'Ley 16.271', 'title': 'Ley 16.271 de impuesto a las herencias, asignaciones y donaciones',
+                  'url': L + '172986', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -294,6 +303,19 @@ PARTS = {
             'so the act starts with Ley 20.370 as enacted (2009-09-12).',
         ],
     },
+    'batch9': {
+        'acts': 'ley-4808,ley-17344,ley-16618,ley-16271',
+        'out': ROOT / 'corpus.d' / '99-batch9.json',
+        'decisions': [
+            'Leyes 4.808, 17.344, 16.618 and 16.271 (corpus.d/99-batch9.json) are parsed by the same parse.py rules as '
+            'the Constitution, from the LeyChile norms found with get_norma_json?idLey=<number> (metadatos.id_norma) '
+            'and verified on 2026-10-29 with get_cadena_refundidos and get_versiones: 24928, 28940, 28581 and 28367, '
+            'each continued from 2000-05-30 by DFL 1 of 2000 (172986), which fixes their texts in its arts. 3, 4, 6 '
+            'and 8 (as it fixes the Código Civil in art. 2 and Ley 14.908 in art. 7). Only the act\'s own article of '
+            'the DFL is read, and versions of the DFL in which only its other articles changed are left out as '
+            'identical. Retrieved from LeyChile on 2026-10-29; the repository\'s docs date stays 2026-10-28.',
+        ],
+    },
     'more': {
         'acts': 'codigo-tributario,codigo-sanitario,codigo-aguas,ley-18046,ley-19496',
         'out': ROOT / 'corpus.d' / '60-more.json',
@@ -324,6 +346,7 @@ def setup(slugs: list[str]) -> None:
         parse.read_version = rekeyed(parse.read_version)
         parse.width_for = part_width(parse.width_for)
     for s in slugs:
+        CURRENT['act'] = s
         day, ev = anachronism.start_day(s)
         if day:
             STARTS[s] = (day, ev)
@@ -359,8 +382,8 @@ def rekeyed(read_version):
     is replaced by the key of the article name the leaf's own text starts with ("Artículo 40 bis A.-"), when that key
     is free, so the file of each article stays the same across versions."""
     def wrapped(raw, width, part=None):
-        if part is None and norm_of(raw) in NORM_PART:
-            part = NORM_PART[norm_of(raw)]
+        if part is None and norm_part(norm_of(raw)) is not None:
+            part = norm_part(norm_of(raw))
         if part is None:
             raw = unwrap(raw)
         r = read_version(raw, width, part)
@@ -406,6 +429,17 @@ def lettered(line: str, width: int) -> tuple[str, str, str] | None:
 # act reads only that article of the norm (parse.py's `part`, here per norm instead of per act). DFL 1 of 2000 (172986)
 # fixes Ley 14.908 in its art. 7 ("LEY SOBRE ABANDONO DE FAMILIA Y PAGO DE PENSIONES ALIMENTICIAS").
 NORM_PART = {172986: 7}
+# The same norm read for another act: (act slug, idNorma) -> article. DFL 1 of 2000 fixes Ley 4.808 (Registro Civil) in
+# its art. 3, Ley 17.344 (cambio de nombres) in art. 4, Ley 16.618 (Menores) in art. 6 and Ley 16.271 (herencias) in
+# art. 8 (part 99-batch9). CURRENT names the act being read; it is set wherever an act's versions are read.
+ACT_NORM_PART = {('ley-4808', 172986): 3, ('ley-17344', 172986): 4, ('ley-16618', 172986): 6, ('ley-16271', 172986): 8}
+CURRENT = {'act': None}
+
+
+def norm_part(norm: int | None) -> int | None:
+    return ACT_NORM_PART.get((CURRENT['act'], norm), NORM_PART.get(norm))
+
+
 NORM_ID = re.compile(rb'"id_norma":\s*"?(\d+)')
 
 
@@ -418,9 +452,9 @@ def part_width(width_for):
     """parse.width_for, reading only the article NORM_PART names of such a norm (its other parts have the Código
     Civil's four-digit article numbers)."""
     def wrapped(raws, part=None):
-        if part is not None or not any(norm_of(r) in NORM_PART for r in raws):
+        if part is not None or not any(norm_part(norm_of(r)) is not None for r in raws):
             return width_for(raws, part)
-        return max(width_for([r], NORM_PART.get(norm_of(r))) for r in raws)
+        return max(width_for([r], norm_part(norm_of(r))) for r in raws)
     return wrapped
 
 
@@ -510,9 +544,13 @@ def main() -> None:
     setup(slugs)
     laws = parse.Laws()
     log: list[str] = []
-    acts = [parse.act_versions(s, laws, log) for s in slugs]
+    acts = []
+    for s in slugs:
+        CURRENT['act'] = s
+        acts.append(parse.act_versions(s, laws, log))
     disclosed = []
     for a in acts:
+        CURRENT['act'] = a['slug']
         if a['slug'] in STARTS:
             v0 = a['versions'][0]
             v0['note'] = cut_note(a['slug']) + (' ' + v0['note'] if v0.get('note') else '')
