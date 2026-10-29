@@ -84,6 +84,26 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-17344/` | Ley 17.344 que autoriza el cambio de nombres y apellidos | 4 | As enacted (22 September 1970) to today; from 30 May 2000 as art. 4 of DFL 1 of 2000 |
 | `ley-16618/` | Ley 16.618 de Menores | 27 | As enacted (8 March 1967) to today; from 30 May 2000 as art. 6 of DFL 1 of 2000 |
 | `ley-16271/` | Ley 16.271 de impuesto a las herencias, asignaciones y donaciones | 13 | As enacted (10 July 1965) to today; from 30 May 2000 as art. 8 of DFL 1 of 2000 |
+| `dfl-458/` | DFL 458 que aprueba la Ley General de Urbanismo y Construcciones | 60, and 1 on `futuro` | As enacted (13 April 1976) to today |
+| `ley-general-bancos/` | Ley General de Bancos | 33 | Oldest version available (13 July 1996) to today: DFL 252 of 1960, then the texto refundido of DFL 3 of 1997; its two 1960 versions are left out (git cannot date them without moving published commits) |
+| `dl-211/` | DL 211 que fija normas para la defensa de la libre competencia | 18 | As enacted (22 December 1973) to today |
+| `ley-18892/` | Ley 18.892 General de Pesca y Acuicultura | 65, and 1 on `futuro` | As enacted (1 April 1990) to today |
+| `ley-18168/` | Ley 18.168 General de Telecomunicaciones | 45 | As enacted (2 October 1982) to today |
+| `ley-19175/` | Ley 19.175 orgánica constitucional sobre gobierno y administración regional | 24 | As enacted (11 November 1992) to today |
+| `ley-19070/` | Ley 19.070 que aprueba el Estatuto de los Profesionales de la Educación | 35 | As enacted (1 July 1991) to today |
+| `ley-20600/` | Ley 20.600 que crea los Tribunales Ambientales | 5, and 1 on `futuro` | As enacted (28 June 2012) to today |
+| `ley-18287/` | Ley 18.287 que establece el procedimiento ante los juzgados de policía local | 27 | As enacted (1 January 1985) to today |
+| `ley-15231/` | Ley 15.231 sobre organización y atribuciones de los juzgados de policía local | 25 | Oldest version available (23 May 1978) to today, from the texto refundido of Decreto 307 of 1978 |
+| `ley-19728/` | Ley 19.728 que establece un seguro de desempleo | 22 | As enacted (14 May 2001) to today |
+| `ley-20880/` | Ley 20.880 sobre probidad en la función pública y prevención de los conflictos de intereses | 12, and 1 on `futuro` | As enacted (3 September 2016) to today |
+| `ley-19983/` | Ley 19.983 que regula la transferencia y otorga mérito ejecutivo a copia de la factura | 8 | As enacted (16 April 2005) to today |
+| `ley-18603/` | Ley 18.603 orgánica constitucional de los partidos políticos | 13 | As enacted (3 April 1987) to today |
+| `ley-17322/` | Ley 17.322 sobre cobranza judicial de cotizaciones, aportes y multas de las instituciones de seguridad social | 19 | As enacted (19 August 1970) to today |
+| `ley-18097/` | Ley 18.097 orgánica constitucional sobre concesiones mineras | 4 | As enacted (21 January 1982) to today |
+| `ley-19378/` | Ley 19.378 que establece el estatuto de atención primaria de salud municipal | 10 | As enacted (13 April 1995) to today |
+| `ley-21040/` | Ley 21.040 que crea el Sistema de Educación Pública | 11 | As enacted (24 November 2017) to today |
+| `ley-20712/` | Ley 20.712 sobre administración de fondos de terceros y carteras individuales | 9 | As enacted (1 May 2014) to today |
+| `ley-20659/` | Ley 20.659 que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales | 2 | As enacted (2 May 2013) to today |
 
 Every version is LeyChile's own dated version of the act. "As enacted" starts with the act as published, on the day it took effect; "oldest version available" starts with the oldest text LeyChile gives that holds up (see `REPRODUCE.md`). Where an act's own text defers its entry into force to a fixed day, its first version is dated that day. Versions dated after the retrieval day are on the branch `futuro`. The per-act `README.md` in each folder lists every provision, how often it changed and when.
 
