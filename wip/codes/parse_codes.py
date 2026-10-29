@@ -127,6 +127,61 @@ META.update({
     'ley-21091': {'short': 'Ley 21.091', 'title': 'Ley 21.091 sobre educación superior', 'url': L + '1118991',
                   'first_law': True},
 })
+META.update({   # part 97-batch7 (gitlaw-CL-2, 2026-10-29)
+    'dl-824': {'short': 'DL 824', 'title': 'DL 824 que aprueba la Ley sobre Impuesto a la Renta', 'url': L + '6368',
+               'first_law': True},
+    'dl-825': {'short': 'DL 825', 'title': 'DL 825 sobre Impuesto a las Ventas y Servicios', 'url': L + '6369',
+               'first_law': True},
+    'ley-21325': {'short': 'Ley 21.325', 'title': 'Ley 21.325 de Migración y Extranjería', 'url': L + '1158549',
+                  'first_law': True},
+    'ley-19886': {'short': 'Ley 19.886', 'title': 'Ley 19.886 de bases sobre contratos administrativos de suministro '
+                  'y prestación de servicios', 'url': L + '213004', 'first_law': True},
+    'ley-18840': {'short': 'Ley 18.840', 'title': 'Ley 18.840 orgánica constitucional del Banco Central de Chile',
+                  'url': L + '30216', 'first_law': True},
+    'ley-20066': {'short': 'Ley 20.066', 'title': 'Ley 20.066 de violencia intrafamiliar', 'url': L + '242648',
+                  'first_law': True},
+    'ley-18314': {'short': 'Ley 18.314', 'title': 'Ley 18.314 que determina conductas terroristas y fija su penalidad',
+                  'url': L + '29731', 'first_law': True},
+    'ley-17798': {'short': 'Ley 17.798', 'title': 'Ley 17.798 sobre control de armas', 'url': L + '13031',
+                  'first_law': True},
+    'ley-20609': {'short': 'Ley 20.609', 'title': 'Ley 20.609 que establece medidas contra la discriminación',
+                  'url': L + '1042092', 'first_law': True},
+    'ley-19799': {'short': 'Ley 19.799', 'title': 'Ley 19.799 sobre documentos electrónicos, firma electrónica y '
+                  'servicios de certificación de dicha firma', 'url': L + '196640', 'first_law': True},
+})
+META.update({   # part 98-batch8 (gitlaw-CL-2, 2026-10-29)
+    'ley-20370': {'short': 'Ley 20.370', 'title': 'Ley 20.370 General de Educación', 'url': L + '1014974',
+                  'first_law': True},
+    'ley-20730': {'short': 'Ley 20.730', 'title': 'Ley 20.730 que regula el lobby y las gestiones que representen '
+                  'intereses particulares ante las autoridades y funcionarios', 'url': L + '1060115', 'first_law': True},
+    'ley-21430': {'short': 'Ley 21.430', 'title': 'Ley 21.430 sobre garantías y protección integral de los derechos de '
+                  'la niñez y adolescencia', 'url': L + '1173643', 'first_law': True},
+    'ley-19253': {'short': 'Ley 19.253', 'title': 'Ley 19.253 sobre protección, fomento y desarrollo de los indígenas',
+                  'url': L + '30620', 'first_law': True},
+    'ley-20422': {'short': 'Ley 20.422', 'title': 'Ley 20.422 sobre igualdad de oportunidades e inclusión social de '
+                  'personas con discapacidad', 'url': L + '1010903', 'first_law': True},
+    'ley-10336': {'short': 'Ley 10.336', 'title': 'Ley 10.336 de organización y atribuciones de la Contraloría General '
+                  'de la República', 'url': L + '18995', 'first_law': True},
+    'ley-17997': {'short': 'Ley 17.997', 'title': 'Ley 17.997 orgánica constitucional del Tribunal Constitucional',
+                  'url': L + '1016103', 'first_law': True},
+    'ley-19640': {'short': 'Ley 19.640', 'title': 'Ley 19.640 orgánica constitucional del Ministerio Público',
+                  'url': L + '145437', 'first_law': True},
+    'ley-18918': {'short': 'Ley 18.918', 'title': 'Ley 18.918 orgánica constitucional del Congreso Nacional',
+                  'url': L + '30289', 'first_law': True},
+    'ley-21442': {'short': 'Ley 21.442', 'title': 'Ley 21.442 que aprueba nueva ley de copropiedad inmobiliaria',
+                  'url': L + '1174663', 'first_law': True},
+    'ley-19418': {'short': 'Ley 19.418', 'title': 'Ley 19.418 sobre juntas de vecinos y demás organizaciones '
+                  'comunitarias', 'url': L + '70040', 'first_law': True},
+    'ley-3918': {'short': 'Ley 3.918', 'title': 'Ley 3.918 sobre sociedades de responsabilidad limitada',
+                 'url': L + '24349', 'first_law': True},
+    'ley-19857': {'short': 'Ley 19.857', 'title': 'Ley 19.857 que autoriza el establecimiento de empresas individuales '
+                  'de responsabilidad limitada', 'url': L + '207588', 'first_law': True},
+    'ley-21521': {'short': 'Ley 21.521', 'title': 'Ley 21.521 que promueve la competencia e inclusión financiera a '
+                  'través de la innovación y tecnología en la prestación de servicios financieros (Ley Fintec)',
+                  'url': L + '1187323', 'first_law': True},
+    'ley-20500': {'short': 'Ley 20.500', 'title': 'Ley 20.500 sobre asociaciones y participación ciudadana en la '
+                  'gestión pública', 'url': L + '1023143', 'first_law': True},
+})
 # Each part file this script writes: its acts, its path, and the decisions that are its own.
 PARTS = {
     'codes': {
@@ -202,6 +257,43 @@ PARTS = {
             '186049, 1028635 and 1118991.',
         ],
     },
+    'batch7': {
+        'acts': 'dl-824,dl-825,ley-21325,ley-19886,ley-18840,ley-20066,ley-18314,ley-17798,ley-20609,ley-19799',
+        'out': ROOT / 'corpus.d' / '97-batch7.json',
+        'decisions': [
+            'DL 824 and DL 825 of 1974 and Leyes 21.325, 19.886, 18.840, 20.066, 18.314, 17.798, 20.609 and 19.799 '
+            '(corpus.d/97-batch7.json) are parsed by the same parse.py rules as the Constitution, from the LeyChile '
+            'norms found with get_norma_json?idLey=<number> (metadatos.id_norma) or get_cadena_refundidos and '
+            'verified on 2026-10-29 with get_cadena_refundidos and get_versiones: 6368, 6369, 1158549, 213004, 30216, '
+            '242648, 29731, Ley 17.798 = 29291 then Decreto 400 of 1978 (13031, texto refundido), 1042092 and '
+            '196640. Retrieved from LeyChile on 2026-10-29; the repository\'s docs date stays 2026-10-28, the day the '
+            'other acts were retrieved.',
+            'Ley 20.066: its art. 25 says "La presente ley comenzará a regir el 1 de Octubre de 2005", a day before its '
+            'publication in the Diario Oficial (2005-10-07); a law cannot bind before it is published (Código Civil '
+            'arts. 7 and 9), so its first version keeps LeyChile\'s day, 2005-10-07.',
+            'Ley 21.325: "Esta ley entrará en vigencia una vez publicado su reglamento" (art. 11 transitorio); '
+            'LeyChile already dates its first version from that day, 2022-02-12, not from publication (2021-04-20).',
+        ],
+    },
+    'batch8': {
+        'acts': 'ley-20370,ley-20730,ley-21430,ley-19253,ley-20422,ley-10336,ley-17997,ley-19640,ley-18918,ley-21442,'
+                'ley-19418,ley-3918,ley-19857,ley-21521,ley-20500',
+        'out': ROOT / 'corpus.d' / '98-batch8.json',
+        'decisions': [
+            'Leyes 20.370, 20.730, 21.430, 19.253, 20.422, 10.336, 17.997, 19.640, 18.918, 21.442, 19.418, 3.918, '
+            '19.857, 21.521 and 20.500 (corpus.d/98-batch8.json) are parsed by the same parse.py rules as the '
+            'Constitution, from the LeyChile norms found with get_norma_json?idLey=<number> (metadatos.id_norma) and '
+            'verified on 2026-10-29 with get_cadena_refundidos and get_versiones. Where a law was re-enacted as a '
+            'texto refundido, LeyChile continues it under the new norm and so do we: Ley 20.370 = 1006043, then DFL 2 '
+            'of 2009, published 2010-07-02 (1014974); Ley 10.336 = 26356, then Decreto 2.421 of 1964 (18995); Ley 17.997 = 29427, then DFL 5 '
+            'of 2010 (1016103); Ley 19.418 = 30785, then Decreto 58 of 1997 (70040). The others are one norm each: '
+            '1060115, 1173643, 30620, 1010903, 145437, 30289, 1174663, 24349, 207588, 1187323, 1023143. Retrieved '
+            'from LeyChile on 2026-10-29; the repository\'s docs date stays 2026-10-28.',
+            'Ley 20.370 (Ley General de Educación): LeyChile\'s chain of textos refundidos starts with Ley 18.962 '
+            '(LOCE, 1990) and DFL 1 of 2005, whose remaining rules DFL 2 of 2009 took in; the LOCE is a different law, '
+            'so the act starts with Ley 20.370 as enacted (2009-09-12).',
+        ],
+    },
     'more': {
         'acts': 'codigo-tributario,codigo-sanitario,codigo-aguas,ley-18046,ley-19496',
         'out': ROOT / 'corpus.d' / '60-more.json',
@@ -272,6 +364,8 @@ def rekeyed(read_version):
         if part is None:
             raw = unwrap(raw)
         r = read_version(raw, width, part)
+        if part is None and norm_of(raw) in OWN_ARTICLES:
+            r['units'] = own_articles(r['units'], OWN_ARTICLES[norm_of(raw)])
         units = r['units']
         out = {}
         for k, u in units.items():
@@ -331,6 +425,29 @@ def part_width(width_for):
 
 
 DEL_ART = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*(?:\d+|[ÚU]NICO)\s*\)')
+# Also dropped "(DEL ART. PRIMERO)" in these norms only (Ley 18.840, part 97-batch7); Ley 20.285 (part 95-batch6,
+# published) keeps its art-NNN-del-art-primero keys, so its files do not move.
+DEL_ART_WORD = re.compile(r'(?i)\s*\(DEL ART(?:[ÍI]CULO)?\.?\s*PRIMERO\s*\)')
+STRIP_WORD = {30216}
+
+# Norms whose own numbered articles sit beside the text they enact in their article 1 (DL 824: "Artículo 1°.-
+# Apruébase el siguiente texto de la Ley sobre Impuesto a la Renta", then the decree law's own arts. 2 to 18 and its
+# transitorios). Once unwrap lifts the enacted text, the decree law's own "Artículo 2" ... "Artículo 18" would share
+# the keys of the enacted text's arts. 2 to 18; they are marked in unwrap and keyed decreto-ley-art-NNN, labelled
+# "Art. N del decreto ley", so each file holds one article in every version. {idNorma: marker}.
+OWN_ARTICLES = {6368: 'DEL DECRETO LEY'}
+OWN_KEY = re.compile(r'^art-(\d+)-del-decreto-ley$')
+
+
+def own_articles(units: dict, _marker: str) -> dict:
+    out = {}
+    for k, u in units.items():
+        m = OWN_KEY.match(k)
+        if m:
+            k = f'decreto-ley-art-{m.group(1)}'
+            u = dict(u, label=f'Art. {int(m.group(1))} del decreto ley')
+        out[k] = u
+    return out
 
 
 def unwrap(raw: bytes) -> bytes:
@@ -350,11 +467,22 @@ def unwrap(raw: bytes) -> bytes:
     while len(node['h']) == 1 and node['h'][0].get('h'):
         node = node['h'][0]
     d['html'] = html[:boxes[0]] + node['h'] + html[boxes[0] + 1:]
+    marker = OWN_ARTICLES.get(norm_of(raw))
+    if marker:
+        box_id = html[boxes[0]].get('i')
+        for x in d.get('estructura') or []:
+            if (x.get('i') != box_id and re.match(r'(?i)^\s*art[íi]culo\s+\d+', x.get('n') or '')
+                    and 'transitori' not in parse.plain(x['n']).lower()):
+                x['n'] = x['n'].rstrip() + ' ' + marker
+
+    word = norm_of(raw) in STRIP_WORD
 
     def strip(nodes):
         for x in nodes:
             if 'n' in x:
                 x['n'] = DEL_ART.sub('', x['n'])
+                if word:
+                    x['n'] = DEL_ART_WORD.sub('', x['n'])
             strip(x.get('h') or [])
     strip(d.get('estructura') or [])
     return json.dumps(d, ensure_ascii=False).encode('utf-8')
@@ -519,6 +647,21 @@ VIGENCIA = {
                   'transitorio; published 2008-08-20)'),
     'ley-19947': ('2004-11-18', '"Esta ley entrará en vigencia seis meses después de su publicación en el Diario '
                   'Oficial" (artículo final; published 2004-05-17)'),
+    # part 97-batch7 (gitlaw-CL-2, 2026-10-29; codes/vigencia_scan.py)
+    'dl-824': ('1975-01-01', '"El nuevo texto de la Ley sobre Impuesto a la Renta que se establece en el artículo 1° '
+               'del presente decreto ley regirá a contar del 1° de Enero de 1975" (art. 2; published 1974-12-31)'),
+    'ley-19886': ('2003-08-30', '"La presente ley entrará en vigencia 30 días después de la fecha de su publicación" '
+                  '(art. 39; published 2003-07-30; for municipalities from 1 January 2004 and for the armed forces '
+                  'and police from 1 January 2005, which stays in the text)'),
+    'ley-18840': ('1989-12-10', '"Esta ley entrará en vigencia sesenta días después de su publicación en el Diario '
+                  'Oficial" (artículo cuarto; published 1989-10-10)'),
+    # part 98-batch8 (gitlaw-CL-2, 2026-10-29)
+    'ley-18918': ('1990-03-11', '"Esta ley entrará en vigencia el 11 de marzo de 1990" (artículo final; published '
+                  '1990-02-05)'),
+    'ley-21521': ('2023-02-04', '"Esta ley entrará en vigencia treinta días después de su publicación en el Diario '
+                  'Oficial, con excepción de los títulos II y III, de los artículos 32, 35, y del N°2 del artículo 37", '
+                  'which apply from the rules the Comisión para el Mercado Financiero issues (artículo primero '
+                  'transitorio; published 2023-01-04; LeyChile dates it 2023-02-03, the thirtieth day)'),
 }
 
 
