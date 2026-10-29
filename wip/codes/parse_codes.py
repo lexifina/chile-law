@@ -1,7 +1,8 @@
 """Phase 2 of Chile (gitlaw-CL-codes): reads the LeyChile cache and writes scripts/chile-law/corpus.d/50-codes.json
 (--part codes, the default), corpus.d/60-more.json (--part more), corpus.d/70-batch3.json (--part batch3) or
 corpus.d/80-batch4.json (--part batch4), corpus.d/90-batch5.json (--part batch5), corpus.d/95-batch6.json
-(--part batch6), corpus.d/97-batch7.json, 98-batch8.json or 99-batch9.json (--part batch7|batch8|batch9).
+(--part batch6), corpus.d/97-batch7.json, 98-batch8.json or 99-batch9.json (--part batch7|batch8|batch9), or
+corpus.d/99a-batch10.json (--part batch10).
 
     python -X utf8 scripts/chile-law/codes/parse_codes.py [--part codes|more|batch3|...|batch9] [--acts a,b,...] [--out PATH]
 
