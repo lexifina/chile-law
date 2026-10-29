@@ -28,13 +28,19 @@ import parse  # noqa: E402
 from fetch_codes import CHAINS  # noqa: E402
 
 SLACK = 60
+# Act slugs whose versions lists are left out of ley_dates (parse_codes sets it): a part published before these acts
+# were added must regenerate byte-identical, and their lists date Leyes (e.g. Ley 18.838) that part 80-batch4 names
+# without a day.
+EXCLUDE: set[str] = set()
 
 
 @lru_cache(maxsize=1)
 def ley_dates() -> list[tuple[int, str]]:
     """(Ley number, publication day) for every Ley in the versions lists of every act, sorted by number."""
     seen: dict[int, str] = {}
-    for chain in list(fetch.ACTS.values()) + list(CHAINS.values()):
+    for slug, chain in list(fetch.ACTS.items()) + list(CHAINS.items()):
+        if slug in EXCLUDE:
+            continue
         for idn in chain:
             try:
                 vs = fetch.versions(idn, offline=True)
