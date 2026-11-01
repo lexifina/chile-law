@@ -1,0 +1,2 @@
+Artículo 29 bis.- Los organismos técnicos intermedios de capacitación solo podrán destinar a gastos de administración hasta el diez por ciento del total de los aportes administrados en el respectivo ejercicio anual.
+Para estos efectos, se entenderán comprendidos dentro de los gastos de administración aquellos destinados al funcionamiento regular, normal y eficiente del organismo, que se vinculen directamente con las finalidades que la ley reconoce a dichos organismos, conforme a las condiciones y criterios que establezca el reglamento de la ley.
