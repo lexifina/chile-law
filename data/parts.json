@@ -1,0 +1,604 @@
+{
+ "parts": {
+  "50-codes.json": {
+   "acts": [
+    "codigo-comercio",
+    "codigo-penal",
+    "codigo-procedimiento-civil",
+    "codigo-procesal-penal",
+    "codigo-trabajo"
+   ],
+   "sha256": "11241dfc5852b4e0ad01afb381ba3a13929b630e80322a38ad121fb9351cd625"
+  },
+  "60-more.json": {
+   "acts": [
+    "codigo-aguas",
+    "codigo-sanitario",
+    "codigo-tributario",
+    "ley-18046",
+    "ley-19496"
+   ],
+   "sha256": "fee6c42e7a9d39fe2549ddba3b4a7c56cd02d57e5ca67532a8e6a044e7c11a6b"
+  },
+  "70-batch3.json": {
+   "acts": [
+    "codigo-aeronautico",
+    "codigo-justicia-militar",
+    "codigo-mineria",
+    "codigo-organico-tribunales",
+    "ley-18010",
+    "ley-19880",
+    "ley-20393"
+   ],
+   "sha256": "3dda6189cf225750ad0485cf00b545a82e133aabde6563ae109bf967f2d1ff4f"
+  },
+  "80-batch4.json": {
+   "acts": [
+    "dfl-1-2005-salud",
+    "ley-16744",
+    "ley-17336",
+    "ley-18045",
+    "ley-18575",
+    "ley-18695",
+    "ley-19039",
+    "ley-20000",
+    "ley-20720"
+   ],
+   "sha256": "0a59ad351854ed60854d8986b2dd2409bbd5f4d6beb96afbdb4ef6c3cf96ec94"
+  },
+  "90-batch5.json": {
+   "acts": [
+    "dl-3500",
+    "ley-14908",
+    "ley-18290",
+    "ley-18834",
+    "ley-19300",
+    "ley-19913",
+    "ley-19947",
+    "ley-19968",
+    "ley-20084",
+    "ley-21595"
+   ],
+   "sha256": "b5e447d1afd7dbda0c5b9135ac10dc8c206a8ab4b20d987a87281075a9e896e5"
+  },
+  "95-batch6.json": {
+   "acts": [
+    "ley-18101",
+    "ley-18700",
+    "ley-19537",
+    "ley-19733",
+    "ley-20285",
+    "ley-20529",
+    "ley-20584",
+    "ley-21091"
+   ],
+   "sha256": "bd529e8ae9decac4634d91da85f413b6ccf6bcc512116750a5c67f0b417235c4"
+  },
+  "97-batch7.json": {
+   "acts": [
+    "dl-824",
+    "dl-825",
+    "ley-17798",
+    "ley-18314",
+    "ley-18840",
+    "ley-19799",
+    "ley-19886",
+    "ley-20066",
+    "ley-20609",
+    "ley-21325"
+   ],
+   "sha256": "973addaee5f3200a4d899575bb83e148dbbf4156f135e88eb7450f43f2393810"
+  },
+  "98-batch8.json": {
+   "acts": [
+    "ley-10336",
+    "ley-17997",
+    "ley-18918",
+    "ley-19253",
+    "ley-19418",
+    "ley-19640",
+    "ley-19857",
+    "ley-20370",
+    "ley-20422",
+    "ley-20500",
+    "ley-20730",
+    "ley-21430",
+    "ley-21442",
+    "ley-21521",
+    "ley-3918"
+   ],
+   "sha256": "f8f9be3ec811af63cf8d671bd835ed958fadeb39b6c649d9a19cf1f1603de0d2"
+  },
+  "99-batch9.json": {
+   "acts": [
+    "ley-16271",
+    "ley-16618",
+    "ley-17344",
+    "ley-4808"
+   ],
+   "sha256": "bdbd61cc4860a8ef926d6543aa505ae1c0c5e192361d31d98241829bad88d106"
+  },
+  "99a-batch10.json": {
+   "acts": [
+    "dfl-458",
+    "dl-211",
+    "ley-15231",
+    "ley-17322",
+    "ley-18097",
+    "ley-18168",
+    "ley-18287",
+    "ley-18603",
+    "ley-18892",
+    "ley-19070",
+    "ley-19175",
+    "ley-19378",
+    "ley-19728",
+    "ley-19983",
+    "ley-20600",
+    "ley-20659",
+    "ley-20712",
+    "ley-20880",
+    "ley-21040",
+    "ley-general-bancos"
+   ],
+   "sha256": "846b251d9c5f0e60f3898cb1c3e316d7683eab12eb0d8d05f234e0521e5033f9"
+  },
+  "99b-batch11.json": {
+   "acts": [
+    "dl-1263",
+    "dl-2186",
+    "ley-12927",
+    "ley-17288",
+    "ley-18216",
+    "ley-18415",
+    "ley-18460",
+    "ley-18838",
+    "ley-18883",
+    "ley-18961",
+    "ley-19620",
+    "ley-19884",
+    "ley-19966",
+    "ley-19970",
+    "ley-19995",
+    "ley-20255",
+    "ley-20283",
+    "ley-20357",
+    "ley-20416",
+    "ley-20551",
+    "ley-20830",
+    "ley-20920",
+    "ley-21000",
+    "ley-21057",
+    "ley-21120",
+    "ley-21389",
+    "ley-21455",
+    "ley-21459",
+    "ley-21600",
+    "ley-general-servicios-electricos"
+   ],
+   "sha256": "4284294d5b8bdd3b5c924f44dadf4159cb7c3ab9e2a706af79b90e517c3659fe"
+  },
+  "99c-batch12.json": {
+   "acts": [
+    "ley-18410",
+    "ley-18755",
+    "ley-18876",
+    "ley-18902",
+    "ley-19342",
+    "ley-19419",
+    "ley-19451",
+    "ley-19473",
+    "ley-19518",
+    "ley-19542",
+    "ley-19718",
+    "ley-19856",
+    "ley-19862",
+    "ley-19882",
+    "ley-19925",
+    "ley-19974",
+    "ley-20009",
+    "ley-20129",
+    "ley-20169",
+    "ley-20249",
+    "ley-20322",
+    "ley-20380",
+    "ley-20405",
+    "ley-20418",
+    "ley-20530",
+    "ley-20606",
+    "ley-20640",
+    "ley-20848",
+    "ley-20850",
+    "ley-21020",
+    "ley-21045",
+    "ley-21067",
+    "ley-21094",
+    "ley-21105",
+    "ley-21131",
+    "ley-21236",
+    "ley-21302",
+    "ley-21419",
+    "ley-21663"
+   ],
+   "sha256": "e0462acf292ad6a7399bd740bada79d03382596d668c29af35c57234c3f45cc6"
+  },
+  "99d-batch13.json": {
+   "acts": [
+    "ley-18455",
+    "ley-18556",
+    "ley-18593",
+    "ley-18833",
+    "ley-18948",
+    "ley-18956",
+    "ley-18993",
+    "ley-19123",
+    "ley-19132",
+    "ley-19227",
+    "ley-19281",
+    "ley-19296",
+    "ley-19638",
+    "ley-19657",
+    "ley-19664",
+    "ley-19846",
+    "ley-19928",
+    "ley-19981",
+    "ley-19992",
+    "ley-20027",
+    "ley-20032",
+    "ley-20120",
+    "ley-20128",
+    "ley-20179",
+    "ley-20248",
+    "ley-20256",
+    "ley-20261",
+    "ley-20424",
+    "ley-20430",
+    "ley-20832",
+    "ley-20910",
+    "ley-20998",
+    "ley-21015",
+    "ley-21109",
+    "ley-21331",
+    "ley-21369",
+    "ley-21375",
+    "ley-21450"
+   ],
+   "sha256": "3e6397ed1a990aea77aa6256dce49803619d31257bbafc75194efb1f8857aaee"
+  },
+  "99e-batch14.json": {
+   "acts": [
+    "ley-15076",
+    "ley-17235",
+    "ley-17374",
+    "ley-18450",
+    "ley-18657",
+    "ley-18778",
+    "ley-19220",
+    "ley-19287",
+    "ley-19327",
+    "ley-19712",
+    "ley-19828",
+    "ley-19865",
+    "ley-19949",
+    "ley-20019",
+    "ley-20089",
+    "ley-20293",
+    "ley-20345",
+    "ley-20378",
+    "ley-20379",
+    "ley-20595",
+    "ley-20686",
+    "ley-20820",
+    "ley-20835",
+    "ley-21069",
+    "ley-21078",
+    "ley-21100",
+    "ley-21151",
+    "ley-21154",
+    "ley-21258",
+    "ley-21305",
+    "ley-21364",
+    "ley-21368",
+    "ley-21484",
+    "ley-21545",
+    "ley-21675",
+    "ley-21730"
+   ],
+   "sha256": "7148cdb901e2d965334f9a06f45b4e724c85ae84a36a1b07afef5dc17e93e2d5"
+  },
+  "99f-batch15.json": {
+   "acts": [
+    "dfl-251",
+    "dfl-382",
+    "dfl-7-1980",
+    "dfl-850",
+    "dl-1939",
+    "dl-2222",
+    "dl-2460",
+    "dl-2695",
+    "dl-3063",
+    "dl-3475",
+    "ley-18059",
+    "ley-19420",
+    "ley-20241",
+    "ley-20575",
+    "ley-20885",
+    "ley-21680",
+    "ley-concesiones-obras-publicas",
+    "ley-general-cooperativas",
+    "ordenanza-aduanas"
+   ],
+   "sha256": "c0e55b0d87083a0e1f962f6f003c2d9be0e0f8035f6b4f9b6d9dbc4615de92f2"
+  },
+  "99g-batch16.json": {
+   "acts": [
+    "dl-1350",
+    "dl-2859",
+    "ley-16395",
+    "ley-18020",
+    "ley-18302",
+    "ley-18392",
+    "ley-19032",
+    "ley-19149",
+    "ley-19162",
+    "ley-19532",
+    "ley-19606",
+    "ley-19713",
+    "ley-19779",
+    "ley-20063",
+    "ley-20234",
+    "ley-20365",
+    "ley-20412",
+    "ley-20765",
+    "ley-20962",
+    "ley-21155",
+    "ley-21659"
+   ],
+   "sha256": "f69203ab65eaae9a060e9e4ded1d5b45fbd1bfe30886fa047c223b12cd6f5d11"
+  },
+  "99h-batch17.json": {
+   "acts": [
+    "dfl-1-1997-defensa",
+    "dfl-150",
+    "dfl-2-1967-trabajo",
+    "dfl-2-1998-educacion",
+    "dl-3346",
+    "ley-18156",
+    "ley-18196",
+    "ley-18989",
+    "ley-19067",
+    "ley-19172",
+    "ley-19553",
+    "ley-19853",
+    "ley-20096",
+    "ley-20254",
+    "ley-20655",
+    "ley-20879",
+    "ley-20930",
+    "ley-21175",
+    "ley-21198",
+    "ley-21332",
+    "ley-21334",
+    "ley-21371",
+    "ley-21527",
+    "ley-21565",
+    "ley-21592"
+   ],
+   "sha256": "7017d9f19227586a84ac207d4fba48e791a61b8d9df5c1ba850a37288fe56e34"
+  },
+  "99i-batch18.json": {
+   "acts": [
+    "ley-18502",
+    "ley-18525",
+    "ley-18634",
+    "ley-19023",
+    "ley-19137",
+    "ley-19284",
+    "ley-19701",
+    "ley-20304",
+    "ley-20423",
+    "ley-20594",
+    "ley-20670",
+    "ley-20715",
+    "ley-21033",
+    "ley-21163",
+    "ley-21349",
+    "ley-21512",
+    "ley-21673",
+    "ley-21678"
+   ],
+   "sha256": "11f23ccecbfc4da6012035738d35b10b10654acdb5b10320cefa7dcf638f95b3"
+  },
+  "99j-batch19.json": {
+   "acts": [
+    "dfl-323",
+    "dl-1094",
+    "dl-2079",
+    "dl-2757",
+    "dl-3472",
+    "dl-3516",
+    "dl-3607",
+    "dl-600"
+   ],
+   "sha256": "e76f8ca8338f78f6fa90d7a977f463f6e2ae112ba6561cdec117869623cb7fe5"
+  },
+  "99k-batch20.json": {
+   "acts": [
+    "dl-2565"
+   ],
+   "sha256": "6d5f266ea0f3a7ce7b989f1bd6b03e401bffc1cf1251234f49e058368f4f684e"
+  },
+  "99l-batch21.json": {
+   "acts": [
+    "codigo-procedimiento-penal",
+    "dfl-707",
+    "ley-18092"
+   ],
+   "sha256": "4abf43467f1bf00004360c789d0d706ec7e012ed36280e8d17725808de0d7e19"
+  },
+  "99m-batch22.json": {
+   "acts": [
+    "dl-321",
+    "ley-18050",
+    "ley-18120",
+    "ley-18971"
+   ],
+   "sha256": "01fb4c27c4725c056ee273b1d60f406420769c5f437173f3121d5900f24b9d4a"
+  },
+  "99n-batch23.json": {
+   "acts": [
+    "dfl-2-1959",
+    "dl-3501",
+    "ley-16282"
+   ],
+   "sha256": "182a11baa5e75b1846f033c1fe80170afa11551846ee09b0274c257fb1e3aaa3"
+  },
+  "99o-batch24.json": {
+   "acts": [
+    "dl-2191",
+    "dl-3621",
+    "ley-16391",
+    "ley-17301"
+   ],
+   "sha256": "9694e0cd9fa9988e295e18742ba1f0962302d4aeb63e17f4b61068d244c4ba24"
+  },
+  "99p-batch25.json": {
+   "acts": [
+    "ley-18815",
+    "ley-19223"
+   ],
+   "sha256": "ac9ecbdd5a421900b39fb9d4475dca0dee0f2b141c85262ad2e4179089b734f7"
+  },
+  "99q-batch26.json": {
+   "acts": [
+    "ley-21070",
+    "ley-21591",
+    "ley-21732"
+   ],
+   "sha256": "e6743e299d5e9c9ea57186aef4c9fca182be48d1e8e515bb05bf61a82efbbb93"
+  },
+  "99r-batch27.json": {
+   "acts": [
+    "dl-3538",
+    "ley-21660",
+    "ley-21738"
+   ],
+   "sha256": "c90390dde1cdaeaa1dd2eba6475ebaf94474f21fa0ddc10868a5edc476b8e545"
+  },
+  "99s-batch28.json": {
+   "acts": [
+    "ley-17995",
+    "ley-20267",
+    "ley-20842"
+   ],
+   "sha256": "4d65f3aa1b92af6c3a255b5ab247a21902fd09c49f0bdd16d3fc79a838fdd7cb"
+  },
+  "99t-batch29.json": {
+   "acts": [
+    "ley-20800",
+    "ley-21782"
+   ],
+   "sha256": "1647b9dff37b8c17fada5f0669502daee6aff85418b6d3634b8b8349e7b27a26"
+  },
+  "99u-batch30.json": {
+   "acts": [
+    "dl-1305"
+   ],
+   "sha256": "81106f2bd3d70d0ad1e804aeb0cab5868a7b2e5721df30f7ed27e2ae9ea2e91c"
+  },
+  "99v-batch31.json": {
+   "acts": [
+    "ley-21603",
+    "ley-21743",
+    "ley-21776"
+   ],
+   "sha256": "205b1c945fe1491ee5f771076573371fd68beac9a896849d1d1748342d6cb84d"
+  },
+  "99w-batch32.json": {
+   "acts": [
+    "ley-21720",
+    "ley-21769"
+   ],
+   "sha256": "de94d8b64254f96970cdaa536a27f5e844859c84c2e1ae65ed114f647a03c003"
+  },
+  "99x-batch33.json": {
+   "acts": [
+    "ley-21616",
+    "ley-21767"
+   ],
+   "sha256": "18876d6e879b20986650f0398f1ebc22b2e5f1f023b29d852b88b793bfc3bf92"
+  },
+  "99y-batch34.json": {
+   "acts": [
+    "ley-19477"
+   ],
+   "sha256": "c0de6a56ed102ca15c99a9bde6bd5484d501b8a8ed31b07377c9194ca5c7747a"
+  },
+  "99z-batch35.json": {
+   "acts": [
+    "ley-21075"
+   ],
+   "sha256": "100cb6735f0621cde707683ee7b1e9835afa235e7adb3c2ada62c65d0c7467a6"
+  },
+  "99za-batch36.json": {
+   "acts": [
+    "ley-20911"
+   ],
+   "sha256": "50695d0383c985245f1dbeabeec2b8882c1ad76f3ec9352a3e7bdfdb5ced7737"
+  },
+  "99zb-batch37.json": {
+   "acts": [
+    "ley-21063"
+   ],
+   "sha256": "ed9ef787a233cb3fc811b4570f1308a09312ba51eedd33eaeb2407c852b66fec"
+  },
+  "99zc-batch38.json": {
+   "acts": [
+    "dfl-340",
+    "ley-20502"
+   ],
+   "sha256": "85a123c8866f0dacb44a97be92bc0cabfbfb84e778fa7aea2b0299777a95fd20"
+  },
+  "99zd-batch39.json": {
+   "acts": [
+    "dl-3557"
+   ],
+   "sha256": "a7e56b97e8c524348d6fe8bb8bc1a163ef2c894a9fb780ab1417211e508285e6"
+  },
+  "99ze-batch40.json": {
+   "acts": [
+    "ley-21227",
+    "ley-21770"
+   ],
+   "sha256": "30722eb5914639109f8e81be4d7194eacc380ce08560a60d44e309a301e4cced"
+  },
+  "99zf-batch41.json": {
+   "acts": [
+    "ley-18696",
+    "ley-21202"
+   ],
+   "sha256": "631b6bc0a1a507afc83fe4ec42ccf925683509bb9d510c53a9e8f1d35073a646"
+  },
+  "99zg-batch42.json": {
+   "acts": [
+    "ley-21226",
+    "ley-21342"
+   ],
+   "sha256": "12eef496b3955babec0cb17dcaaec06a0d570bc2383c27048ab57f3e0ba432b1"
+  },
+  "99zh-batch43.json": {
+   "acts": [
+    "ley-20585",
+    "ley-21790"
+   ],
+   "sha256": "4809d8247135e867d130fdd4e8450bb1eb22f4efb7cfcc526077c360e5dcaa4f"
+  },
+  "99zi-batch44.json": {
+   "acts": [
+    "ley-21735"
+   ],
+   "sha256": "8c2f0ff9a7a35f834b2a6b994af74c0848a6a35b3bcd322478b4c666db55b7fd"
+  }
+ },
+ "schema": 1
+}
