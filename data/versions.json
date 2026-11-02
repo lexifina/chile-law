@@ -30638,6 +30638,52 @@
      "sha256": "1d83f466ac4d1b73c69ecacc7f7e2e05d546b6cdeb13140a950380c927ed9081"
     }
    ]
+  },
+  {
+   "slug": "ley-20585",
+   "short": "Ley 20.585",
+   "title": "Ley 20.585 sobre otorgamiento y uso de licencias médicas",
+   "url": "https://www.bcn.cl/leychile/navegar?idNorma=1039952",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 16,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1039952&idVersion=2012-05-11",
+     "sha256": "37cb8802061e2bf89b485ab08f8ac62452b2bb1c09312bb5cdaa983637f161fd"
+    },
+    {
+     "from": "2012-08-01",
+     "units": 16,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1039952&idVersion=2012-05-11",
+     "sha256": "37cb8802061e2bf89b485ab08f8ac62452b2bb1c09312bb5cdaa983637f161fd"
+    },
+    {
+     "from": "2025-05-24",
+     "units": 25,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1039952&idVersion=2025-05-24",
+     "sha256": "b110d9f894a2a7274ea3e84362e77232312e0f39f9c27cde244c7c108f6683dd"
+    },
+    {
+     "from": "2026-02-05",
+     "units": 25,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1039952&idVersion=2026-02-05",
+     "sha256": "405f051cfdd81f40906d1c1a37234803218c4e0dc3a637c0dfb38acb6761a4f1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-21790",
+   "short": "Ley 21.790",
+   "title": "Ley 21.790 que protege los derechos de estudiantes cuidadores de la educación superior, promoviendo la corresponsabilidad y asegurando la conciliación entre actividades familiares, académicas y formativas",
+   "url": "https://www.bcn.cl/leychile/navegar?idNorma=1220529",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 14,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1220529&idVersion=2026-01-19",
+     "sha256": "20cf8566503f56d3b970fdffdedead22e40d477b2792c6bef061c7ebc7367483"
+    }
+   ]
   }
  ]
 }

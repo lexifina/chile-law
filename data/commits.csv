@@ -3388,3 +3388,8 @@ day,kind,law,acts,files,branch
 2028-04-27,law,ley-21755,codigo-trabajo,1,futuro
 2028-09-01,law,ley-21735,ley-21419,1,futuro
 2029-01-01,law,ley-21850,dl-824,1,futuro
+2012-05-11,start,ley-20585,ley-20585,16,main
+2012-08-01,law,ley-20585,ley-20585,1,main
+2025-05-24,law,ley-21746,ley-20585,16,main
+2026-01-19,start,ley-21790,ley-21790,14,main
+2026-02-05,law,ley-21806,ley-20585,1,main
