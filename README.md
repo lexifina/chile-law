@@ -165,7 +165,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-19856/` | Ley 19.856 que crea un sistema de reinserción social de los condenados | 5 | As enacted (4 February 2003) to today |
 | `ley-20322/` | Ley 20.322 que fortalece y perfecciona la jurisdicción tributaria y aduanera | 13 | As enacted (27 January 2009) to today |
 | `ley-19518/` | Ley 19.518 que fija el Estatuto de Capacitación y Empleo | 11, and 1 on `futuro` | As enacted (1 December 1997) to today |
-| `ley-21419/` | Ley 21.419 que crea la Pensión Garantizada Universal | 3, and 3 on `futuro` | As enacted (1 February 2022) to today |
+| `ley-21419/` | Ley 21.419 que crea la Pensión Garantizada Universal | 5, and 2 on `futuro` | As enacted (1 February 2022) to today; Ley 21.735's changes to art. 9 on the days that law ties them to (1 September 2025 and 1 September 2026) |
 | `ley-19882/` | Ley 19.882 que regula nueva política de personal a los funcionarios públicos (Alta Dirección Pública) | 23 | As enacted (23 June 2003) to today |
 | `ley-20380/` | Ley 20.380 sobre protección de animales | 4 | As enacted (3 October 2009) to today |
 | `ley-18755/` | Ley 18.755 que establece normas sobre el Servicio Agrícola y Ganadero | 11 | As enacted (7 January 1989) to today |
@@ -389,6 +389,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-21342/` | Ley 21.342 que establece protocolo de seguridad sanitaria laboral para el retorno gradual y seguro al trabajo en el marco de la alerta sanitaria decretada con ocasión de la enfermedad de COVID-19 en el país y otras materias que indica | 1 | As enacted (1 June 2021) to today |
 | `ley-20585/` | Ley 20.585 sobre otorgamiento y uso de licencias médicas | 4 | As enacted (11 May 2012) to today; art. 9's third paragraph from 1 August 2012, as the law's own transitory article sets |
 | `ley-21790/` | Ley 21.790 que protege los derechos de estudiantes cuidadores de la educación superior, promoviendo la corresponsabilidad y asegurando la conciliación entre actividades familiares, académicas y formativas | 1 | As enacted (19 January 2026) to today |
+| `ley-21735/` | Ley 21.735 que crea un nuevo sistema mixto de pensiones y un seguro social en el pilar contributivo, mejora la pensión garantizada universal y establece beneficios y modificaciones regulatorias que indica | 10, and 5 on `futuro` | As enacted (26 March 2025) to today, each part from the day its transitory articles give (to 2 April 2029); arts. 75 and 76 left out until the day they wait on is published |
 
 Every version is LeyChile's own dated version of the act. "As enacted" starts with the act as published, on the day it took effect; "oldest version available" starts with the oldest text LeyChile gives that holds up (see `REPRODUCE.md`). Where an act's own text defers its entry into force to a fixed day, its first version is dated that day. Versions dated after the retrieval day are on the branch `futuro`. The per-act `README.md` in each folder lists every provision, how often it changed and when.
 

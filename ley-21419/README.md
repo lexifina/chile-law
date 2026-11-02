@@ -1,6 +1,6 @@
 # Ley 21.419 que crea la Pensión Garantizada Universal
 
-Ley 21.419 · 6 versions, from 2022-02-01 (latest in force: 2023-04-01) · <https://www.bcn.cl/leychile/navegar?idNorma=1171923>
+Ley 21.419 · 7 versions, from 2022-02-01 (latest in force: 2026-09-01) · <https://www.bcn.cl/leychile/navegar?idNorma=1171923>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,7 +12,7 @@ Ley 21.419 · 6 versions, from 2022-02-01 (latest in force: 2023-04-01) · <http
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
-| Art. 9 | [art-009.md](art-009.md) | 1 | 2027-04-01 |
+| Art. 9 | [art-009.md](art-009.md) | 2 | 2026-09-01 |
 | Art. 10 | [art-010.md](art-010.md) | 1 | 2023-04-01 |
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |

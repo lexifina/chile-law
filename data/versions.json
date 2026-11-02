@@ -20218,7 +20218,13 @@
      "sha256": "c7e04b538ad07b6da6b1558bdc3c3beffbf449dc7888efb2c8d9494de9a98e22"
     },
     {
-     "from": "2027-04-01",
+     "from": "2025-09-01",
+     "units": 42,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1171923&idVersion=2027-04-01",
+     "sha256": "f1dd85eae2caa20692921a3db678fc62403cbb98eabef5d88f8bcbca8b1c3bfa"
+    },
+    {
+     "from": "2026-09-01",
      "units": 42,
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1171923&idVersion=2027-04-01",
      "sha256": "f1dd85eae2caa20692921a3db678fc62403cbb98eabef5d88f8bcbca8b1c3bfa"
@@ -30682,6 +30688,104 @@
      "units": 14,
      "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1220529&idVersion=2026-01-19",
      "sha256": "20cf8566503f56d3b970fdffdedead22e40d477b2792c6bef061c7ebc7367483"
+    }
+   ]
+  },
+  {
+   "slug": "ley-21735",
+   "short": "Ley 21.735",
+   "title": "Ley 21.735 que crea un nuevo sistema mixto de pensiones y un seguro social en el pilar contributivo, mejora la pensión garantizada universal y establece beneficios y modificaciones regulatorias que indica",
+   "url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 63,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 63,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2025-06-01",
+     "units": 63,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 117,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 118,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-01-02",
+     "units": 128,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 128,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 129,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 129,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 130,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 130,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2027-04-01",
+     "units": 131,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2027-09-01",
+     "units": 131,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2028-09-01",
+     "units": 131,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
+    },
+    {
+     "from": "2029-04-02",
+     "units": 131,
+     "source_url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060&idVersion=2222-02-02",
+     "sha256": "c1fbbde96384d7d73963038db185376a22947521fb47929a86b28b47795c3bde"
     }
    ]
   }
