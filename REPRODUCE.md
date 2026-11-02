@@ -410,7 +410,7 @@ Other counts:
 - 17 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 95 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2527 laws in the record.
-- 7034 tags.
+- 7037 tags.
 
 ## Dates
 
@@ -423,7 +423,7 @@ When a law gives no date of its own, the default rule applies: Código Civil art
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `6a40e0282cb5443ba841674f4d655aeb8db7521ac15ae4ffe0a8af5bff3cfa27` (131702819 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
