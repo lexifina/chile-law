@@ -61,6 +61,7 @@ Each change is credited to the law that made it, with an address that cannot exi
 - Every version in `data/versions.json` carries the sha256 of the source bytes it was parsed from.
 - The same corpus gives the same commit hashes (`tools/build.py`); `REPRODUCE.md` records that no second build has been compared yet.
 - History is append-only (`tools/append.py`): no merge commits on `main`, no commit dates that go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each change is credited to the law that made it, with an address that cannot exi
 See [`LICENSE`](LICENSE). The legal texts are official texts of the Republic of Chile, reproduced with the attribution "Fuente: Biblioteca del Congreso Nacional de Chile, LeyChile (www.bcn.cl/leychile)"; BCN publishes no licence for LeyChile, and Chile's copyright law (Ley 17.336) has no express exclusion for legal texts, so their copyright status is not confirmed here. Lexifina's own contributions (the arrangement, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
