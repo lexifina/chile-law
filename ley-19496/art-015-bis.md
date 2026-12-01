@@ -1,1 +1,1 @@
-Artículo 15 bis.- Las disposiciones contenidas en los artículos 2 bis letra b), 58 y 58 bis serán aplicables respecto de los datos personales de los consumidores, en el marco de las relaciones de consumo, salvo que las facultades contenidas en dichos artículos se encuentren en el ámbito de las competencias legales de otro órgano.
+Artículo 15 bis.- Suprimido.

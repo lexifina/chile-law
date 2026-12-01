@@ -11,4 +11,4 @@ i) Efectuar estadísticas y reportes sobre transparencia y acceso a la informaci
 j) Velar por la debida reserva de los datos e informaciones que conforme a la Constitución y a la ley tengan carácter secreto o reservado.
 k) Colaborar con y recibir cooperación de órganos públicos y personas jurídicas o naturales, nacionales o extranjeras, en el ámbito de su competencia.
 l) Celebrar los demás actos y contratos necesarios para el cumplimiento de sus funciones.
-m) Velar por el adecuado cumplimiento de la ley Nº 19.628 , de protección de datos de carácter personal, por parte de los órganos de la Administración del Estado.
+m) Suprimido.
