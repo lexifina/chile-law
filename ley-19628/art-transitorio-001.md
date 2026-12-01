@@ -1,3 +1,1 @@
 Artículo 1°.- Las disposiciones de esta ley, con excepción del artículo 22, entrarán en vigencia dentro del plazo de sesenta días, contados desde la fecha de su publicación en el Diario Oficial.
-Los actuales registros o bancos de datos personales de organismos públicos se ajustarán a las disposiciones de este cuerpo legal, a contar de su entrada en vigencia.
-Lo dispuesto en el artículo 22 comenzará a regir un año después de la publicación de esta ley. Sin perjuicio de lo anterior, los organismos públicos que tuvieren a su cargo bancos de datos personales deberán remitir los antecedentes a que se refiere dicho precepto con anterioridad, dentro del plazo que fije el reglamento.
