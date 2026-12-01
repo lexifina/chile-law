@@ -1,0 +1,1 @@
+Artículo 30 octies.- Estatutos Agencia. Los estatutos de la Agencia establecerán sus normas de funcionamiento. Los estatutos y sus modificaciones serán propuestos por la Agencia al Presidente de la República y su aprobación se dispondrá mediante decreto supremo expedido a través del Ministerio de Economía, Fomento y Turismo.

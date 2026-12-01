@@ -1,0 +1,2 @@
+Artículo 30 septies.- Remuneración. El presidente del Consejo Directivo de la Agencia percibirá una remuneración bruta mensualizada equivalente a la de un Subsecretario de Estado, y le corresponderá ejercer las funciones señaladas en el artículo 30 nonies y en las demás disposiciones legales pertinentes.
+Los demás consejeros percibirán una remuneración equivalente al 85% de la remuneración que corresponda al presidente del Consejo Directivo de la Agencia.

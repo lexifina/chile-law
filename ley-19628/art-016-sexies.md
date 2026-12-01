@@ -1,0 +1,2 @@
+Artículo 16 sexies.- Datos de geolocalización. El tratamiento de los datos personales de geolocalización del titular se podrá realizar bajo las mismas fuentes de licitud establecidas en los artículos 12 y 13.
+El titular de datos deberá ser informado de manera clara, suficiente y oportuna, del tipo de datos de geolocalización que serán tratados, de la finalidad y duración del tratamiento y si los datos se comunicarán o cederán a un tercero para la prestación de un servicio con valor añadido.
